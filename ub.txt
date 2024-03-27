@@ -1,15 +1,18 @@
+
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 民視HD,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 臺視HD,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 華視HD,https://z88.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8
 公視,https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
+好消息,https://z88.ubtvfans.com/live/rx1/104/a4837e9b394e278fe4726be73a5c227e/index.m3u8
 客家電視,https://z88.ubtvfans.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
 緯來綜合,https://z88.ubtvfans.com/live/rx1/2726/5acfb74f1676ec3fb0ae5f4c28939c16/index.m3u8
 八大第一,https://z88.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
 八大綜合,https://z88.ubtvfans.com/live/rx1/2286/78f60a216640f76802257cbab8095843/index.m3u8
 三立臺灣HD,https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
 三立都會HD,https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
+華藝綜合,https://z88.ubtvfans.com/live/rx1/342/6531bbe19ff74ce527e4a6ca62f29a9a/index.m3u8
 東森綜合,https://z88.ubtvfans.com/live/rx1/372/0c714ce5b680b8d96604ec36804f1f86/index.m3u8
 中天綜合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天娛樂HD,https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
@@ -19,6 +22,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/
 TVBS HD,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 緯來育樂,https://z88.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
 緯來日本,https://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
+國興衛視,https://z88.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8
 八大娛樂,https://z88.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
 中天亞洲,https://z88.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
 民視綜藝,https://z88.ubtvfans.com/live/rx3/98/3c6f819155886e63394f7f294db07f13/index.m3u8
@@ -28,7 +32,15 @@ TVBS HD,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/
 豬哥亮歌廳秀,https://z88.ubtvfans.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
 ELTA娛樂,https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
 韓國娛樂,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
+靖天國際,https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
+靖天育樂,https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
+靖天日本,https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+靖天歡樂,https://z88.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
 三立綜合,https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
+靖天資訊,https://z88.ubtvfans.com/live/rx1/49/829a40d3fd987c2728597b3a038b6c4a/index.m3u8
+靖天綜合,https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
+中視經典,https://z88.ubtvfans.com/live/rx1/185/3702befddc527f8013cd34d03611d5cd/index.m3u8
+中視菁采,https://z88.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
 TVBS精采,https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
 TVN臺灣版,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
 三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
@@ -65,7 +77,8 @@ EYE戲劇,https://z88.ubtvfans.com/live/rx1/191/468d0a45a2ddd69800d6065ec19082b1
 美亞電影,https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
 民視影劇,https://z88.ubtvfans.com/live/rx1/1023/950cf40ce6700c1bf2c2d8b1636576da/index.m3u8
 HBO1,https://z88.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
-HBO2,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8采昌影劇,https://z88.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
+HBO2,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+采昌影劇,https://z88.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
 影迷數位,https://z88.ubtvfans.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
 龍華戲劇,https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
 龍華經典,https://z88.ubtvfans.com/live/rx1/100/a199b21da53bc0e33feffca890752109/index.m3u8
@@ -105,6 +118,9 @@ MOMO,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/ind
 東森幼幼,https://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
 靖洋卡通,https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
+靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
+翡翠臺,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+凰鳳香港,https://z88.ubtvfans.com/live/rx1/358/efd02792da62ca36ce0cace8399dc10f/index.m3u8
 凰鳳衛視,https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
 鳳凰資訊,https://z88.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
 星空衛視,https://z88.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
@@ -173,6 +189,7 @@ JET綜合臺,P2p://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
 國興衛視,P2p://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
 Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 Animax,P2p://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
+人間衛視,P2p://generationnexxxt.com:19806/6593ab070007d601991721de206b22e9
 尼克兒童頻道,P2p://generationnexxxt.com:19806/879f28be19bc47df84ad3d5470be58d0
 八大娛樂臺,P2p://generationnexxxt.com:19806/cea44ead76804413bd48caf76c5c2749
 三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
@@ -284,7 +301,27 @@ MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 東森購物2臺,P2p://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 
 中國大陸,#genre#
+CCTV1,P2p://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
+CCTV2,P2p://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
+CCTV3,P2p://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
+CCTV4,P2p://generationnexxxt.com:19806/50c3e18e04bf478db59251455cf3d309
+CCTV5,P2p://generationnexxxt.com:19806/7d00bdeddb6c422796e62ae9e8b9398d
+CCTV5 ,P2p://generationnexxxt.com:19806/65a531aa00057c26dd8d1ccf196a034e
+CCTV6,P2p://generationnexxxt.com:19806/3ec70c48b2024e4f9210169aec2914c7
+CCTV7,P2p://generationnexxxt.com:19806/e70ef03e57794075962ec3960df5b167
+CCTV8,P2p://generationnexxxt.com:19806/65a52e1d00012b4cdd7f3cee366e723b
+CCTV9,P2p://generationnexxxt.com:19806/65a52e1d0007b3b6dd7f3e945c727248
+CCTV10,P2p://generationnexxxt.com:19806/65a52e1d000c0c0bdd7f3fad13ad7f10
+CCTV11,P2p://generationnexxxt.com:19806/65a52e1e0002f04bdd7f414333117e01
+CCTV12,P2p://generationnexxxt.com:19806/65a52e1e0008b4e1dd7f42ba38ef4a02
+CCTV13,P2p://generationnexxxt.com:19806/65a52dc0000d93bbdd7dd4d235813afb
+CCTV14,P2p://generationnexxxt.com:19806/65a52dc1000332e5dd7dd60b29277892
+CCTV15,P2p://generationnexxxt.com:19806/65a52dc10008dffbdd7dd78215274e95
 北京衛視,P2p://generationnexxxt.com:19806/8d7d0547db754c32bca6011693893b40
+天津衛視,P2p://generationnexxxt.com:19806/0d7fa1ec8c4348e29bc3f09a38ae3691
+河北衛視,P2p://generationnexxxt.com:19806/f0390f4cc1fa4b9991338bc6426deb17
+黑龍江衛視,P2p://generationnexxxt.com:19806/2f690600a9454710b15b0e90853268c3
+遼寧衛視,P2p://generationnexxxt.com:19806/4b1903b35f804f1180a4b346efbabfc9
 東方衛視,P2p://generationnexxxt.com:19806/10521db17e054dbeba85448ac091ae64
 江蘇衛視,P2p://generationnexxxt.com:19806/13f3f27751184d95902e5c588264551e
 浙江衛視,P2p://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
@@ -295,10 +332,24 @@ MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 湖南衛視,P2p://generationnexxxt.com:19806/45dc7947c5574ebfb0e68e5d0a537ed0
 深圳衛視,P2p://generationnexxxt.com:19806/b8c8ef10f65649c9a43388d771203f61
 廣東衛視,P2p://generationnexxxt.com:19806/cf7073fbb4c5490a86aca002247700f9
+廣西衛視,P2p://generationnexxxt.com:19806/eb435193f43d4c8ca09c9ce477d4d7b9
+重慶衛視,P2p://generationnexxxt.com:19806/c173700eaecc412695b37ac062b6abac
+雲南衛視,P2p://generationnexxxt.com:19806/9203ba029385410793e3f2b7bffb3335
 星空衛視,P2p://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
 大灣區衛視,P2p://generationnexxxt.com:19806/587bc565d5a4413987fdce380a48a332
+珠江臺,P2p://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
+快樂垂釣,P2p://generationnexxxt.com:19806/65a4f19a000ece67dc92e0b05e060435
+魅力足球,P2p://generationnexxxt.com:19806/ca7a1a18635e453a9a77e5fd5d425e89
+五星體育,P2p://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
+廣東體育,P2p://generationnexxxt.com:19806/bb744a1252da46a6a2ae5546f4da7c72
+CCTV16,P2p://generationnexxxt.com:19806/65a614e0000be91ae104b1833fc057ba
 私人影院,P2p://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
 CCTV17,P2p://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
+Channel[V],P2p://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
+CHC動作電影,P2p://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3b6
+廣東影視,P2p://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
+CHC高清電影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
+CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
 
 港澳,#genre#
 港臺電視31,P2p://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
