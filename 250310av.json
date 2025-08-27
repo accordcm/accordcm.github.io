@@ -96,7 +96,7 @@
                 "伦理片"
             ]
         },
-        {
+		 {
             "key": "非凡",
             "name": "非凡",
             "type": 0,
@@ -107,6 +107,61 @@
                 "伦理片"
             ]
         },
+		{
+            "key": "花堂",
+            "name": "花堂",
+            "type": 0,
+            "api": "https://www.xvgdwo.com/vodsearch/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "伦理片"
+            ]
+        },
+		{
+            "key": "南國資源",
+            "name": "南國資源",
+            "type": 1,
+            "api": "https://api.sexnguon.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+        },
+		{
+            "key": "橘貓資源",
+            "name": "橘貓資源",
+            "type": 1,
+            "api": "https://to.to-long.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            ]
+        },
+		{
+            "key": "9號資源",
+            "name": "9號資源",
+            "type": 0,
+            "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+		{
+            "key": "KpgxdyE",
+            "name": "黄資源",
+            "type": 0,
+            "api": "https://www.pgxdy.com/api/xml.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		{
+            "key": "番號資源",
+            "name": "番號資源",
+            "type": 0,
+            "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },  
         {
             "key": "ms4nii",
             "name": "美少女资源",
@@ -326,15 +381,6 @@
             "api": "https://kkzy.me/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
-        },
-        {
-            "key": "KpgxdyE",
-            "name": "黄AV",
-            "type": 0,
-            "api": "https://www.pgxdy.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "老鸭2",
