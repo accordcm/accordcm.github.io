@@ -163,12 +163,11 @@
         },
         {
             "key": "afasu",
-            "name": "小湿妹资源",
-            "type": 0,
-            "api": "https://www.afasu.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "name": "南國資源",
+            "type": 1,
+            "api": "https://api.sexnguon.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
         },
         {
             "key": "9號资源",
@@ -205,31 +204,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "(18+)S猫资源",
-            "name": "(18+)S猫资源",
-            "type": 0,
-            "api": "https://api.maozyapi.com/inc/api.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "探探资源",
-            "name": "探探资源",
-            "type": 1,
-            "api": "https://apittzy.com/api.php/provide/vod/",			
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "色猫资源",
-            "name": "色猫资源",
-            "type": 1,
-            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-            "searchable": 0,
-            "quickSearch": 0
         },
         {
             "key": "91麻豆",
