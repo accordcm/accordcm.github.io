@@ -116,6 +116,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+			{
+            "key": "橘貓資源",
+            "name": "橘貓資源",
+            "type": 1,
+            "api": "https://to.to-long.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
 		{
             "key": "番號資源",
             "name": "番號資源",
@@ -238,14 +247,6 @@
             "quickSearch": 0
         },
         {
-            "key": "小湿妹资源",
-            "name": "小湿妹资源",
-            "type": 0,
-            "api": "https://www.afasu.com/api/xml.php",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "黄AV资源",
             "name": "黄AV资源",
             "type": 1,
@@ -278,30 +279,6 @@
             "quickSearch": 0
         },
         {
-            "key": "富二代资源",
-            "name": "富二代资源",
-            "type": 0,
-            "api": "http://f2dcj6.com/sapi?ac=videolist",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "鲨鱼资源",
-            "name": "鲨鱼资源",
-            "type": 1,
-            "api": "https://shayuapi.com/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "KK写真资源",
-            "name": "KK写真资源",
-            "type": 1,
-            "api": "https://kkzy.me/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "老鸭2",
             "name": "老鸭2",
             "type": 1,
@@ -310,15 +287,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "探探采集",
-            "name": "探探av",
-            "type": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
-            "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="
         },
         {
             "key": "lba12pi9",
