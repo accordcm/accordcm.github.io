@@ -108,6 +108,25 @@
             ]
         },
 		{
+            "key": "花堂",
+            "name": "花堂",
+            "type": 1,
+            "api": "https://to.to-long.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+		{
+            "key": "花堂1",
+            "name": "花堂1",
+            "type": 1,
+            "api": "https://www.xvgdwo.com/index.html",
+            "playUrl": "https://www.xvgdwo.com/vodsearch/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+		{
             "key": "KpgxdyE",
             "name": "黄資源",
             "type": 0,
@@ -116,7 +135,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-			{
+		{
             "key": "橘貓資源",
             "name": "橘貓資源",
             "type": 1,
@@ -143,18 +162,34 @@
             "quickSearch": 1,
             "filterable": 1
         },
+		{
+            "key": "美少女资源1",
+            "name": "美少女资源1",
+            "type": 0,
+            "api": "https://www.msnii.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
         {
             "key": "KxrbspE",
-            "name": "淫水机资源",
+            "name": "飲水机资源",
             "type": 0,
             "api": "https://www.xrbsp.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
+		 {
+            "key": "淫水机资源",
+            "name": "淫水机资源",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
         {
             "key": "gdlsE",
-            "name": "香奶儿资源",
+            "name": "香奶爾资源",
             "type": 0,
             "api": "https://www.gdlsp.com/api/xml.php",
             "searchable": 1,
@@ -170,11 +205,11 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "afasu",
-            "name": "南國資源",
-            "type": 1,
-            "api": "https://api.sexnguon.com/api.php/provide/vod/",
+		 {
+            "key": "白嫖资源1",
+            "name": "白嫖资源1",
+            "type": 0,
+            "api": "https://www.kxgav.com/api/xml.php",
             "searchable": 0,
             "quickSearch": 0
         },
@@ -219,30 +254,6 @@
             "name": "91麻豆",
             "type": 1,
             "api": "https://91md.me/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "美少女资源",
-            "name": "美少女资源",
-            "type": 0,
-            "api": "https://www.msnii.com/api/xml.php",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "淫水机资源",
-            "name": "淫水机资源",
-            "type": 0,
-            "api": "https://www.xrbsp.com/api/xml.php",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "白嫖资源",
-            "name": "白嫖资源",
-            "type": 0,
-            "api": "https://www.kxgav.com/api/xml.php",
             "searchable": 0,
             "quickSearch": 0
         },
