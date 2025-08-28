@@ -111,17 +111,16 @@
             "key": "花堂",
             "name": "花堂",
             "type": 1,
-            "api": "https://to.to-long.com/api.php/provide/vod/",
+            "api": "https://www.xvgdwo.com/vodsearch/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
         },
 		{
-            "key": "花堂1",
-            "name": "花堂1",
+            "key": "橘貓資源",
+            "name": "橘貓資源",
             "type": 1,
-            "api": "https://www.xvgdwo.com/index.html",
-            "playUrl": "https://www.xvgdwo.com/vodsearch/",
+            "api": "https://to.to-long.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -134,15 +133,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-		{
-            "key": "橘貓資源",
-            "name": "橘貓資源",
-            "type": 1,
-            "api": "https://to.to-long.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
         },
 		{
             "key": "番號資源",
