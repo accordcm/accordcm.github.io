@@ -116,6 +116,26 @@
             "quickSearch": 1,
             "filterable": 0
         },
+	   {
+            "key": "py_Miss",
+            "name": "missAV",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=Miss",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+		  {
+            "key": "肉視頻",
+            "name": "肉視頻",
+            "type": 3,
+            "api": "./drpy_js/rou.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
 		{
             "key": "KpgxdyE",
             "name": "黄資源",
