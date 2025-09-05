@@ -229,14 +229,6 @@
             "quickSearch": 1,
             "filterable": 0
         },
-		{
-            "key": "乐播资源",
-            "name": "乐播资源",
-            "type": 1,
-            "api": "https://lbapi9.com/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
         {
             "key": "番号资源",
             "name": "番号资源",
