@@ -236,23 +236,6 @@
             "quickSearch": 1,
             "filterable": 0
         },
-		{
-            "key": "afasu",
-            "name": "小濕妹资源",
-            "type": 0,
-            "api": "https://www.afasu.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		{
-            "key": "小濕妹资源",
-            "name": "小濕妹资源",
-            "type": 0,
-            "api": "https://www.afasu.com/api/xml.php",
-            "searchable": 0,
-            "quickSearch": 0
-        },
         {
             "key": "樂播",
             "name": "樂播",
