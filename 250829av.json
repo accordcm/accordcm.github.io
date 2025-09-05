@@ -116,26 +116,6 @@
             "quickSearch": 1,
             "filterable": 0
         },
-	   {
-            "key": "py_Miss",
-            "name": "missAV",
-            "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=Miss",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-		  {
-            "key": "肉視頻",
-            "name": "肉視頻",
-            "type": 3,
-            "api": "./drpy_js/rou.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
 		{
             "key": "KpgxdyE",
             "name": "黄資源",
@@ -144,6 +124,22 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+		{
+            "key": "富二代资源",
+            "name": "富二代资源",
+            "type": 0,
+            "api": "http://f2dcj6.com/sapi?ac=videolist",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "鲨鱼资源",
+            "name": "鲨鱼资源",
+            "type": 1,
+            "api": "https://shayuapi.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
         },
 		{
             "key": "番號資源",
@@ -223,6 +219,14 @@
             "quickSearch": 1,
             "filterable": 0
         },
+	    {
+            "key": "大地资源",
+            "name": "大地资源",
+            "type": 0,
+            "api": "https://dadiapi.com/api.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
         {
             "key": "(18+)大地资源",
             "name": "(18+)大地资源",
@@ -232,18 +236,52 @@
             "quickSearch": 1,
             "filterable": 0
         },
+		{
+            "key": "afasu",
+            "name": "小濕妹资源",
+            "type": 0,
+            "api": "https://www.afasu.com/api/xml.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		{
+            "key": "小濕妹资源",
+            "name": "小濕妹资源",
+            "type": 0,
+            "api": "https://www.afasu.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
         {
-            "key": "(18+)乐播",
-            "name": "(18+)乐播",
+            "key": "樂播",
+            "name": "樂播",
             "type": 0,
             "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
         },
+		{
+            "key": "乐播资源",
+            "name": "乐播资源",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+	   {
+            "key": "lba12pi9",
+            "name": "樂播资源",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
-            "key": "(18+)番号资源",
-            "name": "(18+)番号资源",
+            "key": "番号资源",
+            "name": "番号资源",
             "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/",
             "searchable": 1,
@@ -283,14 +321,6 @@
             "quickSearch": 0
         },
         {
-            "key": "乐播资源",
-            "name": "乐播资源",
-            "type": 1,
-            "api": "https://lbapi9.com/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "老鸭2",
             "name": "老鸭2",
             "type": 1,
@@ -299,15 +329,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "lba12pi9",
-            "name": "乐播资源",
-            "type": 1,
-            "api": "https://lbapi9.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "maozyapi",
