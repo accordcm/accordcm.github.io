@@ -253,15 +253,6 @@
             "searchable": 0,
             "quickSearch": 0
         },
-	   {
-            "key": "lba12pi9",
-            "name": "樂播资源",
-            "type": 1,
-            "api": "https://lbapi9.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "番号资源",
             "name": "番号资源",
