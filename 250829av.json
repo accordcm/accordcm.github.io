@@ -108,6 +108,42 @@
             ]
         },
 		{
+         "key":"幸资源站",
+         "name":"🈲幸资源站",
+         "type":1,
+         "api":"https://xzybb1.com/api.php/provide/vod/?ac=list",
+         "searchable":1,
+         "filterable":0,
+         "changeable":1
+        },
+	    {
+          "key": "絲襪资源",
+          "name": "絲襪資源 🏆",
+          "type": 1,
+          "api": "https://siwazyw.tv/api.php/provide/vod/",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0
+        },
+	    {
+         "key": "鸡坤资源",
+         "name": "雞坤資源 🏆",
+         "type": 1,
+         "api": "https://jkunzyapi.com/api.php/provide/vod/",
+         "searchable": 0,
+         "quickSearch": 0,
+         "filterable": 0
+        },
+	   {
+          "key": "影视",
+          "name": "影視18 💋",
+          "type": 1,
+          "api": "https://155api.com/api.php/provide/vod/"
+		   "searchable": 0,
+           "quickSearch": 0,
+           "filterable": 0
+        },
+		{
             "key": "橘貓資源",
             "name": "橘貓資源",
             "type": 1,
