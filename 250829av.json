@@ -112,14 +112,10 @@
           "name": "Jable 🏆",
           "type": 3,
           "api": "csp_Jable",
-          "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
           "searchable": 1,
           "recordable": 0,
-          "style": {
-          "type": "rect",
-          "ratio": 1.77
-      }
-    },
+		  "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
+        },
 		{
           "key": "didizy.com",
           "name": "滴滴 💋",
