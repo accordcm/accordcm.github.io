@@ -115,7 +115,16 @@
            "searchable": 1,
            "filterable": 1,
            "jar": "https://8415.kstore.space/Tvbox/jar/papapg.jar"
-    },
+        },
+		{
+          "key": "PigAV",
+          "name": "朱古力 🏆",
+          "type": 3,
+          "api": "csp_Pig",
+          "searchable": 1,
+          "filterable": 1,
+          "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/custom_spider-fm.jar"
+        },
 	    {
           "key": "絲襪资源",
           "name": "絲襪資源 🏆",
