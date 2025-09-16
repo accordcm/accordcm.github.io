@@ -139,8 +139,8 @@
           "name": "影視18 💋",
           "type": 1,
           "api": "https://155api.com/api.php/provide/vod/"
-		   "searchable": 0,
-           "quickSearch": 0,
+		   "searchable": 1,
+           "quickSearch": 1,
            "filterable": 0
         },
 		{
