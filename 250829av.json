@@ -108,15 +108,6 @@
             ]
         },
 		{
-         "key":"悟空资源站",
-         "name":"悟空资源站",
-         "type":1,
-         "api":"https://wukongzyz.com/api.php/provide/vod/?ac=list",
-         "searchable":1,
-         "filterable":0,
-         "changeable":1
-        },
-		{
           "key": "didizy.com",
           "name": "滴滴 💋",
           "type": 1,
