@@ -107,6 +107,15 @@
                 "伦理片"
             ]
         }, 
+		{
+          "key": "didizy.com",
+          "name": "滴滴 💋",
+          "type": 1,
+           "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+           "searchable": 1,
+           "filterable": 1,
+           "jar": "https://8415.kstore.space/Tvbox/jar/papapg.jar"
+    },
 	    {
           "key": "絲襪资源",
           "name": "絲襪資源 🏆",
