@@ -612,12 +612,6 @@ http://smt.iptv543.com/Smart.php?id=lungxiangtime_twn
 http://smt.iptv543.com/Smart.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="电影频道|卫视电影台" tvg-logo="https://logo.catvod.com/电影频道|卫视电影台.png" group-title="电影频道",电影频道|卫视电影台
 http://smt.iptv543.com/Smart.php?id=weishimovie_twn
-#EXTINF:-1 tvg-name="电影频道|天映频道" tvg-logo="https://logo.catvod.com/电影频道|天映频道.png" group-title="电影频道",电影频道|天映频道
-http://smt.iptv543.com/Smart.php?id=Celestial
-#EXTINF:-1 tvg-name="电影频道|天映频道" tvg-logo="https://logo.catvod.com/电影频道|天映频道.png" group-title="电影频道",电影频道|天映频道
-http://smt.iptv543.com/Smart.php?id=Celestialindo
-#EXTINF:-1 tvg-name="电影频道|天映经典" tvg-logo="https://logo.catvod.com/电影频道|天映经典.png" group-title="电影频道",电影频道|天映经典
-http://smt.iptv543.com/Smart.php?id=Celestial2
 #EXTINF:-1 tvg-name="电影频道|Animax" tvg-logo="https://logo.catvod.com/电影频道|Animax.png" group-title="电影频道",电影频道|Animax
 http://smt.iptv543.com/Smart.php?id=Animax
 #EXTINF:-1 tvg-name="电影频道|Movies Now HD" tvg-logo="https://logo.catvod.com/电影频道|Movies Now HD.png" group-title="电影频道",电影频道|Movies Now HD
@@ -660,50 +654,6 @@ http://smt.iptv543.com/Smart.php?id=Kplus
 http://smt.iptv543.com/Smart.php?id=Rockaction
 #EXTINF:-1 tvg-name="电影频道|Rock Entertainment" tvg-logo="https://logo.catvod.com/电影频道|Rock Entertainment.png" group-title="电影频道",电影频道|Rock Entertainment
 http://smt.iptv543.com/Smart.php?id=Rockentertain
-#EXTINF:-1 tvg-name="纪录频道|Natgeo_HD" tvg-logo="https://logo.catvod.com/纪录频道|Natgeo_HD.png" group-title="纪录频道",纪录频道|Natgeo_HD
-http://smt.iptv543.com/Smart.php?id=natgeohd_twn
-#EXTINF:-1 tvg-name="纪录频道|NatGeo_Wild HD" tvg-logo="https://logo.catvod.com/纪录频道|NatGeo_Wild HD.png" group-title="纪录频道",纪录频道|NatGeo_Wild HD
-http://smt.iptv543.com/Smart.php?id=natgeowild_twn
-#EXTINF:-1 tvg-name="纪录频道|Animal_Planet" tvg-logo="https://logo.catvod.com/纪录频道|Animal_Planet.png" group-title="纪录频道",纪录频道|Animal_Planet
-http://smt.iptv543.com/Smart.php?id=animalplanet_twn
-#EXTINF:-1 tvg-name="纪录频道|Discovery Asia" tvg-logo="https://logo.catvod.com/纪录频道|Discovery Asia.png" group-title="纪录频道",纪录频道|Discovery Asia
-http://smt.iptv543.com/Smart.php?id=discoverytwn_twn
-#EXTINF:-1 tvg-name="纪录频道|CI" tvg-logo="https://logo.catvod.com/纪录频道|CI.png" group-title="纪录频道",纪录频道|CI
-http://smt.iptv543.com/Smart.php?id=ci_twn
-#EXTINF:-1 tvg-name="纪录频道|Asia Travel" tvg-logo="https://logo.catvod.com/纪录频道|Asia Travel.png" group-title="纪录频道",纪录频道|Asia Travel
-http://smt.iptv543.com/Smart.php?id=asiatravel_twn
-#EXTINF:-1 tvg-name="纪录频道|Discovery HD" tvg-logo="https://logo.catvod.com/纪录频道|Discovery HD.png" group-title="纪录频道",纪录频道|Discovery HD
-http://smt.iptv543.com/Smart.php?id=discoveryhd_twn
-#EXTINF:-1 tvg-name="纪录频道|亚洲美食" tvg-logo="https://logo.catvod.com/纪录频道|亚洲美食.png" group-title="纪录频道",纪录频道|亚洲美食
-http://smt.iptv543.com/Smart.php?id=afc_twn
-#EXTINF:-1 tvg-name="纪录频道|美食星球" tvg-logo="https://logo.catvod.com/纪录频道|美食星球.png" group-title="纪录频道",纪录频道|美食星球
-http://smt.iptv543.com/Smart.php?id=foodplanet_twn
-#EXTINF:-1 tvg-name="纪录频道|亚洲TLC" tvg-logo="https://logo.catvod.com/纪录频道|亚洲TLC.png" group-title="纪录频道",纪录频道|亚洲TLC
-http://smt.iptv543.com/Smart.php?id=tlc_twn
-#EXTINF:-1 tvg-name="纪录频道|NatGeo HD" tvg-logo="https://logo.catvod.com/纪录频道|NatGeo HD.png" group-title="纪录频道",纪录频道|NatGeo HD
-http://smt.iptv543.com/Smart.php?id=Natgeo
-#EXTINF:-1 tvg-name="纪录频道|Fashion TV" tvg-logo="https://logo.catvod.com/纪录频道|Fashion TV.png" group-title="纪录频道",纪录频道|Fashion TV
-http://smt.iptv543.com/Smart.php?id=fashiontv_twn
-#EXTINF:-1 tvg-name="纪录频道|History" tvg-logo="https://logo.catvod.com/纪录频道|History.png" group-title="纪录频道",纪录频道|History
-http://smt.iptv543.com/Smart.php?id=History
-#EXTINF:-1 tvg-name="纪录频道|BBC Earth HD" tvg-logo="https://logo.catvod.com/纪录频道|BBC Earth HD.png" group-title="纪录频道",纪录频道|BBC Earth HD
-http://smt.iptv543.com/Smart.php?id=bbcearth_twn
-#EXTINF:-1 tvg-name="纪录频道|BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/纪录频道|BBC Earth Lifestyle.png" group-title="纪录频道",纪录频道|BBC Earth Lifestyle
-http://smt.iptv543.com/Smart.php?id=bbclifestyle_twn
-#EXTINF:-1 tvg-name="纪录频道|MTV Live" tvg-logo="https://logo.catvod.com/纪录频道|MTV Live.png" group-title="纪录频道",纪录频道|MTV Live
-http://smt.iptv543.com/Smart.php?id=mtvhd_twn
-#EXTINF:-1 tvg-name="纪录频道|NatGeo Wild HD" tvg-logo="https://logo.catvod.com/纪录频道|NatGeo Wild HD.png" group-title="纪录频道",纪录频道|NatGeo Wild HD
-http://smt.iptv543.com/Smart.php?id=Natgeowild
-#EXTINF:-1 tvg-name="纪录频道|Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/纪录频道|Animal Planet (Eng).png" group-title="纪录频道",纪录频道|Animal Planet (Eng)
-http://smt.iptv543.com/Smart.php?id=AnimalPlanet
-#EXTINF:-1 tvg-name="纪录频道|TLC" tvg-logo="https://logo.catvod.com/纪录频道|TLC.png" group-title="纪录频道",纪录频道|TLC
-http://smt.iptv543.com/Smart.php?id=Tlc
-#EXTINF:-1 tvg-name="纪录频道|Foodnetwork Hd" tvg-logo="https://logo.catvod.com/纪录频道|Foodnetwork Hd.png" group-title="纪录频道",纪录频道|Foodnetwork Hd
-http://smt.iptv543.com/Smart.php?id=Foodnetwork
-#EXTINF:-1 tvg-name="纪录频道|HGTV" tvg-logo="https://logo.catvod.com/纪录频道|HGTV.png" group-title="纪录频道",纪录频道|HGTV
-http://smt.iptv543.com/Smart.php?id=HGTV
-#EXTINF:-1 tvg-name="纪录频道|亚洲旅游台" tvg-logo="https://logo.catvod.com/纪录频道|亚洲旅游台.png" group-title="纪录频道",纪录频道|亚洲旅游台
-http://smt.iptv543.com/Smart.php?id=asiatravel_twn
 #EXTINF:-1 tvg-name="新闻频道|Skynews" tvg-logo="https://logo.catvod.com/新闻频道|Skynews.png" group-title="新闻频道",新闻频道|Skynews
 http://smt.iptv543.com/Smart.php?id=skynews_twn
 #EXTINF:-1 tvg-name="新闻频道|ABC News" tvg-logo="https://logo.catvod.com/新闻频道|ABC News.png" group-title="新闻频道",新闻频道|ABC News
@@ -750,12 +700,6 @@ http://smt.iptv543.com/Smart.php?id=KidsTV
 http://smt.iptv543.com/Smart.php?id=momo1_twn
 #EXTINF:-1 tvg-name="儿童频道|Animax" tvg-logo="https://logo.catvod.com/儿童频道|Animax.png" group-title="儿童频道",儿童频道|Animax
 http://smt.iptv543.com/Smart.php?id=Animax
-#EXTINF:-1 tvg-name="儿童频道|Baby TV" tvg-logo="https://logo.catvod.com/儿童频道|Baby TV.png" group-title="儿童频道",儿童频道|Baby TV
-http://smt.iptv543.com/Smart.php?id=babytv_twn
-#EXTINF:-1 tvg-name="儿童频道|MiaoMi" tvg-logo="https://logo.catvod.com/儿童频道|MiaoMi.png" group-title="儿童频道",儿童频道|MiaoMi
-http://smt.iptv543.com/Smart.php?id=MiaoMi
-#EXTINF:-1 tvg-name="儿童频道|靖天卡通" tvg-logo="https://logo.catvod.com/儿童频道|靖天卡通.png" group-title="儿童频道",儿童频道|靖天卡通
-http://smt.iptv543.com/Smart.php?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-name="儿童频道|东森幼幼" tvg-logo="https://logo.catvod.com/儿童频道|东森幼幼.png" group-title="儿童频道",儿童频道|东森幼幼
 http://smt.iptv543.com/Smart.php?id=yoyo_twn
 #EXTINF:-1 tvg-name="儿童频道|Cartoon Network" tvg-logo="https://logo.catvod.com/儿童频道|Cartoon Network.png" group-title="儿童频道",儿童频道|Cartoon Network
@@ -997,3 +941,32 @@ https://mt02.utako.moe/tabi/index.m3u8
 https://mt02.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-name="V Paradise (NSFW)" tvg-logo="https://logo.catvod.com/V Paradise (NSFW).png" group-title="日本",V Paradise (NSFW)
 https://mt02.utako.moe/v_paradise/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="潘多拉完美" tvg-logo="https://logo.catvod.com/潘多拉完美.png" group-title="私人频道_543",潘多拉完美
+p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
+#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://logo.catvod.com/香蕉.png" group-title="私人频道_543",香蕉
+p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
+#EXTINF:-1 tvg-name="松视1" tvg-logo="https://logo.catvod.com/松视1.png" group-title="私人频道_543",松视1
+p3p://167.114.175.6:55331/5fe445280008a40682a0367c343436bb
+#EXTINF:-1 tvg-name="松视2" tvg-logo="https://logo.catvod.com/松视2.png" group-title="私人频道_543",松视2
+p3p://167.114.175.6:55331/60232b5f00007bc37850649979e379df
+#EXTINF:-1 tvg-name="松视3" tvg-logo="https://logo.catvod.com/松视3.png" group-title="私人频道_543",松视3
+p3p://167.114.175.6:55331/6109e9590001f40bfd9b661109395f3b
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="私人频道_543",惊艳
+p3p://167.114.175.6:55331/60626a1b00010e3e6f5a5a4f018e5ebe
+#EXTINF:-1 tvg-name="LOOK" tvg-logo="https://logo.catvod.com/LOOK.png" group-title="私人频道_543",LOOK
+p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
+#EXTINF:-1 tvg-name="HAPPY" tvg-logo="https://logo.catvod.com/HAPPY.png" group-title="私人频道_543",HAPPY
+p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
+#EXTINF:-1 tvg-name="彩虹e" tvg-logo="https://logo.catvod.com/彩虹e.png" group-title="私人频道_543",彩虹e
+p3p://167.114.175.6:55331/6062716c0008efc86f76f0c44d55329f
+#EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://logo.catvod.com/彩虹K.png" group-title="私人频道_543",彩虹K
+p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
+#EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://logo.catvod.com/彩虹电影.png" group-title="私人频道_543",彩虹电影
+p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
+#EXTINF:-1 tvg-name="彩虹频道" tvg-logo="https://logo.catvod.com/彩虹频道.png" group-title="私人频道_543",彩虹频道
+p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
+#EXTINF:-1 tvg-name="极限电影" tvg-logo="https://logo.catvod.com/极限电影.png" group-title="私人频道_543",极限电影
+p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
