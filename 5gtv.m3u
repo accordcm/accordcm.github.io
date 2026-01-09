@@ -233,15 +233,6 @@ http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch
 
 
 
-http://smt.iptv543.com/Smart.php?id=cctv14
-#EXTINF:-1 tvg-name="中国|CCTV15" tvg-logo="https://logo.catvod.com/中国|CCTV15.png" group-title="中国",中国|CCTV-15 音乐
-http://smt.iptv543.com/Smart.php?id=cctv15
-#EXTINF:-1 tvg-name="中国|CCTV16" tvg-logo="https://logo.catvod.com/中国|CCTV16.png" group-title="中国",中国|CCTV-16 奥林匹克
-http://smt.iptv543.com/Smart.php?id=cctv16
-#EXTINF:-1 tvg-name="中国|CCTV17" tvg-logo="https://logo.catvod.com/中国|CCTV17.png" group-title="中国",中国|CCTV-17 农业农村
-http://smt.iptv543.com/Smart.php?id=cctv17
-#EXTINF:-1 tvg-name="中国|CCTV5" tvg-logo="https://logo.catvod.com/中国|CCTV5.png" group-title="中国",中国|CCTV-5+ 体育赛事
-http://smt.iptv543.com/Smart.php?id=cctv5plus
 #EXTINF:-1 tvg-name="中国|湖南卫视" tvg-logo="https://logo.catvod.com/中国|湖南卫视.png" group-title="中国",中国|湖南卫视
 http://smt.iptv543.com/Smart.php?id=hunan_twn
 #EXTINF:-1 tvg-name="中国|浙江卫视" tvg-logo="https://logo.catvod.com/中国|浙江卫视.png" group-title="中国",中国|浙江卫视
@@ -256,20 +247,6 @@ http://smt.iptv543.com/Smart.php?id=beijing
 http://smt.iptv543.com/Smart.php?id=shenzhen
 #EXTINF:-1 tvg-name="中国|广东卫视" tvg-logo="https://logo.catvod.com/中国|广东卫视.png" group-title="中国",中国|广东卫视
 http://smt.iptv543.com/Smart.php?id=guangdongweishi_twn
-#EXTINF:-1 tvg-name="中国|大湾区卫视" tvg-logo="https://logo.catvod.com/中国|大湾区卫视.png" group-title="中国",中国|大湾区卫视
-http://smt.iptv543.com/Smart.php?id=nanfang_twn
-#EXTINF:-1 tvg-name="中国|珠江台" tvg-logo="https://logo.catvod.com/中国|珠江台.png" group-title="中国",中国|珠江台
-http://smt.iptv543.com/Smart.php?id=zhujiang
-#EXTINF:-1 tvg-name="中国|东南卫视" tvg-logo="https://logo.catvod.com/中国|东南卫视.png" group-title="中国",中国|东南卫视
-http://smt.iptv543.com/Smart.php?id=fujian
-#EXTINF:-1 tvg-name="中国|广西卫视" tvg-logo="https://logo.catvod.com/中国|广西卫视.png" group-title="中国",中国|广西卫视
-http://smt.iptv543.com/Smart.php?id=guangxi
-#EXTINF:-1 tvg-name="中国|湖北卫视" tvg-logo="https://logo.catvod.com/中国|湖北卫视.png" group-title="中国",中国|湖北卫视
-http://smt.iptv543.com/Smart.php?id=hubei
-#EXTINF:-1 tvg-name="中国|四川卫视" tvg-logo="https://logo.catvod.com/中国|四川卫视.png" group-title="中国",中国|四川卫视
-http://smt.iptv543.com/Smart.php?id=sichuan_twn
-#EXTINF:-1 tvg-name="中国|CGTN" tvg-logo="https://logo.catvod.com/中国|CGTN.png" group-title="中国",中国|CGTN
-http://smt.iptv543.com/Smart.php?id=CGTN
 #EXTINF:-1 tvg-name="新加坡|Channel 5" tvg-logo="https://logo.catvod.com/新加坡|Channel 5.png" group-title="新加坡",新加坡|Channel 5
 http://smt.iptv543.com/Smart.php?id=Channel5HD
 #EXTINF:-1 tvg-name="新加坡|Channel 8" tvg-logo="https://logo.catvod.com/新加坡|Channel 8.png" group-title="新加坡",新加坡|Channel 8
@@ -416,178 +393,6 @@ http://smt.iptv543.com/Smart.php?id=Celestial2
 http://smt.iptv543.com/Smart.php?id=cnbc_twn
 #EXTINF:-1 tvg-name="马来西亚|TLC" tvg-logo="https://logo.catvod.com/马来西亚|TLC.png" group-title="马来西亚",马来西亚|TLC
 http://smt.iptv543.com/Smart.php?id=Tlc
-#EXTINF:-1 tvg-name="马来西亚|CNA" tvg-logo="https://logo.catvod.com/马来西亚|CNA.png" group-title="马来西亚",马来西亚|CNA
-http://smt.iptv543.com/Smart.php?id=cna
-#EXTINF:-1 tvg-name="马来西亚|BBC World News" tvg-logo="https://logo.catvod.com/马来西亚|BBC World News.png" group-title="马来西亚",马来西亚|BBC World News
-http://smt.iptv543.com/Smart.php?id=bbcnews_twn
-#EXTINF:-1 tvg-name="马来西亚|Foodnetwork Hd" tvg-logo="https://logo.catvod.com/马来西亚|Foodnetwork Hd.png" group-title="马来西亚",马来西亚|Foodnetwork Hd
-http://smt.iptv543.com/Smart.php?id=Foodnetwork
-#EXTINF:-1 tvg-name="马来西亚|HGTV" tvg-logo="https://logo.catvod.com/马来西亚|HGTV.png" group-title="马来西亚",马来西亚|HGTV
-http://smt.iptv543.com/Smart.php?id=HGTV
-#EXTINF:-1 tvg-name="马来西亚|Goshop" tvg-logo="https://logo.catvod.com/马来西亚|Goshop.png" group-title="马来西亚",马来西亚|Goshop
-http://smt.iptv543.com/Smart.php?id=Goshop
-#EXTINF:-1 tvg-name="马来西亚|Celestial Movies HD" tvg-logo="https://logo.catvod.com/马来西亚|Celestial Movies HD.png" group-title="马来西亚",马来西亚|Celestial Movies HD
-http://smt.iptv543.com/Smart.php?id=Celestial
-#EXTINF:-1 tvg-name="马来西亚|Axn HD" tvg-logo="https://logo.catvod.com/马来西亚|Axn HD.png" group-title="马来西亚",马来西亚|Axn HD
-http://smt.iptv543.com/Smart.php?id=Axn
-#EXTINF:-1 tvg-name="马来西亚|Paramount Network" tvg-logo="https://logo.catvod.com/马来西亚|Paramount Network.png" group-title="马来西亚",马来西亚|Paramount Network
-http://smt.iptv543.com/Smart.php?id=Paramountnetwork
-#EXTINF:-1 tvg-name="马来西亚|Astrol Kplus" tvg-logo="https://logo.catvod.com/马来西亚|Astrol Kplus.png" group-title="马来西亚",马来西亚|Astrol Kplus
-http://smt.iptv543.com/Smart.php?id=Kplus
-#EXTINF:-1 tvg-name="马来西亚|AFC 亚洲旅游台" tvg-logo="https://logo.catvod.com/马来西亚|AFC 亚洲旅游台.png" group-title="马来西亚",马来西亚|AFC 亚洲旅游台
-http://smt.iptv543.com/Smart.php?id=asiatravel_twn
-#EXTINF:-1 tvg-name="马来西亚|Rock Actions" tvg-logo="https://logo.catvod.com/马来西亚|Rock Actions.png" group-title="马来西亚",马来西亚|Rock Actions
-http://smt.iptv543.com/Smart.php?id=Rockaction
-#EXTINF:-1 tvg-name="马来西亚|Bloomberg News" tvg-logo="https://logo.catvod.com/马来西亚|Bloomberg News.png" group-title="马来西亚",马来西亚|Bloomberg News
-http://smt.iptv543.com/Smart.php?id=bloomberg_twn
-#EXTINF:-1 tvg-name="马来西亚|Al-Jazeera" tvg-logo="https://logo.catvod.com/马来西亚|Al-Jazeera.png" group-title="马来西亚",马来西亚|Al-Jazeera
-http://smt.iptv543.com/Smart.php?id=aljazeera_twn
-#EXTINF:-1 tvg-name="马来西亚|Rock Entertainment" tvg-logo="https://logo.catvod.com/马来西亚|Rock Entertainment.png" group-title="马来西亚",马来西亚|Rock Entertainment
-http://smt.iptv543.com/Smart.php?id=Rockentertain
-#EXTINF:-1 tvg-name="马来西亚|RTM Sports HD" tvg-logo="https://logo.catvod.com/马来西亚|RTM Sports HD.png" group-title="马来西亚",马来西亚|RTM Sports HD
-http://smt.iptv543.com/Smart.php?id=Rtmsport
-#EXTINF:-1 tvg-name="马来西亚|Arena" tvg-logo="https://logo.catvod.com/马来西亚|Arena.png" group-title="马来西亚",马来西亚|Arena
-http://smt.iptv543.com/Smart.php?id=Arena
-#EXTINF:-1 tvg-name="马来西亚|Arena 2" tvg-logo="https://logo.catvod.com/马来西亚|Arena 2.png" group-title="马来西亚",马来西亚|Arena 2
-http://smt.iptv543.com/Smart.php?id=Arena2
-#EXTINF:-1 tvg-name="马来西亚|BolaArena 1" tvg-logo="https://logo.catvod.com/马来西亚|BolaArena 1.png" group-title="马来西亚",马来西亚|BolaArena 1
-http://smt.iptv543.com/Smart.php?id=Bolaarena1
-#EXTINF:-1 tvg-name="马来西亚|BolaArena 2" tvg-logo="https://logo.catvod.com/马来西亚|BolaArena 2.png" group-title="马来西亚",马来西亚|BolaArena 2
-http://smt.iptv543.com/Smart.php?id=Bolaarena2
-#EXTINF:-1 tvg-name="马来西亚|Astro LOL" tvg-logo="https://logo.catvod.com/马来西亚|Astro LOL.png" group-title="马来西亚",马来西亚|Astro LOL
-http://smt.iptv543.com/Smart.php?id=Astro_lol
-#EXTINF:-1 tvg-name="马来西亚|Astro Rusi" tvg-logo="https://logo.catvod.com/马来西亚|Astro Rusi.png" group-title="马来西亚",马来西亚|Astro Rusi
-http://smt.iptv543.com/Smart.php?id=Rusi
-#EXTINF:-1 tvg-name="马来西亚|WION" tvg-logo="https://logo.catvod.com/马来西亚|WION.png" group-title="马来西亚",马来西亚|WION
-http://smt.iptv543.com/Smart.php?id=Wion
-#EXTINF:-1 tvg-name="马来西亚|RTM Asean" tvg-logo="https://logo.catvod.com/马来西亚|RTM Asean.png" group-title="马来西亚",马来西亚|RTM Asean
-http://smt.iptv543.com/Smart.php?id=Rtmasean
-#EXTINF:-1 tvg-name="泰国|Channel 3 Thailand" tvg-logo="https://logo.catvod.com/泰国|Channel 3 Thailand.png" group-title="泰国",泰国|Channel 3 Thailand
-http://smt.iptv543.com/Smart.php?id=ch3_pat
-#EXTINF:-1 tvg-name="泰国|Channel 5 Thailand" tvg-logo="https://logo.catvod.com/泰国|Channel 5 Thailand.png" group-title="泰国",泰国|Channel 5 Thailand
-http://smt.iptv543.com/Smart.php?id=ch5_pat
-#EXTINF:-1 tvg-name="泰国|Channel 7 Thailand" tvg-logo="https://logo.catvod.com/泰国|Channel 7 Thailand.png" group-title="泰国",泰国|Channel 7 Thailand
-http://smt.iptv543.com/Smart.php?id=ch7_pat
-#EXTINF:-1 tvg-name="泰国|MCOT HD Thailand-1" tvg-logo="https://logo.catvod.com/泰国|MCOT HD Thailand-1.png" group-title="泰国",泰国|MCOT HD Thailand-1
-http://smt.iptv543.com/Smart.php?id=mcot_pat
-#EXTINF:-1 tvg-name="泰国|PPTV Thailand1" tvg-logo="https://logo.catvod.com/泰国|PPTV Thailand1.png" group-title="泰国",泰国|PPTV Thailand1
-http://smt.iptv543.com/Smart.php?id=pptv_pat
-#EXTINF:-1 tvg-name="泰国|Thai Thai" tvg-logo="https://logo.catvod.com/泰国|Thai Thai.png" group-title="泰国",泰国|Thai Thai
-http://smt.iptv543.com/Smart.php?id=thaithai_pat
-#EXTINF:-1 tvg-name="泰国|Amarin" tvg-logo="https://logo.catvod.com/泰国|Amarin.png" group-title="泰国",泰国|Amarin
-http://smt.iptv543.com/Smart.php?id=amarin_pat
-#EXTINF:-1 tvg-name="泰国|Ch 8" tvg-logo="https://logo.catvod.com/泰国|Ch 8.png" group-title="泰国",泰国|Ch 8
-http://smt.iptv543.com/Smart.php?id=ch8_pat
-#EXTINF:-1 tvg-name="泰国|GmmOne" tvg-logo="https://logo.catvod.com/泰国|GmmOne.png" group-title="泰国",泰国|GmmOne
-http://smt.iptv543.com/Smart.php?id=gmmone_pat
-#EXTINF:-1 tvg-name="泰国|Mono" tvg-logo="https://logo.catvod.com/泰国|Mono.png" group-title="泰国",泰国|Mono
-http://smt.iptv543.com/Smart.php?id=mono_pat
-#EXTINF:-1 tvg-name="泰国|Thairath" tvg-logo="https://logo.catvod.com/泰国|Thairath.png" group-title="泰国",泰国|Thairath
-http://smt.iptv543.com/Smart.php?id=thairath_pat
-#EXTINF:-1 tvg-name="泰国|tpbs" tvg-logo="https://logo.catvod.com/泰国|tpbs.png" group-title="泰国",泰国|tpbs
-http://smt.iptv543.com/Smart.php?id=tpbs_pat
-#EXTINF:-1 tvg-name="泰国|Workpoint" tvg-logo="https://logo.catvod.com/泰国|Workpoint.png" group-title="泰国",泰国|Workpoint
-http://smt.iptv543.com/Smart.php?id=workpoint_pat
-#EXTINF:-1 tvg-name="泰国|Gmm Channel" tvg-logo="https://logo.catvod.com/泰国|Gmm Channel.png" group-title="泰国",泰国|Gmm Channel
-http://smt.iptv543.com/Smart.php?id=gmmchannel_pat
-#EXTINF:-1 tvg-name="泰国|Nation" tvg-logo="https://logo.catvod.com/泰国|Nation.png" group-title="泰国",泰国|Nation
-http://smt.iptv543.com/Smart.php?id=nation_pat
-#EXTINF:-1 tvg-name="泰国|Tnn24" tvg-logo="https://logo.catvod.com/泰国|Tnn24.png" group-title="泰国",泰国|Tnn24
-http://smt.iptv543.com/Smart.php?id=tnn24_pat
-#EXTINF:-1 tvg-name="泰国|Nbt" tvg-logo="https://logo.catvod.com/泰国|Nbt.png" group-title="泰国",泰国|Nbt
-http://smt.iptv543.com/Smart.php?id=nbt_pat
-#EXTINF:-1 tvg-name="泰国|New" tvg-logo="https://logo.catvod.com/泰国|New.png" group-title="泰国",泰国|New
-http://smt.iptv543.com/Smart.php?id=new_pat
-#EXTINF:-1 tvg-name="泰国|TPTV" tvg-logo="https://logo.catvod.com/泰国|TPTV.png" group-title="泰国",泰国|TPTV
-http://smt.iptv543.com/Smart.php?id=tptv_pat
-#EXTINF:-1 tvg-name="英国|BBC 1" tvg-logo="https://logo.catvod.com/英国|BBC 1.png" group-title="英国",英国|BBC 1
-http://smt.iptv543.com/Smart.php?id=bbc1_antik
-#EXTINF:-1 tvg-name="英国|BBC 2" tvg-logo="https://logo.catvod.com/英国|BBC 2.png" group-title="英国",英国|BBC 2
-http://smt.iptv543.com/Smart.php?id=bbc2_antik
-#EXTINF:-1 tvg-name="英国|CBBC" tvg-logo="https://logo.catvod.com/英国|CBBC.png" group-title="英国",英国|CBBC
-http://smt.iptv543.com/Smart.php?id=cbbc_antik
-#EXTINF:-1 tvg-name="英国|More4" tvg-logo="https://logo.catvod.com/英国|More4.png" group-title="英国",英国|More4
-http://smt.iptv543.com/Smart.php?id=more4_antik
-#EXTINF:-1 tvg-name="英国|Freesports" tvg-logo="https://logo.catvod.com/英国|Freesports.png" group-title="英国",英国|Freesports
-http://smt.iptv543.com/Smart.php?id=freesports_antik
-#EXTINF:-1 tvg-name="英国|Skynews" tvg-logo="https://logo.catvod.com/英国|Skynews.png" group-title="英国",英国|Skynews
-http://smt.iptv543.com/Smart.php?id=skynews_twn
-#EXTINF:-1 tvg-name="英国|Pick TV" tvg-logo="https://logo.catvod.com/英国|Pick TV.png" group-title="英国",英国|Pick TV
-http://smt.iptv543.com/Smart.php?id=picktv_antik
-#EXTINF:-1 tvg-name="英国|itv 1" tvg-logo="https://logo.catvod.com/英国|itv 1.png" group-title="英国",英国|itv 1
-http://smt.iptv543.com/Smart.php?id=itv1_antik
-#EXTINF:-1 tvg-name="英国|itv 2" tvg-logo="https://logo.catvod.com/英国|itv 2.png" group-title="英国",英国|itv 2
-http://smt.iptv543.com/Smart.php?id=itv2_antik
-#EXTINF:-1 tvg-name="英国|Euronews" tvg-logo="https://logo.catvod.com/英国|Euronews.png" group-title="英国",英国|Euronews
-http://smt.iptv543.com/Smart.php?id=euronews_antik
-#EXTINF:-1 tvg-name="英国|Channel 4" tvg-logo="https://logo.catvod.com/英国|Channel 4.png" group-title="英国",英国|Channel 4
-http://smt.iptv543.com/Smart.php?id=channel4_antik
-#EXTINF:-1 tvg-name="英国|NatGeo HD" tvg-logo="https://logo.catvod.com/英国|NatGeo HD.png" group-title="英国",英国|NatGeo HD
-http://smt.iptv543.com/Smart.php?id=Natgeo
-#EXTINF:-1 tvg-name="英国|CBeebies" tvg-logo="https://logo.catvod.com/英国|CBeebies.png" group-title="英国",英国|CBeebies
-http://smt.iptv543.com/Smart.php?id=Cbeebies
-#EXTINF:-1 tvg-name="英国|History" tvg-logo="https://logo.catvod.com/英国|History.png" group-title="英国",英国|History
-http://smt.iptv543.com/Smart.php?id=History
-#EXTINF:-1 tvg-name="英国|Kids TV" tvg-logo="https://logo.catvod.com/英国|Kids TV.png" group-title="英国",英国|Kids TV
-http://smt.iptv543.com/Smart.php?id=KidsTV
-#EXTINF:-1 tvg-name="英国|France 24" tvg-logo="https://logo.catvod.com/英国|France 24.png" group-title="英国",英国|France 24
-http://smt.iptv543.com/Smart.php?id=france24_twn
-#EXTINF:-1 tvg-name="英国|DW (Deutsch)" tvg-logo="https://logo.catvod.com/英国|DW (Deutsch).png" group-title="英国",英国|DW (Deutsch)
-http://smt.iptv543.com/Smart.php?id=dw_twn
-#EXTINF:-1 tvg-name="英国|BBC Earth HD" tvg-logo="https://logo.catvod.com/英国|BBC Earth HD.png" group-title="英国",英国|BBC Earth HD
-http://smt.iptv543.com/Smart.php?id=bbcearth_twn
-#EXTINF:-1 tvg-name="英国|BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/英国|BBC Earth Lifestyle.png" group-title="英国",英国|BBC Earth Lifestyle
-http://smt.iptv543.com/Smart.php?id=bbclifestyle_twn
-#EXTINF:-1 tvg-name="英国|MTV Live" tvg-logo="https://logo.catvod.com/英国|MTV Live.png" group-title="英国",英国|MTV Live
-http://smt.iptv543.com/Smart.php?id=mtvhd_twn
-#EXTINF:-1 tvg-name="英国|Star Movies HD" tvg-logo="https://logo.catvod.com/英国|Star Movies HD.png" group-title="英国",英国|Star Movies HD
-http://smt.iptv543.com/Smart.php?id=starmovies_raj
-#EXTINF:-1 tvg-name="英国|NHK World" tvg-logo="https://logo.catvod.com/英国|NHK World.png" group-title="英国",英国|NHK World
-http://smt.iptv543.com/Smart.php?id=nhkworld_japan
-#EXTINF:-1 tvg-name="英国|Warner TV" tvg-logo="https://logo.catvod.com/英国|Warner TV.png" group-title="英国",英国|Warner TV
-http://smt.iptv543.com/Smart.php?id=WarnerTV
-#EXTINF:-1 tvg-name="英国|HBO HD" tvg-logo="https://logo.catvod.com/英国|HBO HD.png" group-title="英国",英国|HBO HD
-http://smt.iptv543.com/Smart.php?id=Hbo
-#EXTINF:-1 tvg-name="英国|NatGeo Wild HD" tvg-logo="https://logo.catvod.com/英国|NatGeo Wild HD.png" group-title="英国",英国|NatGeo Wild HD
-http://smt.iptv543.com/Smart.php?id=Natgeowild
-#EXTINF:-1 tvg-name="英国|Nickelodeon" tvg-logo="https://logo.catvod.com/英国|Nickelodeon.png" group-title="英国",英国|Nickelodeon
-http://smt.iptv543.com/Smart.php?id=Nickelodeon
-#EXTINF:-1 tvg-name="英国|Nick Jr" tvg-logo="https://logo.catvod.com/英国|Nick Jr.png" group-title="英国",英国|Nick Jr
-http://smt.iptv543.com/Smart.php?id=Nickjr
-#EXTINF:-1 tvg-name="英国|Thrill" tvg-logo="https://logo.catvod.com/英国|Thrill.png" group-title="英国",英国|Thrill
-http://smt.iptv543.com/Smart.php?id=Thrill
-#EXTINF:-1 tvg-name="英国|CGTN" tvg-logo="https://logo.catvod.com/英国|CGTN.png" group-title="英国",英国|CGTN
-http://smt.iptv543.com/Smart.php?id=CGTN
-#EXTINF:-1 tvg-name="英国|Hits Movie" tvg-logo="https://logo.catvod.com/英国|Hits Movie.png" group-title="英国",英国|Hits Movie
-http://smt.iptv543.com/Smart.php?id=Hitsmovie
-#EXTINF:-1 tvg-name="英国|Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/英国|Animal Planet (Eng).png" group-title="英国",英国|Animal Planet (Eng)
-http://smt.iptv543.com/Smart.php?id=AnimalPlanet
-#EXTINF:-1 tvg-name="英国|CNBC" tvg-logo="https://logo.catvod.com/英国|CNBC.png" group-title="英国",英国|CNBC
-http://smt.iptv543.com/Smart.php?id=cnbc_twn
-#EXTINF:-1 tvg-name="英国|TLC" tvg-logo="https://logo.catvod.com/英国|TLC.png" group-title="英国",英国|TLC
-http://smt.iptv543.com/Smart.php?id=Tlc
-#EXTINF:-1 tvg-name="英国|BBC World News" tvg-logo="https://logo.catvod.com/英国|BBC World News.png" group-title="英国",英国|BBC World News
-http://smt.iptv543.com/Smart.php?id=bbcworldnews_antik
-#EXTINF:-1 tvg-name="英国|HGTV" tvg-logo="https://logo.catvod.com/英国|HGTV.png" group-title="英国",英国|HGTV
-http://smt.iptv543.com/Smart.php?id=HGTV
-#EXTINF:-1 tvg-name="英国|Axn HD" tvg-logo="https://logo.catvod.com/英国|Axn HD.png" group-title="英国",英国|Axn HD
-http://smt.iptv543.com/Smart.php?id=Axn
-#EXTINF:-1 tvg-name="英国|Skysports F1" tvg-logo="https://logo.catvod.com/英国|Skysports F1.png" group-title="英国",英国|Skysports F1
-http://smt.iptv543.com/Smart.php?id=tiankongf1
-#EXTINF:-1 tvg-name="英国|Skysports Cricket" tvg-logo="https://logo.catvod.com/英国|Skysports Cricket.png" group-title="英国",英国|Skysports Cricket
-http://smt.iptv543.com/Smart.php?id=tiankongcricket
-#EXTINF:-1 tvg-name="英国|Bloomberg News" tvg-logo="https://logo.catvod.com/英国|Bloomberg News.png" group-title="英国",英国|Bloomberg News
-http://smt.iptv543.com/Smart.php?id=bloomberg_twn
-#EXTINF:-1 tvg-name="英国|Skysports EPL" tvg-logo="https://logo.catvod.com/英国|Skysports EPL.png" group-title="英国",英国|Skysports EPL
-http://smt.iptv543.com/Smart.php?id=tiankongepl
-#EXTINF:-1 tvg-name="英国|Skysports Main Event" tvg-logo="https://logo.catvod.com/英国|Skysports Main Event.png" group-title="英国",英国|Skysports Main Event
-http://smt.iptv543.com/Smart.php?id=tiankongmain
-#EXTINF:-1 tvg-name="英国|Skysports News" tvg-logo="https://logo.catvod.com/英国|Skysports News.png" group-title="英国",英国|Skysports News
-http://smt.iptv543.com/Smart.php?id=tiankongnews
-#EXTINF:-1 tvg-name="英国|Al-Jazeera" tvg-logo="https://logo.catvod.com/英国|Al-Jazeera.png" group-title="英国",英国|Al-Jazeera
-http://smt.iptv543.com/Smart.php?id=aljazeera_twn
-#EXTINF:-1 tvg-name="电影频道|CCTV6" tvg-logo="https://logo.catvod.com/电影频道|CCTV6.png" group-title="电影频道",电影频道|CCTV-6
-http://smt.iptv543.com/Smart.php?id=cctv6
 #EXTINF:-1 tvg-name="电影频道|AXN Taiwan" tvg-logo="https://logo.catvod.com/电影频道|AXN Taiwan.png" group-title="电影频道",电影频道|AXN Taiwan
 http://smt.iptv543.com/Smart.php?id=axn_twn
 #EXTINF:-1 tvg-name="电影频道|HBO_HD" tvg-logo="https://logo.catvod.com/电影频道|HBO_HD.png" group-title="电影频道",电影频道|HBO_HD
@@ -660,50 +465,6 @@ http://smt.iptv543.com/Smart.php?id=Kplus
 http://smt.iptv543.com/Smart.php?id=Rockaction
 #EXTINF:-1 tvg-name="电影频道|Rock Entertainment" tvg-logo="https://logo.catvod.com/电影频道|Rock Entertainment.png" group-title="电影频道",电影频道|Rock Entertainment
 http://smt.iptv543.com/Smart.php?id=Rockentertain
-#EXTINF:-1 tvg-name="纪录频道|Natgeo_HD" tvg-logo="https://logo.catvod.com/纪录频道|Natgeo_HD.png" group-title="纪录频道",纪录频道|Natgeo_HD
-http://smt.iptv543.com/Smart.php?id=natgeohd_twn
-#EXTINF:-1 tvg-name="纪录频道|NatGeo_Wild HD" tvg-logo="https://logo.catvod.com/纪录频道|NatGeo_Wild HD.png" group-title="纪录频道",纪录频道|NatGeo_Wild HD
-http://smt.iptv543.com/Smart.php?id=natgeowild_twn
-#EXTINF:-1 tvg-name="纪录频道|Animal_Planet" tvg-logo="https://logo.catvod.com/纪录频道|Animal_Planet.png" group-title="纪录频道",纪录频道|Animal_Planet
-http://smt.iptv543.com/Smart.php?id=animalplanet_twn
-#EXTINF:-1 tvg-name="纪录频道|Discovery Asia" tvg-logo="https://logo.catvod.com/纪录频道|Discovery Asia.png" group-title="纪录频道",纪录频道|Discovery Asia
-http://smt.iptv543.com/Smart.php?id=discoverytwn_twn
-#EXTINF:-1 tvg-name="纪录频道|CI" tvg-logo="https://logo.catvod.com/纪录频道|CI.png" group-title="纪录频道",纪录频道|CI
-http://smt.iptv543.com/Smart.php?id=ci_twn
-#EXTINF:-1 tvg-name="纪录频道|Asia Travel" tvg-logo="https://logo.catvod.com/纪录频道|Asia Travel.png" group-title="纪录频道",纪录频道|Asia Travel
-http://smt.iptv543.com/Smart.php?id=asiatravel_twn
-#EXTINF:-1 tvg-name="纪录频道|Discovery HD" tvg-logo="https://logo.catvod.com/纪录频道|Discovery HD.png" group-title="纪录频道",纪录频道|Discovery HD
-http://smt.iptv543.com/Smart.php?id=discoveryhd_twn
-#EXTINF:-1 tvg-name="纪录频道|亚洲美食" tvg-logo="https://logo.catvod.com/纪录频道|亚洲美食.png" group-title="纪录频道",纪录频道|亚洲美食
-http://smt.iptv543.com/Smart.php?id=afc_twn
-#EXTINF:-1 tvg-name="纪录频道|美食星球" tvg-logo="https://logo.catvod.com/纪录频道|美食星球.png" group-title="纪录频道",纪录频道|美食星球
-http://smt.iptv543.com/Smart.php?id=foodplanet_twn
-#EXTINF:-1 tvg-name="纪录频道|亚洲TLC" tvg-logo="https://logo.catvod.com/纪录频道|亚洲TLC.png" group-title="纪录频道",纪录频道|亚洲TLC
-http://smt.iptv543.com/Smart.php?id=tlc_twn
-#EXTINF:-1 tvg-name="纪录频道|NatGeo HD" tvg-logo="https://logo.catvod.com/纪录频道|NatGeo HD.png" group-title="纪录频道",纪录频道|NatGeo HD
-http://smt.iptv543.com/Smart.php?id=Natgeo
-#EXTINF:-1 tvg-name="纪录频道|Fashion TV" tvg-logo="https://logo.catvod.com/纪录频道|Fashion TV.png" group-title="纪录频道",纪录频道|Fashion TV
-http://smt.iptv543.com/Smart.php?id=fashiontv_twn
-#EXTINF:-1 tvg-name="纪录频道|History" tvg-logo="https://logo.catvod.com/纪录频道|History.png" group-title="纪录频道",纪录频道|History
-http://smt.iptv543.com/Smart.php?id=History
-#EXTINF:-1 tvg-name="纪录频道|BBC Earth HD" tvg-logo="https://logo.catvod.com/纪录频道|BBC Earth HD.png" group-title="纪录频道",纪录频道|BBC Earth HD
-http://smt.iptv543.com/Smart.php?id=bbcearth_twn
-#EXTINF:-1 tvg-name="纪录频道|BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/纪录频道|BBC Earth Lifestyle.png" group-title="纪录频道",纪录频道|BBC Earth Lifestyle
-http://smt.iptv543.com/Smart.php?id=bbclifestyle_twn
-#EXTINF:-1 tvg-name="纪录频道|MTV Live" tvg-logo="https://logo.catvod.com/纪录频道|MTV Live.png" group-title="纪录频道",纪录频道|MTV Live
-http://smt.iptv543.com/Smart.php?id=mtvhd_twn
-#EXTINF:-1 tvg-name="纪录频道|NatGeo Wild HD" tvg-logo="https://logo.catvod.com/纪录频道|NatGeo Wild HD.png" group-title="纪录频道",纪录频道|NatGeo Wild HD
-http://smt.iptv543.com/Smart.php?id=Natgeowild
-#EXTINF:-1 tvg-name="纪录频道|Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/纪录频道|Animal Planet (Eng).png" group-title="纪录频道",纪录频道|Animal Planet (Eng)
-http://smt.iptv543.com/Smart.php?id=AnimalPlanet
-#EXTINF:-1 tvg-name="纪录频道|TLC" tvg-logo="https://logo.catvod.com/纪录频道|TLC.png" group-title="纪录频道",纪录频道|TLC
-http://smt.iptv543.com/Smart.php?id=Tlc
-#EXTINF:-1 tvg-name="纪录频道|Foodnetwork Hd" tvg-logo="https://logo.catvod.com/纪录频道|Foodnetwork Hd.png" group-title="纪录频道",纪录频道|Foodnetwork Hd
-http://smt.iptv543.com/Smart.php?id=Foodnetwork
-#EXTINF:-1 tvg-name="纪录频道|HGTV" tvg-logo="https://logo.catvod.com/纪录频道|HGTV.png" group-title="纪录频道",纪录频道|HGTV
-http://smt.iptv543.com/Smart.php?id=HGTV
-#EXTINF:-1 tvg-name="纪录频道|亚洲旅游台" tvg-logo="https://logo.catvod.com/纪录频道|亚洲旅游台.png" group-title="纪录频道",纪录频道|亚洲旅游台
-http://smt.iptv543.com/Smart.php?id=asiatravel_twn
 #EXTINF:-1 tvg-name="新闻频道|Skynews" tvg-logo="https://logo.catvod.com/新闻频道|Skynews.png" group-title="新闻频道",新闻频道|Skynews
 http://smt.iptv543.com/Smart.php?id=skynews_twn
 #EXTINF:-1 tvg-name="新闻频道|ABC News" tvg-logo="https://logo.catvod.com/新闻频道|ABC News.png" group-title="新闻频道",新闻频道|ABC News
