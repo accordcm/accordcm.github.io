@@ -655,21 +655,21 @@ http://smt.iptv543.com/Smart.php?id=Astrobein3
 
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
-https://mt01.utako.moe/NHK_G/index.m3u8
+https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
-https://mt01.utako.moe/NHK_E/index.m3u8
+https://nl.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
-https://mt01.utako.moe/Nippon_TV/index.m3u8
+https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
-https://mt01.utako.moe/TBS/index.m3u8
+https://nl.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://logo.catvod.com/Fuji TV.png" group-title="日本",Fuji TV
-https://mt01.utako.moe/Fuji_TV/index.m3u8
+https://nl.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
-https://mt01.utako.moe/TV_Asahi/index.m3u8
+https://nl.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://logo.catvod.com/TV Tokyo.png" group-title="日本",TV Tokyo
-https://mt01.utako.moe/TV_Tokyo/index.m3u8
+https://nl.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
-https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX2" tvg-logo="https://logo.catvod.com/TOKYO MX2.png" group-title="日本",TOKYO MX2
 https://mt01.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 tvg-name="MBS" tvg-logo="https://logo.catvod.com/MBS.png" group-title="日本",MBS
@@ -709,19 +709,19 @@ https://mt01.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 tvg-name="BS TV Tokyo 4K (test)" tvg-logo="https://logo.catvod.com/BS TV Tokyo 4K (test).png" group-title="日本",BS TV Tokyo 4K (test)
 https://mt01.utako.moe/bstx4k/index.m3u8
 #EXTINF:-1 tvg-name="WOWOW Prime" tvg-logo="https://logo.catvod.com/WOWOW Prime.png" group-title="日本",WOWOW Prime
-https://mt01.utako.moe/wprime/index.m3u8
+https://nl.utako.moe/wprime/index.m3u8
 #EXTINF:-1 tvg-name="WOWOW Cinema" tvg-logo="https://logo.catvod.com/WOWOW Cinema.png" group-title="日本",WOWOW Cinema
-https://mt01.utako.moe/wcinema/index.m3u8
+https://nl.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 tvg-name="WOWOW Live" tvg-logo="https://logo.catvod.com/WOWOW Live.png" group-title="日本",WOWOW Live
-https://mt01.utako.moe/wlive/index.m3u8
+https://nl.utako.moe/wlive/index.m3u8
 #EXTINF:-1 tvg-name="BS 10 Star Channel" tvg-logo="https://logo.catvod.com/BS 10 Star Channel.png" group-title="日本",BS 10 Star Channel
-https://mt01.utako.moe/bs10_star/index.m3u8
+https://nl.utako.moe/bs10/index.m3u8
 #EXTINF:-1 tvg-name="JSport 1" tvg-logo="https://logo.catvod.com/JSport 1.png" group-title="日本",JSport 1
-https://mt01.utako.moe/js1/index.m3u8
+https://nl.utako.moe/js1/index.m3u8
 #EXTINF:-1 tvg-name="JSport 2" tvg-logo="https://logo.catvod.com/JSport 2.png" group-title="日本",JSport 2
-https://mt01.utako.moe/js2/index.m3u8
+https://nl.utako.moe/js2/index.m3u8
 #EXTINF:-1 tvg-name="JSport 3" tvg-logo="https://logo.catvod.com/JSport 3.png" group-title="日本",JSport 3
-https://mt01.utako.moe/js3/index.m3u8
+https://nl.utako.moe/js3/index.m3u8
 #EXTINF:-1 tvg-name="JSport 4" tvg-logo="https://logo.catvod.com/JSport 4.png" group-title="日本",JSport 4
 https://mt01.utako.moe/js4/index.m3u8
 #EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://logo.catvod.com/Green Channel.png" group-title="日本",Green Channel
