@@ -154,6 +154,10 @@ http://iptv543.com/litv.php?token=885252&id=litv-longturn20
 
 #EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://logo.catvod.com/DISCOVERY.png" group-title="台灣備用",DISCOVERY
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY1" tvg-logo="https://logo.catvod.com/DISCOVERY1.png" group-title="台灣備用",DISCOVERY1
+https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-name="車迷TV" tvg-logo="https://logo.catvod.com/車迷TV.png" group-title="台灣備用",車迷TV
+http://141.11.87.241:20013/4gtv-live201/index.m3u8
 #EXTINF:-1 tvg-name="三立台灣HD" tvg-logo="https://logo.catvod.com/三立台灣HD.png" group-title="台灣備用",三立台灣HD
 http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
 #EXTINF:-1 tvg-name="三立都會HD" tvg-logo="https://logo.catvod.com/三立都會HD.png" group-title="台灣備用",三立都會HD
@@ -371,58 +375,72 @@ https://nl.utako.moe/v_paradise/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Golden 強片台" tvg-name="Golden 強片台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png" group-title="歐飛點播",Golden 強片台
+http://141.11.87.241:20013/ofiii70/index.m3u8
+#EXTINF:-1 tvg-id="周星馳台" tvg-name="周星馳台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png" group-title="歐飛點播",周星馳台
+http://141.11.87.241:20013/ofiii73/index.m3u8
+#EXTINF:-1 tvg-id="歐飛電影台" tvg-name="歐飛電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png" group-title="歐飛點播",歐飛電影台
+http://141.11.87.241:20013/ofiii74/index.m3u8
+#EXTINF:-1 tvg-id="歐飛動作電影台" tvg-name="歐飛動作電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png" group-title="歐飛點播",歐飛動作電影台
+http://141.11.87.241:20013/ofiii75/index.m3u8
+#EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png"group-title="歐飛點播",哆啦Ａ夢台
+http://141.11.87.241:20013/ofiii22/index.m3u8
+#EXTINF:-1 tvg-id="新哆啦A夢(中文版)" tvg-name="新哆啦A夢(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png" group-title="歐飛點播",新哆啦A夢(中文版)
+http://141.11.87.241:20013/ofiii23/index.m3u8
+
+
 #EXTINF:-1 tvg-name="中国|湖南卫视" tvg-logo="https://logo.catvod.com/中国|湖南卫视.png" group-title="中国",中国|湖南卫视
-http://smt.iptv543.com/Smart.php?id=hunan_twn
+https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
 #EXTINF:-1 tvg-name="中国|浙江卫视" tvg-logo="https://logo.catvod.com/中国|浙江卫视.png" group-title="中国",中国|浙江卫视
-http://smt.iptv543.com/Smart.php?id=zhejiang_twn
+https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
 #EXTINF:-1 tvg-name="中国|江苏卫视" tvg-logo="https://logo.catvod.com/中国|江苏卫视.png" group-title="中国",中国|江苏卫视
-http://smt.iptv543.com/Smart.php?id=jiangsu_twn
+https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
 #EXTINF:-1 tvg-name="中国|东方卫视" tvg-logo="https://logo.catvod.com/中国|东方卫视.png" group-title="中国",中国|东方卫视
-http://smt.iptv543.com/Smart.php?id=dongfangweishi_twn
+https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
 #EXTINF:-1 tvg-name="中国|北京卫视" tvg-logo="https://logo.catvod.com/中国|北京卫视.png" group-title="中国",中国|北京卫视
-http://smt.iptv543.com/Smart.php?id=beijing
+https://smart.pendy.dpdns.org/Smart.php?id=beijing
 #EXTINF:-1 tvg-name="中国|深圳卫视" tvg-logo="https://logo.catvod.com/中国|深圳卫视.png" group-title="中国",中国|深圳卫视
 http://smt.iptv543.com/Smart.php?id=shenzhen
 #EXTINF:-1 tvg-name="中国|广东卫视" tvg-logo="https://logo.catvod.com/中国|广东卫视.png" group-title="中国",中国|广东卫视
-http://smt.iptv543.com/Smart.php?id=guangdongweishi_twn
+https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
 #EXTINF:-1 tvg-name="中国|大湾区卫视" tvg-logo="https://logo.catvod.com/中国|大湾区卫视.png" group-title="中国",中国|大湾区卫视
 http://smt.iptv543.com/Smart.php?id=nanfang_twn
 #EXTINF:-1 tvg-name="中国|CGTN" tvg-logo="https://logo.catvod.com/中国|CGTN.png" group-title="中国",中国|CGTN
 http://smt.iptv543.com/Smart.php?id=CGTN
-#EXTINF:-1 tvg-name="新加坡|Channel 5" tvg-logo="https://logo.catvod.com/新加坡|Channel 5.png" group-title="新加坡",新加坡|Channel 5
-http://smt.iptv543.com/Smart.php?id=Channel5HD
-#EXTINF:-1 tvg-name="新加坡|Channel 8" tvg-logo="https://logo.catvod.com/新加坡|Channel 8.png" group-title="新加坡",新加坡|Channel 8
-http://smt.iptv543.com/Smart.php?id=Channel8HD
+#EXTINF:-1 tvg-name="新加坡|Channel 15" tvg-logo="https://logo.catvod.com/新加坡|Channel 15.png" group-title="新加坡",新加坡|Channel 15
+https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD
+#EXTINF:-1 tvg-name="新加坡|Channel 18" tvg-logo="https://logo.catvod.com/新加坡|Channel 18.png" group-title="新加坡",新加坡|Channel 18
+https://smart.pendy.dpdns.org/Smart.php?id=Channel8HD
 #EXTINF:-1 tvg-name="新加坡|Suria" tvg-logo="https://logo.catvod.com/新加坡|Suria.png" group-title="新加坡",新加坡|Suria
-http://smt.iptv543.com/Smart.php?id=Suria
+https://smart.pendy.dpdns.org/Smart.php?id=Suria
 #EXTINF:-1 tvg-name="新加坡|Channel U" tvg-logo="https://logo.catvod.com/新加坡|Channel U.png" group-title="新加坡",新加坡|Channel U
-http://smt.iptv543.com/Smart.php?id=ChannelU
+https://smart.pendy.dpdns.org/Smart.php?id=ChannelU
 #EXTINF:-1 tvg-name="新加坡|Vasantham" tvg-logo="https://logo.catvod.com/新加坡|Vasantham.png" group-title="新加坡",新加坡|Vasantham
-http://smt.iptv543.com/Smart.php?id=Vasantham
+https://smart.pendy.dpdns.org/Smart.php?id=Vasantham
 #EXTINF:-1 tvg-name="新加坡|CNA" tvg-logo="https://logo.catvod.com/新加坡|CNA.png" group-title="新加坡",新加坡|CNA
 http://smt.iptv543.com/Smart.php?id=cna
 #EXTINF:-1 tvg-name="新加坡|CNA backup" tvg-logo="https://logo.catvod.com/新加坡|CNA backup.png" group-title="新加坡",新加坡|CNA backup
-http://smt.iptv543.com/Smart.php?id=cna_twn
+https://smart.pendy.dpdns.org/Smart.php?id=cna_twn
 #EXTINF:-1 tvg-name="新加坡|MeWatch Ch 5" tvg-logo="https://logo.catvod.com/新加坡|MeWatch Ch 5.png" group-title="新加坡",新加坡|MeWatch Ch 5
-http://smt.iptv543.com/Smart.php?id=Mewatch_ch5
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch5
 #EXTINF:-1 tvg-name="新加坡|MeWatch Ch 8" tvg-logo="https://logo.catvod.com/新加坡|MeWatch Ch 8.png" group-title="新加坡",新加坡|MeWatch Ch 8
-http://smt.iptv543.com/Smart.php?id=Mewatch_ch8
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch8
 #EXTINF:-1 tvg-name="新加坡|MeWatch Ch U" tvg-logo="https://logo.catvod.com/新加坡|MeWatch Ch U.png" group-title="新加坡",新加坡|MeWatch Ch U
-http://smt.iptv543.com/Smart.php?id=Mewatch_chU
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_chU
 #EXTINF:-1 tvg-name="新加坡|MeWatch Suria" tvg-logo="https://logo.catvod.com/新加坡|MeWatch Suria.png" group-title="新加坡",新加坡|MeWatch Suria
-http://smt.iptv543.com/Smart.php?id=Mewatch_Suria
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Suria
 #EXTINF:-1 tvg-name="新加坡|MeWatch Vasantham" tvg-logo="https://logo.catvod.com/新加坡|MeWatch Vasantham.png" group-title="新加坡",新加坡|MeWatch Vasantham
-http://smt.iptv543.com/Smart.php?id=Mewatch_Vasantham
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Vasantham
 #EXTINF:-1 tvg-name="新加坡|MeWatch CNA" tvg-logo="https://logo.catvod.com/新加坡|MeWatch CNA.png" group-title="新加坡",新加坡|MeWatch CNA
-http://smt.iptv543.com/Smart.php?id=Mewatch_cna
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_cna
 #EXTINF:-1 tvg-name="马来西亚|TV1" tvg-logo="https://logo.catvod.com/马来西亚|TV1.png" group-title="马来西亚",马来西亚|TV1
-http://smt.iptv543.com/Smart.php?id=TV1
+https://smart.pendy.dpdns.org/Smart.php?id=TV1
 #EXTINF:-1 tvg-name="马来西亚|TV1 backup" tvg-logo="https://logo.catvod.com/马来西亚|TV1 backup.png" group-title="马来西亚",马来西亚|TV1 backup
-http://smt.iptv543.com/Smart.php?id=TV1_backup
+https://smart.pendy.dpdns.org/Smart.php?id=TV1_backup
 #EXTINF:-1 tvg-name="马来西亚|TV2" tvg-logo="https://logo.catvod.com/马来西亚|TV2.png" group-title="马来西亚",马来西亚|TV2
-http://smt.iptv543.com/Smart.php?id=TV2
+https://smart.pendy.dpdns.org/Smart.php?id=TV2
 #EXTINF:-1 tvg-name="马来西亚|TV3" tvg-logo="https://logo.catvod.com/马来西亚|TV3.png" group-title="马来西亚",马来西亚|TV3
-http://smt.iptv543.com/Smart.php?id=TV3
+https://smart.pendy.dpdns.org/Smart.php?id=TV3
 #EXTINF:-1 tvg-name="马来西亚|TV3 SD" tvg-logo="https://logo.catvod.com/马来西亚|TV3 SD.png" group-title="马来西亚",马来西亚|TV3 SD
 http://smt.iptv543.com/Smart.php?id=TV3_mega
 #EXTINF:-1 tvg-name="马来西亚|NTV7" tvg-logo="https://logo.catvod.com/马来西亚|NTV7.png" group-title="马来西亚",马来西亚|NTV7
@@ -524,11 +542,11 @@ http://smt.iptv543.com/Smart.php?id=Xinhe
 #EXTINF:-1 tvg-name="马来西亚|爱奇艺 iQiyi" tvg-logo="https://logo.catvod.com/马来西亚|爱奇艺 iQiyi.png" group-title="马来西亚",马来西亚|爱奇艺 iQiyi
 http://smt.iptv543.com/Smart.php?id=Qiyi
 #EXTINF:-1 tvg-name="英国|BBC 1" tvg-logo="https://logo.catvod.com/英国|BBC 1.png" group-title="英国",英国|BBC 1
-http://smt.iptv543.com/Smart.php?id=bbc1_antik
+https://smart.pendy.dpdns.org/Smart.php?id=bbc1_antik
 #EXTINF:-1 tvg-name="英国|BBC 2" tvg-logo="https://logo.catvod.com/英国|BBC 2.png" group-title="英国",英国|BBC 2
-http://smt.iptv543.com/Smart.php?id=bbc2_antik
+https://smart.pendy.dpdns.org/Smart.php?id=bbc2_antik
 #EXTINF:-1 tvg-name="英国|CBBC" tvg-logo="https://logo.catvod.com/英国|CBBC.png" group-title="英国",英国|CBBC
-http://smt.iptv543.com/Smart.php?id=cbbc_antik
+https://smart.pendy.dpdns.org/Smart.php?id=cbbc_antik
 #EXTINF:-1 tvg-name="英国|More4" tvg-logo="https://logo.catvod.com/英国|More4.png" group-title="英国",英国|More4
 http://smt.iptv543.com/Smart.php?id=more4_antik
 #EXTINF:-1 tvg-name="英国|Freesports" tvg-logo="https://logo.catvod.com/英国|Freesports.png" group-title="英国",英国|Freesports
@@ -571,56 +589,53 @@ http://smt.iptv543.com/Smart.php?id=nhkworld_japan
 http://smt.iptv543.com/Smart.php?id=WarnerTV
 #EXTINF:-1 tvg-name="英国|HBO HD" tvg-logo="https://logo.catvod.com/英国|HBO HD.png" group-title="英国",英国|HBO HD
 http://smt.iptv543.com/Smart.php?id=Hbo
-#EXTINF:-1 tvg-name="电影频道|CCTV6" tvg-logo="https://logo.catvod.com/电影频道|CCTV6.png" group-title="电影频道",电影频道|CCTV-6
-http://smt.iptv543.com/Smart.php?id=cctv6
+
+
+
 #EXTINF:-1 tvg-name="电影频道|AXN Taiwan" tvg-logo="https://logo.catvod.com/电影频道|AXN Taiwan.png" group-title="电影频道",电影频道|AXN Taiwan
-http://smt.iptv543.com/Smart.php?id=axn_twn
-#EXTINF:-1 tvg-name="电影频道|HBO_HD" tvg-logo="https://logo.catvod.com/电影频道|HBO_HD.png" group-title="电影频道",电影频道|HBO_HD
-http://smt.iptv543.com/Smart.php?id=hbohd_twn
-#EXTINF:-1 tvg-name="电影频道|HBO_HITS" tvg-logo="https://logo.catvod.com/电影频道|HBO_HITS.png" group-title="电影频道",电影频道|HBO_HITS
-http://smt.iptv543.com/Smart.php?id=hbohit_twn
+http://smart.pendy.dpdns.org/Smart.php?id=axn_twn
 #EXTINF:-1 tvg-name="电影频道|CINEMAX" tvg-logo="https://logo.catvod.com/电影频道|CINEMAX.png" group-title="电影频道",电影频道|CINEMAX
-http://smt.iptv543.com/Smart.php?id=cinemax_twn
+https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-name="电影频道|好萊塢電影台" tvg-logo="https://logo.catvod.com/电影频道|好萊塢電影台.png" group-title="电影频道",电影频道|好萊塢電影台
-http://smt.iptv543.com/Smart.php?id=hollywoodmovies_twn
+http://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-name="电影频道|东森电影" tvg-logo="https://logo.catvod.com/电影频道|东森电影.png" group-title="电影频道",电影频道|东森电影
-http://smt.iptv543.com/Smart.php?id=ettvmovie
+http://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 #EXTINF:-1 tvg-name="电影频道|东森洋片" tvg-logo="https://logo.catvod.com/电影频道|东森洋片.png" group-title="电影频道",电影频道|东森洋片
-http://smt.iptv543.com/Smart.php?id=ettvwestern
+https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
 #EXTINF:-1 tvg-name="电影频道|龙华电影" tvg-logo="https://logo.catvod.com/电影频道|龙华电影.png" group-title="电影频道",电影频道|龙华电影
-http://smt.iptv543.com/Smart.php?id=xingwei_movie
+http://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 #EXTINF:-1 tvg-name="电影频道|龙华洋片" tvg-logo="https://logo.catvod.com/电影频道|龙华洋片.png" group-title="电影频道",电影频道|龙华洋片
-http://smt.iptv543.com/Smart.php?id=lunghuawestern_twn
+http://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-name="电影频道|龙祥时代" tvg-logo="https://logo.catvod.com/电影频道|龙祥时代.png" group-title="电影频道",电影频道|龙祥时代
-http://smt.iptv543.com/Smart.php?id=lungxiangtime_twn
+http://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="电影频道|美亚电影" tvg-logo="https://logo.catvod.com/电影频道|美亚电影.png" group-title="电影频道",电影频道|美亚电影
-http://smt.iptv543.com/Smart.php?id=meiyamovie_twn
+https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="电影频道|卫视电影台" tvg-logo="https://logo.catvod.com/电影频道|卫视电影台.png" group-title="电影频道",电影频道|卫视电影台
-http://smt.iptv543.com/Smart.php?id=weishimovie_twn
+https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
 #EXTINF:-1 tvg-name="电影频道|Animax" tvg-logo="https://logo.catvod.com/电影频道|Animax.png" group-title="电影频道",电影频道|Animax
-http://smt.iptv543.com/Smart.php?id=Animax
+https://smart.pendy.dpdns.org/Smart.php?id=Animax
 #EXTINF:-1 tvg-name="电影频道|Movies Now HD" tvg-logo="https://logo.catvod.com/电影频道|Movies Now HD.png" group-title="电影频道",电影频道|Movies Now HD
-http://smt.iptv543.com/Smart.php?id=moviesnow_raj
+https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
 #EXTINF:-1 tvg-name="电影频道|Star Movies HD" tvg-logo="https://logo.catvod.com/电影频道|Star Movies HD.png" group-title="电影频道",电影频道|Star Movies HD
-http://smt.iptv543.com/Smart.php?id=starmovies_raj
+https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
 #EXTINF:-1 tvg-name="电影频道|Hits" tvg-logo="https://logo.catvod.com/电影频道|Hits.png" group-title="电影频道",电影频道|Hits
 http://smt.iptv543.com/Smart.php?id=Hits
 #EXTINF:-1 tvg-name="电影频道|Warner TV" tvg-logo="https://logo.catvod.com/电影频道|Warner TV.png" group-title="电影频道",电影频道|Warner TV
-http://smt.iptv543.com/Smart.php?id=WarnerTV
+https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
 #EXTINF:-1 tvg-name="电影频道|HBO HD" tvg-logo="https://logo.catvod.com/电影频道|HBO HD.png" group-title="电影频道",电影频道|HBO HD
-http://smt.iptv543.com/Smart.php?id=Hbo
+https://smart.pendy.dpdns.org/Smart.php?id=Hbo
 #EXTINF:-1 tvg-name="电影频道|HBO Signature" tvg-logo="https://logo.catvod.com/电影频道|HBO Signature.png" group-title="电影频道",电影频道|HBO Signature
-http://smt.iptv543.com/Smart.php?id=Hbosignature
+https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
 #EXTINF:-1 tvg-name="电影频道|HBO Family" tvg-logo="https://logo.catvod.com/电影频道|HBO Family.png" group-title="电影频道",电影频道|HBO Family
-http://smt.iptv543.com/Smart.php?id=Hbofamily
+https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
 #EXTINF:-1 tvg-name="电影频道|HBO Hits" tvg-logo="https://logo.catvod.com/电影频道|HBO Hits.png" group-title="电影频道",电影频道|HBO Hits
-http://smt.iptv543.com/Smart.php?id=Hbohitshd
+https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
 #EXTINF:-1 tvg-name="电影频道|Cinemax" tvg-logo="https://logo.catvod.com/电影频道|Cinemax.png" group-title="电影频道",电影频道|Cinemax
 http://smt.iptv543.com/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-name="电影频道|Dreamworks" tvg-logo="https://logo.catvod.com/电影频道|Dreamworks.png" group-title="电影频道",电影频道|Dreamworks
-http://smt.iptv543.com/Smart.php?id=Dreamworks
+https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
 #EXTINF:-1 tvg-name="电影频道|SCM" tvg-logo="https://logo.catvod.com/电影频道|SCM.png" group-title="电影频道",电影频道|SCM
-http://smt.iptv543.com/Smart.php?id=Weishimovie
+https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
 #EXTINF:-1 tvg-name="电影频道|Thrill" tvg-logo="https://logo.catvod.com/电影频道|Thrill.png" group-title="电影频道",电影频道|Thrill
 http://smt.iptv543.com/Smart.php?id=Thrill
 #EXTINF:-1 tvg-name="电影频道|Hits Movie" tvg-logo="https://logo.catvod.com/电影频道|Hits Movie.png" group-title="电影频道",电影频道|Hits Movie
