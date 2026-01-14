@@ -374,11 +374,11 @@ https://nl.utako.moe/v_paradise/index.m3u8
 
 
 #EXTINF:-1 tvg-name="中国|湖南卫视" tvg-logo="https://logo.catvod.com/中国|湖南卫视.png" group-title="中国",中国|湖南卫视
-https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
+http://119.123.176.238:8086/hls/55/index.m3u8
 #EXTINF:-1 tvg-name="中国|浙江卫视" tvg-logo="https://logo.catvod.com/中国|浙江卫视.png" group-title="中国",中国|浙江卫视
-https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
+http://119.123.176.238:8086/hls/101/index.m3u8
 #EXTINF:-1 tvg-name="中国|江苏卫视" tvg-logo="https://logo.catvod.com/中国|江苏卫视.png" group-title="中国",中国|江苏卫视
-https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
+http://119.123.176.238:8086/hls/59/index.m3u8
 #EXTINF:-1 tvg-name="中国|东方卫视" tvg-logo="https://logo.catvod.com/中国|东方卫视.png" group-title="中国",中国|东方卫视
 https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
 #EXTINF:-1 tvg-name="中国|北京卫视" tvg-logo="https://logo.catvod.com/中国|北京卫视.png" group-title="中国",中国|北京卫视
@@ -577,7 +577,7 @@ http://smt.iptv543.com/Smart.php?id=Hbo
 
 
 #EXTINF:-1 tvg-name="电影频道|AXN Taiwan" tvg-logo="https://logo.catvod.com/电影频道|AXN Taiwan.png" group-title="电影频道",电影频道|AXN Taiwan
-http://96.44.160.246:9999/smt.php?id=axn_twn
+https://live.catvod.com/live.php?id=videolandmovie
 #EXTINF:-1 tvg-name="电影频道|CINEMAX" tvg-logo="https://logo.catvod.com/电影频道|CINEMAX.png" group-title="电影频道",电影频道|CINEMAX
 http://96.44.160.246:9999/smt.php?id=cinemax_twn
 #EXTINF:-1 tvg-name="电影频道|好萊塢電影台" tvg-logo="https://logo.catvod.com/电影频道|好萊塢電影台.png" group-title="电影频道",电影频道|好萊塢電影台
@@ -593,7 +593,7 @@ http://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-name="电影频道|龙祥时代" tvg-logo="https://logo.catvod.com/电影频道|龙祥时代.png" group-title="电影频道",电影频道|龙祥时代
 http://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="电影频道|美亚电影" tvg-logo="https://logo.catvod.com/电影频道|美亚电影.png" group-title="电影频道",电影频道|美亚电影
-http://96.44.160.246:9999/smt.php?id=meiyamovie_twn
+http://74.91.26.218:82/live/mydy.m3u8
 #EXTINF:-1 tvg-name="电影频道|卫视电影台" tvg-logo="https://logo.catvod.com/电影频道|卫视电影台.png" group-title="电影频道",电影频道|卫视电影台
 https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
 #EXTINF:-1 tvg-name="电影频道|Animax" tvg-logo="https://logo.catvod.com/电影频道|Animax.png" group-title="电影频道",电影频道|Animax
@@ -806,14 +806,14 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 #EXTINF:-1 tvg-name="LOOK" tvg-logo="https://logo.catvod.com/LOOK.png" group-title="私人频道_543",LOOK
 p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
 #EXTINF:-1 tvg-name="HAPPY" tvg-logo="https://logo.catvod.com/HAPPY.png" group-title="私人频道_543",HAPPY
-p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
+http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
 #EXTINF:-1 tvg-name="彩虹e" tvg-logo="https://logo.catvod.com/彩虹e.png" group-title="私人频道_543",彩虹e
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/91.ts
+http://z88.ubtvfans.com/live/rx4/2935/b2216e8fc2323f8a0a275e7c62df8732/index.m3u8
 #EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://logo.catvod.com/彩虹K.png" group-title="私人频道_543",彩虹K
 p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
 #EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://logo.catvod.com/彩虹电影.png" group-title="私人频道_543",彩虹电影
-p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
+http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
 #EXTINF:-1 tvg-name="彩虹频道" tvg-logo="https://logo.catvod.com/彩虹频道.png" group-title="私人频道_543",彩虹频道
 p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
 #EXTINF:-1 tvg-name="极限电影" tvg-logo="https://logo.catvod.com/极限电影.png" group-title="私人频道_543",极限电影
-p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
+http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8
