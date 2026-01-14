@@ -577,15 +577,15 @@ http://smt.iptv543.com/Smart.php?id=Hbo
 
 
 #EXTINF:-1 tvg-name="电影频道|AXN Taiwan" tvg-logo="https://logo.catvod.com/电影频道|AXN Taiwan.png" group-title="电影频道",电影频道|AXN Taiwan
-http://smart.pendy.dpdns.org/Smart.php?id=axn_twn
+http://96.44.160.246:9999/smt.php?id=axn_twn
 #EXTINF:-1 tvg-name="电影频道|CINEMAX" tvg-logo="https://logo.catvod.com/电影频道|CINEMAX.png" group-title="电影频道",电影频道|CINEMAX
-https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
+http://96.44.160.246:9999/smt.php?id=cinemax_twn
 #EXTINF:-1 tvg-name="电影频道|好萊塢電影台" tvg-logo="https://logo.catvod.com/电影频道|好萊塢電影台.png" group-title="电影频道",电影频道|好萊塢電影台
-http://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
+http://96.44.160.246:9999/smt.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-name="电影频道|东森电影" tvg-logo="https://logo.catvod.com/电影频道|东森电影.png" group-title="电影频道",电影频道|东森电影
-http://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+http://96.44.160.246:9999/smt.php?id=ettvmovie
 #EXTINF:-1 tvg-name="电影频道|东森洋片" tvg-logo="https://logo.catvod.com/电影频道|东森洋片.png" group-title="电影频道",电影频道|东森洋片
-https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
+http://96.44.160.246:9999/smt.php?id=ettvwestern
 #EXTINF:-1 tvg-name="电影频道|龙华电影" tvg-logo="https://logo.catvod.com/电影频道|龙华电影.png" group-title="电影频道",电影频道|龙华电影
 http://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 #EXTINF:-1 tvg-name="电影频道|龙华洋片" tvg-logo="https://logo.catvod.com/电影频道|龙华洋片.png" group-title="电影频道",电影频道|龙华洋片
@@ -593,7 +593,7 @@ http://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-name="电影频道|龙祥时代" tvg-logo="https://logo.catvod.com/电影频道|龙祥时代.png" group-title="电影频道",电影频道|龙祥时代
 http://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="电影频道|美亚电影" tvg-logo="https://logo.catvod.com/电影频道|美亚电影.png" group-title="电影频道",电影频道|美亚电影
-https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
+http://96.44.160.246:9999/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="电影频道|卫视电影台" tvg-logo="https://logo.catvod.com/电影频道|卫视电影台.png" group-title="电影频道",电影频道|卫视电影台
 https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
 #EXTINF:-1 tvg-name="电影频道|Animax" tvg-logo="https://logo.catvod.com/电影频道|Animax.png" group-title="电影频道",电影频道|Animax
@@ -607,13 +607,13 @@ http://smt.iptv543.com/Smart.php?id=Hits
 #EXTINF:-1 tvg-name="电影频道|Warner TV" tvg-logo="https://logo.catvod.com/电影频道|Warner TV.png" group-title="电影频道",电影频道|Warner TV
 https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
 #EXTINF:-1 tvg-name="电影频道|HBO HD" tvg-logo="https://logo.catvod.com/电影频道|HBO HD.png" group-title="电影频道",电影频道|HBO HD
-https://smart.pendy.dpdns.org/Smart.php?id=Hbo
+http://96.44.160.246:9999/smt.php?id=hbohd_twn
 #EXTINF:-1 tvg-name="电影频道|HBO Signature" tvg-logo="https://logo.catvod.com/电影频道|HBO Signature.png" group-title="电影频道",电影频道|HBO Signature
-https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
+http://96.44.160.246:9999/smt.php?id=hbosignature_twn
 #EXTINF:-1 tvg-name="电影频道|HBO Family" tvg-logo="https://logo.catvod.com/电影频道|HBO Family.png" group-title="电影频道",电影频道|HBO Family
 https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
 #EXTINF:-1 tvg-name="电影频道|HBO Hits" tvg-logo="https://logo.catvod.com/电影频道|HBO Hits.png" group-title="电影频道",电影频道|HBO Hits
-https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
+http://96.44.160.246:9999/smt.php?id=hbohits_twn
 #EXTINF:-1 tvg-name="电影频道|Cinemax" tvg-logo="https://logo.catvod.com/电影频道|Cinemax.png" group-title="电影频道",电影频道|Cinemax
 http://smt.iptv543.com/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-name="电影频道|Dreamworks" tvg-logo="https://logo.catvod.com/电影频道|Dreamworks.png" group-title="电影频道",电影频道|Dreamworks
