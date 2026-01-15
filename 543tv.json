@@ -579,9 +579,9 @@ http://smt.iptv543.com/Smart.php?id=Hbo
 #EXTINF:-1 tvg-name="电影频道|愛奇藝" tvg-logo="https://logo.catvod.com/电影频道|愛奇藝.png" group-title="电影频道",电影频道|愛奇藝
 https://live.catvod.com/iptv.php?id=iqiyi01
 #EXTINF:-1 tvg-name="电影频道|AXN Taiwan" tvg-logo="https://logo.catvod.com/电影频道|AXN Taiwan.png" group-title="电影频道",电影频道|AXN Taiwan
-http://185.106.96.201:28278/Axn/playlist.m3u8
+https://sto.ufile.eu.org/smt.php?id=Axn&h=sto.ufile.eu.org&p=22364
 #EXTINF:-1 tvg-name="电影频道|CINEMAX" tvg-logo="https://logo.catvod.com/电影频道|CINEMAX.png" group-title="电影频道",电影频道|CINEMAX
-http://185.106.96.201:28278/Cinemax/playlist.m3u8
+https://sto.ufile.eu.org/smt.php?id=cinemax_twn&h=sto.ufile.eu.org&p=22364
 #EXTINF:-1 tvg-name="电影频道|好萊塢電影台" tvg-logo="https://logo.catvod.com/电影频道|好萊塢電影台.png" group-title="电影频道",电影频道|好萊塢電影台
 http://96.44.160.246:9999/smt.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-name="电影频道|东森电影" tvg-logo="https://logo.catvod.com/电影频道|东森电影.png" group-title="电影频道",电影频道|东森电影
@@ -595,7 +595,7 @@ https://live.catvod.com/iptv.php?id=lhyp01
 #EXTINF:-1 tvg-name="电影频道|龙祥时代" tvg-logo="https://logo.catvod.com/电影频道|龙祥时代.png" group-title="电影频道",电影频道|龙祥时代
 http://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="电影频道|美亚电影" tvg-logo="https://logo.catvod.com/电影频道|美亚电影.png" group-title="电影频道",电影频道|美亚电影
-http://185.106.96.201:28278/meiyamovie_twn/playlist.m3u8
+http://74.91.26.218:82/live/mydy.m3u8
 #EXTINF:-1 tvg-name="电影频道|卫视电影台" tvg-logo="https://logo.catvod.com/电影频道|卫视电影台.png" group-title="电影频道",电影频道|卫视电影台
 https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
 #EXTINF:-1 tvg-name="电影频道|Animax" tvg-logo="https://logo.catvod.com/电影频道|Animax.png" group-title="电影频道",电影频道|Animax
@@ -603,11 +603,11 @@ https://smart.pendy.dpdns.org/Smart.php?id=Animax
 #EXTINF:-1 tvg-name="电影频道|Movies Now HD" tvg-logo="https://logo.catvod.com/电影频道|Movies Now HD.png" group-title="电影频道",电影频道|Movies Now HD
 https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
 #EXTINF:-1 tvg-name="电影频道|Star Movies HD" tvg-logo="https://logo.catvod.com/电影频道|Star Movies HD.png" group-title="电影频道",电影频道|Star Movies HD
-http://185.106.96.201:28278/starmovies_raj/playlist.m3u8
+https://sto.ufile.eu.org/smt.php?id=starmovies_raj&h=sto.ufile.eu.org&p=22364
 #EXTINF:-1 tvg-name="电影频道|Hits" tvg-logo="https://logo.catvod.com/电影频道|Hits.png" group-title="电影频道",电影频道|Hits
 http://smt.iptv543.com/Smart.php?id=Hits
 #EXTINF:-1 tvg-name="电影频道|Warner TV" tvg-logo="https://logo.catvod.com/电影频道|Warner TV.png" group-title="电影频道",电影频道|Warner TV
-http://185.106.96.201:28278/WarnerTV/playlist.m3u8
+https://sto.ufile.eu.org/smt.php?id=WarnerTV&h=sto.ufile.eu.org&p=22364
 #EXTINF:-1 tvg-name="电影频道|HBO HD" tvg-logo="https://logo.catvod.com/电影频道|HBO HD.png" group-title="电影频道",电影频道|HBO HD
 http://185.106.96.201:28278/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-name="电影频道|HBO Signature" tvg-logo="https://logo.catvod.com/电影频道|HBO Signature.png" group-title="电影频道",电影频道|HBO Signature
