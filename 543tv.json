@@ -41,6 +41,20 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv001
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv003
 #EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://logo.doube.eu.org/民视综艺台.png" group-title="台湾频道",民视综艺台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝" tvg-logo="https://logo.doube.eu.org/愛奇藝.png" group-title="台湾频道",愛奇藝
+https://live.catvod.com/iptv.php?id=iqiyi01
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://logo.doube.eu.org/美亞電影台.png" group-title="台湾频道",美亞電影台
+http://74.91.26.218:82/live/mydy.m3u8
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://logo.doube.eu.org/TVBS欢乐台.png" group-title="台湾频道",TVBS欢乐台
+http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv068
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://logo.doube.eu.org/TVBS精采台.png" group-title="台湾频道",TVBS精采台
+http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv067
+#EXTINF:-1 tvg-id="ELTV娱乐" tvg-name="爱尔达娱乐" tvg-logo="https://logo.doube.eu.org/ELTV娱乐.png" group-title="台湾频道",爱尔达娱乐
+http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv070
+#EXTINF:-1 tvg-id="八大综艺" tvg-name="八大综艺台" tvg-logo="https://logo.doube.eu.org/八大综艺.png" group-title="台湾频道",八大综艺台
+http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv039
+#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩台" tvg-logo="https://logo.doube.eu.org/八大精彩.png" group-title="台湾频道",八大精彩台
+http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv034
 #EXTINF:-1 tvg-id="非凡商业" tvg-name="非凡商业台" tvg-logo="https://logo.doube.eu.org/非凡商业.png" group-title="台湾频道",非凡商业台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv048
 #EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经" tvg-logo="https://logo.doube.eu.org/台视财经台.png" group-title="台湾频道",台视财经
@@ -57,16 +71,6 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv063
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv065
 #EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://logo.doube.eu.org/客家电视台.png" group-title="台湾频道",客家电视台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv043
-#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://logo.doube.eu.org/TVBS欢乐台.png" group-title="台湾频道",TVBS欢乐台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv068
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://logo.doube.eu.org/TVBS精采台.png" group-title="台湾频道",TVBS精采台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv067
-#EXTINF:-1 tvg-id="ELTV娱乐" tvg-name="爱尔达娱乐" tvg-logo="https://logo.doube.eu.org/ELTV娱乐.png" group-title="台湾频道",爱尔达娱乐
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv070
-#EXTINF:-1 tvg-id="八大综艺" tvg-name="八大综艺台" tvg-logo="https://logo.doube.eu.org/八大综艺.png" group-title="台湾频道",八大综艺台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv039
-#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩台" tvg-logo="https://logo.doube.eu.org/八大精彩.png" group-title="台湾频道",八大精彩台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv034
 #EXTINF:-1 tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://logo.doube.eu.org/靖天欢乐台.png" group-title="台湾频道",靖天欢乐台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv054
 #EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://logo.doube.eu.org/靖天育乐台.png" group-title="台湾频道",靖天育乐台
@@ -636,6 +640,7 @@ http://smt.iptv543.com/Smart.php?id=Paramountnetwork
 http://96.44.160.246:9999/smt.php?id=Kplus
 #EXTINF:-1 tvg-name="电影频道|愛奇藝" tvg-logo="https://logo.catvod.com/电影频道|愛奇藝.png" group-title="电影频道",电影频道|愛奇藝
 https://live.catvod.com/iptv.php?id=iqiyi01
+
 #EXTINF:-1 tvg-name="新闻频道|Skynews" tvg-logo="https://logo.catvod.com/新闻频道|Skynews.png" group-title="新闻频道",新闻频道|Skynews
 http://smt.iptv543.com/Smart.php?id=skynews_twn
 #EXTINF:-1 tvg-name="新闻频道|ABC News" tvg-logo="https://logo.catvod.com/新闻频道|ABC News.png" group-title="新闻频道",新闻频道|ABC News
