@@ -41,8 +41,6 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv001
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv003
 #EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://logo.doube.eu.org/民视综艺台.png" group-title="台湾频道",民视综艺台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv004
-#EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝" tvg-logo="https://logo.doube.eu.org/愛奇藝.png" group-title="台湾频道",愛奇藝
-https://live.catvod.com/iptv.php?id=iqiyi01
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://logo.doube.eu.org/美亞電影台.png" group-title="台湾频道",美亞電影台
 http://74.91.26.218:82/live/mydy.m3u8
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://logo.doube.eu.org/TVBS欢乐台.png" group-title="台湾频道",TVBS欢乐台
