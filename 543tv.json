@@ -153,6 +153,8 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv083
 http://iptv543.com/litv.php?token=885252&id=litv-ftv10
 #EXTINF:-1 tvg-id="美国之音" tvg-name="美国之音" tvg-logo="https://logo.doube.eu.org/美国之音.png" group-title="台湾频道",美国之音
 http://iptv543.com/litv.php?token=885252&id=litv-ftv03
+#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://logo.doube.eu.org/Now爆谷台.png" group-title="台湾频道",Now爆谷台
+http://74.91.26.218:82/live/nowbg.m3u8
 #EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝" tvg-logo="https://logo.doube.eu.org/愛奇藝.png" group-title="台湾频道",愛奇藝
 https://live.catvod.com/iptv.php?id=iqiyi01
 
@@ -379,19 +381,19 @@ https://nl.utako.moe/v_paradise/index.m3u8
 
 
 #EXTINF:-1 tvg-name="中国|湖南卫视" tvg-logo="https://logo.catvod.com/中国|湖南卫视.png" group-title="中国",中国|湖南卫视
-http://tvlist.top/jd/index.php?id=hunanws&qt=118.212.78.251:8014
+http://tvlist.top/jd/index.php?id=hunanws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|浙江卫视" tvg-logo="https://logo.catvod.com/中国|浙江卫视.png" group-title="中国",中国|浙江卫视
-http://113.101.244.229:10000/udp/239.77.1.33:5146
+http://tvlist.top/jd/index.php?id=zjws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|江苏卫视" tvg-logo="https://logo.catvod.com/中国|江苏卫视.png" group-title="中国",中国|江苏卫视
-http://183.7.172.159:8888/hls/39/index.m3u8
+http://tvlist.top/jd/index.php?id=jsws&qt=118.212.78.251:8014
 #EXTINF:-1 tvg-name="中国|东方卫视" tvg-logo="https://logo.catvod.com/中国|东方卫视.png" group-title="中国",中国|东方卫视
-http://185.106.96.201:28278/dongfangweishi_twn/playlist.m3u8
+http://tvlist.top/jd/index.php?id=dfws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|北京卫视" tvg-logo="https://logo.catvod.com/中国|北京卫视.png" group-title="中国",中国|北京卫视
-http://185.106.96.201:28278/beijing/playlist.m3u8
+http://tvlist.top/jd/index.php?id=bjws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|深圳卫视" tvg-logo="https://logo.catvod.com/中国|深圳卫视.png" group-title="中国",中国|深圳卫视
 http://185.106.96.201:28278/shenzhen/playlist.m3u8
 #EXTINF:-1 tvg-name="中国|广东卫视" tvg-logo="https://logo.catvod.com/中国|广东卫视.png" group-title="中国",中国|广东卫视
-http://185.106.96.201:28278/guangdongweishi_twn/playlist.m3u8
+http://222.214.208.34:59901/tsfile/live/0125_1.m3u8
 #EXTINF:-1 tvg-name="中国|大湾区卫视" tvg-logo="https://logo.catvod.com/中国|大湾区卫视.png" group-title="中国",中国|大湾区卫视
 http://185.106.96.201:28278/nanfang_twn/playlist.m3u8
 #EXTINF:-1 tvg-name="中国|CGTN" tvg-logo="https://logo.catvod.com/中国|CGTN.png" group-title="中国",中国|CGTN
@@ -586,15 +588,15 @@ http://96.44.160.246:9999/smt.php?id=Axn
 #EXTINF:-1 tvg-name="电影频道|CINEMAX" tvg-logo="https://logo.catvod.com/电影频道|CINEMAX.png" group-title="电影频道",电影频道|CINEMAX
 http://96.44.160.246:9999/smt.php?id=Cinemax
 #EXTINF:-1 tvg-name="电影频道|好萊塢電影台" tvg-logo="https://logo.catvod.com/电影频道|好萊塢電影台.png" group-title="电影频道",电影频道|好萊塢電影台
-http://96.44.160.246:9999/smt.php?id=hollywoodmovies_twn
+http://free.cnlive.club/channel/n2db95de5.m3u8?q=111.170.171.148
 #EXTINF:-1 tvg-name="电影频道|东森电影" tvg-logo="https://logo.catvod.com/电影频道|东森电影.png" group-title="电影频道",电影频道|东森电影
-http://96.44.160.246:9999/smt.php?id=ettvmovie
+https://live.saileitv.com/channel/n5502f4/index.m3u8?q=1768660386565&sign=097c2fa48ab623ba6c6327404a1375c9&ts=1768660887
 #EXTINF:-1 tvg-name="电影频道|东森洋片" tvg-logo="https://logo.catvod.com/电影频道|东森洋片.png" group-title="电影频道",电影频道|东森洋片
 http://96.44.160.246:9999/smt.php?id=ettvwestern
 #EXTINF:-1 tvg-name="电影频道|龙华电影" tvg-logo="https://logo.catvod.com/电影频道|龙华电影.png" group-title="电影频道",电影频道|龙华电影
-https://live.catvod.com/iptv.php?id=lhdy01
+https://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-name="电影频道|龙华洋片" tvg-logo="https://logo.catvod.com/电影频道|龙华洋片.png" group-title="电影频道",电影频道|龙华洋片
-http://96.44.160.246:9999/smt.php?id=lunghuawestern_twn
+http://156.238.248.80/2099.php?id=117
 #EXTINF:-1 tvg-name="电影频道|龙祥时代" tvg-logo="https://logo.catvod.com/电影频道|龙祥时代.png" group-title="电影频道",电影频道|龙祥时代
 http://96.44.160.246:9999/smt.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="电影频道|美亚电影" tvg-logo="https://logo.catvod.com/电影频道|美亚电影.png" group-title="电影频道",电影频道|美亚电影
@@ -639,8 +641,8 @@ http://96.44.160.246:9999/smt.php?id=Axn
 http://smt.iptv543.com/Smart.php?id=Paramountnetwork
 #EXTINF:-1 tvg-name="电影频道|Astrol Kplus" tvg-logo="https://logo.catvod.com/电影频道|Astrol Kplus.png" group-title="电影频道",电影频道|Astrol Kplus
 http://96.44.160.246:9999/smt.php?id=Kplus
-#EXTINF:-1 tvg-name="电影频道|愛奇藝" tvg-logo="https://logo.catvod.com/电影频道|愛奇藝.png" group-title="电影频道",电影频道|愛奇藝
-https://live.catvod.com/iptv.php?id=iqiyi01
+#EXTINF:-1 tvg-name="电影频道|緯來" tvg-logo="https://logo.catvod.com/电影频道|緯來.png" group-title="电影频道",电影频道|緯來
+http://23.128.116.71:5589/live.php?id=videolandmovie&h=23.128.116.71&p=22364&token=1768656088.7cfab29e31a4d92960308bc41781955067656d64c99658a37feeaa185443399a
 
 #EXTINF:-1 tvg-name="新闻频道|Skynews" tvg-logo="https://logo.catvod.com/新闻频道|Skynews.png" group-title="新闻频道",新闻频道|Skynews
 http://smt.iptv543.com/Smart.php?id=skynews_twn
