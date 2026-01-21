@@ -375,19 +375,19 @@ https://nl.utako.moe/v_paradise/index.m3u8
 
 
 #EXTINF:-1 tvg-name="中国|湖南卫视" tvg-logo="https://logo.catvod.com/中国|湖南卫视.png" group-title="中国",中国|湖南卫视
-http://smt.iptv543.com/Smart.php?id=hunan_twn
+http://tvlist.top/jd/index.php?id=hunanws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|浙江卫视" tvg-logo="https://logo.catvod.com/中国|浙江卫视.png" group-title="中国",中国|浙江卫视
-http://smt.iptv543.com/Smart.php?id=zhejiang_twn
+http://tvlist.top/jd/index.php?id=zjws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|江苏卫视" tvg-logo="https://logo.catvod.com/中国|江苏卫视.png" group-title="中国",中国|江苏卫视
-http://smt.iptv543.com/Smart.php?id=jiangsu_twn
+https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="中国|东方卫视" tvg-logo="https://logo.catvod.com/中国|东方卫视.png" group-title="中国",中国|东方卫视
-http://smt.iptv543.com/Smart.php?id=dongfangweishi_twn
+http://tvlist.top/jd/index.php?id=dfws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|北京卫视" tvg-logo="https://logo.catvod.com/中国|北京卫视.png" group-title="中国",中国|北京卫视
-http://smt.iptv543.com/Smart.php?id=beijing
+http://tvlist.top/jd/index.php?id=bjws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|深圳卫视" tvg-logo="https://logo.catvod.com/中国|深圳卫视.png" group-title="中国",中国|深圳卫视
-http://smt.iptv543.com/Smart.php?id=shenzhen
+http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|广东卫视" tvg-logo="https://logo.catvod.com/中国|广东卫视.png" group-title="中国",中国|广东卫视
-http://smt.iptv543.com/Smart.php?id=guangdongweishi_twn
+https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="新加坡|Channel 5" tvg-logo="https://logo.catvod.com/新加坡|Channel 5.png" group-title="新加坡",新加坡|Channel 5
 http://smt.iptv543.com/Smart.php?id=Channel5HD
 #EXTINF:-1 tvg-name="新加坡|Channel 8" tvg-logo="https://logo.catvod.com/新加坡|Channel 8.png" group-title="新加坡",新加坡|Channel 8
