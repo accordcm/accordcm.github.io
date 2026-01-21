@@ -167,6 +167,8 @@ http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
 http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
 #EXTINF:-1 tvg-name="東森綜合HD" tvg-logo="https://logo.catvod.com/東森綜合HD.png" group-title="台灣備用",東森綜合HD
 http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 tvg-name="TVB plus" tvg-logo="https://logo.catvod.com/TVB plus.png" group-title="台灣備用",TVB plus
+http://74.91.26.218:82/live/j2.m3u8
 #EXTINF:-1 tvg-name="旅遊生活" tvg-logo="https://logo.catvod.com/旅遊生活.png" group-title="台灣備用",旅遊生活
 http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
 #EXTINF:-1 tvg-name="動物星球" tvg-logo="https://logo.catvod.com/動物星球.png" group-title="台灣備用",動物星球
@@ -387,15 +389,15 @@ http://tvlist.top/jd/index.php?id=zjws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|江苏卫视" tvg-logo="https://logo.catvod.com/中国|江苏卫视.png" group-title="中国",中国|江苏卫视
 https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="中国|东方卫视" tvg-logo="https://logo.catvod.com/中国|东方卫视.png" group-title="中国",中国|东方卫视
-http://119.123.176.238:8086/hls/129/index.m3u8
+http://tvlist.top/jd/index.php?id=dfws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|北京卫视" tvg-logo="https://logo.catvod.com/中国|北京卫视.png" group-title="中国",中国|北京卫视
-https://py.doube.eu.org/ysp/2024052703/600002309
+http://tvlist.top/jd/index.php?id=bjws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|深圳卫视" tvg-logo="https://logo.catvod.com/中国|深圳卫视.png" group-title="中国",中国|深圳卫视
-http://185.106.96.201:28278/shenzhen/playlist.m3u8
+http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="中国|广东卫视" tvg-logo="https://logo.catvod.com/中国|广东卫视.png" group-title="中国",中国|广东卫视
 https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="中国|大湾区卫视" tvg-logo="https://logo.catvod.com/中国|大湾区卫视.png" group-title="中国",中国|大湾区卫视
-http://185.106.96.201:28278/nanfang_twn/playlist.m3u8
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gXfaFe&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="中国|CGTN" tvg-logo="https://logo.catvod.com/中国|CGTN.png" group-title="中国",中国|CGTN
 http://185.106.96.201:28278/CGTN/playlist.m3u8
 #EXTINF:-1 tvg-name="新加坡|Channel 15" tvg-logo="https://logo.catvod.com/新加坡|Channel 15.png" group-title="新加坡",新加坡|Channel 15
