@@ -379,11 +379,11 @@ https://nl.utako.moe/v_paradise/index.m3u8
 
 
 #EXTINF:-1 tvg-name="中国|湖南卫视" tvg-logo="https://logo.catvod.com/中国|湖南卫视.png" group-title="中国",中国|湖南卫视
-http://49.213.188.67:5051/smart.php?id=hunan_twn&token=885252
+http://tvlist.top/jd/index.php?id=hunanws&qt=118.212.78.251:8014
 #EXTINF:-1 tvg-name="中国|浙江卫视" tvg-logo="https://logo.catvod.com/中国|浙江卫视.png" group-title="中国",中国|浙江卫视
-http://49.213.188.67:5051/smart.php?id=zhejiang_twn&token=885252
+http://113.101.244.229:10000/udp/239.77.1.33:5146
 #EXTINF:-1 tvg-name="中国|江苏卫视" tvg-logo="https://logo.catvod.com/中国|江苏卫视.png" group-title="中国",中国|江苏卫视
-http://185.106.96.201:28278/jiangsu_twn/playlist.m3u8
+http://183.7.172.159:8888/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="中国|东方卫视" tvg-logo="https://logo.catvod.com/中国|东方卫视.png" group-title="中国",中国|东方卫视
 http://185.106.96.201:28278/dongfangweishi_twn/playlist.m3u8
 #EXTINF:-1 tvg-name="中国|北京卫视" tvg-logo="https://logo.catvod.com/中国|北京卫视.png" group-title="中国",中国|北京卫视
