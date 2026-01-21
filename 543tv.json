@@ -153,7 +153,8 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv083
 http://iptv543.com/litv.php?token=885252&id=litv-ftv10
 #EXTINF:-1 tvg-id="美国之音" tvg-name="美国之音" tvg-logo="https://logo.doube.eu.org/美国之音.png" group-title="台湾频道",美国之音
 http://iptv543.com/litv.php?token=885252&id=litv-ftv03
-
+#EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝" tvg-logo="https://logo.doube.eu.org/愛奇藝.png" group-title="台湾频道",愛奇藝
+https://live.catvod.com/iptv.php?id=iqiyi01
 
 
 #EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://logo.catvod.com/DISCOVERY.png" group-title="台灣備用",DISCOVERY
@@ -377,12 +378,10 @@ https://nl.utako.moe/v_paradise/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝" tvg-logo="https://logo.doube.eu.org/愛奇藝.png" group-title="台湾频道",愛奇藝
-https://live.catvod.com/iptv.php?id=iqiyi01
 #EXTINF:-1 tvg-name="中国|湖南卫视" tvg-logo="https://logo.catvod.com/中国|湖南卫视.png" group-title="中国",中国|湖南卫视
-http://185.106.96.201:28278/hunan_twn/playlist.m3u8
+http://49.213.188.67:5051/smart.php?id=hunan_twn&token=885252
 #EXTINF:-1 tvg-name="中国|浙江卫视" tvg-logo="https://logo.catvod.com/中国|浙江卫视.png" group-title="中国",中国|浙江卫视
-http://185.106.96.201:28278/zhejiang_twn/playlist.m3u8
+http://49.213.188.67:5051/smart.php?id=zhejiang_twn&token=885252
 #EXTINF:-1 tvg-name="中国|江苏卫视" tvg-logo="https://logo.catvod.com/中国|江苏卫视.png" group-title="中国",中国|江苏卫视
 http://185.106.96.201:28278/jiangsu_twn/playlist.m3u8
 #EXTINF:-1 tvg-name="中国|东方卫视" tvg-logo="https://logo.catvod.com/中国|东方卫视.png" group-title="中国",中国|东方卫视
