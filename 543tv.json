@@ -88,9 +88,9 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv055
 #EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧" tvg-logo="https://logo.doube.eu.org/民视影剧台.png" group-title="台湾频道",民视影剧
 http://iptv543.com/litv.php?token=885252&id=litv-ftv09
 #EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影" tvg-logo="https://logo.doube.eu.org/龙华电影台.png" group-title="台湾频道",龙华电影
-http://iptv543.com/litv.php?token=885252&id=litv-longturn03
+http://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片" tvg-logo="https://logo.doube.eu.org/龙华洋片台.png" group-title="台湾频道",龙华洋片
-http://iptv543.com/litv.php?token=885252&id=litv-longturn02
+http://cdn8.veryfast.filegear-sg.me/163189/lhyp
 #EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://logo.doube.eu.org/公视戏剧.png" group-title="台湾频道",公视戏剧
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv042
 #EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://logo.doube.eu.org/靖洋戏剧台.png" group-title="台湾频道",靖洋戏剧台
@@ -100,13 +100,29 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv058
 #EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://logo.doube.eu.org/靖天日本台.png" group-title="台湾频道",靖天日本台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv047
 #EXTINF:-1 tvg-id="龙华戏剧台" tvg-name="龙华戏剧" tvg-logo="https://logo.doube.eu.org/龙华戏剧台.png" group-title="台湾频道",龙华戏剧
+http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 tvg-id="龙华戏剧台_1" tvg-name="龙华戏剧_1" tvg-logo="https://logo.doube.eu.org/龙华戏剧台_1.png" group-title="台湾频道",龙华戏剧_1
 http://iptv543.com/litv.php?token=885252&id=litv-longturn18
 #EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩" tvg-logo="https://logo.doube.eu.org/龙华日韩台.png" group-title="台湾频道",龙华日韩
-http://iptv543.com/litv.php?token=885252&id=litv-longturn11
+http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="龙华偶像台" tvg-name="龙华偶像" tvg-logo="https://logo.doube.eu.org/龙华偶像台.png" group-title="台湾频道",龙华偶像
 http://iptv543.com/litv.php?token=885252&id=litv-longturn12
 #EXTINF:-1 tvg-id="台湾戏剧台" tvg-name="台湾戏剧台" tvg-logo="https://logo.doube.eu.org/台湾戏剧台.png" group-title="台湾频道",台湾戏剧台
 http://iptv543.com/litv.php?token=885252&id=litv-longturn22
+#EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter" tvg-logo="https://logo.doube.eu.org/Globetrotter.png" group-title="台湾频道",Globetrotter
+http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv016
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://logo.doube.eu.org/亚洲旅游台.png" group-title="台湾频道",亚洲旅游台
+http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游" tvg-logo="https://logo.doube.eu.org/民视旅游台.png" group-title="台湾频道",民视旅游
+http://iptv543.com/litv.php?token=885252&id=litv-ftv07
+#EXTINF:-1 tvg-id="Smart知识台" tvg-name="Smart知识台" tvg-logo="https://logo.doube.eu.org/Smart知识台.png" group-title="台湾频道",Smart知识台
+http://iptv543.com/litv.php?token=885252&id=litv-longturn19
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://logo.doube.eu.org/靖天卡通台.png" group-title="台湾频道",靖天卡通台
+http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv044
+#EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://logo.doube.eu.org/靖洋卡通台.png" group-title="台湾频道",靖洋卡通台
+http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv057
+#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通" tvg-logo="https://logo.doube.eu.org/龙华卡通台.png" group-title="台湾频道",龙华卡通
+http://iptv543.com/litv.php?token=885252&id=litv-longturn01
 #EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://logo.doube.eu.org/时尚运动X.png" group-title="台湾频道",时尚运动X
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv014
 #EXTINF:-1 tvg-id="GINXEsportsTV" tvg-name="GinxTV" tvg-logo="https://logo.doube.eu.org/GINXEsportsTV.png" group-title="台湾频道",GinxTV
@@ -129,20 +145,6 @@ http://iptv543.com/litv.php?token=885252&id=litv-longturn09
 http://iptv543.com/litv.php?token=885252&id=litv-longturn10
 #EXTINF:-1 tvg-id="博斯无限2" tvg-name="博斯无限2" tvg-logo="https://logo.doube.eu.org/博斯无限2.png" group-title="台湾频道",博斯无限2
 http://iptv543.com/litv.php?token=885252&id=litv-longturn13
-#EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter" tvg-logo="https://logo.doube.eu.org/Globetrotter.png" group-title="台湾频道",Globetrotter
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv016
-#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://logo.doube.eu.org/亚洲旅游台.png" group-title="台湾频道",亚洲旅游台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv076
-#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游" tvg-logo="https://logo.doube.eu.org/民视旅游台.png" group-title="台湾频道",民视旅游
-http://iptv543.com/litv.php?token=885252&id=litv-ftv07
-#EXTINF:-1 tvg-id="Smart知识台" tvg-name="Smart知识台" tvg-logo="https://logo.doube.eu.org/Smart知识台.png" group-title="台湾频道",Smart知识台
-http://iptv543.com/litv.php?token=885252&id=litv-longturn19
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://logo.doube.eu.org/靖天卡通台.png" group-title="台湾频道",靖天卡通台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv044
-#EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://logo.doube.eu.org/靖洋卡通台.png" group-title="台湾频道",靖洋卡通台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv057
-#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通" tvg-logo="https://logo.doube.eu.org/龙华卡通台.png" group-title="台湾频道",龙华卡通
-http://iptv543.com/litv.php?token=885252&id=litv-longturn01
 #EXTINF:-1 tvg-id="CLASSICA古典乐" tvg-name="古典音乐台" tvg-logo="https://logo.doube.eu.org/CLASSICA古典乐.png" group-title="台湾频道",古典音乐台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv059
 #EXTINF:-1 tvg-id="TraceUrban" tvg-name="TRACE URBAN" tvg-logo="https://logo.doube.eu.org/TraceUrban.png" group-title="台湾频道",TRACE URBAN
@@ -156,8 +158,7 @@ http://iptv543.com/litv.php?token=885252&id=litv-ftv03
 #EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://logo.doube.eu.org/Now爆谷台.png" group-title="台湾频道",Now爆谷台
 http://74.91.26.218:82/live/nowbg.m3u8
 #EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝" tvg-logo="https://logo.doube.eu.org/愛奇藝.png" group-title="台湾频道",愛奇藝
-https://live.catvod.com/iptv.php?id=iqiyi01
-
+http://smt.1678520.xyz/smt3.2.3.php?id=Qiyi
 
 #EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://logo.catvod.com/DISCOVERY.png" group-title="台灣備用",DISCOVERY
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
@@ -167,8 +168,10 @@ http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
 http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
 #EXTINF:-1 tvg-name="東森綜合HD" tvg-logo="https://logo.catvod.com/東森綜合HD.png" group-title="台灣備用",東森綜合HD
 http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 tvg-name="HOY剧集台" tvg-logo="https://logo.catvod.com/HOY剧集台.png" group-title="台灣備用",HOY剧集台
+http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
 #EXTINF:-1 tvg-name="TVB plus" tvg-logo="https://logo.catvod.com/TVB plus.png" group-title="台灣備用",TVB plus
-http://74.91.26.218:82/live/j2.m3u8
+http://smt.1678520.xyz/smt3.2.3.php?id=j2_twn
 #EXTINF:-1 tvg-name="旅遊生活" tvg-logo="https://logo.catvod.com/旅遊生活.png" group-title="台灣備用",旅遊生活
 http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
 #EXTINF:-1 tvg-name="動物星球" tvg-logo="https://logo.catvod.com/動物星球.png" group-title="台灣備用",動物星球
