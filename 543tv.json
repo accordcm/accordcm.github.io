@@ -90,7 +90,7 @@ http://iptv543.com/litv.php?token=885252&id=litv-ftv09
 #EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影" tvg-logo="https://logo.doube.eu.org/龙华电影台.png" group-title="台湾频道",龙华电影
 http://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片" tvg-logo="https://logo.doube.eu.org/龙华洋片台.png" group-title="台湾频道",龙华洋片
-http://cdn8.veryfast.filegear-sg.me/163189/lhyp
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang02
 #EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://logo.doube.eu.org/公视戏剧.png" group-title="台湾频道",公视戏剧
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv042
 #EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://logo.doube.eu.org/Now爆谷台.png" group-title="台湾频道",Now爆谷台
@@ -105,9 +105,9 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv058
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv047
 #EXTINF:-1 tvg-id="龙华戏剧台" tvg-name="龙华戏剧" tvg-logo="https://logo.doube.eu.org/龙华戏剧台.png" group-title="台湾频道",龙华戏剧
 http://cdn8.163189.xyz/163189/lhxj
-#EXTINF:-1 tvg-id="龙华戏剧台_1" tvg-name="龙华戏剧_1" tvg-logo="https://logo.doube.eu.org/龙华戏剧台_1.png" group-title="台湾频道",龙华戏剧_1
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩" tvg-logo="https://logo.doube.eu.org/龙华日韩.png" group-title="台湾频道",龙华日韩
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang11
-#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩" tvg-logo="https://logo.doube.eu.org/龙华日韩台.png" group-title="台湾频道",龙华日韩
+#EXTINF:-1 tvg-id="龙华日韩台_1" tvg-name="龙华日韩_1" tvg-logo="https://logo.doube.eu.org/龙华日韩_1.png" group-title="台湾频道",龙华日韩_1
 http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="龙华偶像台" tvg-name="龙华偶像" tvg-logo="https://logo.doube.eu.org/龙华偶像台.png" group-title="台湾频道",龙华偶像
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang12
@@ -826,4 +826,4 @@ http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u
 #EXTINF:-1 tvg-name="彩虹频道" tvg-logo="https://logo.catvod.com/彩虹频道.png" group-title="私人频道_543",彩虹频道
 p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
 #EXTINF:-1 tvg-name="极限电影" tvg-logo="https://logo.catvod.com/极限电影.png" group-title="私人频道_543",极限电影
-http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8
+http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
