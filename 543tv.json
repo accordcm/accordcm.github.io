@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻台" tvg-logo="https://logo.doube.eu.org/TVBS新闻.png" group-title="台湾频道",TVBS新闻台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv072
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="华视新闻" tvg-logo="https://logo.doube.eu.org/华视新闻.png" group-title="台湾频道",华视新闻
-p3p://167.114.175.6:55331/632c706b0009d57248864b64705a59a0
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻" tvg-logo="https://logo.doube.eu.org/东森新闻台.png" group-title="台湾频道",东森新闻
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv152
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://logo.doube.eu.org/非凡新闻.png" group-title="台湾频道",非凡新闻
