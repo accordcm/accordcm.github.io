@@ -1,4 +1,96 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://logo.catvod.com/民視.png" group-title="台灣備用",民視
+rtmp://9svd1.mine.nu/sat/tv051
+rtmp://9svd2.mine.nu/sat/tv051
+#EXTINF:-1 tvg-name="台視" tvg-logo="https://logo.catvod.com/台視.png" group-title="台灣備用",台視
+rtmp://9svd2.mine.nu/sat/tv071
+rtmp://9svd1.mine.nu/sat/tv071
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://logo.catvod.com/中視.png" group-title="台灣備用",中視
+rtmp://9svd2.mine.nu/sat/tv091
+rtmp://9svd3.mine.nu/sat/tv091
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://logo.catvod.com/華視.png" group-title="台灣備用",華視
+rtmp://9svd2.mine.nu/sat/tv111
+rtmp://9svd1.mine.nu/sat/tv111
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://logo.catvod.com/DISCOVERY.png" group-title="台灣備用",DISCOVERY
+http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 tvg-name="三立台灣HD" tvg-logo="https://logo.catvod.com/三立台灣HD.png" group-title="台灣備用",三立台灣HD
+http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 tvg-name="三立都會HD" tvg-logo="https://logo.catvod.com/三立都會HD.png" group-title="台灣備用",三立都會HD
+http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 tvg-name="東森綜合HD" tvg-logo="https://logo.catvod.com/東森綜合HD.png" group-title="台灣備用",東森綜合HD
+http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 tvg-name="旅遊生活" tvg-logo="https://logo.catvod.com/旅遊生活.png" group-title="台灣備用",旅遊生活
+http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
+#EXTINF:-1 tvg-name="動物星球" tvg-logo="https://logo.catvod.com/動物星球.png" group-title="台灣備用",動物星球
+http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1 tvg-name="緯來綜合HD" tvg-logo="https://logo.catvod.com/緯來綜合HD.png" group-title="台灣備用",緯來綜合HD
+http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 tvg-name="緯來日本HD" tvg-logo="https://logo.catvod.com/緯來日本HD.png" group-title="台灣備用",緯來日本HD
+http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://logo.catvod.com/HBO.png" group-title="台灣備用",HBO
+http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://logo.catvod.com/AXN.png" group-title="台灣備用",AXN
+http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 tvg-name="CINEMAX HD" tvg-logo="https://logo.catvod.com/CINEMAX HD.png" group-title="台灣備用",CINEMAX HD
+http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+#EXTINF:-1 tvg-name="八大第一HD" tvg-logo="https://logo.catvod.com/八大第一HD.png" group-title="台灣備用",八大第一HD
+http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1 tvg-name="八大綜合HD" tvg-logo="https://logo.catvod.com/八大綜合HD.png" group-title="台灣備用",八大綜合HD
+http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+#EXTINF:-1 tvg-name="超視HD" tvg-logo="https://logo.catvod.com/超視HD.png" group-title="台灣備用",超視HD
+http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 tvg-name="中天綜合HD" tvg-logo="https://logo.catvod.com/中天綜合HD.png" group-title="台灣備用",中天綜合HD
+http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 tvg-name="中天娛樂HD" tvg-logo="https://logo.catvod.com/中天娛樂HD.png" group-title="台灣備用",中天娛樂HD
+http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 tvg-name="東風衛視" tvg-logo="https://logo.catvod.com/東風衛視.png" group-title="台灣備用",東風衛視
+http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 tvg-name="MUCH TV" tvg-logo="https://logo.catvod.com/MUCH TV.png" group-title="台灣備用",MUCH TV
+http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 tvg-name="東森戲劇HD" tvg-logo="https://logo.catvod.com/東森戲劇HD.png" group-title="台灣備用",東森戲劇HD
+http://220.134.196.147:8536/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 tvg-name="八大戲劇HD" tvg-logo="https://logo.catvod.com/八大戲劇HD.png" group-title="台灣備用",八大戲劇HD
+http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 tvg-name="TVBS歡樂HD" tvg-logo="https://logo.catvod.com/TVBS歡樂HD.png" group-title="台灣備用",TVBS歡樂HD
+http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
+#EXTINF:-1 tvg-name="緯來戲劇" tvg-logo="https://logo.catvod.com/緯來戲劇.png" group-title="台灣備用",緯來戲劇
+http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://logo.catvod.com/寰宇新聞.png" group-title="台灣備用",寰宇新聞
+http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://logo.catvod.com/壹新聞.png" group-title="台灣備用",壹新聞
+http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 tvg-name="緯來電影HD" tvg-logo="https://logo.catvod.com/緯來電影HD.png" group-title="台灣備用",緯來電影HD
+http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://logo.catvod.com/龍華電影台.png" group-title="台灣備用",龍華電影台
+http://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 tvg-name="緯來體育HD" tvg-logo="https://logo.catvod.com/緯來體育HD.png" group-title="台灣備用",緯來體育HD
+http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 tvg-name="博斯運動一" tvg-logo="https://logo.catvod.com/博斯運動一.png" group-title="台灣備用",博斯運動一
+http://220.134.196.147:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
+#EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://logo.catvod.com/momo綜合台.png" group-title="台灣備用",momo綜合台
+http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://logo.catvod.com/DAZN 1.png" group-title="台灣備用",DAZN 1
+http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://logo.catvod.com/DAZN 2.png" group-title="台灣備用",DAZN 2
+http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 tvg-name="廈門衛視" tvg-logo="https://logo.catvod.com/廈門衛視.png" group-title="台灣備用",廈門衛視
+http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="台灣備用",CCTV4-中央衛視
+http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
+#EXTINF:-1 tvg-name="海峽衛視" tvg-logo="https://logo.catvod.com/海峽衛視.png" group-title="台灣備用",海峽衛視
+http://220.134.196.147:8550/http/59.120.8.187:8078/hls/42/80/fjttv.m3u8
+#EXTINF:-1 tvg-name="浙江衛視" tvg-logo="https://logo.catvod.com/浙江衛視.png" group-title="台灣備用",浙江衛視
+http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
+#EXTINF:-1 tvg-name="東方衛視" tvg-logo="https://logo.catvod.com/東方衛視.png" group-title="台灣備用",東方衛視
+http://220.134.196.147:8558/http/59.120.8.187:8078/hls/41/80/east.m3u8
+#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://logo.catvod.com/湖南衛視.png" group-title="台灣備用",湖南衛視
+http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
+#EXTINF:-1 tvg-name="鳯凰衛視資訊" tvg-logo="https://logo.catvod.com/鳯凰衛視資訊.png" group-title="台灣備用",鳯凰衛視資訊
+http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 tvg-name="鳯凰衛視中文" tvg-logo="https://logo.catvod.com/鳯凰衛視中文.png" group-title="台灣備用",鳯凰衛視中文
+http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch
+
+
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻台" tvg-logo="https://logo.doube.eu.org/TVBS新闻.png" group-title="台湾频道",TVBS新闻台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv072
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻" tvg-logo="https://logo.doube.eu.org/东森新闻台.png" group-title="台湾频道",东森新闻
@@ -157,96 +249,6 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv083
 http://iptv543.com/litv.php?token=885252&id=litv-ftv10
 #EXTINF:-1 tvg-id="美国之音" tvg-name="美国之音" tvg-logo="https://logo.doube.eu.org/美国之音.png" group-title="台湾频道",美国之音
 http://iptv543.com/litv.php?token=885252&id=litv-ftv03
-
-
-#EXTINF:-1 tvg-name="民視" tvg-logo="https://logo.catvod.com/民視.png" group-title="台灣備用",民視
-rtmp://9svd1.mine.nu/sat/tv051
-#EXTINF:-1 tvg-name="台視" tvg-logo="https://logo.catvod.com/台視.png" group-title="台灣備用",台視
-rtmp://9svd2.mine.nu/sat/tv071
-#EXTINF:-1 tvg-name="中視" tvg-logo="https://logo.catvod.com/中視.png" group-title="台灣備用",中視
-rtmp://9svd2.mine.nu/sat/tv091
-#EXTINF:-1 tvg-name="華視" tvg-logo="https://logo.catvod.com/華視.png" group-title="台灣備用",華視
-rtmp://9svd2.mine.nu/sat/tv111
-rtmp://9svd1.mine.nu/sat/tv111
-#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://logo.catvod.com/DISCOVERY.png" group-title="台灣備用",DISCOVERY
-http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
-#EXTINF:-1 tvg-name="三立台灣HD" tvg-logo="https://logo.catvod.com/三立台灣HD.png" group-title="台灣備用",三立台灣HD
-http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
-#EXTINF:-1 tvg-name="三立都會HD" tvg-logo="https://logo.catvod.com/三立都會HD.png" group-title="台灣備用",三立都會HD
-http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
-#EXTINF:-1 tvg-name="東森綜合HD" tvg-logo="https://logo.catvod.com/東森綜合HD.png" group-title="台灣備用",東森綜合HD
-http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
-#EXTINF:-1 tvg-name="旅遊生活" tvg-logo="https://logo.catvod.com/旅遊生活.png" group-title="台灣備用",旅遊生活
-http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
-#EXTINF:-1 tvg-name="動物星球" tvg-logo="https://logo.catvod.com/動物星球.png" group-title="台灣備用",動物星球
-http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
-#EXTINF:-1 tvg-name="緯來綜合HD" tvg-logo="https://logo.catvod.com/緯來綜合HD.png" group-title="台灣備用",緯來綜合HD
-http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
-#EXTINF:-1 tvg-name="緯來日本HD" tvg-logo="https://logo.catvod.com/緯來日本HD.png" group-title="台灣備用",緯來日本HD
-http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://logo.catvod.com/HBO.png" group-title="台灣備用",HBO
-http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://logo.catvod.com/AXN.png" group-title="台灣備用",AXN
-http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
-#EXTINF:-1 tvg-name="CINEMAX HD" tvg-logo="https://logo.catvod.com/CINEMAX HD.png" group-title="台灣備用",CINEMAX HD
-http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
-#EXTINF:-1 tvg-name="八大第一HD" tvg-logo="https://logo.catvod.com/八大第一HD.png" group-title="台灣備用",八大第一HD
-http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
-#EXTINF:-1 tvg-name="八大綜合HD" tvg-logo="https://logo.catvod.com/八大綜合HD.png" group-title="台灣備用",八大綜合HD
-http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
-#EXTINF:-1 tvg-name="超視HD" tvg-logo="https://logo.catvod.com/超視HD.png" group-title="台灣備用",超視HD
-http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
-#EXTINF:-1 tvg-name="中天綜合HD" tvg-logo="https://logo.catvod.com/中天綜合HD.png" group-title="台灣備用",中天綜合HD
-http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
-#EXTINF:-1 tvg-name="中天娛樂HD" tvg-logo="https://logo.catvod.com/中天娛樂HD.png" group-title="台灣備用",中天娛樂HD
-http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
-#EXTINF:-1 tvg-name="東風衛視" tvg-logo="https://logo.catvod.com/東風衛視.png" group-title="台灣備用",東風衛視
-http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
-#EXTINF:-1 tvg-name="MUCH TV" tvg-logo="https://logo.catvod.com/MUCH TV.png" group-title="台灣備用",MUCH TV
-http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
-#EXTINF:-1 tvg-name="東森戲劇HD" tvg-logo="https://logo.catvod.com/東森戲劇HD.png" group-title="台灣備用",東森戲劇HD
-http://220.134.196.147:8536/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
-#EXTINF:-1 tvg-name="八大戲劇HD" tvg-logo="https://logo.catvod.com/八大戲劇HD.png" group-title="台灣備用",八大戲劇HD
-http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
-#EXTINF:-1 tvg-name="TVBS歡樂HD" tvg-logo="https://logo.catvod.com/TVBS歡樂HD.png" group-title="台灣備用",TVBS歡樂HD
-http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
-#EXTINF:-1 tvg-name="緯來戲劇" tvg-logo="https://logo.catvod.com/緯來戲劇.png" group-title="台灣備用",緯來戲劇
-http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://logo.catvod.com/寰宇新聞.png" group-title="台灣備用",寰宇新聞
-http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
-#EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://logo.catvod.com/壹新聞.png" group-title="台灣備用",壹新聞
-http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
-#EXTINF:-1 tvg-name="緯來電影HD" tvg-logo="https://logo.catvod.com/緯來電影HD.png" group-title="台灣備用",緯來電影HD
-http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
-#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://logo.catvod.com/龍華電影台.png" group-title="台灣備用",龍華電影台
-http://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-name="緯來體育HD" tvg-logo="https://logo.catvod.com/緯來體育HD.png" group-title="台灣備用",緯來體育HD
-http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 tvg-name="博斯運動一" tvg-logo="https://logo.catvod.com/博斯運動一.png" group-title="台灣備用",博斯運動一
-http://220.134.196.147:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
-#EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://logo.catvod.com/momo綜合台.png" group-title="台灣備用",momo綜合台
-http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://logo.catvod.com/DAZN 1.png" group-title="台灣備用",DAZN 1
-http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://logo.catvod.com/DAZN 2.png" group-title="台灣備用",DAZN 2
-http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-#EXTINF:-1 tvg-name="廈門衛視" tvg-logo="https://logo.catvod.com/廈門衛視.png" group-title="台灣備用",廈門衛視
-http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="台灣備用",CCTV4-中央衛視
-http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
-#EXTINF:-1 tvg-name="海峽衛視" tvg-logo="https://logo.catvod.com/海峽衛視.png" group-title="台灣備用",海峽衛視
-http://220.134.196.147:8550/http/59.120.8.187:8078/hls/42/80/fjttv.m3u8
-#EXTINF:-1 tvg-name="浙江衛視" tvg-logo="https://logo.catvod.com/浙江衛視.png" group-title="台灣備用",浙江衛視
-http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
-#EXTINF:-1 tvg-name="東方衛視" tvg-logo="https://logo.catvod.com/東方衛視.png" group-title="台灣備用",東方衛視
-http://220.134.196.147:8558/http/59.120.8.187:8078/hls/41/80/east.m3u8
-#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://logo.catvod.com/湖南衛視.png" group-title="台灣備用",湖南衛視
-http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
-#EXTINF:-1 tvg-name="鳯凰衛視資訊" tvg-logo="https://logo.catvod.com/鳯凰衛視資訊.png" group-title="台灣備用",鳯凰衛視資訊
-http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
-#EXTINF:-1 tvg-name="鳯凰衛視中文" tvg-logo="https://logo.catvod.com/鳯凰衛視中文.png" group-title="台灣備用",鳯凰衛視中文
-http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch
-
 
 
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
