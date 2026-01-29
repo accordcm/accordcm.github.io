@@ -22,6 +22,8 @@ http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
 #EXTINF:-1 tvg-name="東森超視" tvg-logo="https://logo.catvod.com/東森超視.png" group-title="台灣備用",東森超視
 rtmp://9svd1.mine.nu/sat/tv331
 rtmp://9svd2.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="大愛電視" tvg-logo="https://logo.catvod.com/大愛電視.png" group-title="台灣備用",大愛電視
+http://7.iptv543.com:50007/4gtv-live007/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-name="HOY剧集台" tvg-logo="https://logo.catvod.com/HOY剧集台.png" group-title="台灣備用",HOY剧集台
 http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
 #EXTINF:-1 tvg-name="TVB plus" tvg-logo="https://logo.catvod.com/TVB plus.png" group-title="台灣備用",TVB plus
