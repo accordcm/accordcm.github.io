@@ -33,8 +33,6 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv040
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv041
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://logo.doube.eu.org/民视.png" group-title="台湾频道",民视
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv002
-#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://logo.doube.eu.org/民视.png" group-title="台湾频道",民视
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv155
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://logo.doube.eu.org/民视台湾台.png" group-title="台湾频道",民视台湾台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv001
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://logo.doube.eu.org/民视第一台.png" group-title="台湾频道",民视第一台
@@ -133,6 +131,12 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv014
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv053
 #EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://logo.doube.eu.org/智林体育台.png" group-title="台湾频道",智林体育台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv101
+#EXTINF:-1 tvg-id="MOMO綜合" tvg-name="MOMO綜合" tvg-logo="https://logo.doube.eu.org/MOMO綜合.png" group-title="台湾频道",MOMO綜合
+rtmp://9svd2.mine.nu/sat/tv761
+rtmp://9svd1.mine.nu/sat/tv761
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://logo.doube.eu.org/緯來育樂.png" group-title="台湾频道",緯來育樂
+rtmp://9svd2.mine.nu/sat/tv701
+rtmp://9svd2.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://logo.doube.eu.org/博斯魅力.png" group-title="台湾频道",博斯魅力
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang04
 #EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="https://logo.doube.eu.org/博斯高球1.png" group-title="台湾频道",博斯高球1
@@ -233,6 +237,10 @@ http://220.134.196.147:8545/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
 rtmp://9svd2.mine.nu/sat/tv721
 rtmp://9svd3.mine.nu/sat/tv721
 http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 tvg-name="ELTA體育" tvg-logo="https://logo.catvod.com/ELTA體育.png" group-title="台灣備用",ELTA體育
+rtmp://9svd2.mine.nu/sat/md011
+rtmp://9svd3.mine.nu/sat/md011
+rtmp://9svd1.mine.nu/sat/md021
 #EXTINF:-1 tvg-name="博斯運動一" tvg-logo="https://logo.catvod.com/博斯運動一.png" group-title="台灣備用",博斯運動一
 http://220.134.196.147:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
 #EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://logo.catvod.com/momo綜合台.png" group-title="台灣備用",momo綜合台
