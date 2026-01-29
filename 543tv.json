@@ -108,68 +108,81 @@ http://141.11.87.241:20013/4gtv-live201/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻台" tvg-logo="https://logo.doube.eu.org/TVBS新闻.png" group-title="台湾频道",TVBS新闻台
-http://7.iptv543.com:5052/4gtv-4gtv072/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
+http://7.iptv543.com:50007/4gtv-4gtv072/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻" tvg-logo="https://logo.doube.eu.org/东森新闻.png" group-title="台湾频道",东森新闻
-http://7.iptv543.com:5052/4gtv-4gtv152/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
+http://7.iptv543.com:50007/4gtv-4gtv152/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="非凡新闻台" tvg-name="非凡新闻" tvg-logo="https://logo.doube.eu.org/非凡新闻.png" group-title="台湾频道",非凡新闻
-http://7.iptv543.com:5052/4gtv-4gtv010/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
-#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻" tvg-logo="https://logo.doube.eu.org/东森财经新闻台.png" group-title="台湾频道",东森财经新闻
-http://7.iptv543.com:5052/4gtv-4gtv153/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
+http://7.iptv543.com:50007/4gtv-4gtv010/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞" tvg-logo="https://logo.doube.eu.org/東森財經新聞台.png" group-title="台湾频道",東森財經新聞
+http://7.iptv543.com:50007/4gtv-4gtv153/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://logo.doube.eu.org/民视新闻.png" group-title="台湾频道",民视新闻台
-http://7.iptv543.com:5052/litv-ftv13/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
+http://7.iptv543.com:50007/litv-ftv13/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻" tvg-logo="https://logo.doube.eu.org/台视新闻台.png" group-title="台湾频道",台视新闻
 http://7.iptv543.com:5052/4gtv-4gtv051/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻" tvg-logo="https://logo.doube.eu.org/中视新闻.png" group-title="台湾频道",中视新闻
 http://7.iptv543.com:5052/4gtv-4gtv040/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
-#EXTINF:-1 tvg-id="华视新闻台" tvg-name="华视新闻" tvg-logo="https://logo.doube.eu.org/华视新闻.png" group-title="台湾频道",华视新闻
+#EXTINF:-1 tvg-id="華視新聞台" tvg-name="華視新聞" tvg-logo="https://logo.doube.eu.org/華視新聞.png" group-title="台湾频道",華視新聞
+http://7.iptv543.com:50007/4gtv-4gtv052/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 http://7.iptv543.com:5052/4gtv-4gtv052/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜新闻" tvg-logo="https://logo.doube.eu.org/镜电视新闻台.png" group-title="台湾频道",镜新闻
-http://7.iptv543.com:5052/4gtv-4gtv075/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
+http://7.iptv543.com:50007/4gtv-4gtv075/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://logo.doube.eu.org/中天新闻.png" group-title="台湾频道",中天新闻
-http://7.iptv543.com:5052/4gtv-4gtv009/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
+http://7.iptv543.com:50007/4gtv-4gtv009/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台.png" group-title="台湾频道",寰宇新闻台
+http://7.iptv543.com:50007/litv-longturn14/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 http://7.iptv543.com:5052/litv-longturn14/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台湾台.png" group-title="台湾频道",寰宇新闻台湾台
+http://7.iptv543.com:50007/4gtv-4gtv156/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 http://7.iptv543.com:5052/4gtv-4gtv156/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://logo.doube.eu.org/三立綜合台.png" group-title="台湾频道",三立綜合
+http://7.iptv543.com:50007/4gtv-live207/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://logo.doube.eu.org/TVBS.png" group-title="台湾频道",TVBS
-http://7.iptv543.com:5052/4gtv-4gtv073/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
+http://7.iptv543.com:50007/media-live073/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://logo.doube.eu.org/台视.png" group-title="台湾频道",台视
 http://7.iptv543.com:5052/4gtv-4gtv066/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://logo.doube.eu.org/中视.png" group-title="台湾频道",中视
+http://7.iptv543.com:50007/4gtv-4gtv040/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 http://7.iptv543.com:5052/4gtv-4gtv040/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
-#EXTINF:-1 tvg-id="华视" tvg-name="華视" tvg-logo="https://logo.doube.eu.org/華视.png" group-title="台湾频道",華视
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://logo.doube.eu.org/華視.png" group-title="台湾频道",華視
+http://7.iptv543.com:50007/4gtv-4gtv041/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 http://7.iptv543.com:5052/4gtv-4gtv041/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
+#EXTINF:-1 tvg-id="大愛電視台" tvg-name="大愛電視台" tvg-logo="https://logo.doube.eu.org/大愛電視台.png" group-title="台湾频道",大愛電視
+http://7.iptv543.com:50007/4gtv-live007/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://logo.doube.eu.org/民视.png" group-title="台湾频道",民视
+http://7.iptv543.com:50007/4gtv-4gtv002/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 http://7.iptv543.com:5052/4gtv-4gtv002/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
-#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://logo.doube.eu.org/民视台湾台.png" group-title="台湾频道",民视台湾台
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://logo.doube.eu.org/民視台灣台.png" group-title="台湾频道",民視台灣台
+http://7.iptv543.com:50007/4gtv-4gtv001/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 http://7.iptv543.com:5052/4gtv-4gtv001/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://logo.doube.eu.org/民视第一台.png" group-title="台湾频道",民视第一台
+http://7.iptv543.com:50007/4gtv-4gtv003/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 http://7.iptv543.com:5052/4gtv-4gtv003/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://logo.doube.eu.org/民视综艺台.png" group-title="台湾频道",民视综艺台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv004
+http://7.iptv543.com:50007/4gtv-4gtv004/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://logo.doube.eu.org/美亞電影台.png" group-title="台湾频道",美亞電影台
 http://74.91.26.218:82/live/mydy.m3u8
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://logo.doube.eu.org/TVBS欢乐台.png" group-title="台湾频道",TVBS欢乐台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv068
+http://7.iptv543.com:50007/4gtv-4gtv068/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://logo.doube.eu.org/TVBS精采台.png" group-title="台湾频道",TVBS精采台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv067
+http://7.iptv543.com:50007/4gtv-4gtv067/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="ELTV娱乐" tvg-name="爱尔达娱乐" tvg-logo="https://logo.doube.eu.org/ELTV娱乐.png" group-title="台湾频道",爱尔达娱乐
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv070
+http://7.iptv543.com:50007/4gtv-4gtv070/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="八大综艺" tvg-name="八大综艺台" tvg-logo="https://logo.doube.eu.org/八大综艺.png" group-title="台湾频道",八大综艺台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv039
+http://7.iptv543.com:50007/4gtv-4gtv039/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩台" tvg-logo="https://logo.doube.eu.org/八大精彩.png" group-title="台湾频道",八大精彩台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv034
 #EXTINF:-1 tvg-id="非凡商业" tvg-name="非凡商业台" tvg-logo="https://logo.doube.eu.org/非凡商业.png" group-title="台湾频道",非凡商业台
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv048
+http://7.iptv543.com:50007/4gtv-4gtv048/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经" tvg-logo="https://logo.doube.eu.org/台视财经台.png" group-title="台湾频道",台视财经
-http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv056
+http://7.iptv543.com:50007/4gtv-4gtv056/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經" tvg-logo="https://logo.doube.eu.org/寰宇財經台.png" group-title="台湾频道",寰宇財經
 http://7.iptv543.com:5052/4gtv-4gtv158/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-id="第1商业台" tvg-name="第1商业台" tvg-logo="https://logo.doube.eu.org/第1商业台.png" group-title="台湾频道",第1商业台
 http://7.iptv543.com:5052/4gtv-4gtv104/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲台" tvg-logo="https://logo.doube.eu.org/中天亚洲.png" group-title="台湾频道",中天亚洲台
 http://7.iptv543.com:5052/4gtv-4gtv109/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
-#EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="生活英语台" tvg-logo="https://logo.doube.eu.org/ELTV生活英语台.png" group-title="台湾频道",生活英语台
+#EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="生活英语台" tvg-logo="https://logo.doube.eu.org/ELTV生活英语台.png" group-title="台湾频道",生活英语
+http://7.iptv543.com:50007/4gtv-live132/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 http://7.iptv543.com:5052/litv-xinchuang20/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://logo.doube.eu.org/靖天综合台.png" group-title="台湾频道",靖天综合台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv046
@@ -184,7 +197,7 @@ http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv054
 #EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://logo.doube.eu.org/靖天育乐台.png" group-title="台湾频道",靖天育乐台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv062
 #EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://logo.doube.eu.org/猪哥亮歌厅秀.png" group-title="台湾频道",猪哥亮歌厅秀
-http://7.iptv543.com:5052/4gtv-4gtv006/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
+http://7.iptv543.com:50007/4gtv-4gtv006/index.m3u8?token=8PE99oo8n5Nskz863fOk7G82esLjZAXfOrHC6poMnX4zFULldCmDK7OlCtPEBNSk
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://logo.doube.eu.org/影迷數位電影台.png" group-title="台湾频道",影迷數位電影台
 http://iptv543.com/litv.php?token=885252&id=4gtv-4gtv011
 #EXTINF:-1 tvg-id="amc电影台" tvg-name="amc电影台" tvg-logo="https://logo.doube.eu.org/amc电影台.png" group-title="台湾频道",amc电影台
