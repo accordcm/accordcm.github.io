@@ -159,7 +159,15 @@ http://iptv543.com/litv.php?token=885252&id=litv-ftv10
 http://iptv543.com/litv.php?token=885252&id=litv-ftv03
 
 
-
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://logo.catvod.com/民視.png" group-title="台灣備用",民視
+rtmp://9svd1.mine.nu/sat/tv051
+#EXTINF:-1 tvg-name="台視" tvg-logo="https://logo.catvod.com/台視.png" group-title="台灣備用",台視
+rtmp://9svd2.mine.nu/sat/tv071
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://logo.catvod.com/中視.png" group-title="台灣備用",中視
+rtmp://9svd2.mine.nu/sat/tv091
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://logo.catvod.com/華視.png" group-title="台灣備用",華視
+rtmp://9svd2.mine.nu/sat/tv111
+rtmp://9svd1.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://logo.catvod.com/DISCOVERY.png" group-title="台灣備用",DISCOVERY
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-name="三立台灣HD" tvg-logo="https://logo.catvod.com/三立台灣HD.png" group-title="台灣備用",三立台灣HD
