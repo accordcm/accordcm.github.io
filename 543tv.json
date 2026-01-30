@@ -7,8 +7,6 @@ http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://logo.catvod.com/寰宇新闻台湾台.png" group-title="台灣備用",寰宇新闻台湾台
 http://7.iptv543.com:5052/4gtv-4gtv156/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="台灣備用",寰宇新闻
-http://7.iptv543.com:5052/litv-longturn14/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1pyy
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="台灣備用",中天新闻
 http://7.iptv543.com:5052/4gtv-4gtv009/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://logo.catvod.com/DISCOVERY.png" group-title="台灣備用",DISCOVERY
