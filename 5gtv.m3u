@@ -5,6 +5,8 @@ http://7.iptv543.com:5052/4gtv-4gtv052/index.m3u8?token=g5zCdiRVaazfuID8davCCxOR
 http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 #EXTINF:-1 tvg-name="東森財經HD" tvg-logo="https://logo.catvod.com/東森財經HD.png" group-title="台灣備用",東森財經HD
 http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
+#EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣備用",年代新聞
+http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://logo.catvod.com/寰宇新闻台湾台.png" group-title="台灣備用",寰宇新闻台湾台
 http://7.iptv543.com:5052/4gtv-4gtv156/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="台灣備用",中天新闻
