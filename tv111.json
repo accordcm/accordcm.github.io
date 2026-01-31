@@ -73,6 +73,8 @@ https://live.catvod.com/live.php?id=badazhonghe
 https://live.catvod.com/live.php?id=badadrama
 #EXTINF:-1 tvg-id="badaentertain" tvg-name="八大娱乐 GTV Entertainment" group-title="台湾",八大娱乐 GTV Entertainment
 https://live.catvod.com/live.php?id=badaentertain
+#EXTINF:-1 tvg-id="much" tvg-name="Much年代" group-title="台湾",Much年代
+https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 https://live.catvod.com/live.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" group-title="台湾",HBO_HITS
