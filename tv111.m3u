@@ -75,6 +75,8 @@ https://live.catvod.com/live.php?id=badazhonghe
 https://live.catvod.com/live.php?id=badadrama
 #EXTINF:-1 tvg-id="badaentertain" tvg-name="八大娱乐 GTV Entertainment" group-title="台湾",八大娱乐 GTV Entertainment
 https://live.catvod.com/live.php?id=badaentertain
+#EXTINF:-1 tvg-id="much" tvg-name="Much年代" group-title="台湾",Much年代
+https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 https://live.catvod.com/live.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" group-title="台湾",HBO_HITS
@@ -88,6 +90,7 @@ https://live.catvod.com/live.php?id=ettvmovie
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" group-title="台湾",纬来电影台
 https://live.catvod.com/live.php?id=videolandmovie
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="台湾",美亚电影
+http://74.91.26.218:82/live/mydy.m3u8
 https://live.catvod.com/live.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
 https://live.catvod.com/live.php?id=axn_twn
