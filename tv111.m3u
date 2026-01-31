@@ -14,13 +14,15 @@ https://live.catvod.com/live.php?id=ftvnew_taiwan
 https://live.catvod.com/live.php?id=ttvnews_twn
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 https://live.catvod.com/live.php?id=zhongshinews_twn
+http://7.iptv543.com:5052/4gtv-4gtv040/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
+rtmp://9svd2.mine.nu/sat/tv091
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://7.iptv543.com:5052/4gtv-4gtv052/index.m3u8?token=g5zCdiRVaazfuID8davCCxORF4FLNcg7VWyZm2GO2uNGwZS9TNBMOATBqMC2k1py
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 https://live.catvod.com/live.php?id=niandainews_twn
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞 CTI News" group-title="台湾",中天新聞 CTI News
 https://live.catvod.com/live.php?id=ctinews
-#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索频道" group-title="台湾",探索频道
+#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 https://live.catvod.com/live.php?id=discoverych_twn
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
