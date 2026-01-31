@@ -749,14 +749,26 @@ https://live.catvod.com/live.php?id=cnn_twn
 #EXTINF:-1 tvg-id="cna" tvg-name="CNA" group-title="Singapore",CNA
 https://live.catvod.com/live.php?id=cna
 
+#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="纪录频道",discovery
+https://live.catvod.com/live.php?id=discoverych_twn
+#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo Wild HD" group-title="纪录频道",NatGeo Wild HD
+https://live.catvod.com/live.php?id=Natgeowild
+#EXTINF:-1 tvg-id="Natgeo" tvg-name="NatGeo HD" group-title="纪录频道",NatGeo HD
+https://live.catvod.com/live.php?id=Natgeo
+#EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" group-title="纪录频道",TLC
+https://live.catvod.com/live.php?id=Tlc
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal_Planet" group-title="纪录频道",Animal_Planet
+https://live.catvod.com/live.php?id=AnimalPlanet
+#EXTINF:-1 tvg-id="Discoveryasia" tvg-name="Discovery Asia" group-title="纪录频道",Discovery Asia
+https://live.catvod.com/live.php?id=Discoveryasia
 #EXTINF:-1 tvg-id="ci_twn" tvg-name="CI" group-title="纪录频道",CI
 https://live.catvod.com/live.php?id=ci_twn
 #EXTINF:-1 tvg-id="asiatravel_twn" tvg-name="Asia Travel" group-title="纪录频道",Asia Travel
 https://live.catvod.com/live.php?id=asiatravel_twn
 #EXTINF:-1 tvg-id="afc_twn" tvg-name="亚洲美食" group-title="纪录频道",亚洲美食
 https://live.catvod.com/live.php?id=afc_twn
-#EXTINF:-1 tvg-id="Natgeo" tvg-name="NatGeo HD" group-title="纪录频道",NatGeo HD
-https://live.catvod.com/live.php?id=Natgeo
+#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" group-title="纪录频道",Dmax
+https://live.catvod.com/live.php?id=Dmax
 #EXTINF:-1 tvg-id="fashiontv_twn" tvg-name="Fashion TV" group-title="纪录频道",Fashion TV
 https://live.catvod.com/live.php?id=fashiontv_twn
 #EXTINF:-1 tvg-id="History" tvg-name="History" group-title="纪录频道",History
@@ -769,28 +781,14 @@ https://live.catvod.com/live.php?id=bbclifestyle_twn
 https://live.catvod.com/live.php?id=tlc_twn
 #EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" group-title="纪录频道",MTV Live
 https://live.catvod.com/live.php?id=mtvhd_twn
-#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo_Wild HD" group-title="纪录频道",NatGeo_Wild HD
-https://live.catvod.com/live.php?id=Natgeowild
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal_Planet" group-title="纪录频道",Animal_Planet
-https://live.catvod.com/live.php?id=AnimalPlanet
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="纪录频道",HGTV
 https://live.catvod.com/live.php?id=HGTV
-#EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" group-title="纪录频道",TLC
-https://live.catvod.com/live.php?id=Tlc
 #EXTINF:-1 tvg-id="Foodnetwork" tvg-name="Foodnetwork Hd" group-title="纪录频道",Foodnetwork Hd
 https://live.catvod.com/live.php?id=Foodnetwork
 #EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" group-title="纪录频道",Asia Food Network
 https://live.catvod.com/live.php?id=Afc
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet (Eng)" group-title="纪录频道",Animal Planet (Eng)
 https://live.catvod.com/live.php?id=AnimalPlanet
-#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo Wild HD" group-title="纪录频道",NatGeo Wild HD
-https://live.catvod.com/live.php?id=Natgeowild
-#EXTINF:-1 tvg-id="Discoveryasia" tvg-name="Discovery Asia" group-title="纪录频道",Discovery Asia
-https://live.catvod.com/live.php?id=Discoveryasia
-#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" group-title="纪录频道",Dmax
-https://live.catvod.com/live.php?id=Dmax
-#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索频道" group-title="纪录频道",探索频道
-https://live.catvod.com/live.php?id=discoverych_twn
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="马来西亚",TV1
 https://live.catvod.com/live.php?id=TV1
