@@ -531,7 +531,6 @@ https://live.catvod.com/live.php?id=Tvbclassic
 #EXTINF:-1 tvg-id="viusix_twn" tvg-name="Viu6" group-title="香港",Viu6
 https://live.catvod.com/live.php?id=viusix_twn
 
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
 https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
