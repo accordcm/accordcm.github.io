@@ -531,7 +531,6 @@ https://live.catvod.com/live.php?id=Tvbclassic
 #EXTINF:-1 tvg-id="viusix_twn" tvg-name="Viu6" group-title="香港",Viu6
 https://live.catvod.com/live.php?id=viusix_twn
 
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
 https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
@@ -1370,35 +1369,6 @@ https://live.catvod.com/live.php?id=Vellithirai
 #EXTINF:-1 tvg-id="sonypix" tvg-name="Sony Pictures HD" group-title="印度",Sony Pictures HD
 https://live.catvod.com/live.php?id=sonypix
 https://live.catvod.com/live.php?id=vtn_ctvhd
-
-#EXTINF:-1 tvg-id="nhkg_japan" tvg-name="NHK-総合-2" group-title="日本",NHK-総合-2
-https://live.catvod.com/live.php?id=nhkg_japan
-#EXTINF:-1 tvg-id="nhke_japan" tvg-name="NHK-E" group-title="日本",NHK-E
-https://live.catvod.com/live.php?id=nhke_japan
-#EXTINF:-1 tvg-id="asahitv_japan" tvg-name="テレビ朝日 Asahi TV" group-title="日本",テレビ朝日 Asahi TV
-https://live.catvod.com/live.php?id=asahitv_japan
-#EXTINF:-1 tvg-id="jettv_japan" tvg-name="JET 綜合" group-title="日本",JET 綜合
-https://live.catvod.com/live.php?id=jettv_japan
-#EXTINF:-1 tvg-id="tokyotv_japan" tvg-name="テレビ東京 Tokyo TV" group-title="日本",テレビ東京 Tokyo TV
-https://live.catvod.com/live.php?id=tokyotv_japan
-#EXTINF:-1 tvg-id="tokyomx_japan" tvg-name="TOKYOMX" group-title="日本",TOKYOMX
-https://live.catvod.com/live.php?id=tokyomx_japan
-#EXTINF:-1 tvg-id="nhkbs1_japan" tvg-name="NHKBS1" group-title="日本",NHKBS1
-https://live.catvod.com/live.php?id=nhkbs1_japan
-#EXTINF:-1 tvg-id="nhkpremium_japan" tvg-name="NHKBSプレミア Premium" group-title="日本",NHKBSプレミア Premium
-https://live.catvod.com/live.php?id=nhkpremium_japan
-#EXTINF:-1 tvg-id="bs181_japan" tvg-name="BSジャパン 181" group-title="日本",BSジャパン 181
-https://live.catvod.com/live.php?id=bs181_japan
-#EXTINF:-1 tvg-id="bsfuji_japan" tvg-name="BSフジ BS Fuji" group-title="日本",BSフジ BS Fuji
-https://live.catvod.com/live.php?id=bsfuji_japan
-#EXTINF:-1 tvg-id="cna_japan" tvg-name="CNA Japan" group-title="日本",CNA Japan
-https://live.catvod.com/live.php?id=cna_japan
-#EXTINF:-1 tvg-id="bstbs_japan" tvg-name="BS-TBS" group-title="日本",BS-TBS
-https://live.catvod.com/live.php?id=bstbs_japan
-#EXTINF:-1 tvg-id="nhkosaka_japan" tvg-name="NHK Oaska" group-title="日本",NHK Oaska
-https://live.catvod.com/live.php?id=nhkosaka_japan
-#EXTINF:-1 tvg-id="nhkworld_japan" tvg-name="NHK World" group-title="日本",NHK World
-https://live.catvod.com/live.php?id=nhkworld_japan
 
 #EXTINF:-1 tvg-id="arirang_twn" tvg-name="Arirang HD" group-title="韩国",Arirang HD
 https://live.catvod.com/live.php?id=arirang_twn
