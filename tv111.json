@@ -23,6 +23,8 @@ https://live.catvod.com/live.php?id=ctinews
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 https://live.catvod.com/live.php?id=discoverych_twn
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="壹新聞" group-title="台湾",壹新聞
+http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 https://live.catvod.com/live.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
