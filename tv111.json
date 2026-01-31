@@ -20,7 +20,7 @@ http://7.iptv543.com:5052/4gtv-4gtv052/index.m3u8?token=g5zCdiRVaazfuID8davCCxOR
 https://live.catvod.com/live.php?id=niandainews_twn
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞 CTI News" group-title="台湾",中天新聞 CTI News
 https://live.catvod.com/live.php?id=ctinews
-#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索频道" group-title="台湾",探索频道
+#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 https://live.catvod.com/live.php?id=discoverych_twn
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
@@ -753,6 +753,8 @@ https://live.catvod.com/live.php?id=cnn_twn
 #EXTINF:-1 tvg-id="cna" tvg-name="CNA" group-title="Singapore",CNA
 https://live.catvod.com/live.php?id=cna
 
+#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索频道" group-title="纪录频道",探索频道
+https://live.catvod.com/live.php?id=discoverych_twn
 #EXTINF:-1 tvg-id="ci_twn" tvg-name="CI" group-title="纪录频道",CI
 https://live.catvod.com/live.php?id=ci_twn
 #EXTINF:-1 tvg-id="asiatravel_twn" tvg-name="Asia Travel" group-title="纪录频道",Asia Travel
@@ -793,8 +795,7 @@ https://live.catvod.com/live.php?id=Natgeowild
 https://live.catvod.com/live.php?id=Discoveryasia
 #EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" group-title="纪录频道",Dmax
 https://live.catvod.com/live.php?id=Dmax
-#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索频道" group-title="纪录频道",探索频道
-https://live.catvod.com/live.php?id=discoverych_twn
+
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="马来西亚",TV1
 https://live.catvod.com/live.php?id=TV1
