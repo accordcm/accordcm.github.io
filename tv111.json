@@ -86,6 +86,7 @@ https://live.catvod.com/live.php?id=ettvmovie
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" group-title="台湾",纬来电影台
 https://live.catvod.com/live.php?id=videolandmovie
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="台湾",美亚电影
+http://74.91.26.218:82/live/mydy.m3u8
 https://live.catvod.com/live.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
 https://live.catvod.com/live.php?id=axn_twn
@@ -216,6 +217,7 @@ https://live.catvod.com/live.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" group-title="电影频道",东森电影 ETTV Movie
 https://live.catvod.com/live.php?id=ettvmovie
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="电影频道",美亚电影
+http://74.91.26.218:82/live/mydy.m3u8
 https://live.catvod.com/live.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="电影频道",HBO_HD
 https://live.catvod.com/live.php?id=hbohd_twn
@@ -226,6 +228,7 @@ https://live.catvod.com/live.php?id=hbosignature_twn
 #EXTINF:-1 tvg-id="starmovies_raj" tvg-name="Star Movies HD" group-title="电影频道",Star Movies HD
 https://live.catvod.com/live.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" group-title="电影频道",东森洋片 ETTV Western
+https://live.catvod.com/live.php?id=ettvmovie
 https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龙华洋片 Lunghua Western" group-title="电影频道",龙华洋片 Lunghua Western
 https://live.catvod.com/live.php?id=lunghuawestern_twn
