@@ -47,6 +47,7 @@ https://live.catvod.com/live.php?id=sanlitaiwan
 #EXTINF:-1 tvg-id="sanlixiju_twn" tvg-name="三立戏剧台" group-title="台湾",三立戏剧台
 https://live.catvod.com/live.php?id=sanlixiju_twn
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立综合 Sanli Metro" group-title="台湾",三立综合 Sanli Metro
+http://7.iptv543.com:50007/4gtv-live207/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=sanlizhonghe
 #EXTINF:-1 tvg-id="sanlidouhui_twn" tvg-name="三立都会台" group-title="台湾",三立都会台
 https://live.catvod.com/live.php?id=sanlidouhui_twn
@@ -55,6 +56,8 @@ https://live.catvod.com/live.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
 http://7.iptv543.com:50007/media-live073/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=tvbs
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" group-title="台湾",TVBS精采台
+http://7.iptv543.com:50007/4gtv-4gtv067/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娱乐 CTI Entertaiment" group-title="台湾",中天娱乐 CTI Entertaiment
 https://live.catvod.com/live.php?id=ctient
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 CTI Metro" group-title="台湾",中天综合 CTI Metro
@@ -128,14 +131,17 @@ https://live.catvod.com/live.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="ttvzhonghe" tvg-name="台视综合台" group-title="台湾",台视综合台
 https://live.catvod.com/live.php?id=ttvzhonghe
 #EXTINF:-1 tvg-id="zhongshihd_twn" tvg-name="中视 HD" group-title="台湾",中视 HD
+http://7.iptv543.com:50007/4gtv-4gtv040/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-id="ctshd_twn" tvg-name="华视 CTS HD" group-title="台湾",华视 CTS HD
+http://7.iptv543.com:50007/4gtv-4gtv041/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=ctshd_twn
 #EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公视 CTV" group-title="台湾",公视 CTV
 https://live.catvod.com/live.php?id=ctv18_twn
 #EXTINF:-1 tvg-id="ctv2_twn" tvg-name="公视2" group-title="台湾",公视2
 https://live.catvod.com/live.php?id=ctv2_twn
 #EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
+http://7.iptv543.com:50007/4gtv-live007/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=daai_twn
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
 http://7.iptv543.com:50007/4gtv-live106/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
@@ -145,11 +151,16 @@ https://live.catvod.com/live.php?id=eltadrama_twn
 #EXTINF:-1 tvg-id="eyetvxiju_twn" tvg-name="EYETV 戏剧" group-title="台湾",EYETV 戏剧
 https://live.catvod.com/live.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龙华戏剧 Lunghua Drama" group-title="台湾",龙华戏剧 Lunghua Drama
+https://live.catvod.com/live.php?id=lhxj01
 https://live.catvod.com/live.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龙华经典台" group-title="台湾",龙华经典台
+https://live.catvod.com/live.php?id=lhjd01
 https://live.catvod.com/live.php?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-id="lunghuaidol_twn" tvg-name="龙华偶像" group-title="台湾",龙华偶像
+https://live.catvod.com/live.php?id=lhox01
 https://live.catvod.com/live.php?id=lunghuaidol_twn
+#EXTINF:-1 tvg-id="lhrh01" tvg-name="龙华日韩" group-title="台湾",龙华日韩
+https://live.catvod.com/live.php?id=lhrh01
 #EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙详时代" group-title="台湾",龙详时代
 https://live.catvod.com/live.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-id="jingtianintl_twn" tvg-name="靖天国际台" group-title="台湾",靖天国际台
@@ -200,18 +211,23 @@ https://live.catvod.com/live.php?id=dazn1_twn
 #EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" group-title="台湾",DAZN 2
 https://live.catvod.com/live.php?id=dazn2_twn
 
+
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
 http://7.iptv543.com:50007/4gtv-live107/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="东森幼幼 Yoyo TV" group-title="兒童卡通",东森幼幼 Yoyo TV
 https://live.catvod.com/live.php?id=yoyo_twn
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
+http://7.iptv543.com:50007/4gtv-live132/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
 https://live.catvod.com/live.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-id="NICKJR.兒童頻道"  group-title="兒童卡通",Nick Jr.
-http://7.iptv543.com:50007/4gtv-live032/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道"  group-title="兒童卡通",Nickelodeon
 http://7.iptv543.com:50007/4gtv-live105/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
 http://7.iptv543.com:50007/4gtv-live017/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+#EXTINF:-1 tvg-id="NICKJR.兒童頻道"  group-title="兒童卡通",Nick Jr.
+http://7.iptv543.com:50007/4gtv-live032/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+#EXTINF:-1 tvg-id="lhkt01" tvg-name="龙华卡通" group-title="兒童卡通",龙华卡通
+https://live.catvod.com/live.php?id=lhkt01
 #EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" group-title="兒童卡通",Asia Food Network
 https://live.catvod.com/live.php?id=Afc
 
@@ -269,7 +285,10 @@ https://live.catvod.com/live.php?id=starmovies_raj
 https://live.catvod.com/live.php?id=ettvmovie
 https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龙华洋片 Lunghua Western" group-title="电影频道",龙华洋片 Lunghua Western
+https://live.catvod.com/live.php?id=lhyp01
 https://live.catvod.com/live.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-id="lhdy01" tvg-name="龙华电影" group-title="电影频道",龙华电影
+https://live.catvod.com/live.php?id=lhdy01
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" group-title="电影频道",Hollywood Movies
 https://live.catvod.com/live.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="电影频道",AXN Taiwan
@@ -455,20 +474,6 @@ https://live.catvod.com/live.php?id=ch5001
 https://live.catvod.com/live.php?id=ch8001
 #EXTINF:-1 tvg-id="chu001" tvg-name="CHU" group-title="香港",CHU
 https://live.catvod.com/live.php?id=chu001
-#EXTINF:-1 tvg-id="lhdy01" tvg-name="龙华电影" group-title="香港",龙华电影
-https://live.catvod.com/live.php?id=lhdy01
-#EXTINF:-1 tvg-id="lhjd01" tvg-name="龙华经典" group-title="香港",龙华经典
-https://live.catvod.com/live.php?id=lhjd01
-#EXTINF:-1 tvg-id="lhkt01" tvg-name="龙华卡通" group-title="香港",龙华卡通
-https://live.catvod.com/live.php?id=lhkt01
-#EXTINF:-1 tvg-id="lhox01" tvg-name="龙华偶像" group-title="香港",龙华偶像
-https://live.catvod.com/live.php?id=lhox01
-#EXTINF:-1 tvg-id="lhrh01" tvg-name="龙华日韩" group-title="香港",龙华日韩
-https://live.catvod.com/live.php?id=lhrh01
-#EXTINF:-1 tvg-id="lhxj01" tvg-name="龙华戏剧" group-title="香港",龙华戏剧
-https://live.catvod.com/live.php?id=lhxj01
-#EXTINF:-1 tvg-id="lhyp01" tvg-name="龙华洋片" group-title="香港",龙华洋片
-https://live.catvod.com/live.php?id=lhyp01
 #EXTINF:-1 tvg-id="huali02" tvg-name="华丽翡翠台" group-title="香港",华丽翡翠台
 https://live.catvod.com/live.php?id=huali02
 #EXTINF:-1 tvg-id="yzwx01" tvg-name="亚洲武侠" group-title="香港",亚洲武侠
