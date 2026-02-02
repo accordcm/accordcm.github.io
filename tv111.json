@@ -34,12 +34,14 @@ https://live.catvod.com/live.php?id=ctinews
 https://live.catvod.com/live.php?id=discoverych_twn
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
-http://7.iptv543.com:50007/4gtv-4gtv155/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-http://7.iptv543.com:50007/li-4gtv-4gtv003/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+http://7.iptv543.com:50007/4gtv-4gtv002/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
+http://7.iptv543.com:50007/4gtv-4gtv001/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 http://7.iptv543.com:50007/li-4gtv-4gtv001/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=ftvtaiwan_twn
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" group-title="綜合其他",民視第一台
+http://7.iptv543.com:50007/4gtv-4gtv003/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="三立台湾 Sanli Taiwan" group-title="台湾",三立台湾 Sanli Taiwan
 https://live.catvod.com/live.php?id=sanlitaiwan
 #EXTINF:-1 tvg-id="sanlixiju_twn" tvg-name="三立戏剧台" group-title="台湾",三立戏剧台
