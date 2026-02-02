@@ -193,16 +193,25 @@ https://live.catvod.com/live.php?id=huanyuxinwen_twn
 https://live.catvod.com/live.php?id=mtvhd_twn
 #EXTINF:-1 tvg-id="eyetvtravel_twn" tvg-name="EYETV 旅游" group-title="台湾",EYETV 旅游
 https://live.catvod.com/live.php?id=eyetvtravel_twn
-#EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="台湾",靖天卡通台
-https://live.catvod.com/live.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-id="yoyo_twn" tvg-name="东森幼幼 Yoyo TV" group-title="台湾",东森幼幼 Yoyo TV
-https://live.catvod.com/live.php?id=yoyo_twn
-#EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" group-title="台湾",Asia Food Network
-https://live.catvod.com/live.php?id=Afc
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
 https://live.catvod.com/live.php?id=dazn1_twn
 #EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" group-title="台湾",DAZN 2
 https://live.catvod.com/live.php?id=dazn2_twn
+
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
+http://7.iptv543.com:50007/4gtv-live107/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+#EXTINF:-1 tvg-id="yoyo_twn" tvg-name="东森幼幼 Yoyo TV" group-title="兒童卡通",东森幼幼 Yoyo TV
+https://live.catvod.com/live.php?id=yoyo_twn
+#EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
+https://live.catvod.com/live.php?id=jingtiancartoon_twn
+#EXTINF:-1 tvg-id="NICKJR.兒童頻道"  group-title="兒童卡通",Nick Jr.
+http://7.iptv543.com:50007/4gtv-live032/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+#EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道"  group-title="兒童卡通",Nickelodeon
+http://7.iptv543.com:50007/4gtv-live105/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+#EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
+http://7.iptv543.com:50007/4gtv-live017/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+#EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" group-title="兒童卡通",Asia Food Network
+https://live.catvod.com/live.php?id=Afc
 
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="中国",湖南卫视
 https://live.catvod.com/live.php?id=hunan_twn
