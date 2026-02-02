@@ -280,7 +280,6 @@ https://live.catvod.com/live.php?id=hollywoodmovies_twn
 https://live.catvod.com/live.php?id=axn_twn
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="电影频道",CINEMAX
 https://live.catvod.com/live.php?id=cinemax_twn
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" group-title="电影频道",Cinemax
 https://live.catvod.com/live.php?id=Cinemax
 #EXTINF:-1 tvg-id="moviesnow_raj" tvg-name="Movies Now HD" group-title="电影频道",Movies Now HD
 https://live.catvod.com/live.php?id=moviesnow_raj
