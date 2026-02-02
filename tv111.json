@@ -79,11 +79,19 @@ https://live.catvod.com/live.php?id=ttv_taiwan
 https://live.catvod.com/live.php?id=ttvzhonghe
 #EXTINF:-1 tvg-id="zhongshihd_twn" tvg-name="中视 HD" group-title="台湾",中视 HD
 https://live.catvod.com/live.php?id=zhongshihd_twn
+http://7.iptv543.com:50007/4gtv-4gtv040/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="ctshd_twn" tvg-name="华视 CTS HD" group-title="台湾",华视 CTS HD
-http://7.iptv543.com:50007/li-4gtv-4gtv041/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=ctshd_twn
 #EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公视 CTV" group-title="台湾",公视 CTV
 https://live.catvod.com/live.php?id=ctv18_twn
+#EXTINF:-1 tvg-id="ctv2_twn" tvg-name="公视2" group-title="台湾",公视2
+https://live.catvod.com/live.php?id=ctv2_twn
+#EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
+http://7.iptv543.com:50007/4gtv-live007/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+https://live.catvod.com/live.php?id=daai_twn
+#EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
+http://7.iptv543.com:50007/4gtv-live106/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+https://live.catvod.com/live.php?id=daai2_twn
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 GTV First" group-title="台湾",八大第一 GTV First
 https://live.catvod.com/live.php?id=badafirst
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大综合 GTV Metro" group-title="台湾",八大综合 GTV Metro
@@ -109,39 +117,14 @@ https://live.catvod.com/live.php?id=videolandmovie
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="台湾",美亚电影
 http://74.91.26.218:82/live/mydy.m3u8
 https://live.catvod.com/live.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" group-title="台湾",东森洋片 ETTV Western
+https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
 https://live.catvod.com/live.php?id=axn_twn
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="台湾",CINEMAX
 https://live.catvod.com/live.php?id=cinemax_twn
-#EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" group-title="台湾",东森洋片 ETTV Western
-https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片 Lunghua Western" group-title="台湾",龍華洋片 Lunghua Western
 https://live.catvod.com/live.php?id=lunghuawestern_twn
-#EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台视 TTV HD" group-title="台湾",台视 TTV HD
-https://live.catvod.com/live.php?id=ttv_taiwan
-#EXTINF:-1 tvg-id="ttvzhonghe" tvg-name="台视综合台" group-title="台湾",台视综合台
-https://live.catvod.com/live.php?id=ttvzhonghe
-#EXTINF:-1 tvg-id="zhongshihd_twn" tvg-name="中视 HD" group-title="台湾",中视 HD
-https://live.catvod.com/live.php?id=zhongshihd_twn
-#EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台视 TTV HD" group-title="台湾",台视 TTV HD
-https://live.catvod.com/live.php?id=ttv_taiwan
-#EXTINF:-1 tvg-id="ttvzhonghe" tvg-name="台视综合台" group-title="台湾",台视综合台
-https://live.catvod.com/live.php?id=ttvzhonghe
-#EXTINF:-1 tvg-id="zhongshihd_twn" tvg-name="中视 HD" group-title="台湾",中视 HD
-http://7.iptv543.com:50007/4gtv-4gtv040/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-https://live.catvod.com/live.php?id=zhongshihd_twn
-#EXTINF:-1 tvg-id="ctshd_twn" tvg-name="华视 CTS HD" group-title="台湾",华视 CTS HD
-https://live.catvod.com/live.php?id=ctshd_twn
-#EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公视 CTV" group-title="台湾",公视 CTV
-https://live.catvod.com/live.php?id=ctv18_twn
-#EXTINF:-1 tvg-id="ctv2_twn" tvg-name="公视2" group-title="台湾",公视2
-https://live.catvod.com/live.php?id=ctv2_twn
-#EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
-http://7.iptv543.com:50007/4gtv-live007/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-https://live.catvod.com/live.php?id=daai_twn
-#EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
-http://7.iptv543.com:50007/4gtv-live106/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-https://live.catvod.com/live.php?id=daai2_twn
 #EXTINF:-1 tvg-id="eltadrama_twn" tvg-name="爱尔达戏剧台" group-title="台湾",爱尔达戏剧台
 https://live.catvod.com/live.php?id=eltadrama_twn
 #EXTINF:-1 tvg-id="eyetvxiju_twn" tvg-name="EYETV 戏剧" group-title="台湾",EYETV 戏剧
