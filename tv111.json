@@ -13,8 +13,6 @@ https://live.catvod.com/live.php?id=feifannews_twn
 http://106.107.234.186:50007/4gtv-4gtv153/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 http://7.iptv543.com:50007/4gtv-4gtv153/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=ettvcaijing_twn
-#EXTINF:-1 tvg-id="壹新聞" tvg-name="壹新聞" group-title="台湾",壹新聞
-http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台 FTV News" group-title="台湾",民視新聞台 FTV News
 http://106.107.234.186:50007/litv-ftv13/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 https://live.catvod.com/live.php?id=ftvnew_taiwan
@@ -247,8 +245,6 @@ http://7.iptv543.com:50007/4gtv-live107/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpI
 https://live.catvod.com/live.php?id=momo1_twn
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="东森幼幼 Yoyo TV" group-title="兒童卡通",东森幼幼 Yoyo TV
 https://live.catvod.com/live.php?id=yoyo_twn
-#EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" group-title="兒童卡通",哆啦Ａ夢台
-http://106.107.234.186:5050/ofiii23/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
 http://106.107.234.186:50007/4gtv-live132/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 http://7.iptv543.com:50007/4gtv-live132/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
@@ -274,15 +270,8 @@ https://live.catvod.com/live.php?id=lhkt01
 https://live.catvod.com/live.php?id=KidsTV
 #EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" group-title="兒童卡通",Asia Food Network
 https://live.catvod.com/live.php?id=Afc
-
-#EXTINF:-1 tvg-id="ofiii215" tvg-name="電動車時代"  group-title="歐飛綜合",電動車時代
-http://106.107.234.186:5050/ofiii215/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
-#EXTINF:-1 tvg-id="ofiii216" tvg-name="SiCAR愛車酷"  group-title="歐飛綜合",SiCAR愛車酷
-http://106.107.234.186:5050/ofiii216/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
-#EXTINF:-1 tvg-id="ofiii217" tvg-name="狂人日誌"  group-title="歐飛綜合",狂人日誌
-http://106.107.234.186:5050/ofiii217/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
-#EXTINF:-1 tvg-id="ofiii218" tvg-name="脖子解說 Mr. Neck"  group-title="歐飛綜合",脖子解說 Mr. Neck
-http://106.107.234.186:5050/ofiii218/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
+#EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" group-title="兒童卡通",哆啦Ａ夢台
+http://106.107.234.186:5050/ofiii23/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
 
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="中国",湖南卫视
 http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
@@ -410,6 +399,8 @@ http://7.iptv543.com:50007/4gtv-4gtv156/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpI
 https://live.catvod.com/live.php?id=feifannews_twn
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS News 新聞台" group-title="新闻频道",TVBS News 新聞台
 https://live.catvod.com/live.php?id=tvbs_n
+#EXTINF:-1 tvg-id="壹新聞" tvg-name="壹新聞" group-title="新闻频道",壹新聞
+http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台 FTV News" group-title="新闻频道",民視新聞台 FTV News
 https://live.catvod.com/live.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台 TTV News" group-title="新闻频道",台視新聞台 TTV News
