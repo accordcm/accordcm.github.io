@@ -32,6 +32,7 @@ https://live.catvod.com/live.php?id=niandainews_twn
 http://106.107.234.186:50007/4gtv-4gtv075/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 http://7.iptv543.com:50007/4gtv-4gtv075/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞 CTI News" group-title="台湾",中天新聞 CTI News
+http://106.107.234.186:50007/4gtv-4gtv009/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 http://7.iptv543.com:50007/4gtv-4gtv009/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=ctinews
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
@@ -49,6 +50,8 @@ http://7.iptv543.com:50007/li-4gtv-4gtv001/index.m3u8?token=kTbOOJTb0TSnmN600ULh
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" group-title="台湾",民視第一台
 http://106.107.234.186:50007/4gtv-4gtv003/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 http://7.iptv543.com:50007/4gtv-4gtv003/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" group-title="台湾",民視綜藝
+http://106.107.234.186:50007/4gtv-4gtv004/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 #EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="三立台湾 Sanli Taiwan" group-title="台湾",三立台湾 Sanli
 https://live.catvod.com/live.php?id=sanlitaiwan
 #EXTINF:-1 tvg-id="sanlixiju_twn" tvg-name="三立戏剧台" group-title="台湾",三立戏剧台
@@ -168,6 +171,7 @@ http://7.iptv543.com:50007/litv-ftv07/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlR
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" group-title="台湾",金光布袋戲
 http://7.iptv543.com:50007/4gtv-live144/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
+http://106.107.234.186:50007/4gtv-4gtv006/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 http://7.iptv543.com:50007/4gtv-4gtv006/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" group-title="台湾",車迷 TV
 http://7.iptv543.com:50007/4gtv-live201/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
@@ -353,6 +357,7 @@ https://live.catvod.com/live.php?id=Rockentertain
 http://7.iptv543.com:50007/4gtv-4gtv153/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=ettvcaijing_twn
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
+http://106.107.234.186:50007/4gtv-4gtv156/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 http://7.iptv543.com:50007/4gtv-4gtv156/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞台" group-title="新闻频道",非凡新聞台
 https://live.catvod.com/live.php?id=feifannews_twn
