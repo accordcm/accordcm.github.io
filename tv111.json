@@ -69,6 +69,7 @@ https://live.catvod.com/live.php?id=tvbs
 http://106.107.234.186:50007/4gtv-4gtv067/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 http://7.iptv543.com:50007/4gtv-4gtv067/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="tvbshuanle_twn" tvg-name="TVBS 歡樂台" group-title="台湾",TVBS 歡樂台
+http://106.107.234.186:50007/4gtv-4gtv068/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 https://live.catvod.com/live.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娱乐 CTI Entertaiment" group-title="台湾",中天娱乐 CTI Entertaiment
 https://live.catvod.com/live.php?id=ctient
@@ -211,8 +212,12 @@ https://live.catvod.com/live.php?id=dazn1_twn
 https://live.catvod.com/live.php?id=dazn2_twn
 #EXTINF:-1 tvg-id="東森購物1台" tvg-name="東森購物1台"  group-title="台湾",東森購物一台
 http://106.107.234.186:50007/4gtv-live047/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+#EXTINF:-1 tvg-id="東森購物3台" tvg-name="東森購物3台"  group-title="台湾",東森購物三台
+http://106.107.234.186:50007/4gtv-live048/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 #EXTINF:-1 tvg-id="東森購物4台" tvg-name="東森購物4台"  group-title="台湾",東森購物四台
 http://106.107.234.186:50007/4gtv-live049/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+#EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV" group-title="台湾",韓國娛樂台
+http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
 http://106.107.234.186:50007/4gtv-live107/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
