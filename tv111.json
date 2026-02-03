@@ -307,11 +307,10 @@ https://live.catvod.com/live.php?id=phoenixtv_hd
 http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 https://live.catvod.com/live.php?id=phoenixinfo_hd
 
-#EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" group-title="电影频道",东森电影 ETTV Movie
-https://live.catvod.com/live.php?id=ettvmovie
+
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="电影频道",美亚电影
-http://74.91.26.218:82/live/mydy.m3u8
 https://live.catvod.com/live.php?id=meiyamovie_twn
+http://74.91.26.218:82/live/mydy.m3u8
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="电影频道",HBO_HD
 https://live.catvod.com/live.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" group-title="电影频道",HBO_HITS
@@ -363,6 +362,8 @@ https://live.catvod.com/live.php?id=Hbosignature
 https://live.catvod.com/live.php?id=Hbohitshd
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="电影频道",Dreamworks
 https://live.catvod.com/live.php?id=Dreamworks
+#EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" group-title="电影频道",东森电影 ETTV Movie
+https://live.catvod.com/live.php?id=ettvmovie
 #EXTINF:-1 tvg-id="Hitsmovie" tvg-name="Hits Movie" group-title="电影频道",Hits Movie
 https://live.catvod.com/live.php?id=Hitsmovie
 #EXTINF:-1 tvg-id="Tvnmovie" tvg-name="tvN Movie" group-title="电影频道",tvN Movie
