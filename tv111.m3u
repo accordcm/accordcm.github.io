@@ -181,35 +181,18 @@ https://live.catvod.com/live.php?id=eyetvtravel_twn
 https://live.catvod.com/live.php?id=dazn1_twn
 #EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" group-title="台湾",DAZN 2
 https://live.catvod.com/live.php?id=dazn2_twn
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" group-title="台湾",寰宇財經
-http://106.107.234.186:50007/of-4gtv-4gtv158/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
-#EXTINF:-1 tvg-id="東森購物1台" tvg-name="東森購物1台"  group-title="台湾",東森購物一台
-http://106.107.234.186:5050/4gtv-4gtv102/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
-http://106.107.234.186:50007/4gtv-live047/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
-#EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
-http://106.107.234.186:5050/4gtv-4gtv103/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
-#EXTINF:-1 tvg-id="東森購物3台" tvg-name="東森購物3台"  group-title="台湾",東森購物三台
-http://106.107.234.186:50007/4gtv-live048/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
-#EXTINF:-1 tvg-id="東森購物4台" tvg-name="東森購物4台"  group-title="台湾",東森購物四台
-http://106.107.234.186:50007/4gtv-live049/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
-#EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV" group-title="台湾",韓國娛樂台
-http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+
 
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
-http://106.107.234.186:50007/4gtv-live107/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
-http://7.iptv543.com:50007/4gtv-live107/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=momo1_twn
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="东森幼幼 Yoyo TV" group-title="兒童卡通",东森幼幼 Yoyo TV
 https://live.catvod.com/live.php?id=yoyo_twn
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
 http://106.107.234.186:50007/4gtv-live132/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
-http://7.iptv543.com:50007/4gtv-live132/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
-http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 https://live.catvod.com/live.php?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道"  group-title="兒童卡通",Nickelodeon
 http://106.107.234.186:50007/4gtv-live032/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
-http://7.iptv543.com:50007/4gtv-live105/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
 http://106.107.234.186:50007/4gtv-live017/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 #EXTINF:-1 tvg-id="NICKJR.兒童頻道"  group-title="兒童卡通",Nick Jr.
@@ -217,7 +200,6 @@ http://106.107.234.186:50007/4gtv-live105/index.m3u8?token=BccuJN0BpdlkORMero22r
 http://7.iptv543.com:50007/4gtv-live032/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=Nickjr
 #EXTINF:-1 tvg-id="lhkt01" tvg-name="龍華卡通" group-title="兒童卡通",龍華卡通
-http://106.107.234.186:50007/litv-xinchuang01/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 https://live.catvod.com/live.php?id=lhkt01
 #EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" group-title="兒童卡通",Cartoon Network
 https://live.catvod.com/live.php?id=Cn
@@ -346,11 +328,7 @@ https://live.catvod.com/live.php?id=Rockaction
 https://live.catvod.com/live.php?id=Rockentertain
 
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞 ETTV Business" group-title="新闻频道",東森財經新聞 ETTV Business
-http://7.iptv543.com:50007/4gtv-4gtv153/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=ettvcaijing_twn
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
-http://106.107.234.186:50007/4gtv-4gtv156/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
-http://7.iptv543.com:50007/4gtv-4gtv156/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞台" group-title="新闻频道",非凡新聞台
 https://live.catvod.com/live.php?id=feifannews_twn
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS News 新聞台" group-title="新闻频道",TVBS News 新聞台
@@ -361,12 +339,8 @@ https://live.catvod.com/live.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台 TTV News" group-title="新闻频道",台視新聞台 TTV News
 https://live.catvod.com/live.php?id=ttvnews_twn
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="新闻频道",中視新聞台
-http://106.107.234.186:50007/of-4gtv-4gtv074/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 https://live.catvod.com/live.php?id=zhongshinews_twn
-#EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞台" group-title="新闻频道",華視新聞台
-http://106.107.234.186:50007/of-4gtv-4gtv052/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="新闻频道",寰宇新聞台
-http://7.iptv543.com:50007/litv-longturn14/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 https://live.catvod.com/live.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞 CTI News" group-title="新闻频道",中天新聞 CTI News
 https://live.catvod.com/live.php?id=ctinews
