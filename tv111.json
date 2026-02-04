@@ -144,7 +144,7 @@ https://live.catvod.com/live.php?id=badaentertain
 #EXTINF:-1 tvg-id="much" tvg-name="Much年代" group-title="台湾",Much年代
 http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
 https://live.catvod.com/live.php?id=ettvwestern
-#EXTINF:-1 tvg-id="華藝綜合" tvg-name="華藝綜合" tvg-logo="" group-title="GPT-台湾",華藝綜合
+#EXTINF:-1 tvg-id="華藝綜合" tvg-name="華藝綜合" tvg-logo="" group-title="台湾",華藝綜合
 http://106.107.237.222:5050/smart.php?id=weishichinese_twn&token=885252
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 http://106.107.237.222:5050/smart.php?id=hbohd_twn&token=885252
