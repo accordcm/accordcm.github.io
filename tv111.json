@@ -17,6 +17,7 @@ https://live.catvod.com/live.php?id=ettvcaijing_twn
 http://106.107.234.186:50007/litv-ftv13/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 https://live.catvod.com/live.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台 TTV News" group-title="台湾",台視新聞台 TTV News
+http://106.107.237.222:5050/smart.php?id=ttvnews_twn&token=885252
 https://live.catvod.com/live.php?id=ttvnews_twn
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 http://106.107.234.186:50007/of-4gtv-4gtv074/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
@@ -40,6 +41,8 @@ https://live.catvod.com/live.php?id=discoverych_twn
 http://106.107.234.186:50007/4gtv-4gtv002/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 http://220.134.196.147:9574/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
 http://106.107.237.222:5050/smart.php?id=ftvhd_taiwan&token=885252
+#EXTINF:-1 tvg-id="中視" tvg-name="台視"  group-title="台湾",台視
+http://106.107.237.222:5050/smart.php?id=ttv_taiwan&token=885252
 #EXTINF:-1 tvg-id="中視" tvg-name="中視"  group-title="台湾",中視
 http://106.107.234.186:50007/of-4gtv-4gtv040/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 https://live.catvod.com/live.php?id=ftvhd_taiwan
