@@ -18,12 +18,9 @@ http://106.107.234.186:50007/litv-ftv13/index.m3u8?token=BccuJN0BpdlkORMero22rnG
 https://live.catvod.com/live.php?id=ttvnews_twn
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 http://106.107.234.186:5050/4gtv-4gtv074/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
-http://106.107.234.186:50007/4gtv-4gtv074/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 https://live.catvod.com/live.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://106.107.234.186:5050/4gtv-4gtv052/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
-http://106.107.234.186:50007/of-4gtv-4gtv052/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
-http://106.107.234.186:50007/4gtv-4gtv052/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 https://live.catvod.com/live.php?id=niandainews_twn
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
@@ -1486,6 +1483,111 @@ https://live.catvod.com/live.php?id=jthekpop_korea
 https://live.catvod.com/live.php?id=ebskids_korea
 #EXTINF:-1 tvg-id="cgntv_korea" tvg-name="CGNTV" group-title="韩国",CGNTV
 https://live.catvod.com/live.php?id=cgntv_korea
+
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="台湾|TVBS 新闻台" tvg-logo="https://live.fanmingming.cn/tv/台湾|TVBS 新闻台.png" group-title="smt台湾",台湾|TVBS 新闻台
+http://iptv543.com/smt.php?id=tvbs_n
+#EXTINF:-1 tvg-name="台湾|非凡新闻" tvg-logo="https://live.fanmingming.cn/tv/台湾|非凡新闻.png" group-title="smt台湾",台湾|非凡新闻
+http://iptv543.com/smt.php?id=feifannews_twn
+#EXTINF:-1 tvg-name="台湾|东森财经新闻台" tvg-logo="https://live.fanmingming.cn/tv/台湾|东森财经新闻台.png" group-title="smt台湾",台湾|东森财经新闻台
+http://iptv543.com/smt.php?id=ettvcaijing_twn
+#EXTINF:-1 tvg-name="台湾|民视新闻台" tvg-logo="https://live.fanmingming.cn/tv/台湾|民视新闻台.png" group-title="smt台湾",台湾|民视新闻台
+http://iptv543.com/smt.php?id=ftvnew_taiwan
+#EXTINF:-1 tvg-name="台湾|台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台湾|台视新闻.png" group-title="smt台湾",台湾|台视新闻
+http://iptv543.com/smt.php?id=ttvnews_twn
+#EXTINF:-1 tvg-name="台湾|中天新闻" tvg-logo="https://live.fanmingming.cn/tv/台湾|中天新闻.png" group-title="smt台湾",台湾|中天新闻
+http://iptv543.com/smt.php?id=ctinews
+#EXTINF:-1 tvg-name="台湾|寰宇新闻台" tvg-logo="https://live.fanmingming.cn/tv/台湾|寰宇新闻台.png" group-title="smt台湾",台湾|寰宇新闻台
+http://iptv543.com/smt.php?id=huanyuxinwen_twn
+#EXTINF:-1 tvg-name="台湾|台视 HD" tvg-logo="https://live.fanmingming.cn/tv/台湾|台视 HD.png" group-title="smt台湾",台湾|台视 HD
+http://iptv543.com/smt.php?id=ttv_taiwan
+#EXTINF:-1 tvg-name="台湾|大愛電視" tvg-logo="https://live.fanmingming.cn/tv/台湾|大愛電視.png" group-title="smt台湾",台湾|大愛電視
+http://iptv543.com/smt.php?id=daai_twn
+#EXTINF:-1 tvg-name="台湾|大愛二台" tvg-logo="https://live.fanmingming.cn/tv/台湾|大愛二台.png" group-title="smt台湾",台湾|大愛二台
+http://iptv543.com/smt.php?id=daai2_twn
+#EXTINF:-1 tvg-name="台湾|民视 HD" tvg-logo="https://live.fanmingming.cn/tv/台湾|民视 HD.png" group-title="smt台湾",台湾|民视 HD
+http://iptv543.com/smt.php?id=ftvhd_taiwan
+#EXTINF:-1 tvg-name="台湾|民视台湾台" tvg-logo="https://live.fanmingming.cn/tv/台湾|民视台湾台.png" group-title="smt台湾",台湾|民视台湾台
+http://iptv543.com/smt.php?id=ftvtaiwan_twn
+#EXTINF:-1 tvg-name="台湾|三立台湾台" tvg-logo="https://live.fanmingming.cn/tv/台湾|三立台湾台.png" group-title="smt台湾",台湾|三立台湾台
+http://iptv543.com/smt.php?id=sanlitaiwan
+#EXTINF:-1 tvg-name="台湾|三立戏剧台" tvg-logo="https://live.fanmingming.cn/tv/台湾|三立戏剧台.png" group-title="smt台湾",台湾|三立戏剧台
+http://iptv543.com/smt.php?id=sanlixiju_twn
+#EXTINF:-1 tvg-name="台湾|三立综合台" tvg-logo="https://live.fanmingming.cn/tv/台湾|三立综合台.png" group-title="smt台湾",台湾|三立综合台
+http://iptv543.com/smt.php?id=sanlizhonghe
+#EXTINF:-1 tvg-name="台湾|TVBS HD" tvg-logo="https://live.fanmingming.cn/tv/台湾|TVBS HD.png" group-title="smt台湾",台湾|TVBS HD
+http://iptv543.com/smt.php?id=tvbs
+#EXTINF:-1 tvg-name="台湾|中天综合" tvg-logo="https://live.fanmingming.cn/tv/台湾|中天综合.png" group-title="smt台湾",台湾|中天综合
+http://iptv543.com/smt.php?id=ctizhonghe
+#EXTINF:-1 tvg-name="台湾|中天娱乐" tvg-logo="https://live.fanmingming.cn/tv/台湾|中天娱乐.png" group-title="smt台湾",台湾|中天娱乐
+http://iptv543.com/smt.php?id=ctient
+#EXTINF:-1 tvg-name="台湾|中天亚洲" tvg-logo="https://live.fanmingming.cn/tv/台湾|中天亚洲.png" group-title="smt台湾",台湾|中天亚洲
+http://iptv543.com/smt.php?id=ctiasia_twn
+#EXTINF:-1 tvg-name="台湾|八大第一台" tvg-logo="https://live.fanmingming.cn/tv/台湾|八大第一台.png" group-title="smt台湾",台湾|八大第一台
+http://iptv543.com/smt.php?id=badafirst
+#EXTINF:-1 tvg-name="台湾|八大戏剧台" tvg-logo="https://live.fanmingming.cn/tv/台湾|八大戏剧台.png" group-title="smt台湾",台湾|八大戏剧台
+http://iptv543.com/smt.php?id=badadrama
+#EXTINF:-1 tvg-name="台湾|纬来电影" tvg-logo="https://live.fanmingming.cn/tv/台湾|纬来电影.png" group-title="smt台湾",台湾|纬来电影
+http://iptv543.com/smt.php?id=videolandmovie
+#EXTINF:-1 tvg-name="台湾|东森洋片台" tvg-logo="https://live.fanmingming.cn/tv/台湾|东森洋片台.png" group-title="smt台湾",台湾|东森洋片台
+http://iptv543.com/smt.php?id=ettvwestern
+#EXTINF:-1 tvg-name="台湾|AXN Taiwan" tvg-logo="https://live.fanmingming.cn/tv/台湾|AXN Taiwan.png" group-title="smt台湾",台湾|AXN Taiwan
+http://iptv543.com/smt.php?id=axn_twn
+#EXTINF:-1 tvg-name="台湾|CINEMAX" tvg-logo="https://live.fanmingming.cn/tv/台湾|CINEMAX.png" group-title="smt台湾",台湾|CINEMAX
+http://iptv543.com/smt.php?id=cinemax_twn
+#EXTINF:-1 tvg-name="台湾|好萊塢電影台" tvg-logo="https://live.fanmingming.cn/tv/台湾|好萊塢電影台.png" group-title="smt台湾",台湾|好萊塢電影台
+http://iptv543.com/smt.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-name="台湾|美亚电影" tvg-logo="https://live.fanmingming.cn/tv/台湾|美亚电影.png" group-title="smt台湾",台湾|美亚电影
+http://iptv543.com/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="台湾|东森戏剧台" tvg-logo="https://live.fanmingming.cn/tv/台湾|东森戏剧台.png" group-title="smt台湾",台湾|东森戏剧台
+http://iptv543.com/smt.php?id=ettvdrama
+#EXTINF:-1 tvg-name="台湾|纬来综合" tvg-logo="https://live.fanmingming.cn/tv/台湾|纬来综合.png" group-title="smt台湾",台湾|纬来综合
+http://iptv543.com/smt.php?id=videolandzonghe
+#EXTINF:-1 tvg-name="台湾|EYE 旅游台" tvg-logo="https://live.fanmingming.cn/tv/台湾|EYE 旅游台.png" group-title="smt台湾",台湾|EYE 旅游台
+http://iptv543.com/smt.php?id=eyetvtravel_twn
+#EXTINF:-1 tvg-name="台湾|EYE 戏剧台" tvg-logo="https://live.fanmingming.cn/tv/台湾|EYE 戏剧台.png" group-title="smt台湾",台湾|EYE 戏剧台
+http://iptv543.com/smt.php?id=eyetvxiju_twn
+#EXTINF:-1 tvg-name="台湾|亚洲美食" tvg-logo="https://live.fanmingming.cn/tv/台湾|亚洲美食.png" group-title="smt台湾",台湾|亚洲美食
+http://iptv543.com/smt.php?id=afc_twn
+#EXTINF:-1 tvg-name="台湾|TLC旅遊生活" tvg-logo="https://live.fanmingming.cn/tv/台湾|TLC旅遊生活.png" group-title="smt台湾",台湾|TLC旅遊生活
+http://iptv543.com/smt.php?id=tlc_twn
+#EXTINF:-1 tvg-name="台湾|博斯运动二台" tvg-logo="https://live.fanmingming.cn/tv/台湾|博斯运动二台.png" group-title="smt台湾",台湾|博斯运动二台
+http://iptv543.com/smt.php?id=bosisport2_twn
+#EXTINF:-1 tvg-name="台湾|博斯高球一台" tvg-logo="https://live.fanmingming.cn/tv/台湾|博斯高球一台.png" group-title="smt台湾",台湾|博斯高球一台
+http://iptv543.com/smt.php?id=bosigolf1_twn
+#EXTINF:-1 tvg-name="台湾|博斯高球二台" tvg-logo="https://live.fanmingming.cn/tv/台湾|博斯高球二台.png" group-title="smt台湾",台湾|博斯高球二台
+http://iptv543.com/smt.php?id=bosigolf2_twn
+#EXTINF:-1 tvg-name="台湾|博斯网球台" tvg-logo="https://live.fanmingming.cn/tv/台湾|博斯网球台.png" group-title="smt台湾",台湾|博斯网球台
+http://iptv543.com/smt.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="台湾|博斯无限台" tvg-logo="https://live.fanmingming.cn/tv/台湾|博斯无限台.png" group-title="smt台湾",台湾|博斯无限台
+http://iptv543.com/smt.php?id=bosiunlimited_twn
+#EXTINF:-1 tvg-name="台湾|台视综合" tvg-logo="https://live.fanmingming.cn/tv/台湾|台视综合.png" group-title="smt台湾",台湾|台视综合
+http://iptv543.com/smt.php?id=ttvzhonghe
+#EXTINF:-1 tvg-name="台湾|公视台语台" tvg-logo="https://live.fanmingming.cn/tv/台湾|公视台语台.png" group-title="smt台湾",台湾|公视台语台
+http://iptv543.com/smt.php?id=ctv2_twn
+#EXTINF:-1 tvg-name="台湾|东森幼幼台" tvg-logo="https://live.fanmingming.cn/tv/台湾|东森幼幼台.png" group-title="smt台湾",台湾|东森幼幼台
+http://iptv543.com/smt.php?id=yoyo_twn
+
+#EXTINF:-1 tvg-name="中国|湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|湖南卫视.png" group-title="smt中国",中国|湖南卫视
+http://iptv543.com/smt.php?id=hunan_twn
+#EXTINF:-1 tvg-name="中国|浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|浙江卫视.png" group-title="smt中国",中国|浙江卫视
+http://iptv543.com/smt.php?id=zhejiang_twn
+#EXTINF:-1 tvg-name="中国|江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|江苏卫视.png" group-title="smt中国",中国|江苏卫视
+http://iptv543.com/smt.php?id=jiangsu_twn
+#EXTINF:-1 tvg-name="中国|东方卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|东方卫视.png" group-title="smt中国",中国|东方卫视
+http://iptv543.com/smt.php?id=dongfangweishi_twn
+#EXTINF:-1 tvg-name="中国|北京卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|北京卫视.png" group-title="smt中国",中国|北京卫视
+http://iptv543.com/smt.php?id=beijing
+#EXTINF:-1 tvg-name="中国|深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|深圳卫视.png" group-title="smt中国",中国|深圳卫视
+http://iptv543.com/smt.php?id=shenzhen
+#EXTINF:-1 tvg-name="中国|广东卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|广东卫视.png" group-title="smt中国",中国|广东卫视
+http://iptv543.com/smt.php?id=guangdongweishi_twn
+#EXTINF:-1 tvg-name="中国|大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|大湾区卫视.png" group-title="smt中国",中国|大湾区卫视
+http://iptv543.com/smt.php?id=nanfang_twn
+#EXTINF:-1 tvg-name="中国|珠江台" tvg-logo="https://live.fanmingming.cn/tv/中国|珠江台.png" group-title="smt中国",中国|珠江台
+http://iptv543.com/smt.php?id=zhujiang
+#EXTINF:-1 tvg-name="中国|东南卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|东南卫视.png" group-title="smt中国",中国|东南卫视
+http://iptv543.com/smt.php?id=fujian
 
 #EXTINF:-1 tvg-name="潘多拉完美" tvg-logo="https://logo.catvod.com/潘多拉完美.png" group-title="私人频道_543",潘多拉完美
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
