@@ -200,7 +200,7 @@ https://live.catvod.com/live.php?id=lungxiangtime_twn
 https://live.catvod.com/live.php?id=jingtianintl_twn
 #EXTINF:-1 tvg-id="afc_twn" tvg-name="亚洲美食" group-title="台湾",亚洲美食
 https://live.catvod.com/live.php?id=afc_twn
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="生活旅遊",民視旅遊
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="台湾",民視旅遊
 http://106.107.234.186:50007/litv-ftv07/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 #EXTINF:-1 tvg-id="tlc_twn" tvg-name="亞洲旅遊台" group-title="台湾",亞洲旅遊台
 http://106.107.234.186:50007/4gtv-4gtv076/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
