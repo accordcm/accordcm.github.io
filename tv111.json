@@ -72,7 +72,6 @@ https://live.catvod.com/live.php?id=sanlidouhui_twn
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
 http://106.107.237.222:5050/smart.php?id=tvbs&token=885252
 https://live.catvod.com/live.php?id=tvbs
-http://106.107.234.186:50007/media-live073/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" group-title="台湾",TVBS精采台
 http://106.107.234.186:50007/4gtv-4gtv067/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 #EXTINF:-1 tvg-id="tvbshuanle_twn" tvg-name="TVBS 歡樂台" group-title="台湾",TVBS 歡樂台
