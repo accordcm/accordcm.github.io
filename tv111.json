@@ -76,7 +76,6 @@ https://live.catvod.com/live.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
 http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
 https://live.catvod.com/live.php?id=ctient
-http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 CTI Metro" group-title="台湾",中天综合 CTI Metro
 http://106.107.237.222:5050/smart.php?id=ctizhonghe&token=885252
 https://live.catvod.com/live.php?id=ctizhonghe
