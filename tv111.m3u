@@ -455,12 +455,16 @@ https://live.catvod.com/live.php?id=cbshd_glo
 #EXTINF:-1 tvg-id="cbsn_glo" tvg-name="CBSN HD" group-title="新闻频道",CBSN HD
 https://live.catvod.com/live.php?id=cbsn_glo
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="新闻频道",CGTN
+http://106.107.237.222:5050/smart.php?id=cgtn&token=885252
 https://live.catvod.com/live.php?id=CGTN
 #EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" group-title="新闻频道",DW (Deutsch)
+http://106.107.237.222:5050/smart.php?id=dw_twn&token=885252
 https://live.catvod.com/live.php?id=dw_twn
 #EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
+http://106.107.237.222:5050/smart.php?id=foxnews_twn&token=885252
 https://live.catvod.com/live.php?id=foxnews_twn
 #EXTINF:-1 tvg-id="nhkworld_japan" tvg-name="NHK World" group-title="新闻频道",NHK World
+http://106.107.237.222:5050/smart.php?id=nhkworld_japan&token=885252
 https://live.catvod.com/live.php?id=nhkworld_japan
 #EXTINF:-1 tvg-id="aljazeera_twn" tvg-name="Al-Jazeera" group-title="新闻频道",Al-Jazeera
 https://live.catvod.com/live.php?id=aljazeera_twn
@@ -469,18 +473,22 @@ https://live.catvod.com/live.php?id=bloomberg_twn
 #EXTINF:-1 tvg-id="Aljazeera" tvg-name="Al_Jazeera" group-title="新闻频道",Al_Jazeera
 https://live.catvod.com/live.php?id=Aljazeera
 #EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" group-title="新闻频道",CNN
+http://106.107.237.222:5050/smart.php?id=Cnn&token=885252
 https://live.catvod.com/live.php?id=Cnn
 #EXTINF:-1 tvg-id="cnn_twn" tvg-name="CNN backup" group-title="新闻频道",CNN backup
+http://106.107.237.222:5050/smart.php?id=cnn_twn&token=885252
 https://live.catvod.com/live.php?id=cnn_twn
 #EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
-https://live.catvod.com/live.php?id=Bbcnews
-#EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
+http://106.107.237.222:5050/smart.php?id=bbcnews_twn&token=885252
+http://106.107.237.222:5050/smart.php?id=Bbcnews&token=885252
 https://live.catvod.com/live.php?id=Bbcnews
 #EXTINF:-1 tvg-id="Cnbc" tvg-name="CNBC" group-title="新闻频道",CNBC
+http://106.107.237.222:5050/smart.php?id=cnbc_twn&token=885252
 https://live.catvod.com/live.php?id=Cnbc
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg TV" group-title="新闻频道",Bloomberg TV
 https://live.catvod.com/live.php?id=Bloomberg
 #EXTINF:-1 tvg-id="cna" tvg-name="CNA" group-title="新闻频道",CNA
+http://106.107.237.222:5050/smart.php?id=cna&token=885252
 https://live.catvod.com/live.php?id=cna
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW" group-title="新闻频道",DW
 https://live.catvod.com/live.php?id=Dw
