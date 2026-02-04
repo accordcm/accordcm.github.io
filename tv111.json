@@ -276,9 +276,6 @@ https://live.catvod.com/live.php?id=Cn
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
 http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 https://live.catvod.com/live.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道"  group-title="兒童卡通",Nickelodeon
-http://106.107.234.186:50007/4gtv-live032/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
-http://7.iptv543.com:50007/4gtv-live105/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
 http://106.107.234.186:50007/4gtv-live017/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 http://106.107.237.222:5050/smart.php?id=Dreamworks&token=885252
@@ -287,8 +284,6 @@ http://106.107.234.186:50007/4gtv-live032/index.m3u8?token=uBF072o50neVhXYcjwrPO
 http://106.107.237.222:5050/smart.php?id=Nickjr&token=885252
 https://live.catvod.com/live.php?id=Nickjr
 #EXTINF:-1 tvg-id="lhkt01" tvg-name="龍華卡通" group-title="兒童卡通",龍華卡通
-http://106.107.234.186:5050/litv-xinchuang01/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
-http://106.107.234.186:50007/litv-xinchuang01/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 https://live.catvod.com/live.php?id=lhkt01
 #EXTINF:-1 tvg-id="KidsTV" tvg-name="Kids TV" group-title="兒童卡通",Kids TV
 https://live.catvod.com/live.php?id=KidsTV
