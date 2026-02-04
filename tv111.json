@@ -137,8 +137,6 @@ https://live.catvod.com/live.php?id=badaentertain
 #EXTINF:-1 tvg-id="much" tvg-name="Much年代" group-title="台湾",Much年代
 http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
 https://live.catvod.com/live.php?id=ettvwestern
-#EXTINF:-1 tvg-id="華藝綜合" tvg-name="華藝綜合" tvg-logo="" group-title="台湾",華藝綜合
-http://106.107.237.222:5050/smart.php?id=weishichinese_twn&token=885252
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 http://106.107.237.222:5050/smart.php?id=hbohd_twn&token=885252
 https://live.catvod.com/live.php?id=hbohd_twn
@@ -197,6 +195,7 @@ http://106.107.234.186:50007/litv-ftv07/index.m3u8?token=uBF072o50neVhXYcjwrPOHu
 #EXTINF:-1 tvg-id="tlc_twn" tvg-name="亞洲旅遊台" group-title="台湾",亞洲旅遊台
 http://106.107.234.186:50007/4gtv-4gtv076/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 http://106.107.234.186:50007/of-4gtv-4gtv076/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
+#EXTINF:-1 tvg-id="tlc_twn" tvg-name="TLC" group-title="台湾",TLC
 https://live.catvod.com/live.php?id=tlc_twn
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
 http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
@@ -206,7 +205,6 @@ https://live.catvod.com/live.php?id=videolandsport
 http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 https://live.catvod.com/live.php?id=videolandmax
 #EXTINF:-1 tvg-id="videolandtv" tvg-name="纬来精彩" group-title="台湾",纬来精彩
-http://106.107.237.222:5050/smart.php?id=videolandspecial_twn&token=885252
 https://live.catvod.com/live.php?id=videolandtv
 #EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" group-title="台湾",DW (Deutsch)
 https://live.catvod.com/live.php?id=dw_twn
