@@ -35,9 +35,9 @@ https://live.catvod.com/live.php?id=ctinews
 http://106.107.234.186:50007/4gtv-live409/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+https://live.catvod.com/live.php?id=discoverych_twn
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
-https://live.catvod.com/live.php?id=discoverych_twn
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 http://106.107.234.186:50007/4gtv-4gtv002/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 http://220.134.196.147:9574/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
@@ -84,7 +84,6 @@ https://live.catvod.com/live.php?id=ctiasia_twn
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
 rtmp://9svd1.mine.nu/sat/tv331
 rtmp://9svd2.mine.nu/sat/tv331
-http://106.107.237.222:5050/smart.php?id=ettvsuper&token=885252
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="东森综合" group-title="台湾",东森综合
 http://106.107.237.222:5050/smart.php?id=ettvzhonghe&token=885252
 https://live.catvod.com/live.php?id=ettvzhonghe
@@ -369,6 +368,11 @@ https://live.catvod.com/live.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-id="lhdy01" tvg-name="龍華电影" group-title="电影频道",龍華电影
 http://106.107.234.186:50007/litv-xinchuang03/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 https://live.catvod.com/live.php?id=lhdy01
+#EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙详时代" group-title="电影频道",龙详时代
+http://106.107.237.222:5050/smart.php?id=lungxiangtime_twn&token=885252
+https://live.catvod.com/live.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="电影频道",Animax
+https://live.catvod.com/live.php?id=Animax
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" group-title="电影频道",Hollywood Movies
 http://106.107.237.222:5050/smart.php?id=hollywoodmovies_twn&token=885252
 https://live.catvod.com/live.php?id=hollywoodmovies_twn
@@ -380,11 +384,6 @@ https://live.catvod.com/live.php?id=cinemax_twn
 https://live.catvod.com/live.php?id=Cinemax
 #EXTINF:-1 tvg-id="moviesnow_raj" tvg-name="Movies Now HD" group-title="电影频道",Movies Now HD
 https://live.catvod.com/live.php?id=moviesnow_raj
-#EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙详时代" group-title="电影频道",龙详时代
-http://106.107.237.222:5050/smart.php?id=lungxiangtime_twn&token=885252
-https://live.catvod.com/live.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="电影频道",Animax
-https://live.catvod.com/live.php?id=Animax
 #EXTINF:-1 tvg-id="Hits" tvg-name="Hits" group-title="电影频道",Hits
 https://live.catvod.com/live.php?id=Hits
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" group-title="电影频道",Warner TV
@@ -519,6 +518,7 @@ https://live.catvod.com/live.php?id=mzt001
 #EXTINF:-1 tvg-id="j1na001" tvg-name="TVB J1" group-title="香港",TVB J1
 https://live.catvod.com/live.php?id=j1na001
 #EXTINF:-1 tvg-id="tvbplus2" tvg-name="TVB Plus" group-title="香港",TVB Plus
+http://106.107.237.222:5050/smart.php?id=j2_twn&token=885252
 https://live.catvod.com/live.php?id=tvbplus2
 #EXTINF:-1 tvg-id="tvbxw01" tvg-name="无线新闻" group-title="香港",无线新闻
 https://live.catvod.com/live.php?id=tvbxw01
