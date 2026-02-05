@@ -83,6 +83,8 @@ https://live.catvod.com/live.php?id=ctizhonghe
 #EXTINF:-1 tvg-id="ctiasia_twn" tvg-name="中天亚洲台" group-title="台湾",中天亚洲台
 https://live.catvod.com/live.php?id=ctiasia_twn
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
+rtmp://9svd1.mine.nu/sat/tv331
+rtmp://9svd2.mine.nu/sat/tv331
 http://106.107.237.222:5050/smart.php?id=ettvsuper&token=885252
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="东森综合" group-title="台湾",东森综合
 http://106.107.237.222:5050/smart.php?id=ettvzhonghe&token=885252
