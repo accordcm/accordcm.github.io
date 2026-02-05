@@ -143,6 +143,7 @@ https://live.catvod.com/live.php?id=badaentertain
 http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
 https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
+http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
 http://106.107.237.222:5050/smart.php?id=hbohd_twn&token=885252
 https://live.catvod.com/live.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" group-title="台湾",HBO_HITS
