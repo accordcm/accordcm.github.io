@@ -93,16 +93,18 @@ https://live.catvod.com/live.php?id=ettvdrama
 #EXTINF:-1 tvg-id="weishichinese_twn" tvg-name="衛视中文台 Star Movies Chinese" group-title="台湾",衛视中文台 Star Movies Chinese
 https://live.catvod.com/live.php?id=weishichinese_twn
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
-http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 http://106.107.237.222:5050/smart.php?id=videolandjapan&token=885252
+http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 https://live.catvod.com/live.php?id=videolandjapan
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
-http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
 http://106.107.237.222:5050/smart.php?id=videolandzonghe&token=885252
+http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
 https://live.catvod.com/live.php?id=videolandzonghe
 #EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台视 TTV HD" group-title="台湾",台视 TTV HD
+http://106.107.237.222:5050/smart.php?id=ttv_taiwan&token=885252
 https://live.catvod.com/live.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="ttvzhonghe" tvg-name="台视综合台" group-title="台湾",台视综合台
+http://106.107.237.222:5050/smart.php?id=ttvzhonghe&token=885252
 https://live.catvod.com/live.php?id=ttvzhonghe
 #EXTINF:-1 tvg-id="zhongshihd_twn" tvg-name="中视 HD" group-title="台湾",中视 HD
 http://106.107.234.186:50007/4gtv-4gtv040/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
