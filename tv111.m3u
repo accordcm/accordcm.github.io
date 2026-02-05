@@ -35,6 +35,8 @@ https://live.catvod.com/live.php?id=ctinews
 http://106.107.234.186:50007/4gtv-live409/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
+http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
 https://live.catvod.com/live.php?id=discoverych_twn
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 http://106.107.234.186:50007/4gtv-4gtv002/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
@@ -80,6 +82,8 @@ https://live.catvod.com/live.php?id=ctizhonghe
 #EXTINF:-1 tvg-id="ctiasia_twn" tvg-name="中天亚洲台" group-title="台湾",中天亚洲台
 https://live.catvod.com/live.php?id=ctiasia_twn
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
+rtmp://9svd1.mine.nu/sat/tv331
+rtmp://9svd2.mine.nu/sat/tv331
 http://106.107.237.222:5050/smart.php?id=ettvsuper&token=885252
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="东森综合" group-title="台湾",东森综合
 http://106.107.237.222:5050/smart.php?id=ettvzhonghe&token=885252
@@ -292,7 +296,6 @@ http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
 http://106.107.237.222:5050/smart.php?id=hunan_twn&token=885252
 https://live.catvod.com/live.php?id=hunan_twn
 #EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" group-title="中国",浙江卫视
-http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
 http://106.107.237.222:5050/smart.php?id=zhejiang_twn&token=885252
 https://live.catvod.com/live.php?id=zhejiang_twn
 #EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="中国",江苏卫视
