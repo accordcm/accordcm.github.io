@@ -58,12 +58,13 @@ https://live.catvod.com/live.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="中視" tvg-name="中視"  group-title="台湾",中視
 http://106.107.237.222:50007/4gtv-4gtv040/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 http://106.107.237.222:50007/of-4gtv-4gtv040/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.237.222:5051/4gtv-4gtv040/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
 http://106.107.234.186:50007/of-4gtv-4gtv040/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 https://live.catvod.com/live.php?id=zhongshihd_twn
 https://live.catvod.com/live.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="華視" tvg-name="華視"  group-title="台湾",華視
 http://106.107.237.222:50007/4gtv-4gtv041/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-http://106.107.234.186:50007/4gtv-4gtv041/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
+http://106.107.237.222:5051/4gtv-4gtv041/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
 https://live.catvod.com/live.php?id=ctshd_twn
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
 http://106.107.237.222:50007/4gtv-4gtv001/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
@@ -187,18 +188,17 @@ https://live.catvod.com/live.php?id=eltadrama_twn
 #EXTINF:-1 tvg-id="eyetvxiju_twn" tvg-name="EYETV 戏剧" group-title="台湾",EYETV 戏剧
 https://live.catvod.com/live.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
-http://106.107.234.186:50007/litv-xinchuang18/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
+http://106.107.237.222:50007/litv-xinchuang18/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 https://live.catvod.com/live.php?id=lhxj01
 https://live.catvod.com/live.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龍華经典台" group-title="台湾",龍華经典台
-https://live.catvod.com/live.php?id=lhjd01
-https://live.catvod.com/live.php?id=lunghuajingdian_twn
+http://106.107.237.222:50007/litv-xinchuang21/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="lunghuaidol_twn" tvg-name="龍華偶像" group-title="台湾",龍華偶像
-http://106.107.234.186:50007/litv-xinchuang12/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
+http://106.107.237.222:50007/litv-xinchuang12/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 https://live.catvod.com/live.php?id=lhox01
 https://live.catvod.com/live.php?id=lunghuaidol_twn
 #EXTINF:-1 tvg-id="lhrh01" tvg-name="龍華日韓台" group-title="台湾",龍華日韓台
-http://106.107.234.186:50007/litv-xinchuang11/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
+http://106.107.237.222:50007/litv-xinchuang11/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 https://live.catvod.com/live.php?id=lhrh01
 #EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙详时代" group-title="台湾",龙详时代
 https://live.catvod.com/live.php?id=lungxiangtime_twn
@@ -263,9 +263,9 @@ https://live.catvod.com/live.php?id=dazn2_twn
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
 http://106.107.237.222:50007/4gtv-4gtv006/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
-http://106.107.234.186:50007/4gtv-live047/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
+http://106.107.237.222:50007/of-4gtv-4gtv102/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
-http://106.107.237.222:50007/4gtv-live046/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.237.222:50007/of-4gtv-4gtv103/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物3台"  group-title="台湾",東森購物三台
 http://106.107.237.222:50007/4gtv-live048/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物5台" group-title="台湾",東森購物五台
@@ -377,11 +377,12 @@ http://106.107.237.222:5050/smart.php?id=ettvwestern&token=885252
 https://live.catvod.com/live.php?id=ettvmovie
 https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="电影频道",龍華洋片
-http://106.107.234.186:5050/litv-xinchuang02/index.m3u8?token=O2DOHe5-fYQxkzuT1jzLjKULbP3JkwDr8P_MTlnVzRj13B-BRS6-sinocRRnPn95
+http://106.107.237.222:50007/litv-xinchuang02/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 https://live.catvod.com/live.php?id=lhyp01
 https://live.catvod.com/live.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-id="lhdy01" tvg-name="龍華电影" group-title="电影频道",龍華电影
-http://106.107.234.186:50007/litv-xinchuang03/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
+http://106.107.237.222:50007/litv-xinchuang03/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.237.222:5051/litv-xinchuang03/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
 https://live.catvod.com/live.php?id=lhdy01
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" group-title="电影频道",Hollywood Movies
 http://106.107.237.222:5050/smart.php?id=hollywoodmovies_twn&token=885252
