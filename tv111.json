@@ -551,6 +551,33 @@ http://106.107.237.222:5050/smart.php?id=phoenixinfo_hd&token=885252
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="香港",凤凰香港
 http://106.107.237.222:5050/smart.php?id=hkphoenix_twn&token=885252
 
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="GPT-新加坡",Channel 5
+http://106.107.237.222:5050/smart.php?id=channel5hd&token=885252
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="" group-title="GPT-新加坡",Channel 8
+http://106.107.237.222:5050/smart.php?id=channel8hd&token=885252
+#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="" group-title="GPT-新加坡",Suria
+http://106.107.237.222:5050/smart.php?id=suria&token=885252
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="GPT-新加坡",Channel U
+http://106.107.237.222:5050/smart.php?id=channelu&token=885252
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="" group-title="GPT-新加坡",Vasantham
+http://106.107.237.222:5050/smart.php?id=vasantham&token=885252
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-新加坡",CNA
+http://106.107.237.222:5050/smart.php?id=cna&token=885252
+#EXTINF:-1 tvg-id="CNA backup" tvg-name="CNA backup" tvg-logo="" group-title="GPT-新加坡",CNA backup
+http://106.107.237.222:5050/smart.php?id=cna_twn&token=885252
+#EXTINF:-1 tvg-id="MeWatch Ch 5" tvg-name="MeWatch Ch 5" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 5
+http://106.107.237.222:5050/smart.php?id=Mewatch_ch5&token=885252
+#EXTINF:-1 tvg-id="MeWatch Ch 8" tvg-name="MeWatch Ch 8" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 8
+http://106.107.237.222:5050/smart.php?id=Mewatch_ch8&token=885252
+#EXTINF:-1 tvg-id="MeWatch Ch U" tvg-name="MeWatch Ch U" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch U
+http://106.107.237.222:5050/smart.php?id=Mewatch_chU&token=885252
+#EXTINF:-1 tvg-id="MeWatch Suria" tvg-name="MeWatch Suria" tvg-logo="" group-title="GPT-新加坡",MeWatch Suria
+http://106.107.237.222:5050/smart.php?id=Mewatch_Suria&token=885252
+#EXTINF:-1 tvg-id="MeWatch Vasantham" tvg-name="MeWatch Vasantham" tvg-logo="" group-title="GPT-新加坡",MeWatch Vasantham
+http://106.107.237.222:5050/smart.php?id=Mewatch_Vasantham&token=885252
+#EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="MeWatch CNA" tvg-logo="" group-title="GPT-新加坡",MeWatch CNA
+http://106.107.237.222:5050/smart.php?id=Mewatch_cna&token=885252
+
 
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
 https://nl.utako.moe/NHK_G/index.m3u8
@@ -687,11 +714,11 @@ https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-name="V Paradise (NSFW)" tvg-logo="https://logo.catvod.com/V Paradise (NSFW).png" group-title="日本",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
 
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" group-title="體育競技",智林體育
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" group-title="体育频道",智林體育
 http://106.107.237.222:50007/4gtv-4gtv101/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="體育競技",時尚運動X
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="体育频道",時尚運動X
 http://106.107.237.222:50007/4gtv-live411/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="體育競技",時尚運動X
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="体育频道",時尚運動X
 http://106.107.237.222:50007/4gtv-4gtv014/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="Assp1" tvg-name="Astro PL 1" group-title="体育频道",Astro PL 1
 https://live.catvod.com/live.php?id=Assp1
@@ -794,38 +821,6 @@ https://live.catvod.com/live.php?id=dazn2_twn
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" group-title="体育频道",Eurosport
 https://live.catvod.com/live.php?id=Eurosport
 
-
-#EXTINF:-1 tvg-id="Channel5HD" tvg-name="Channel 5" group-title="Singapore",Channel 5
-http://106.107.237.222:5050/smart.php?id=channel5hd&token=885252
-https://live.catvod.com/live.php?id=Channel5HD
-#EXTINF:-1 tvg-id="Mewatch_ch5" tvg-name="Channel 5 backup" group-title="Singapore",Channel 5 backup
-https://live.catvod.com/live.php?id=Mewatch_ch5
-#EXTINF:-1 tvg-id="Channel8HD" tvg-name="Channel 8" group-title="Singapore",Channel 8
-https://live.catvod.com/live.php?id=Channel8HD
-#EXTINF:-1 tvg-id="Mewatch_ch8" tvg-name="Channel 8 backup" group-title="Singapore",Channel 8 backup
-https://live.catvod.com/live.php?id=Mewatch_ch8
-#EXTINF:-1 tvg-id="ChannelU" tvg-name="Channel U" group-title="Singapore",Channel U
-https://live.catvod.com/live.php?id=ChannelU
-#EXTINF:-1 tvg-id="Mewatch_chU" tvg-name="Channel U backup" group-title="Singapore",Channel U backup
-https://live.catvod.com/live.php?id=Mewatch_chU
-#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" group-title="Singapore",Suria
-https://live.catvod.com/live.php?id=Suria
-#EXTINF:-1 tvg-id="Mewatch_Suria" tvg-name="Suria backup" group-title="Singapore",Suria backup
-https://live.catvod.com/live.php?id=Mewatch_Suria
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" group-title="Singapore",Vasantham
-https://live.catvod.com/live.php?id=Vasantham
-#EXTINF:-1 tvg-id="Mewatch_Vasantham" tvg-name="Vasantham backup" group-title="Singapore",Vasantham backup
-https://live.catvod.com/live.php?id=Mewatch_Vasantham
-#EXTINF:-1 tvg-id="Mewatch_cna" tvg-name="CNA backup1" group-title="Singapore",CNA backup1
-https://live.catvod.com/live.php?id=Mewatch_cna
-#EXTINF:-1 tvg-id="cna_twn" tvg-name="CNA backup2" group-title="Singapore",CNA backup2
-https://live.catvod.com/live.php?id=cna_twn
-#EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" group-title="Singapore",CNN
-https://live.catvod.com/live.php?id=Cnn
-#EXTINF:-1 tvg-id="cnn_twn" tvg-name="CNN backup" group-title="Singapore",CNN backup
-https://live.catvod.com/live.php?id=cnn_twn
-#EXTINF:-1 tvg-id="cna" tvg-name="CNA" group-title="Singapore",CNA
-https://live.catvod.com/live.php?id=cna
 
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="纪录频道",discovery
 https://live.catvod.com/live.php?id=discoverych_twn
