@@ -219,13 +219,10 @@ http://106.107.237.222:5050/smart.php?id=bosiunlimited_twn&token=885252
 https://live.catvod.com/live.php?id=bosiunlimited_twn
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
 http://106.107.237.222:5050/smart.php?id=eltasport1_twn&token=885252
-https://live.catvod.com/live.php?id=eltasport1_twn
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
 http://106.107.237.222:5050/smart.php?id=eltasport2_twn&token=885252
-https://live.catvod.com/live.php?id=eltasport2_twn
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
 http://106.107.237.222:5050/smart.php?id=eltasport3_twn&token=885252
-https://live.catvod.com/live.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV"  group-title="台湾",車迷 TV
 http://106.107.237.222:50007/4gtv-live201/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
@@ -260,36 +257,27 @@ http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="中国",湖南卫视
 http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
 http://106.107.237.222:5050/smart.php?id=hunan_twn&token=885252
-https://live.catvod.com/live.php?id=hunan_twn
 #EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" group-title="中国",浙江卫视
 http://106.107.237.222:5050/smart.php?id=zhejiang_twn&token=885252
-https://live.catvod.com/live.php?id=zhejiang_twn
 #EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="中国",江苏卫视
 http://111.170.157.210:1081/?id=623899368&auth=95d4c11f9a4bc430bf05d5da4ace7ccb60d8c44fd6b4f79e4c4ea182ed9fe718bb0222774566c9cc75a34417fe38207c
 http://106.107.237.222:5050/smart.php?id=jiangsu_twn&token=885252
-https://live.catvod.com/live.php?id=jiangsu_twn
 #EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="东方卫视" group-title="中国",东方卫视
 http://111.170.157.210:1081/?id=651632648&auth=95d4c11f9a4bc430bf05d5da4ace7ccb8e3b6074f417187c939ab4d40bbe6ab2282f8bfc6098ecb7139fb187c89b9ae1
 http://106.107.237.222:5050/smart.php?id=dongfangweishi_twn&token=885252
-https://live.catvod.com/live.php?id=dongfangweishi_twn
 #EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="中国",北京卫视
 http://106.107.237.222:5050/smart.php?id=beijing&token=885252
-https://live.catvod.com/live.php?id=beijing
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="中国",深圳卫视
-http://106.107.237.222:5050/smart.php?id=shenzhen&token=885252
-https://live.catvod.com/live.php?id=shenzhen
+http://106.107.237.222:5050/smart.php?id=shenzhen&token=885252n
 #EXTINF:-1 tvg-id="fujian" tvg-name="廈門衛視" group-title="中国",廈門衛視
 http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 #EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="中国",福建东南卫视
 http://106.107.237.222:5050/smart.php?id=fujian&token=885252
-https://live.catvod.com/live.php?id=fujian
 #EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="广东卫视" group-title="中国",广东卫视
 http://111.170.157.210:1081/?id=608831231&auth=95d4c11f9a4bc430bf05d5da4ace7ccb4ef00f6766c6d4488c80b60a4dbe29b91976f0c8ca4a972b0d3adbe4e664317e
 http://106.107.237.222:5050/smart.php?id=guangdongweishi_twn&token=885252
-https://live.catvod.com/live.php?id=guangdongweishi_twn
 #EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" group-title="中国",湖北卫视
-http://106.107.237.222:5050/smart.php?id=hubei&token=885252
-https://live.catvod.com/live.php?id=hubei
+http://106.107.237.222:5050/smart.php?id=hubei&token=885252i
 #EXTINF:-1 tvg-id="nanfang_twn" tvg-name="广东南方卫视" group-title="中国",广东南方卫视
 https://live.catvod.com/live.php?id=nanfang_twn
 #EXTINF:-1 tvg-id="zhujiang" tvg-name="珠江台" group-title="中国",珠江台
@@ -300,17 +288,16 @@ https://live.catvod.com/live.php?id=guangxi
 https://live.catvod.com/live.php?id=CGTN
 #EXTINF:-1 tvg-id="sichuan_twn" tvg-name="四川卫视" group-title="中国",四川卫视
 http://106.107.237.222:5050/smart.php?id=sichuan_twn&token=885252
-https://live.catvod.com/live.php?id=sichuan_twn
 #EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 體育" group-title="中国",CCTV-5 體育
-https://live.catvod.com/live.php?id=cctv5
+http://106.107.237.222:5050/smart.php?id=cctv5&token=885252
+http://106.107.237.222:5050/smart.php?id=tiankongmain&token=885252
 #EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ 體育" group-title="中国",CCTV-5+ 體育
-https://live.catvod.com/live.php?id=cctv5plus
+http://106.107.237.222:5050/smart.php?id=cctv15&token=885252
+http://106.107.237.222:5050/smart.php?id=tiankongnews&token=885252
 #EXTINF:-1 tvg-id="phoenixtv_hd" tvg-name="鳯凰衛視中文" group-title="中国",鳯凰衛視中文
 http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
-https://live.catvod.com/live.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="phoenixinfo_hd" tvg-name="鳯凰衛視資訊" group-title="中国",鳯凰衛視資訊
 http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
-https://live.catvod.com/live.php?id=phoenixinfo_hd
 
 
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
@@ -423,7 +410,7 @@ https://live.catvod.com/live.php?id=Celestialindo
 #EXTINF:-1 tvg-id="Celestial2" tvg-name="Celestial Classic" group-title="电影频道",Celestial Classic
 
 
-#EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS"  group-title="新聞財經",三立iNEWS
+#EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS"  group-title="新闻频道",三立iNEWS
 http://106.107.237.222:50007/iNEWS/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞 ETTV Business" group-title="新闻频道",東森財經新聞 ETTV Business
 https://live.catvod.com/live.php?id=ettvcaijing_twn
