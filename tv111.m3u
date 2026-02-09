@@ -569,24 +569,28 @@ https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-name="V Paradise (NSFW)" tvg-logo="https://logo.catvod.com/V Paradise (NSFW).png" group-title="日本",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
 
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" group-title="体育频道",智林體育
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" group-title="GPT-體育頻道",智林體育
 http://106.107.237.222:50007/4gtv-4gtv101/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="体育频道",時尚運動X
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="GPT-體育頻道",時尚運動X
 http://106.107.237.222:50007/4gtv-live411/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="体育频道",時尚運動X
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="GPT-體育頻道",時尚運動X
 http://106.107.237.222:50007/4gtv-4gtv014/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" group-title="GPT-台湾",博斯运动一台
+#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" group-title="GPT-體育頻道",博斯运动一台
 http://106.107.237.222:5050/smart.php?id=bosisport1_twn&token=885252
-#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" group-title="GPT-台湾",博斯运动二台
+#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" group-title="GPT-體育頻道",博斯运动二台
 http://106.107.237.222:5050/smart.php?id=bosisport2_twn&token=885252
-#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" group-title="GPT-台湾",博斯高球一台
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" group-title="GPT-體育頻道",博斯高球一台
 http://106.107.237.222:5050/smart.php?id=bosigolf1_twn&token=885252
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" group-title="GPT-台湾",博斯高球二台
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" group-title="GPT-體育頻道",博斯高球二台
 http://106.107.237.222:5050/smart.php?id=bosigolf2_twn&token=885252
-#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台"  group-title="GPT-台湾",博斯网球台
+#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台"  group-title="GPT-體育頻道",博斯网球台
 http://106.107.237.222:5050/smart.php?id=bositennis_twn&token=885252
-#EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" group-title="GPT-台湾",博斯无限台
+#EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" group-title="GPT-體育頻道",博斯无限台
 http://106.107.237.222:5050/smart.php?id=bosiunlimited_twn&token=885252
+#EXTINF:-1 tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" group-title="GPT-體育頻道",爱尔达体育2台
+http://142.171.248.206:5050/smart.php?id=eltasport2_twn&token=885252
+#EXTINF:-1 tvg-id="爱尔达体育3台" tvg-name="爱尔达体育3台" group-title="GPT-體育頻道",爱尔达体育3台
+http://142.171.248.206:5050/smart.php?id=eltasport3_twn&token=885252
 
 
 #EXTM3U
