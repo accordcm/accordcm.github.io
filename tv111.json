@@ -325,9 +325,17 @@ http://106.107.237.222:5050/smart.php?id=Cn&token=885252
 http://106.107.237.222:5050/smart.php?id=meiyamovie_twn&token=885252
 https://live.catvod.com/live.php?id=meiyamovie_twn
 http://74.91.26.218:82/live/mydy.m3u8
+#EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="电影频道",龍華洋片
+http://106.107.237.222:50007/litv-xinchuang02/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.237.222:5051/litv-xinchuang02/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
+https://live.catvod.com/live.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-id="lhdy01" tvg-name="龍華电影" group-title="电影频道",龍華电影
+http://106.107.237.222:50007/litv-xinchuang03/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.237.222:5051/litv-xinchuang03/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
+#EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" group-title="电影频道",Hollywood Movies
+http://106.107.237.222:5050/smart.php?id=hollywoodmovies_twn&token=885252
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="电影频道",HBO_HD
 http://106.107.237.222:5050/smart.php?id=Hbo&token=885252
-https://live.catvod.com/live.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" group-title="电影频道",HBO_HITS
 http://106.107.237.222:5050/smart.php?id=Hbohitshd&token=885252
 https://live.catvod.com/live.php?id=hbohits_twn
@@ -337,18 +345,6 @@ https://live.catvod.com/live.php?id=hbosignature_twn
 https://live.catvod.com/live.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" group-title="电影频道",东森洋片 ETTV Western
 http://106.107.237.222:5050/smart.php?id=ettvwestern&token=885252
-https://live.catvod.com/live.php?id=ettvmovie
-https://live.catvod.com/live.php?id=ettvwestern
-#EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="电影频道",龍華洋片
-http://106.107.237.222:50007/litv-xinchuang02/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-https://live.catvod.com/live.php?id=lhyp01
-https://live.catvod.com/live.php?id=lunghuawestern_twn
-#EXTINF:-1 tvg-id="lhdy01" tvg-name="龍華电影" group-title="电影频道",龍華电影
-http://106.107.237.222:50007/litv-xinchuang03/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-http://106.107.237.222:5051/litv-xinchuang03/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
-https://live.catvod.com/live.php?id=lhdy01
-#EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" group-title="电影频道",Hollywood Movies
-http://106.107.237.222:5050/smart.php?id=hollywoodmovies_twn&token=885252
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="电影频道",AXN Taiwan
 http://106.107.237.222:5050/smart.php?id=axn_twn&token=885252
 https://live.catvod.com/live.php?id=axn_twn
@@ -581,23 +577,23 @@ https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-name="V Paradise (NSFW)" tvg-logo="https://logo.catvod.com/V Paradise (NSFW).png" group-title="日本",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
 
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" group-title="体育频道",智林體育
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" group-title="GPT-體育頻道",智林體育
 http://106.107.237.222:50007/4gtv-4gtv101/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="体育频道",時尚運動X
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="GPT-體育頻道",時尚運動X
 http://106.107.237.222:50007/4gtv-live411/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="体育频道",時尚運動X
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="GPT-體育頻道",時尚運動X
 http://106.107.237.222:50007/4gtv-4gtv014/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" group-title="GPT-台湾",博斯运动一台
+#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" group-title="GPT-體育頻道",博斯运动一台
 http://106.107.237.222:5050/smart.php?id=bosisport1_twn&token=885252
-#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" group-title="GPT-台湾",博斯运动二台
+#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" group-title="GPT-體育頻道",博斯运动二台
 http://106.107.237.222:5050/smart.php?id=bosisport2_twn&token=885252
-#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" group-title="GPT-台湾",博斯高球一台
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" group-title="GPT-體育頻道",博斯高球一台
 http://106.107.237.222:5050/smart.php?id=bosigolf1_twn&token=885252
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" group-title="GPT-台湾",博斯高球二台
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" group-title="GPT-體育頻道",博斯高球二台
 http://106.107.237.222:5050/smart.php?id=bosigolf2_twn&token=885252
-#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台"  group-title="GPT-台湾",博斯网球台
+#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台"  group-title="GPT-體育頻道",博斯网球台
 http://106.107.237.222:5050/smart.php?id=bositennis_twn&token=885252
-#EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" group-title="GPT-台湾",博斯无限台
+#EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" group-title="GPT-體育頻道",博斯无限台
 http://106.107.237.222:5050/smart.php?id=bosiunlimited_twn&token=885252
 
 
