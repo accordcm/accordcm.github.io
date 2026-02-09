@@ -256,23 +256,26 @@ http://106.107.237.222:50007/4gtv-4gtv016/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 http://iptv.4666888.xyz/iptv2A.php?id=21
 http://php.jdshipin.com/smt.php?id=Qiyi
 
+#EXTM3U
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
+http://106.107.237.222:50007/4gtv-live107/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 http://106.107.234.186:50007/4gtv-live107/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="东森幼幼 Yoyo TV" group-title="兒童卡通",东森幼幼 Yoyo TV
 http://106.107.237.222:5050/smart.php?id=yoyo_twn&token=885252
+http://106.107.237.222:5050/smart.php?id=babytv_twn&token=885252
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
-http://106.107.234.186:50007/4gtv-live132/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 http://106.107.237.222:5051/litv-xinchuang20/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
+http://106.107.237.222:50007/4gtv-live132/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.237.222:50007/litv-xinchuang19/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
-http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 http://106.107.237.222:50007/4gtv-4gtv044/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
-http://106.107.234.186:50007/4gtv-live017/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 http://106.107.237.222:5050/smart.php?id=Dreamworks&token=885252
 http://106.107.237.222:50007/4gtv-live017/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="NICKJR.兒童頻道"  group-title="兒童卡通",Nick Jr.
-http://106.107.234.186:50007/4gtv-live032/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 http://106.107.237.222:5050/smart.php?id=Nickjr&token=885252
+http://106.107.237.222:50007/4gtv-live032/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="lhkt01" tvg-name="龍華卡通" group-title="兒童卡通",龍華卡通
 http://106.107.237.222:50007/litv-xinchuang01/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" group-title="兒童卡通",Cartoon Network
