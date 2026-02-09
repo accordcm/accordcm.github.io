@@ -391,21 +391,16 @@ http://106.107.237.222:5050/smart.php?id=ettvmovie&token=885252
 https://live.catvod.com/live.php?id=ettvmovie
 #EXTINF:-1 tvg-id="Hitsmovie" tvg-name="Hits Movie" group-title="电影频道",Hits Movie
 http://106.107.237.222:5050/smart.php?id=Hitsmovie&token=885252
-https://live.catvod.com/live.php?id=Hitsmovie
 #EXTINF:-1 tvg-id="Tvnmovie" tvg-name="tvN Movie" group-title="电影频道",tvN Movie
 http://106.107.237.222:5050/smart.php?id=Tvnmovie&token=885252
 https://live.catvod.com/live.php?id=Tvnmovie
 #EXTINF:-1 tvg-id="Kplus" tvg-name="Astrol Kplus" group-title="电影频道",Astrol Kplus
 http://106.107.237.222:5050/smart.php?id=Kplus&token=885252
-https://live.catvod.com/live.php?id=Kplus
 #EXTINF:-1 tvg-id="One" tvg-name="One" group-title="电影频道",One
 http://106.107.237.222:5050/smart.php?id=One&token=885252
-https://live.catvod.com/live.php?id=One
 #EXTINF:-1 tvg-id="Celestialindo" tvg-name="天映頻道Celestial Movies" group-title="电影频道",天映頻道Celestial Movies
 http://106.107.237.222:5050/smart.php?id=Celestial&token=885252
 http://106.107.237.222:5050/smart.php?id=Celestialindo&token=885252
-https://live.catvod.com/live.php?id=Celestialindo
-#EXTINF:-1 tvg-id="Celestial2" tvg-name="Celestial Classic" group-title="电影频道",Celestial Classic
 
 
 #EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS"  group-title="新闻频道",三立iNEWS
@@ -430,7 +425,6 @@ http://106.107.237.222:50007/4gtv-4gtv156/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 http://106.107.234.186:50007/of-4gtv-4gtv009/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="新闻频道",CGTN
 http://106.107.237.222:5050/smart.php?id=cgtn&token=885252
-https://live.catvod.com/live.php?id=CGTN
 #EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" group-title="新闻频道",DW (Deutsch)
 http://106.107.237.222:5050/smart.php?id=dw_twn&token=885252
 #EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
@@ -450,60 +444,6 @@ http://106.107.237.222:5050/smart.php?id=cnbc_twn&token=885252
 http://106.107.237.222:50007/4gtv-live071/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" group-title="新闻频道",France 24
 http://106.107.237.222:50007/4gtv-live146/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-
-#EXTM3U
-#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
-#EXTINF:-1 tvg-id="iqiyi01" tvg-name="爱奇艺" tvg-logo="" group-title="香港",爱奇艺
-http://php.jdshipin.com:8880/smt.php?id=Qiyi
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
-http://106.107.237.222:5050/smart.php?id=jade_twn&token=885252
-http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
-http://106.107.237.222:5050/smart.php?id=Jade_xue&token=885252
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="香港",明珠台
-http://iptv.4666888.xyz/iptv2A.php?id=29
-http://106.107.237.222:5050/smart.php?id=pearl_twn&token=885252
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="" group-title="香港",无线新闻
-http://106.107.237.222:5050/smart.php?id=inews_twn&token=885252
-#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="" group-title="香港",TVBPLUS
-http://106.107.237.222:5050/smart.php?id=j2_twn&token=885252
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="香港",ViuTV
-http://106.107.237.222:5050/smart.php?id=viu1_twn&token=885252
-#EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="香港",ViuTV 6
-http://106.107.237.222:5050/smart.php?id=viusix_twn&token=885252
-#EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="香港",RTHK 31
-http://106.107.237.222:5050/smart.php?id=rhk31_twn&token=885252
-#EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="" group-title="香港",RTHK 32
-http://106.107.237.222:5050/smart.php?id=rhk32_twn&token=885252
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="香港",HOY TV
-http://106.107.237.222:5050/smart.php?id=hoycaijing_twn&token=885252
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="香港",凤凰中文
-http://106.107.237.222:5050/smart.php?id=phoenixtv_hd&token=885252
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="香港",凤凰资讯
-http://106.107.237.222:5050/smart.php?id=phoenixinfo_hd&token=885252
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="香港",凤凰香港
-http://106.107.237.222:5050/smart.php?id=hkphoenix_twn&token=885252
-
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="GPT-新加坡",Channel 5
-http://106.107.237.222:5050/smart.php?id=channel5hd&token=885252
-#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="" group-title="GPT-新加坡",Suria
-http://106.107.237.222:5050/smart.php?id=suria&token=885252
-#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="GPT-新加坡",Channel U
-http://106.107.237.222:5050/smart.php?id=channelu&token=885252
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-新加坡",CNA
-http://106.107.237.222:5050/smart.php?id=cna&token=885252
-#EXTINF:-1 tvg-id="MeWatch Ch 5" tvg-name="MeWatch Ch 5" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 5
-http://106.107.237.222:5050/smart.php?id=Mewatch_ch5&token=885252
-#EXTINF:-1 tvg-id="MeWatch Ch 8" tvg-name="MeWatch Ch 8" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 8
-http://106.107.237.222:5050/smart.php?id=Mewatch_ch8&token=885252
-#EXTINF:-1 tvg-id="MeWatch Ch U" tvg-name="MeWatch Ch U" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch U
-http://106.107.237.222:5050/smart.php?id=Mewatch_chU&token=885252
-#EXTINF:-1 tvg-id="MeWatch Suria" tvg-name="MeWatch Suria" tvg-logo="" group-title="GPT-新加坡",MeWatch Suria
-http://106.107.237.222:5050/smart.php?id=Mewatch_Suria&token=885252
-#EXTINF:-1 tvg-id="MeWatch Vasantham" tvg-name="MeWatch Vasantham" tvg-logo="" group-title="GPT-新加坡",MeWatch Vasantham
-http://106.107.237.222:5050/smart.php?id=Mewatch_Vasantham&token=885252
-#EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="MeWatch CNA" tvg-logo="" group-title="GPT-新加坡",MeWatch CNA
-http://106.107.237.222:5050/smart.php?id=Mewatch_cna&token=885252
 
 
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
@@ -647,148 +587,72 @@ http://106.107.237.222:50007/4gtv-4gtv101/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 http://106.107.237.222:50007/4gtv-live411/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="体育频道",時尚運動X
 http://106.107.237.222:50007/4gtv-4gtv014/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-#EXTINF:-1 tvg-id="Assp1" tvg-name="Astro PL 1" group-title="体育频道",Astro PL 1
-https://live.catvod.com/live.php?id=Assp1
-#EXTINF:-1 tvg-id="go_assp1" tvg-name="Astro PL 1 (Back Up 1)" group-title="体育频道",Astro PL 1 (Back Up 1)
-https://live.catvod.com/live.php?id=go_assp1
-#EXTINF:-1 tvg-id="go_assp1x" tvg-name="Astro PL 1 (Back Up 2)" group-title="体育频道",Astro PL 1 (Back Up 2)
-https://live.catvod.com/live.php?id=go_assp1x
-#EXTINF:-1 tvg-id="go_assp5" tvg-name="Astro W-Sports" group-title="体育频道",Astro W-Sports
-https://live.catvod.com/live.php?id=go_assp5
-#EXTINF:-1 tvg-id="go_assp2" tvg-name="Astro PL 2" group-title="体育频道",Astro PL 2
-https://live.catvod.com/live.php?id=go_assp2
-#EXTINF:-1 tvg-id="Wwe" tvg-name="WWE" group-title="体育频道",WWE
-https://live.catvod.com/live.php?id=Wwe
-#EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="博斯高球2 HD" group-title="体育频道",博斯高球2 HD
-https://live.catvod.com/live.php?id=bosigolf2_twn
-#EXTINF:-1 tvg-id="bositennis_twn" tvg-name="博斯网球 HD" group-title="体育频道",博斯网球 HD
-https://live.catvod.com/live.php?id=bositennis_twn
-#EXTINF:-1 tvg-id="Fs" tvg-name="Fight Sports" group-title="体育频道",Fight Sports
-https://live.catvod.com/live.php?id=Fs
-#EXTINF:-1 tvg-id="Nba" tvg-name="NBA TV" group-title="体育频道",NBA TV
-https://live.catvod.com/live.php?id=Nba
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" group-title="体育频道",Arena
-https://live.catvod.com/live.php?id=Arena
-#EXTINF:-1 tvg-id="Arena2" tvg-name="Arena 2" group-title="体育频道",Arena 2
-https://live.catvod.com/live.php?id=Arena2
-#EXTINF:-1 tvg-id="Bolaarena1" tvg-name="Arena Bola 1" group-title="体育频道",Arena Bola 1
-https://live.catvod.com/live.php?id=Bolaarena1
-#EXTINF:-1 tvg-id="Bolaarena2" tvg-name="Arena Bola 2" group-title="体育频道",Arena Bola 2
-https://live.catvod.com/live.php?id=Bolaarena2
-#EXTINF:-1 tvg-id="Agolf" tvg-name="Astro Golf" group-title="体育频道",Astro Golf
-https://live.catvod.com/live.php?id=Agolf
-#EXTINF:-1 tvg-id="Rtmsport" tvg-name="RTM Sports HD" group-title="体育频道",RTM Sports HD
-https://live.catvod.com/live.php?id=Rtmsport
-#EXTINF:-1 tvg-id="go_assp4" tvg-name="Astro Football" group-title="体育频道",Astro Football
-https://live.catvod.com/live.php?id=go_assp4
-#EXTINF:-1 tvg-id="Assp4" tvg-name="Astro Football (Back Up 1)" group-title="体育频道",Astro Football (Back Up 1)
-https://live.catvod.com/live.php?id=Assp4
-#EXTINF:-1 tvg-id="go_badminton1" tvg-name="Astro Badminton" group-title="体育频道",Astro Badminton
-https://live.catvod.com/live.php?id=go_badminton1
-#EXTINF:-1 tvg-id="go_badminton2" tvg-name="Astro Badminton 2" group-title="体育频道",Astro Badminton 2
-https://live.catvod.com/live.php?id=go_badminton2
-#EXTINF:-1 tvg-id="go_spotv" tvg-name="SPOTV 1 HD" group-title="体育频道",SPOTV 1 HD
-https://live.catvod.com/live.php?id=go_spotv
-#EXTINF:-1 tvg-id="go_spotv2" tvg-name="SPO TV 2" group-title="体育频道",SPO TV 2
-https://live.catvod.com/live.php?id=go_spotv2
-#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 體育" group-title="体育频道",CCTV-5 體育
-https://live.catvod.com/live.php?id=cctv5
-#EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ 體育" group-title="体育频道",CCTV-5+ 體育
-https://live.catvod.com/live.php?id=cctv5plus
-#EXTINF:-1 tvg-id="Assp2" tvg-name="Supersports 2" group-title="体育频道",Supersports 2
-https://live.catvod.com/live.php?id=Assp2
-#EXTINF:-1 tvg-id="go_assp3" tvg-name="Astro Grandstand" group-title="体育频道",Astro Grandstand
-https://live.catvod.com/live.php?id=go_assp3
-#EXTINF:-1 tvg-id="Acricket" tvg-name="Astro Cricket" group-title="体育频道",Astro Cricket
-https://live.catvod.com/live.php?id=Acricket
-#EXTINF:-1 tvg-id="tntsport1" tvg-name="Tnt Sports 1" group-title="体育频道",Tnt Sports 1
-https://live.catvod.com/live.php?id=tntsport1
-#EXTINF:-1 tvg-id="Assp3" tvg-name="Astro Grandstand (Back Up 1)" group-title="体育频道",Astro Grandstand (Back Up 1)
-https://live.catvod.com/live.php?id=Assp3
-#EXTINF:-1 tvg-id="tntsport2" tvg-name="TNT Sports 2" group-title="体育频道",TNT Sports 2
-https://live.catvod.com/live.php?id=tntsport2
-#EXTINF:-1 tvg-id="tntsport3" tvg-name="TNT Sports 3" group-title="体育频道",TNT Sports 3
-https://live.catvod.com/live.php?id=tntsport3
-#EXTINF:-1 tvg-id="tntsport4" tvg-name="TNT Sports 4" group-title="体育频道",TNT Sports 4
-https://live.catvod.com/live.php?id=tntsport4
-#EXTINF:-1 tvg-id="go_sportsplus" tvg-name="Astro Sports Plus" group-title="体育频道",Astro Sports Plus
-https://live.catvod.com/live.php?id=go_sportsplus
-#EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="体育频道",Elta体育1台
-https://live.catvod.com/live.php?id=eltasport1_twn
-#EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="体育频道",Elta體育2台
-https://live.catvod.com/live.php?id=eltasport2_twn
-#EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="体育频道",Elta體育3台
-https://live.catvod.com/live.php?id=eltasport3_twn
-#EXTINF:-1 tvg-id="Rugbypasstv" tvg-name="Rugby Pass TV" group-title="体育频道",Rugby Pass TV
-https://live.catvod.com/live.php?id=Rugbypasstv
-#EXTINF:-1 tvg-id="Astrobein1" tvg-name="Astro Beinsports 1" group-title="体育频道",Astro Beinsports 1
-https://live.catvod.com/live.php?id=Astrobein1
-#EXTINF:-1 tvg-id="Astrobein2" tvg-name="Astro Beinsports 2" group-title="体育频道",Astro Beinsports 2
-https://live.catvod.com/live.php?id=Astrobein2
-#EXTINF:-1 tvg-id="Astrobein3" tvg-name="Astro Beinsports 3" group-title="体育频道",Astro Beinsports 3
-https://live.catvod.com/live.php?id=Astrobein3
-#EXTINF:-1 tvg-id="tiankongcricket" tvg-name="Skysports Cricket" group-title="体育频道",Skysports Cricket
-https://live.catvod.com/live.php?id=tiankongcricket
-#EXTINF:-1 tvg-id="tiankongepl" tvg-name="Skysports EPL" group-title="体育频道",Skysports EPL
-https://live.catvod.com/live.php?id=tiankongepl
-#EXTINF:-1 tvg-id="tiankongf1" tvg-name="Skysports F1" group-title="体育频道",Skysports F1
-https://live.catvod.com/live.php?id=tiankongf1
-#EXTINF:-1 tvg-id="tiankonggolf" tvg-name="Skysports Golf" group-title="体育频道",Skysports Golf
-https://live.catvod.com/live.php?id=tiankonggolf
-#EXTINF:-1 tvg-id="tiankongmain" tvg-name="Skysports Main Event" group-title="体育频道",Skysports Main Event
-https://live.catvod.com/live.php?id=tiankongmain
-#EXTINF:-1 tvg-id="tiankongmix" tvg-name="Skysports Mix" group-title="体育频道",Skysports Mix
-https://live.catvod.com/live.php?id=tiankongmix
-#EXTINF:-1 tvg-id="tiankongracing" tvg-name="Skysports Racing" group-title="体育频道",Skysports Racing
-https://live.catvod.com/live.php?id=tiankongracing
-#EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="体育频道",DAZN 1
-https://live.catvod.com/live.php?id=dazn1_twn
-#EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" group-title="体育频道",DAZN 2
-https://live.catvod.com/live.php?id=dazn2_twn
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" group-title="体育频道",Eurosport
-https://live.catvod.com/live.php?id=Eurosport
+#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" group-title="GPT-台湾",博斯运动一台
+http://106.107.237.222:5050/smart.php?id=bosisport1_twn&token=885252
+#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" group-title="GPT-台湾",博斯运动二台
+http://106.107.237.222:5050/smart.php?id=bosisport2_twn&token=885252
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" group-title="GPT-台湾",博斯高球一台
+http://106.107.237.222:5050/smart.php?id=bosigolf1_twn&token=885252
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" group-title="GPT-台湾",博斯高球二台
+http://106.107.237.222:5050/smart.php?id=bosigolf2_twn&token=885252
+#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台"  group-title="GPT-台湾",博斯网球台
+http://106.107.237.222:5050/smart.php?id=bositennis_twn&token=885252
+#EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" group-title="GPT-台湾",博斯无限台
+http://106.107.237.222:5050/smart.php?id=bosiunlimited_twn&token=885252
 
 
-#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="纪录频道",discovery
-https://live.catvod.com/live.php?id=discoverych_twn
-#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo Wild HD" group-title="纪录频道",NatGeo Wild HD
-https://live.catvod.com/live.php?id=Natgeowild
-#EXTINF:-1 tvg-id="Natgeo" tvg-name="NatGeo HD" group-title="纪录频道",NatGeo HD
-https://live.catvod.com/live.php?id=Natgeo
-#EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" group-title="纪录频道",TLC
-https://live.catvod.com/live.php?id=Tlc
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal_Planet" group-title="纪录频道",Animal_Planet
-https://live.catvod.com/live.php?id=AnimalPlanet
-#EXTINF:-1 tvg-id="Discoveryasia" tvg-name="Discovery Asia" group-title="纪录频道",Discovery Asia
-https://live.catvod.com/live.php?id=Discoveryasia
-#EXTINF:-1 tvg-id="ci_twn" tvg-name="CI" group-title="纪录频道",CI
-https://live.catvod.com/live.php?id=ci_twn
-#EXTINF:-1 tvg-id="asiatravel_twn" tvg-name="Asia Travel" group-title="纪录频道",Asia Travel
-https://live.catvod.com/live.php?id=asiatravel_twn
-#EXTINF:-1 tvg-id="afc_twn" tvg-name="亚洲美食" group-title="纪录频道",亚洲美食
-https://live.catvod.com/live.php?id=afc_twn
-#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" group-title="纪录频道",Dmax
-https://live.catvod.com/live.php?id=Dmax
-#EXTINF:-1 tvg-id="fashiontv_twn" tvg-name="Fashion TV" group-title="纪录频道",Fashion TV
-https://live.catvod.com/live.php?id=fashiontv_twn
-#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="纪录频道",History
-https://live.catvod.com/live.php?id=History
-#EXTINF:-1 tvg-id="bbcearth_twn" tvg-name="BBC Earth HD" group-title="纪录频道",BBC Earth HD
-https://live.catvod.com/live.php?id=bbcearth_twn
-#EXTINF:-1 tvg-id="bbclifestyle_twn" tvg-name="BBC Earth Lifestyle" group-title="纪录频道",BBC Earth Lifestyle
-https://live.catvod.com/live.php?id=bbclifestyle_twn
-#EXTINF:-1 tvg-id="tlc_twn" tvg-name="亚洲旅游 TLC Asia" group-title="纪录频道",亚洲旅游 TLC Asia
-https://live.catvod.com/live.php?id=tlc_twn
-#EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" group-title="纪录频道",MTV Live
-https://live.catvod.com/live.php?id=mtvhd_twn
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="纪录频道",HGTV
-https://live.catvod.com/live.php?id=HGTV
-#EXTINF:-1 tvg-id="Foodnetwork" tvg-name="Foodnetwork Hd" group-title="纪录频道",Foodnetwork Hd
-https://live.catvod.com/live.php?id=Foodnetwork
-#EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" group-title="纪录频道",Asia Food Network
-https://live.catvod.com/live.php?id=Afc
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet (Eng)" group-title="纪录频道",Animal Planet (Eng)
-https://live.catvod.com/live.php?id=AnimalPlanet
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
+#EXTINF:-1 tvg-id="iqiyi01" tvg-name="爱奇艺" tvg-logo="" group-title="GPT-香港",爱奇艺
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="GPT-香港",翡翠台
+http://106.107.237.222:5050/smart.php?id=jade_twn&token=885252
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="GPT-香港",翡翠台
+http://106.107.237.222:5050/smart.php?id=Jade_xue&token=885252
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="GPT-香港",明珠台
+http://iptv.4666888.xyz/iptv2A.php?id=29
+http://106.107.237.222:5050/smart.php?id=pearl_twn&token=885252
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="" group-title="GPT-香港",无线新闻
+http://106.107.237.222:5050/smart.php?id=inews_twn&token=885252
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="" group-title="GPT-香港",TVBPLUS
+http://106.107.237.222:5050/smart.php?id=j2_twn&token=885252
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="GPT-香港",ViuTV
+http://106.107.237.222:5050/smart.php?id=viu1_twn&token=885252
+#EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="GPT-香港",ViuTV 6
+http://106.107.237.222:5050/smart.php?id=viusix_twn&token=885252
+#EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="GPT-香港",RTHK 31
+http://106.107.237.222:5050/smart.php?id=rhk31_twn&token=885252
+#EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="" group-title="GPT-香港",RTHK 32
+http://106.107.237.222:5050/smart.php?id=rhk32_twn&token=885252
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="GPT-香港",HOY TV
+http://106.107.237.222:5050/smart.php?id=hoycaijing_twn&token=885252
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="GPT-香港",凤凰中文
+http://106.107.237.222:5050/smart.php?id=phoenixtv_hd&token=885252
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="GPT-香港",凤凰资讯
+http://106.107.237.222:5050/smart.php?id=phoenixinfo_hd&token=885252
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="GPT-香港",凤凰香港
+http://106.107.237.222:5050/smart.php?id=hkphoenix_twn&token=885252
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="GPT-新加坡",Channel 5
+http://106.107.237.222:5050/smart.php?id=channel5hd&token=885252
+#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="" group-title="GPT-新加坡",Suria
+http://106.107.237.222:5050/smart.php?id=suria&token=885252
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="GPT-新加坡",Channel U
+http://106.107.237.222:5050/smart.php?id=channelu&token=885252
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-新加坡",CNA
+http://106.107.237.222:5050/smart.php?id=cna&token=885252
+#EXTINF:-1 tvg-id="MeWatch Ch 5" tvg-name="MeWatch Ch 5" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 5
+http://106.107.237.222:5050/smart.php?id=Mewatch_ch5&token=885252
+#EXTINF:-1 tvg-id="MeWatch Ch 8" tvg-name="MeWatch Ch 8" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 8
+http://106.107.237.222:5050/smart.php?id=Mewatch_ch8&token=885252
+#EXTINF:-1 tvg-id="MeWatch Ch U" tvg-name="MeWatch Ch U" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch U
+http://106.107.237.222:5050/smart.php?id=Mewatch_chU&token=885252
+#EXTINF:-1 tvg-id="MeWatch Suria" tvg-name="MeWatch Suria" tvg-logo="" group-title="GPT-新加坡",MeWatch Suria
+http://106.107.237.222:5050/smart.php?id=Mewatch_Suria&token=885252
+#EXTINF:-1 tvg-id="MeWatch Vasantham" tvg-name="MeWatch Vasantham" tvg-logo="" group-title="GPT-新加坡",MeWatch Vasantham
+http://106.107.237.222:5050/smart.php?id=Mewatch_Vasantham&token=885252
+#EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="MeWatch CNA" tvg-logo="" group-title="GPT-新加坡",MeWatch CNA
+http://106.107.237.222:5050/smart.php?id=Mewatch_cna&token=885252
 
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" group-title="GPT-马来西亚",NTV7
@@ -823,6 +687,7 @@ http://106.107.237.222:5050/smart.php?id=One&token=885252
 http://106.107.237.222:5050/smart.php?id=Xinhe&token=885252
 #EXTINF:-1 tvg-id="爱奇艺 iQiyi" tvg-name="爱奇艺 iQiyi" group-title="GPT-马来西亚",爱奇艺 iQiyi
 http://106.107.237.222:5050/smart.php?id=Qiyi&token=885252
+
 
 #EXTINF:-1 tvg-id="Channel 3 Thailand" tvg-name="Channel 3 Thailand" group-title="GPT-泰国",Channel 3 Thailand
 http://106.107.237.222:5050/smart.php?id=ch3_pat&token=885252
@@ -862,55 +727,6 @@ http://106.107.237.222:5050/smart.php?id=nbt_pat&token=885252
 http://106.107.237.222:5050/smart.php?id=new_pat&token=885252
 #EXTINF:-1 tvg-id="TPTV" tvg-name="TPTV" group-title="GPT-泰国",TPTV
 http://106.107.237.222:5050/smart.php?id=tptv_pat&token=885252
-
-#EXTINF:-1 tvg-id="ch3_pat" tvg-name="Channel 3 Thailand" group-title="泰国",Channel 3 Thailand
-https://live.catvod.com/live.php?id=ch3_pat
-#EXTINF:-1 tvg-id="ch5_pat" tvg-name="Channel 5 Thailand" group-title="泰国",Channel 5 Thailand
-https://live.catvod.com/live.php?id=ch5_pat
-#EXTINF:-1 tvg-id="ch7_pat" tvg-name="Channel 7 Thailand" group-title="泰国",Channel 7 Thailand
-https://live.catvod.com/live.php?id=ch7_pat
-#EXTINF:-1 tvg-id="mcot_pat" tvg-name="MCOT HD Thailand-1" group-title="泰国",MCOT HD Thailand-1
-https://live.catvod.com/live.php?id=mcot_pat
-#EXTINF:-1 tvg-id="pptv_pat" tvg-name="PPTV Thailand1" group-title="泰国",PPTV Thailand1
-https://live.catvod.com/live.php?id=pptv_pat
-#EXTINF:-1 tvg-id="thaithai_pat" tvg-name="Thai Thai" group-title="泰国",Thai Thai
-https://live.catvod.com/live.php?id=thaithai_pat
-#EXTINF:-1 tvg-id="amarin_pat" tvg-name="Amarin" group-title="泰国",Amarin
-https://live.catvod.com/live.php?id=amarin_pat
-#EXTINF:-1 tvg-id="ch8_pat" tvg-name="Ch 8" group-title="泰国",Ch 8
-https://live.catvod.com/live.php?id=ch8_pat
-#EXTINF:-1 tvg-id="gmmone_pat" tvg-name="GmmOne" group-title="泰国",GmmOne
-https://live.catvod.com/live.php?id=gmmone_pat
-#EXTINF:-1 tvg-id="mono_pat" tvg-name="Mono" group-title="泰国",Mono
-https://live.catvod.com/live.php?id=mono_pat
-#EXTINF:-1 tvg-id="thairath_pat" tvg-name="Thairath" group-title="泰国",Thairath
-https://live.catvod.com/live.php?id=thairath_pat
-#EXTINF:-1 tvg-id="tpbs_pat" tvg-name="tpbs" group-title="泰国",tpbs
-https://live.catvod.com/live.php?id=tpbs_pat
-#EXTINF:-1 tvg-id="workpoint_pat" tvg-name="Workpoint" group-title="泰国",Workpoint
-https://live.catvod.com/live.php?id=workpoint_pat
-#EXTINF:-1 tvg-id="gmmchannel_pat" tvg-name="Gmm Channel" group-title="泰国",Gmm Channel
-https://live.catvod.com/live.php?id=gmmchannel_pat
-#EXTINF:-1 tvg-id="nation_pat" tvg-name="Nation" group-title="泰国",Nation
-https://live.catvod.com/live.php?id=nation_pat
-#EXTINF:-1 tvg-id="tnn24_pat" tvg-name="Tnn24" group-title="泰国",Tnn24
-https://live.catvod.com/live.php?id=tnn24_pat
-#EXTINF:-1 tvg-id="nbt_pat" tvg-name="Nbt" group-title="泰国",Nbt
-https://live.catvod.com/live.php?id=nbt_pat
-#EXTINF:-1 tvg-id="new_pat" tvg-name="New" group-title="泰国",New
-https://live.catvod.com/live.php?id=new_pat
-#EXTINF:-1 tvg-id="tptv_pat" tvg-name="TPTV" group-title="泰国",TPTV
-https://live.catvod.com/live.php?id=tptv_pat
-#EXTINF:-1 tvg-id="AAA1" tvg-name="Test 1" group-title="泰国",Test 1
-https://live.catvod.com/live.php?id=AAA1
-#EXTINF:-1 tvg-id="AAA2" tvg-name="Test 2" group-title="泰国",Test 2
-https://live.catvod.com/live.php?id=AAA2
-#EXTINF:-1 tvg-id="AAA3" tvg-name="Test 3" group-title="泰国",Test 3
-https://live.catvod.com/live.php?id=AAA3
-#EXTINF:-1 tvg-id="AAA4" tvg-name="Test 4" group-title="泰国",Test 4
-https://live.catvod.com/live.php?id=AAA4
-#EXTINF:-1 tvg-id="AAA5" tvg-name="Test 5" group-title="泰国",Test 5
-https://live.catvod.com/live.php?id=AAA5
 
 
 #EXTINF:-1 tvg-name="潘多拉完美" tvg-logo="https://logo.catvod.com/潘多拉完美.png" group-title="私人频道_543",潘多拉完美
