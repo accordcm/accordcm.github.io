@@ -268,7 +268,7 @@ http://106.107.237.222:5050/smart.php?id=dongfangweishi_twn&token=885252
 #EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="中国",北京卫视
 http://106.107.237.222:5050/smart.php?id=beijing&token=885252
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="中国",深圳卫视
-http://106.107.237.222:5050/smart.php?id=shenzhen&token=885252n
+http://106.107.237.222:5050/smart.php?id=shenzhen&token=885252
 #EXTINF:-1 tvg-id="fujian" tvg-name="廈門衛視" group-title="中国",廈門衛視
 http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 #EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="中国",福建东南卫视
@@ -277,13 +277,11 @@ http://106.107.237.222:5050/smart.php?id=fujian&token=885252
 http://111.170.157.210:1081/?id=608831231&auth=95d4c11f9a4bc430bf05d5da4ace7ccb4ef00f6766c6d4488c80b60a4dbe29b91976f0c8ca4a972b0d3adbe4e664317e
 http://106.107.237.222:5050/smart.php?id=guangdongweishi_twn&token=885252
 #EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" group-title="中国",湖北卫视
-http://106.107.237.222:5050/smart.php?id=hubei&token=885252i
-#EXTINF:-1 tvg-id="nanfang_twn" tvg-name="广东南方卫视" group-title="中国",广东南方卫视
-https://live.catvod.com/live.php?id=nanfang_twn
+http://106.107.237.222:5050/smart.php?id=hubei&token=885252
 #EXTINF:-1 tvg-id="zhujiang" tvg-name="珠江台" group-title="中国",珠江台
-https://live.catvod.com/live.php?id=zhujiang
+http://106.107.237.222:5050/smart.php?id=zhujiang&token=885252
 #EXTINF:-1 tvg-id="guangxi" tvg-name="广西卫视" group-title="中国",广西卫视
-https://live.catvod.com/live.php?id=guangxi
+http://106.107.237.222:5050/smart.php?id=guangxi&token=885252
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="中国",CGTN
 https://live.catvod.com/live.php?id=CGTN
 #EXTINF:-1 tvg-id="sichuan_twn" tvg-name="四川卫视" group-title="中国",四川卫视
