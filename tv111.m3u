@@ -568,6 +568,75 @@ https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-name="V Paradise (NSFW)" tvg-logo="https://logo.catvod.com/V Paradise (NSFW).png" group-title="日本",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
 
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" group-title="体育频道",智林體育
+http://106.107.237.222:50007/4gtv-4gtv101/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="体育频道",時尚運動X
+http://106.107.237.222:50007/4gtv-live411/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="体育频道",時尚運動X
+http://106.107.237.222:50007/4gtv-4gtv014/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" group-title="GPT-台湾",博斯运动一台
+http://106.107.237.222:5050/smart.php?id=bosisport1_twn&token=885252
+#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" group-title="GPT-台湾",博斯运动二台
+http://106.107.237.222:5050/smart.php?id=bosisport2_twn&token=885252
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" group-title="GPT-台湾",博斯高球一台
+http://106.107.237.222:5050/smart.php?id=bosigolf1_twn&token=885252
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" group-title="GPT-台湾",博斯高球二台
+http://106.107.237.222:5050/smart.php?id=bosigolf2_twn&token=885252
+#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台"  group-title="GPT-台湾",博斯网球台
+http://106.107.237.222:5050/smart.php?id=bositennis_twn&token=885252
+#EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" group-title="GPT-台湾",博斯无限台
+http://106.107.237.222:5050/smart.php?id=bosiunlimited_twn&token=885252
 
-#EXTINF:-1 tvg-name="中国|东南卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|东南卫视.png" group-title="smt中国",中国|东南卫视
-http://iptv543.com/smt.php?id=fujian
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
+#EXTINF:-1 tvg-id="iqiyi01" tvg-name="爱奇艺" tvg-logo="" group-title="GPT-香港",爱奇艺
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="GPT-香港",翡翠台
+http://106.107.237.222:5050/smart.php?id=jade_twn&token=885252
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="GPT-香港",翡翠台
+http://106.107.237.222:5050/smart.php?id=Jade_xue&token=885252
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="GPT-香港",明珠台
+http://iptv.4666888.xyz/iptv2A.php?id=29
+http://106.107.237.222:5050/smart.php?id=pearl_twn&token=885252
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="" group-title="GPT-香港",无线新闻
+http://106.107.237.222:5050/smart.php?id=inews_twn&token=885252
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="" group-title="GPT-香港",TVBPLUS
+http://106.107.237.222:5050/smart.php?id=j2_twn&token=885252
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="GPT-香港",ViuTV
+http://106.107.237.222:5050/smart.php?id=viu1_twn&token=885252
+#EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="GPT-香港",ViuTV 6
+http://106.107.237.222:5050/smart.php?id=viusix_twn&token=885252
+#EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="GPT-香港",RTHK 31
+http://106.107.237.222:5050/smart.php?id=rhk31_twn&token=885252
+#EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="" group-title="GPT-香港",RTHK 32
+http://106.107.237.222:5050/smart.php?id=rhk32_twn&token=885252
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="GPT-香港",HOY TV
+http://106.107.237.222:5050/smart.php?id=hoycaijing_twn&token=885252
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="GPT-香港",凤凰中文
+http://106.107.237.222:5050/smart.php?id=phoenixtv_hd&token=885252
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="GPT-香港",凤凰资讯
+http://106.107.237.222:5050/smart.php?id=phoenixinfo_hd&token=885252
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="GPT-香港",凤凰香港
+http://106.107.237.222:5050/smart.php?id=hkphoenix_twn&token=885252
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="GPT-新加坡",Channel 5
+http://106.107.237.222:5050/smart.php?id=channel5hd&token=885252
+#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="" group-title="GPT-新加坡",Suria
+http://106.107.237.222:5050/smart.php?id=suria&token=885252
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="GPT-新加坡",Channel U
+http://106.107.237.222:5050/smart.php?id=channelu&token=885252
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-新加坡",CNA
+http://106.107.237.222:5050/smart.php?id=cna&token=885252
+#EXTINF:-1 tvg-id="MeWatch Ch 5" tvg-name="MeWatch Ch 5" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 5
+http://106.107.237.222:5050/smart.php?id=Mewatch_ch5&token=885252
+#EXTINF:-1 tvg-id="MeWatch Ch 8" tvg-name="MeWatch Ch 8" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 8
+http://106.107.237.222:5050/smart.php?id=Mewatch_ch8&token=885252
+#EXTINF:-1 tvg-id="MeWatch Ch U" tvg-name="MeWatch Ch U" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch U
+http://106.107.237.222:5050/smart.php?id=Mewatch_chU&token=885252
+#EXTINF:-1 tvg-id="MeWatch Suria" tvg-name="MeWatch Suria" tvg-logo="" group-title="GPT-新加坡",MeWatch Suria
+http://106.107.237.222:5050/smart.php?id=Mewatch_Suria&token=885252
+#EXTINF:-1 tvg-id="MeWatch Vasantham" tvg-name="MeWatch Vasantham" tvg-logo="" group-title="GPT-新加坡",MeWatch Vasantham
+http://106.107.237.222:5050/smart.php?id=Mewatch_Vasantham&token=885252
+#EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="MeWatch CNA" tvg-logo="" group-title="GPT-新加坡",MeWatch CNA
+http://106.107.237.222:5050/smart.php?id=Mewatch_cna&token=885252
