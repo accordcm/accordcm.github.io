@@ -5,10 +5,10 @@ http://106.107.237.222:5050/smart.php?id=ettvnews&token=885252
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS 新聞台" group-title="台湾",TVBS 新聞台
 http://iptv.4666888.xyz/iptv2A.php?id=43
 http://106.107.237.222:50007/media-live072/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-#EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞台" group-title="台湾",非凡新聞
-http://iptv.4666888.xyz/iptv2A.php?id=44
-rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://106.107.237.222:5050/smart.php?id=feifannews_twn&token=885252
+rtmp://f13h.mine.nu/sat/tv581
+http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 http://106.107.237.222:50007/4gtv-4gtv153/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 http://106.107.237.222:5050/smart.php?id=ettvcaijing_twn&token=885252
@@ -18,6 +18,8 @@ http://106.107.237.222:50007/litv-ftv13/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvs
 https://live.catvod.com/live.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台 TTV News" group-title="台湾",台視新聞台 TTV News
 http://74.91.26.218:82/live/ttvnews.m3u8
+https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8
+https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
 http://106.107.237.222:5050/smart.php?id=ttvnews_twn&token=885252
 https://live.catvod.com/live.php?id=ttvnews_twn
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
@@ -99,6 +101,7 @@ http://106.107.237.222:5050/smart.php?id=ettvdrama&token=885252
 https://live.catvod.com/live.php?id=weishichinese_twn
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
 http://106.107.237.222:5050/smart.php?id=videolandjapan&token=885252
+rtmp://f13h.mine.nu/sat/tv771
 http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
 http://106.107.237.222:5050/smart.php?id=videolandzonghe&token=885252
@@ -195,12 +198,11 @@ http://106.107.237.222:50007/of-4gtv-4gtv076/index.m3u8?token=lOYsRlIERwyKT5CHd6
 #EXTINF:-1 tvg-id="tlc_twn" tvg-name="TLC" group-title="台湾",TLC
 https://live.catvod.com/live.php?id=tlc_twn
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
+rtmp://f13h.mine.nu:1935/sat/tv721
 http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 http://106.107.237.222:5050/smart.php?id=videolandsport&token=885252
-https://live.catvod.com/live.php?id=videolandsport
 #EXTINF:-1 tvg-id="videolandmax" tvg-name="纬来育乐" group-title="台湾",纬来育乐
-http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
-https://live.catvod.com/live.php?id=videolandmax
+http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8x
 #EXTINF:-1 tvg-id="videolandtv" tvg-name="纬来精彩" group-title="台湾",纬来精彩
 https://live.catvod.com/live.php?id=videolandtv
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯运动 1" group-title="台湾",博斯运动 1
@@ -228,6 +230,7 @@ http://106.107.237.222:5050/smart.php?id=eltasport3_twn&token=885252
 http://106.107.237.222:50007/4gtv-live201/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
 http://106.107.237.222:50007/4gtv-live144/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982c23983686ac.m3u8
 #EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" group-title="台湾",MTV Live
 https://live.catvod.com/live.php?id=mtvhd_twn
 #EXTINF:-1 tvg-id="eyetvtravel_twn" tvg-name="EYETV 旅游" group-title="台湾",EYETV 旅游
@@ -287,8 +290,6 @@ http://106.107.237.222:5050/smart.php?id=hubei&token=885252
 http://106.107.237.222:5050/smart.php?id=zhujiang&token=885252
 #EXTINF:-1 tvg-id="guangxi" tvg-name="广西卫视" group-title="中国",广西卫视
 http://106.107.237.222:5050/smart.php?id=guangxi&token=885252
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="中国",CGTN
-https://live.catvod.com/live.php?id=CGTN
 #EXTINF:-1 tvg-id="sichuan_twn" tvg-name="四川卫视" group-title="中国",四川卫视
 http://106.107.237.222:5050/smart.php?id=sichuan_twn&token=885252
 #EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 體育" group-title="中国",CCTV-5 體育
@@ -306,6 +307,7 @@ http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
 http://106.107.237.222:50007/4gtv-live107/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8
 http://106.107.234.186:50007/4gtv-live107/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="东森幼幼 Yoyo TV" group-title="兒童卡通",东森幼幼 Yoyo TV
 http://106.107.237.222:5050/smart.php?id=yoyo_twn&token=885252
