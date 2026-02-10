@@ -138,6 +138,7 @@ http://106.107.237.222:5050/smart.php?id=badadrama&token=885252
 http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 http://106.107.237.222:5050/smart.php?id=hbohd_twn&token=885252
+http://106.107.237.222:5050/smart.php?id=hbohd_twn&token=885252
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" group-title="台湾",Hollywood Movies
 http://142.171.248.206:5050/smart.php?id=hollywoodmovies_twn&token=885252
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" group-title="台湾",东森电影 ETTV Movie
@@ -313,31 +314,28 @@ http://106.107.237.222:5050/smart.php?id=Cn&token=885252
 http://106.107.237.222:5050/smart.php?id=meiyamovie_twn&token=885252
 https://live.catvod.com/live.php?id=meiyamovie_twn
 http://74.91.26.218:82/live/mydy.m3u8
-#EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="电影频道",龍華洋片
-http://106.107.237.222:50007/litv-xinchuang02/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-http://106.107.237.222:5051/litv-xinchuang02/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
-https://live.catvod.com/live.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" group-title="电影频道",东森电影 ETTV Movie
+http://106.107.237.222:5050/smart.php?id=ettvmovie&token=885252
+#EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" group-title="电影频道",东森洋片 ETTV Western
+http://142.171.248.206:5050/smart.php?id=ettvwestern&token=885252
+http://106.107.237.222:5050/smart.php?id=ettvwestern&token=885252
 #EXTINF:-1 tvg-id="lhdy01" tvg-name="龍華电影" group-title="电影频道",龍華电影
 http://106.107.237.222:50007/litv-xinchuang03/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 http://106.107.237.222:5051/litv-xinchuang03/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
 http://142.171.248.206:5050/smart.php?id=xingwei_movie&token=885252
+#EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="电影频道",龍華洋片
+http://106.107.237.222:50007/litv-xinchuang02/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.237.222:5051/litv-xinchuang02/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
+https://live.catvod.com/live.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" group-title="电影频道",Hollywood Movies
 http://106.107.237.222:5050/smart.php?id=hollywoodmovies_twn&token=885252
 #EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" group-title="电影频道",HBO HD
 http://106.107.237.222:5050/smart.php?id=hbohd_twn&token=885252
-#EXTINF:-1 tvg-id="Hbohitshd" tvg-name="HBO Hits" group-title="电影频道",HBO Hits
-http://106.107.237.222:5050/smart.php?id=hbohit_twn&token=885252
-https://live.catvod.com/live.php?id=Hbohitshd
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="电影频道",Dreamworks
 http://142.171.248.206:5050/smart.php?id=Dreamworks&token=885252
-#EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" group-title="电影频道",东森电影 ETTV Movie
-http://106.107.237.222:5050/smart.php?id=ettvmovie&token=885252
 #EXTINF:-1 tvg-id="starmovies_raj" tvg-name="Star Movies HD" group-title="电影频道",Star Movies HD
 http://142.171.248.206:5050/smart.php?id=starmovies_raj&token=885252
 https://live.catvod.com/live.php?id=starmovies_raj
-#EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" group-title="电影频道",东森洋片 ETTV Western
-http://142.171.248.206:5050/smart.php?id=ettvwestern&token=885252
-http://106.107.237.222:5050/smart.php?id=ettvwestern&token=885252
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="电影频道",AXN Taiwan
 http://106.107.237.222:5050/smart.php?id=axn_twn&token=885252
 https://live.catvod.com/live.php?id=axn_twn
