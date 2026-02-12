@@ -332,16 +332,11 @@ http://106.107.237.222:5050/smart.php?id=hollywoodmovies_twn&token=885252
 http://106.107.237.222:5050/smart.php?id=hbohd_twn&token=885252
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="电影频道",Dreamworks
 http://142.171.248.206:5050/smart.php?id=Dreamworks&token=885252
-#EXTINF:-1 tvg-id="starmovies_raj" tvg-name="Star Movies HD" group-title="电影频道",Star Movies HD
-http://142.171.248.206:5050/smart.php?id=starmovies_raj&token=885252
-https://live.catvod.com/live.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="电影频道",AXN Taiwan
 http://106.107.237.222:5050/smart.php?id=axn_twn&token=885252
 https://live.catvod.com/live.php?id=axn_twn
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="电影频道",CINEMAX
 http://106.107.237.222:5050/smart.php?id=cinemax_twn&token=885252
-#EXTINF:-1 tvg-id="moviesnow_raj" tvg-name="Movies Now HD" group-title="电影频道",Movies Now HD
-https://live.catvod.com/live.php?id=moviesnow_raj
 #EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙详时代" group-title="电影频道",龙详时代
 http://106.107.237.222:5050/smart.php?id=lungxiangtime_twn&token=885252
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" group-title="电影频道",Warner TV
@@ -362,6 +357,8 @@ http://106.107.237.222:5050/smart.php?id=Hitsmovie&token=885252
 http://106.107.237.222:5050/smart.php?id=Tvnmovie&token=885252
 #EXTINF:-1 tvg-id="Kplus" tvg-name="Astrol Kplus" group-title="电影频道",Astrol Kplus
 http://106.107.237.222:5050/smart.php?id=Kplus&token=885252
+#EXTINF:-1 tvg-id="starmovies_raj" tvg-name="Star Movies HD" group-title="电影频道",Star Movies HD
+http://142.171.248.206:5050/smart.php?id=starmovies_raj&token=885252
 #EXTINF:-1 tvg-id="One" tvg-name="One" group-title="电影频道",One
 http://106.107.237.222:5050/smart.php?id=One&token=885252
 #EXTINF:-1 tvg-id="Celestialindo" tvg-name="天映頻道Celestial Movies" group-title="电影频道",天映頻道Celestial Movies
@@ -392,8 +389,6 @@ http://106.107.237.222:50007/4gtv-live408/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 http://106.107.237.222:50007/litv-longturn14/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
 http://106.107.237.222:50007/4gtv-4gtv156/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-#EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞 CTI News" group-title="新闻频道",中天新聞 CTI News
-http://106.107.234.186:50007/of-4gtv-4gtv009/index.m3u8?token=uBF072o50neVhXYcjwrPOHu4vq8Alzv4KA0uXmulfJlKWcFejaWN3eDdPMJkNziU
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="新闻频道",CGTN
 http://106.107.237.222:5050/smart.php?id=cgtn&token=885252
 #EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" group-title="新闻频道",DW (Deutsch)
@@ -401,20 +396,13 @@ http://106.107.237.222:5050/smart.php?id=dw_twn&token=885252
 #EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
 http://142.171.248.206:5050/smart.php?id=foxnews_twn&token=885252
 http://106.107.237.222:5050/smart.php?id=foxnews_twn&token=885252
-#EXTINF:-1 tvg-id="nhkworld_japan" tvg-name="NHK World" group-title="新闻频道",NHK World
-http://106.107.237.222:5050/smart.php?id=nhkworld_japan&token=885252
 #EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" group-title="新闻频道",CNN
-http://142.171.248.206:5050/smart.php?id=Cnn&token=885252
 http://106.107.237.222:5050/smart.php?id=Cnn&token=885252
 #EXTINF:-1 tvg-id="cnn_twn" tvg-name="CNN backup" group-title="新闻频道",CNN backup
 http://142.171.248.206:5050/smart.php?id=cnn_twn&token=885252
 http://106.107.237.222:5050/smart.php?id=cnn_twn&token=885252
 #EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
-http://142.171.248.206:5050/smart.php?id=bbcnews_twn&token=885252
-http://106.107.237.222:5050/smart.php?id=bbcnews_twn&token=885252
 http://106.107.237.222:5050/smart.php?id=Bbcnews&token=885252
-#EXTINF:-1 tvg-id="Cnbc" tvg-name="CNBC" group-title="新闻频道",CNBC
-http://106.107.237.222:5050/smart.php?id=cnbc_twn&token=885252
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
 http://106.107.237.222:50007/4gtv-live071/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" group-title="新闻频道",France 24
