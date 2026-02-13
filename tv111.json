@@ -4,9 +4,7 @@ http://106.107.237.222:50007/4gtv-4gtv152/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 http://106.107.237.222:5050/smart.php?id=ettvnews&token=885252
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS 新聞台" group-title="台湾",TVBS 新聞台
 http://iptv.4666888.xyz/iptv2A.php?id=43
-http://106.107.237.222:5050/smart.php?id=tvbs_n&token=885252
 http://106.107.237.222:50007/media-live072/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-http://106.107.237.222:50007/4gtv-4gtv072/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://106.107.237.222:5050/smart.php?id=feifannews_twn&token=885252
 rtmp://f13h.mine.nu/sat/tv581
