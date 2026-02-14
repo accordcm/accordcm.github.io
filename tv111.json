@@ -1,10 +1,12 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz"
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://106.107.242.201:5052/smart.php?id=ettvcaijing_twn&token=885252
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS 新聞台" group-title="台湾",TVBS 新聞台
 http://106.107.242.201:50007/media-live072/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 http://iptv.4666888.xyz/iptv2A.php?id=43
+http://106.107.242.201:5052/smart.php?id=tvbs_n&token=885252
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://142.171.248.206:5050/smart.php?id=feifannews_twn&token=885252
 http://iptv.4666888.xyz/iptv2A.php?id=44
@@ -137,11 +139,11 @@ http://106.107.237.222:5050/smart.php?id=badadrama&token=885252
 #EXTINF:-1 tvg-id="much" tvg-name="Much年代" group-title="台湾",Much年代
 http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
-http://106.107.237.222:5050/smart.php?id=hbohd_twn&token=885252
-http://106.107.237.222:5050/smart.php?id=hbohd_twn&token=885252
-#EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" group-title="台湾",Hollywood Movies
+http://106.107.242.201:5052/smart.php?id=hbohit_twn&token=885252
+#EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood" group-title="台湾",Hollywood
 http://142.171.248.206:5050/smart.php?id=hollywoodmovies_twn&token=885252
-#EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" group-title="台湾",东森电影 ETTV Movie
+http://106.107.242.201:5052/smart.php?id=hollywoodmovies_twn&token=885252
+#EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="台湾",东森电影
 http://iptv.4666888.xyz/iptv2A.php?id=48
 http://106.107.237.222:5050/smart.php?id=ettvmovie&token=885252
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" group-title="台湾",纬来电影台
