@@ -90,8 +90,8 @@ http://106.107.237.222:5050/smart.php?id=sanlixiju_twn&token=885252
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
 http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
-http://106.107.242.201:50007/media-live073/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+http://106.107.242.201:50007/media-live073/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
 http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
