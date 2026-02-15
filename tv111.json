@@ -97,13 +97,12 @@ http://49.213.188.67:5052/smart.php?id=sanlizhonghe&token=885252
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 http://49.213.188.67:5052/smart.php?id=tvbs&token=885252
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
-http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/4gtv-4gtv068/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
 http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 CTI Metro" group-title="台湾",中天综合 CTI Metro
 http://106.107.237.222:5050/smart.php?id=ctizhonghe&token=885252
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
-http://49.213.188.67:5052/smart.php?id=ettvsuper&token=885252
 rtmp://9svd1.mine.nu/sat/tv331
 rtmp://9svd2.mine.nu/sat/tv331
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="东森综合" group-title="台湾",东森综合
@@ -112,13 +111,10 @@ http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
 #EXTINF:-1 tvg-id="ettvdrama" tvg-name="东森戏剧 ETTV Drama" group-title="台湾",东森戏剧 ETTV Drama
 http://49.213.188.67:5052/smart.php?id=ettvdrama&token=885252
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LysWdJrqLHOE6xQfp0e9Ma60tTnWM_-7LsJh2fknOoXqlDC2wEcEa2BL1-0bPWovQi9qEiQbX-FsZ1mNrEQsvDlpNHTf8NT0g32bj4JPB5rt-ztpLIBNucGKXm0MH5w6N5MYAxHcTunijBONOaNol8X3Zt8IlCZfBaqaIUvTjDFJ9YycQvFpDBnnL4eSWZ8Aliw.m3u8?u=1756878715
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LysWdJrqLHOE6xQfp0e9Ma60tTnWM_-7LsJh2fknOoXqlDC2wEcEa2BL1-0bPWovQi9qEiQbX-FsZ1mNrEQsvDlpNHTf8NT0g32bj4JPB5rt-ztpLIBNucGKXm0MH5w6N5MYAxHcTunijBONOaNol8X3Zt8IlCZfBaqaIUvTjDFJ9YycQvFpDBnnL4eSWZ8Aliw.m3u8?u=1756878715
 http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 http://iptv.fr.to/test/Fmtv.php?id=wljp
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykA_uiEpHvW03tNX4HngqJnGzfHmgPSIB9CXLj3ovIrxDJIHt1drFnazqDOw_YzFTfMA5eIk3p9r3cwIQFU5cpfdb46Yrp_4-ygB0D7K8DEktWz0apes_3G6uQylmpLzDiHsKnTryo0sthj4TrINlSY6xYdWNOmoGD0OYxkOnvsu2WRKzud8UPVeERrSMQGtUw.m3u8?u=1756878715
 http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
 #EXTINF:-1 tvg-id="ttvzhonghe" tvg-name="台视综合台" group-title="台湾",台视综合台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WASIQmbBBa2JYJwKXRX-h-Z1JZJ6ePjG587HaEThd-7vviJkn-8R1MxJkamPJdKcQtxeWqSEiI0CHzM1WzqcjXHpECOERhiacAsBcwXHkCc2D4DRbPZc44RdHBP4OnfU6iwFaMhCJ8v8llMiAIOwCIJQ_6rswB2CZYRHteGobEp1071yiMmb-_-njSP_X6aSIA.m3u8?u=1756878715
@@ -142,7 +138,7 @@ http://106.107.237.222:5050/smart.php?id=badazhonghe&token=885252
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大綜藝台 " group-title="台湾",八大綜藝
 http://106.107.242.201:50007/4gtv-4gtv039/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台"  group-title="台湾",八大精彩
-http://106.107.242.201:50007/4gtv-4gtv034/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/4gtv-4gtv034/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="badadrama" tvg-name="八大戏剧" group-title="台湾",八大戏剧
 http://106.107.237.222:5050/smart.php?id=badadrama&token=885252
 #EXTINF:-1 tvg-id="badaentertain" tvg-name="八大娱乐 GTV Entertainment" group-title="台湾",八大娱乐 GTV Entertainment
