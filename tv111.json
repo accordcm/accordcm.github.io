@@ -226,7 +226,7 @@ http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=zhDNxhmJTrT5nruKkh
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
 http://49.213.188.67:50007/4gtv-live046/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物3台"  group-title="台湾",東森購物三台
-http://106.107.242.201:50007/4gtv-live048/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/4gtv-live048/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物5台" group-title="台湾",東森購物五台
 http://106.107.242.201:50007/4gtv-live049/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 http://106.107.237.222:50007/4gtv-live049/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
@@ -543,11 +543,14 @@ https://nl.utako.moe/pigoo/index.m3u8
 https://nl.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" group-title="GPT-體育頻道",智林體育
+http://49.213.188.67:50007/4gtv-4gtv101/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 http://106.107.242.201:50007/4gtv-4gtv101/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="GPT-體育頻道",時尚運動X
-http://106.107.242.201:50007/4gtv-live411/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/4gtv-live411/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="GPT-體育頻道",時尚運動X
 http://106.107.242.201:50007/4gtv-4gtv014/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/4gtv-4gtv014/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" group-title="GPT-體育頻道",博斯运动一台
 http://106.107.237.222:5050/smart.php?id=bosisport1_twn&token=885252
 #EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" group-title="GPT-體育頻道",博斯运动二台
