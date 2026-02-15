@@ -86,7 +86,6 @@ http://49.213.188.67:50007/4gtv-4gtv004/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU
 #EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="三立台湾 Sanli Taiwan" group-title="台湾",三立台湾 Sanli
 http://49.213.188.67:5052/smart.php?id=sanlitaiwan&token=885252
 http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
-http://106.107.237.222:5050/smart.php?id=sanlitaiwan&token=885252
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立都會HD" group-title="台湾",三立都會HD
 http://49.213.188.67:5052/smart.php?id=sanlidouhui_twn&token=885252
 http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
@@ -95,13 +94,11 @@ http://49.213.188.67:5052/smart.php?id=sanlixiju_twn&token=885252
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
 http://49.213.188.67:5052/smart.php?id=sanlizhonghe&token=885252
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
-http://49.213.188.67:50007/4gtv-4gtv073/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-http://49.213.188.67:5052/smart.php?id=tvbs&token=885252
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+http://49.213.188.67:5052/smart.php?id=tvbs&token=885252
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
 http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyt7kLfOPzB5rVNzHzS77_p3n-oskL3M1LR9_vBtF8KsmwE2CC6r0yLyygr7v4-nKazNZFHSlVMGultBxNsFwBA-s6eyjEbZhcKHS11YRjLKHsjgALUzl21xL6HodWfaGhCMUKtVFX8BwjO6kQH1vSWHm0j8JiEm7HET4bqsMTIfqVK8ojiRwnLYjPA3R4fK9Xw.m3u8?u=1756878715
 http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 CTI Metro" group-title="台湾",中天综合 CTI Metro
 http://106.107.237.222:5050/smart.php?id=ctizhonghe&token=885252
@@ -117,8 +114,8 @@ http://49.213.188.67:5052/smart.php?id=ettvdrama&token=885252
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LysWdJrqLHOE6xQfp0e9Ma60tTnWM_-7LsJh2fknOoXqlDC2wEcEa2BL1-0bPWovQi9qEiQbX-FsZ1mNrEQsvDlpNHTf8NT0g32bj4JPB5rt-ztpLIBNucGKXm0MH5w6N5MYAxHcTunijBONOaNol8X3Zt8IlCZfBaqaIUvTjDFJ9YycQvFpDBnnL4eSWZ8Aliw.m3u8?u=1756878715
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LysWdJrqLHOE6xQfp0e9Ma60tTnWM_-7LsJh2fknOoXqlDC2wEcEa2BL1-0bPWovQi9qEiQbX-FsZ1mNrEQsvDlpNHTf8NT0g32bj4JPB5rt-ztpLIBNucGKXm0MH5w6N5MYAxHcTunijBONOaNol8X3Zt8IlCZfBaqaIUvTjDFJ9YycQvFpDBnnL4eSWZ8Aliw.m3u8?u=1756878715
-http://iptv.fr.to/test/Fmtv.php?id=wljp
 http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+http://iptv.fr.to/test/Fmtv.php?id=wljp
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykA_uiEpHvW03tNX4HngqJnGzfHmgPSIB9CXLj3ovIrxDJIHt1drFnazqDOw_YzFTfMA5eIk3p9r3cwIQFU5cpfdb46Yrp_4-ygB0D7K8DEktWz0apes_3G6uQylmpLzDiHsKnTryo0sthj4TrINlSY6xYdWNOmoGD0OYxkOnvsu2WRKzud8UPVeERrSMQGtUw.m3u8?u=1756878715
@@ -196,8 +193,6 @@ http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 tvg-id="videolandmax" tvg-name="緯來育樂HD" group-title="台湾",緯來育樂HD
 http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
-#EXTINF:-1 tvg-id="videolandtv" tvg-name="纬来精彩" group-title="台湾",纬来精彩
-https://live.catvod.com/live.php?id=videolandtv
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯运动 1" group-title="台湾",博斯运动 1
 http://49.213.188.67:5052/smart.php?id=bosisport1_twn&token=885252
 http://142.171.248.206:5050/smart.php?id=bosisport1_twn&token=885252
