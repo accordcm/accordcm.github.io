@@ -767,15 +767,14 @@ p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
 http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
 http://z88.ubtvfans.com/live/rx3/2908/bc0aa6ce3602ddcd50c5e522a53cb857/index.m3u8
 #EXTINF:-1 tvg-name="彩虹e" tvg-logo="https://logo.catvod.com/彩虹e.png" group-title="私人频道_543",彩虹e
-http://z88.ubtvfans.com/live/rx4/2935/b2216e8fc2323f8a0a275e7c62df8732/index.m3u8
-http://lc.aacalive.com:26789/i/ghjnvq5o/8c855daa/index.m3u8
+https://z88.ubtvfans.com/live/rx2/415/6babc0f5085a850b99b33c0a22186200/index.m3u8
 #EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://logo.catvod.com/彩虹K.png" group-title="私人频道_543",彩虹K
 https://z88.ubtvfans.com/live/rx2/415/6babc0f5085a850b99b33c0a22186200/index.m3u8
 p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
 #EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://logo.catvod.com/彩虹电影.png" group-title="私人频道_543",彩虹电影
 http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
 #EXTINF:-1 tvg-name="彩虹频道" tvg-logo="https://logo.catvod.com/彩虹频道.png" group-title="私人频道_543",彩虹频道
-p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
+http://125.227.210.55:8203/VideoInput/play.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 #EXTINF:-1 tvg-name="极限电影" tvg-logo="https://logo.catvod.com/极限电影.png" group-title="私人频道_543",极限电影
 http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
