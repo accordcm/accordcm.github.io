@@ -87,7 +87,9 @@ http://49.213.188.67:5052/smart.php?id=sanlitaiwan&token=885252
 http://49.213.188.67:5052/smart.php?id=sanlidouhui_twn&token=885252
 http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
 #EXTINF:-1 tvg-id="sanlixiju_twn" tvg-name="三立戏剧台" group-title="台湾",三立戏剧台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUbJ743LmobV-hahyo99Dy0iMtaecNz9tnYtH01FiUsUb6qR4dFICg6L0Onbaja4GsnBVvgZUkrm2m0otFPMr-K57iKJ9NxUIhMPUmDCJY3PFD68MQNaTkYc1P-6_z1IJaGNtGOHaBZkKTGrzkfhU5MxJyWB16_o4kmucfSPJA3pP6rWwIy165yv21zBJdNM_bbhdB40SRSwFz9rTQu0zTMA.m3u8?u=1756878715
 http://49.213.188.67:5052/smart.php?id=sanlixiju_twn&token=885252
+
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
 http://49.213.188.67:5052/smart.php?id=sanlizhonghe&token=885252
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
@@ -113,6 +115,7 @@ http://49.213.188.67:5052/smart.php?id=ettvdrama&token=885252
 http://iptv.fr.to/test/Fmtv.php?id=wljp
 http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykA_uiEpHvW03tNX4HngqJnGzfHmgPSIB9CXLj3ovIrxDJIHt1drFnazqDOw_YzFTfMA5eIk3p9r3cwIQFU5cpfdb46Yrp_4-ygB0D7K8DEktWz0apes_3G6uQylmpLzDiHsKnTryo0sthj4TrINlSY6xYdWNOmoGD0OYxkOnvsu2WRKzud8UPVeERrSMQGtUw.m3u8?u=1756878715
 http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
 #EXTINF:-1 tvg-id="ttvzhonghe" tvg-name="台视综合台" group-title="台湾",台视综合台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WASIQmbBBa2JYJwKXRX-h-Z1JZJ6ePjG587HaEThd-7vviJkn-8R1MxJkamPJdKcQtxeWqSEiI0CHzM1WzqcjXHpECOERhiacAsBcwXHkCc2D4DRbPZc44RdHBP4OnfU6iwFaMhCJ8v8llMiAIOwCIJQ_6rswB2CZYRHteGobEp1071yiMmb-_-njSP_X6aSIA.m3u8?u=1756878715
@@ -573,6 +576,7 @@ http://49.213.188.67:50007/4gtv-4gtv014/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU
 #EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" group-title="GPT-體育頻道",博斯运动一台
 http://106.107.237.222:5050/smart.php?id=bosisport1_twn&token=885252
 #EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" group-title="GPT-體育頻道",博斯运动二台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK6QQTlk7iWm5Uajk1lQpN0AjxqQTT_Rm3q4jvRzwvvpIsADrXIdNyXvzQdIw7iv0ZhYFk0V2F6PBQxqfeJc97hBZDbLdYeWFEp8jlASlOUEKOTbt8G58UDsApgJSfgE_llY4kJ_TaTi69rMtazG5nl2S3PLnYFudbGUjKTd91LkBzNwEZnl1qv3mt4nsYbOSlQ.m3u8?u=1756878715
 http://106.107.237.222:5050/smart.php?id=bosisport2_twn&token=885252
 #EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" group-title="GPT-體育頻道",博斯高球一台
 http://106.107.237.222:5050/smart.php?id=bosigolf1_twn&token=885252
@@ -602,39 +606,34 @@ http://142.171.248.206:5050/smart.php?id=Jade_xue&token=885252
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="GPT-香港",明珠台
 http://iptv.4666888.xyz/iptv2A.php?id=29
 http://142.171.248.206:5050/smart.php?id=pearl_twn&token=885252
-http://106.107.237.222:5050/smart.php?id=pearl_twn&token=885252
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="" group-title="GPT-香港",无线新闻
+http://49.213.188.67:5052/smart.php?id=inews_twn&token=885252
 http://142.171.248.206:5050/smart.php?id=inews_twn&token=885252
-http://106.107.237.222:5050/smart.php?id=inews_twn&token=885252
 #EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="" group-title="GPT-香港",TVBPLUS
+http://49.213.188.67:5052/smart.php?id=j2_twn&token=885252
 http://142.171.248.206:5050/smart.php?id=j2_twn&token=885252
-http://106.107.242.201:5052/smart.php?id=j2_twn&token=885252
-http://74.91.26.218:82/live/j2.m3u8
-https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="GPT-香港",ViuTV
-http://106.107.237.222:5050/smart.php?id=viu1_twn&token=885252
+http://49.213.188.67:5052/smart.php?id=viu1_twn&token=885252
 #EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="GPT-香港",ViuTV 6
-http://106.107.237.222:5050/smart.php?id=viusix_twn&token=885252
+http://49.213.188.67:5052/smart.php?id=viusix_twn&token=885252
 #EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="GPT-香港",RTHK 31
 http://cdn.163189.xyz/163189/rthk31
-http://106.107.242.201:5052/smart.php?id=rhk31_twn&token=885252
+http://49.213.188.67:5052/smart.php?id=rhk31_twn&token=885252
 #EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="" group-title="GPT-香港",RTHK 32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-http://106.107.242.201:5052/smart.php?id=rhk32_twn&token=885252
+http://49.213.188.67:5052/smart.php?id=rhk32_twn&token=885252
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="GPT-香港",HOY TV
-http://106.107.237.222:5050/smart.php?id=hoycaijing_twn&token=885252
+http://49.213.188.67:5052/smart.php?id=hoycaijing_twn&token=885252
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="GPT-香港",凤凰中文
-http://106.107.237.222:5050/smart.php?id=phoenixtv_hd&token=885252
+http://49.213.188.67:5052/smart.php?id=phoenixtv_hd&token=885252
 http://r.jdshipin.com/0Rp07
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="GPT-香港",凤凰资讯
-http://106.107.237.222:5050/smart.php?id=phoenixinfo_hd&token=885252
+http://49.213.188.67:5052/smart.php?id=phoenixinfo_hd&token=885252
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="GPT-香港",凤凰香港
-http://106.107.237.222:5050/smart.php?id=hkphoenix_twn&token=885252
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="GPT-新加坡",Channel 5
-http://106.107.237.222:5050/smart.php?id=channel5hd&token=885252
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="GPT-新加坡",Channel 5
-http://49.213.188.67:5052/smart.php?id=channel5hd&token=885252
+http://49.213.188.67:5052/smart.php?id=hkphoenix_twn&token=885252
+
+
 #EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="" group-title="GPT-新加坡",Channel 8
 http://49.213.188.67:5052/smart.php?id=channel8hd&token=885252
 #EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="" group-title="GPT-新加坡",Suria
