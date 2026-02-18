@@ -297,8 +297,10 @@ http://106.107.237.222:5050/smart.php?id=tiankongmain&token=885252
 http://106.107.237.222:5050/smart.php?id=cctv15&token=885252
 http://106.107.237.222:5050/smart.php?id=tiankongnews&token=885252
 #EXTINF:-1 tvg-id="phoenixtv_hd" tvg-name="鳯凰衛視中文" group-title="中国",鳯凰衛視中文
+http://r.jdshipin.com/cCCzW
 http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:-1 tvg-id="phoenixinfo_hd" tvg-name="鳯凰衛視資訊" group-title="中国",鳯凰衛視資訊
+http://r.jdshipin.com/0Rp07
 http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 
 
