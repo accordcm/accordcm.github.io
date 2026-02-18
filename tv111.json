@@ -21,6 +21,7 @@ https://tv.iill.top/4gtv/litv-ftv13
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
 https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
@@ -340,11 +341,10 @@ http://49.213.188.67:5052/smart.php?id=Cn&token=885252
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg7I_bJVd6PHJW3O_8iuClaQv2fxz8fALRe2T-ogJ87ijCaxVOZ2bPDU19OAfHCuEH7pEtEyKaC5fQH83IQFKgtzrNJs9sRA_ZWtz7f_P7qo6AVu7NZkTmspa9rvOsdfPbS3JVHYZdD3YmQ4z04QanKIzTOcWRQ2fiCKdxZJI0HMUUxB1RvwrIu6Fs_jphyt87A.m3u8?u=1756878715
 http://49.213.188.67:5052/smart.php?id=meiyamovie_twn&token=885252
 http://106.107.237.222:5050/smart.php?id=meiyamovie_twn&token=885252
-https://live.catvod.com/live.php?id=meiyamovie_twn
 http://74.91.26.218:82/live/mydy.m3u8
-#EXTINF:-1 tvg-id="ettvmovie" tvg-name="緯來電影HD ETTV Movie" group-title="电影频道",緯來電影HD
+#EXTINF:-1 tvg-id="ettvmovie" tvg-name="緯來電影HD" group-title="电影频道",緯來電影HD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LypZl51sr4vf3DGhZh3g1VUuuJLW7HVy471lEuDO-YH11Gl0MCkU9WPcq_d0755X83srub1-XHBE5VbZ_j0gx5SPYEI5SLQlIljrPPsTmql9SFpa6P4IOxG5COwYIkcjPYJSXp8eyJ2SYELzoWKcB5ls02Ml0ER2jnqJTLQouDP-GRTvxVnAv-md1jJ8pOhWFPA.m3u8?u=1756878715
-#EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" group-title="电影频道",东森电影 ETTV Movie
+#EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="电影频道",东森电影
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" group-title="电影频道",东森洋片 ETTV Western
 http://142.171.248.206:5050/smart.php?id=ettvwestern&token=885252
@@ -375,6 +375,7 @@ http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
 #EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙详时代" group-title="电影频道",龙详时代
 http://49.213.188.67:5052/smart.php?id=lungxiangtime_twn&token=885252
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" group-title="电影频道",Warner TV
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg5nyfTBbogpBcvdxQnhJXBxSTYwRPXzbZ315XNk3qsAzFVun-Ztblz-KYP9-Ef0cfTSmaFXko8C8HdRmMqltBgdcG3E_rZ53SQXB_TtxesMdLOCQpYZIBynwJkV1V21brQCU9HINEmqvVXJ0cIkIQ0PUpAgSWU9_J121N6WUmJQYGUeq34D9xihDhHPFyrnITw.m3u8?u=1756878715
 http://49.213.188.67:5052/smart.php?id=WarnerTV&token=885252
 http://106.107.237.222:5050/smart.php?id=WarnerTV&token=885252
 #EXTINF:-1 tvg-id="Weishimovie" tvg-name="SCM" group-title="电影频道",SCM
@@ -386,10 +387,10 @@ http://49.213.188.67:5052/smart.php?id=Thrill&token=885252
 http://142.171.248.206:5050/smart.php?id=Thrill&token=885252
 http://106.107.237.222:5050/smart.php?id=Thrill&token=885252
 #EXTINF:-1 tvg-id="Hbofamily" tvg-name="HBO Family" group-title="电影频道",HBO Family
-http://49.213.188.67:5052/smart.php?id=Hbofamily&token=885252
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mJPp0JaaWt0UHnPdZ2oXPXt8AD-2wmgj1uSMZmlbnVxV9-jLgZGzM1jBGKeAZ87oRrO9E_Xvob7XVEm6y4Qr2jgdjYQH_9d-EKyI8DgsgaJyX-YdylzYa8MNkrKE-WqwQb_JXp1kHNpOLlV9s3QODVFXsySRRKetl-cazstKWOUZLtnLtVW4LGZCpPx_VNyww7L5fjvFJBQDmDsgfJsx2aY.m3u8?u=1756878715
 http://142.171.248.206:5050/smart.php?id=Hbofamily&token=885252
 #EXTINF:-1 tvg-id="Axn" tvg-name="Axn HD" group-title="电影频道",Axn HD
-http://49.213.188.67:5052/smart.php?id=Axn&token=885252
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mC3015hsvpEc6eDcUk4mvopVQtp6nlzWobtnuBKKBituajEnyybNUk-LLZEz69RaUMqbXBLyh-lF8fRE4fJXcMPgYzQG49BxTCq6sYH71TC25maGuC_HSHA1bjjwZbRGfsOfP5RaGSXmqARhRI8fOmwQanwlbDSyKKEhMVZYVYjZoaJVJ7dWgBK-kMlE3TgwoA.m3u8?u=1756878715
 http://142.171.248.206:5050/smart.php?id=Axn&token=885252
 #EXTINF:-1 tvg-id="Hitsmovie" tvg-name="Hits Movie" group-title="电影频道",Hits Movie
 http://106.107.237.222:5050/smart.php?id=Hitsmovie&token=885252
@@ -419,7 +420,6 @@ http://49.213.188.67:5052/smart.php?id=ettvcaijing_twn&token=885252
 http://49.213.188.67:50007/4gtv-4gtv153/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 http://142.171.248.206:5050/smart.php?id=ettvcaijing_twn&token=885252
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="新闻频道",民視新聞台
-http://49.213.188.67:5052/smart.php?id=ftvnew_taiwan&token=885252
 http://106.107.234.186:50007/litv-ftv13/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="新闻频道",中視新聞台
 http://106.107.234.186:50007/4gtv-4gtv074/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
