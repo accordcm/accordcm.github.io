@@ -142,6 +142,7 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 https://hls.iill.top/api/HBO/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood" group-title="台湾",Hollywood
 http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
+http://free.cnlive.club/channel/n2db95de5/index.m3u8
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="台湾",东森电影
 https://hls.iill.top/api/dsdy/index.m3u8
 http://49.213.188.67:5052/smart.php?id=ettvmovie&token=885252
@@ -183,9 +184,9 @@ https://tv.iill.top/4gtv/litv-ftv07
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台"  group-title="台湾",亚洲旅游台
 http://106.107.234.186:50007/4gtv-4gtv076/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
 http://49.213.188.67:5052/smart.php?id=asiatravel_twn&token=885252
-#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" group-title="台湾" , 愛爾達娛樂
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" group-title="台湾",愛爾達娛樂
 https://tv.iill.top/4gtv/4gtv-4gtv070
-#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台"  group-title="台湾" , 愛爾達生活旅遊
+#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台"  group-title="台湾",愛爾達生活旅遊
 https://tv.iill.top/4gtv/4gtv-live12
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
 http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
@@ -248,49 +249,56 @@ http://php.jdshipin.com/smt.php?id=Qiyi
 
 
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="中国",湖南卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
+http://go.bkpcp.top/mg/hunws
+http://m.061899.xyz/mg/hunws
 http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
 https://tv.iill.top/migu/hnws
 http://49.213.188.67:5052/smart.php?id=hunan_twn&token=885252
 #EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" group-title="中国",浙江卫视
+http://go.bkpcp.top/mg/zjws
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
+http://m.061899.xyz/mg/zjws
 http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-http://59.120.8.187:8078/hls/41/80/zhejiang.m3u8
 #EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="中国",江苏卫视
-http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
+http://go.bkpcp.top/mg/jsws
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
 http://142.171.248.206:5050/smart.php?id=jiangsu_twn&token=885252
 http://49.213.188.67:5052/smart.php?id=jiangsu_twn&token=885252
 http://111.170.157.210:1081/?id=623899368&auth=95d4c11f9a4bc430bf05d5da4ace7ccb60d8c44fd6b4f79e4c4ea182ed9fe718bb0222774566c9cc75a34417fe38207c
 http://106.107.237.222:5050/smart.php?id=jiangsu_twn&token=885252
 #EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="东方卫视" group-title="中国",东方卫视
-http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
+http://go.bkpcp.top/mg/dfws
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
+http://m.061899.xyz/mg/dfws
 http://111.170.157.210:1081/?id=651632648&auth=95d4c11f9a4bc430bf05d5da4ace7ccb8e3b6074f417187c939ab4d40bbe6ab2282f8bfc6098ecb7139fb187c89b9ae1
-http://106.107.237.222:5050/smart.php?id=dongfangweishi_twn&token=885252
 #EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="中国",北京卫视
-http://49.213.188.67:5052/smart.php?id=beijing&token=885252
-http://106.107.237.222:5050/smart.php?id=beijing&token=885252
+http://go.bkpcp.top/mg/bjws
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="中国",深圳卫视
-http://49.213.188.67:5052/smart.php?id=shenzhen&token=885252
+http://go.bkpcp.top/mg/szws
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
 http://106.107.237.222:5050/smart.php?id=shenzhen&token=885252
 #EXTINF:-1 tvg-id="fujian" tvg-name="廈門衛視" group-title="中国",廈門衛視
 http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 #EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="中国",福建东南卫视
-http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
 http://106.107.237.222:5050/smart.php?id=fujian&token=885252
 #EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="广东卫视" group-title="中国",广东卫视
-http://49.213.188.67:5052/smart.php?id=guangdongweishi_twn&token=885252
-http://111.170.157.210:1081/?id=608831231&auth=95d4c11f9a4bc430bf05d5da4ace7ccb4ef00f6766c6d4488c80b60a4dbe29b91976f0c8ca4a972b0d3adbe4e664317e
+http://go.bkpcp.top/mg/gdws
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
 http://106.107.237.222:5050/smart.php?id=guangdongweishi_twn&token=885252
 #EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" group-title="中国",湖北卫视
-http://49.213.188.67:5052/smart.php?id=hubei&token=885252
+http://go.bkpcp.top/mg/hubws
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
 http://106.107.237.222:5050/smart.php?id=hubei&token=885252
 #EXTINF:-1 tvg-id="zhujiang" tvg-name="珠江台" group-title="中国",珠江台
 http://106.107.237.222:5050/smart.php?id=zhujiang&token=885252
 #EXTINF:-1 tvg-id="guangxi" tvg-name="广西卫视" group-title="中国",广西卫视
-http://106.107.237.222:5050/smart.php?id=guangxi&token=885252
-#http://49.213.188.67:5052/smart.php?id=sichuan_twn&token=885252
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="中国",四川卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
 http://49.213.188.http://49.213.188.67:5052/smart.php?id=sichuan_twn&token=885252
-http://49.213.188.67:5052/smart.php?id=sichuan_twn&token=885252
 http://106.107.237.222:5050/smart.php?id=sichuan_twn&token=885252
 #EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 體育" group-title="中国",CCTV-5 體育
 http://106.107.237.222:5050/smart.php?id=cctv5&token=885252
