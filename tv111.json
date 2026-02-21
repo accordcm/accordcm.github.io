@@ -247,21 +247,22 @@ https://tv.iill.top/4gtv/4gtv-4gtv016
 http://iptv.4666888.xyz/iptv2A.php?id=21
 http://php.jdshipin.com/smt.php?id=Qiyi
 
-
+#INSERT_HERE
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="中国",湖南卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
-http://go.bkpcp.top/mg/hunws
-http://m.061899.xyz/mg/hunws
+https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
 http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
 https://tv.iill.top/migu/hnws
 http://49.213.188.67:5052/smart.php?id=hunan_twn&token=885252
 #EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" group-title="中国",浙江卫视
-http://go.bkpcp.top/mg/zjws
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+http://play-qukan.cztv.com/live/1758879019692345.m3u8
+http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
 http://m.061899.xyz/mg/zjws
 http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
 #EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="中国",江苏卫视
-http://go.bkpcp.top/mg/jsws
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
 http://142.171.248.206:5050/smart.php?id=jiangsu_twn&token=885252
 http://49.213.188.67:5052/smart.php?id=jiangsu_twn&token=885252
@@ -282,8 +283,7 @@ http://106.107.237.222:5050/smart.php?id=shenzhen&token=885252
 #EXTINF:-1 tvg-id="fujian" tvg-name="廈門衛視" group-title="中国",廈門衛視
 http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 #EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="中国",福建东南卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
-http://106.107.237.222:5050/smart.php?id=fujian&token=885252
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="广东卫视" group-title="中国",广东卫视
 http://go.bkpcp.top/mg/gdws
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
