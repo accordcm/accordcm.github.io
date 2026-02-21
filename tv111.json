@@ -265,42 +265,41 @@ http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="中国",湖南卫视
 https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
 https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
+http://tv123.vvvv.ee/live.php/?ch=477559991659
+http://tv123.vvvv.ee/live.php/?ch=eb8c838e1660
 http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
 https://tv.iill.top/migu/hnws
-http://49.213.188.67:5052/smart.php?id=hunan_twn&token=885252
 #EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" group-title="中国",浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 http://play-qukan.cztv.com/live/1758879019692345.m3u8
+http://tv123.vvvv.ee/live.php/?ch=8369bc1b1653
+http://tv123.vvvv.ee/live.php/?ch=d56873ed1654
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
-http://m.061899.xyz/mg/zjws
 http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
 #EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="中国",江苏卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
-http://142.171.248.206:5050/smart.php?id=jiangsu_twn&token=885252
-http://49.213.188.67:5052/smart.php?id=jiangsu_twn&token=885252
-http://111.170.157.210:1081/?id=623899368&auth=95d4c11f9a4bc430bf05d5da4ace7ccb60d8c44fd6b4f79e4c4ea182ed9fe718bb0222774566c9cc75a34417fe38207c
+http://tv123.vvvv.ee/live.php/?ch=800e01141651
+http://tv123.vvvv.ee/live.php/?ch=7b423a3a1652
 http://106.107.237.222:5050/smart.php?id=jiangsu_twn&token=885252
 #EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="东方卫视" group-title="中国",东方卫视
-http://go.bkpcp.top/mg/dfws
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
-http://m.061899.xyz/mg/dfws
-http://111.170.157.210:1081/?id=651632648&auth=95d4c11f9a4bc430bf05d5da4ace7ccb8e3b6074f417187c939ab4d40bbe6ab2282f8bfc6098ecb7139fb187c89b9ae1
+http://tv123.vvvv.ee/live.php/?ch=a93632d01647
+http://tv123.vvvv.ee/live.php/?ch=a68f2ebe1648
 #EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="中国",北京卫视
-http://go.bkpcp.top/mg/bjws
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+http://tv123.vvvv.ee/live.php/?ch=0013335c1649
+http://tv123.vvvv.ee/live.php/?ch=6bec259f1650
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="中国",深圳卫视
-http://go.bkpcp.top/mg/szws
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
+http://tv123.vvvv.ee/live.php/?ch=a92dd71e1657
+http://tv123.vvvv.ee/live.php/?ch=8f11d5b61658
 http://106.107.237.222:5050/smart.php?id=shenzhen&token=885252
 #EXTINF:-1 tvg-id="fujian" tvg-name="廈門衛視" group-title="中国",廈門衛視
 http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
+http://tv123.vvvv.ee/live.php/?ch=4e4befd61683
 #EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="中国",福建东南卫视
+http://tv123.vvvv.ee/live.php/?ch=c075d1a31682
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="广东卫视" group-title="中国",广东卫视
-http://go.bkpcp.top/mg/gdws
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
+http://tv123.vvvv.ee/live.php/?ch=cd20a6281655
+http://tv123.vvvv.ee/live.php/?ch=cc5e9c5d1656
 http://106.107.237.222:5050/smart.php?id=guangdongweishi_twn&token=885252
 #EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" group-title="中国",湖北卫视
 http://go.bkpcp.top/mg/hubws
@@ -311,8 +310,8 @@ http://106.107.237.222:5050/smart.php?id=zhujiang&token=885252
 #EXTINF:-1 tvg-id="guangxi" tvg-name="广西卫视" group-title="中国",广西卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="中国",四川卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
-http://49.213.188.http://49.213.188.67:5052/smart.php?id=sichuan_twn&token=885252
+http://tv123.vvvv.ee/live.php/?ch=c8cbd94c1677
+http://tv123.vvvv.ee/live.php/?ch=da52b87a1678
 http://106.107.237.222:5050/smart.php?id=sichuan_twn&token=885252
 #EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 體育" group-title="中国",CCTV-5 體育
 http://106.107.237.222:5050/smart.php?id=cctv5&token=885252
@@ -331,6 +330,7 @@ http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
 https://tv.iill.top/4gtv/4gtv-live107
+http://tv123.vvvv.ee/live.php/?ch=10f29ef11580
 https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="东森幼幼 Yoyo TV" group-title="兒童卡通",东森幼幼 Yoyo TV
 http://220.134.196.147:9588/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
