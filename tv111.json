@@ -232,6 +232,7 @@ https://tv.iill.top/4gtv/4gtv-live0499
 https://tv.iill.top/4gtv/4gtv-4gtv016
 http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
 #EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝"  group-title="台湾",愛奇藝
+https://o11.163189.xyz/stream/live/iqiyi/
 http://php.jdshipin.com/smt.php?id=Qiyi
 
 #EXTM3U
@@ -378,12 +379,13 @@ https://stream1.freetv.fun/badd2c471b785d2032379719c9b0e85c841d1fbff319e8d6cd176
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="台視財經" group-title="新闻频道",台視財經
 http://74.91.26.218:82/live/ttvcj.m3u8
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="新闻频道",東森財經新聞
-http://49.213.188.67:5052/smart.php?id=ettvcaijing_twn&token=885252
-http://49.213.188.67:50007/4gtv-4gtv153/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+https://tv.iill.top/4gtv/4gtv-4gtv153
 http://142.171.248.206:5050/smart.php?id=ettvcaijing_twn&token=885252
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="新闻频道",民視新聞台
+https://tv.iill.top/4gtv/litv-ftv13
 http://106.107.234.186:50007/litv-ftv13/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="新闻频道",中視新聞台
+https://tv.iill.top/4gtv/4gtv-4gtv074
 http://106.107.234.186:50007/4gtv-4gtv074/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" group-title="新闻频道",華視新聞台
 https://tv.iill.top/4gtv/4gtv-4gtv052
@@ -400,8 +402,6 @@ http://106.107.234.186:50007/4gtv-4gtv156/index.m3u8?token=C2sImhXY5hzM65REQX4KP
 http://106.107.234.186:50007/4gtv-live168/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="新闻频道",CGTN
 http://106.107.237.222:5050/smart.php?id=cgtn&token=885252
-#EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" group-title="新闻频道",DW (Deutsch)
-http://106.107.237.222:5050/smart.php?id=dw_twn&token=885252
 #EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
 http://49.213.188.67:5052/smart.php?id=foxnews_twn&token=885252
 http://142.171.248.206:5050/smart.php?id=foxnews_twn&token=885252
@@ -412,6 +412,8 @@ http://142.171.248.206:5050/smart.php?id=cnn_twn&token=885252
 #EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
 http://106.107.237.222:5050/smart.php?id=Bbcnews&token=885252
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
+https://tv.iill.top/4gtv/4gtv-live071
+http://106.107.237.222:5050/smart.php?id=dw_twn&token=885252
 http://106.107.237.222:50007/4gtv-live071/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 #EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" group-title="新闻频道",France 24
 http://106.107.237.222:50007/4gtv-live146/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
@@ -602,11 +604,11 @@ http://49.213.188.67:5052/smart.php?id=hkphoenix_twn&token=885252
 
 
 #EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="" group-title="GPT-新加坡",Channel 8
-http://49.213.188.67:5052/smart.php?id=channel8hd&token=885252
+http://cdn6.163189.xyz/163189/ch5
 #EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="" group-title="GPT-新加坡",Suria
 http://49.213.188.67:5052/smart.php?id=suria&token=885252
 #EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="GPT-新加坡",Channel U
-http://49.213.188.67:5052/smart.php?id=channelu&token=885252
+http://cdn6.163189.xyz/163189/ch
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="" group-title="GPT-新加坡",Vasantham
 http://49.213.188.67:5052/smart.php?id=vasantham&token=885252
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-新加坡",CNA
@@ -669,9 +671,9 @@ http://49.213.188.67:5052/smart.php?id=AEC&token=885252
 #EXTINF:-1 tvg-id="华丽台 HD （Wah Lai Toi）" tvg-name="华丽台 HD （Wah Lai Toi）" tvg-logo="" group-title="GPT-马来西亚",华丽台 HD （Wah Lai Toi）
 http://49.213.188.67:5052/smart.php?id=Wlt&token=885252
 #EXTINF:-1 tvg-id="欢喜台 HD （Hua Hee Tai）" tvg-name="欢喜台 HD （Hua Hee Tai）" tvg-logo="" group-title="GPT-马来西亚",欢喜台 HD （Hua Hee Tai）
-http://49.213.188.67:5052/smart.php?id=Huahee&token=885252
+https://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="" group-title="GPT-马来西亚",Astro QJ
-http://49.213.188.67:5052/smart.php?id=Quanjia&token=885252
+https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
 #EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="GPT-马来西亚",TVB Jade
 http://49.213.188.67:5052/smart.php?id=Tvbjade&token=885252
 #EXTINF:-1 tvg-id="TVB Asia" tvg-name="TVB Asia" tvg-logo="" group-title="GPT-马来西亚",TVB Asia
