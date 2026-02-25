@@ -45,6 +45,10 @@ http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mEVHMuNt4FXbPf9SvxlxLQpyK4ElzHmpjpUh5gdP6VClo3RI0bQAB253Ba77OdXDa7sX1wnbgu6ape6GTBp9-UPRmm1uOg7BsiX0NfTgkdAJYFygF-tkq3hTreLzus73dNNJOwR3O6zhVcqSiibzpAW919OyzRANkaZj_qbR-RvtqB2TxZuFQTR7Gd3qXolCZw.m3u8?u=1756878715
 https://hls.iill.top/api/Discovery/index.m3u8
 https://111.iptv543.com/live.php?id=discoverych_twn
+https://stream1.freetv.fun/ae1bcd61012a7cb1b781fb6af83dcacdc03f254790032b4374b976b61dd7ea4a.m3u8
+https://stream1.freetv.fun/306db57cf3df3ae02f3a5049875e10dfb73b96bd4381d83b4f6e439bda203b96.m3u8
+https://stream1.freetv.fun/7c5d8bb68473e29f0336a20d263a2194a0f25e57adcdf5a0dde59a8e13ecc159.m3u8
+https://stream1.freetv.fun/9bd5e759f25f9854b49789b047b7a1892c050e526f5ffab0286bfdb1a5985313.m3u8
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
 https://hls.iill.top/api/dwxq/index.m3u8
@@ -139,8 +143,11 @@ http://49.213.188.67:50007/4gtv-4gtv034/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 https://hls.iill.top/api/HBO/index.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mGrZcwK1dZ7bGeU0qVprgcfpFuGaCu4nsb3PunUObDR-S7mGOcXUVHBDR7doGwqccs-usV859TpPCuLShw0kUvybURZKyhNh5bdefpCo3xPo39BWk9wg28fZOWIn2w25nNWa6DmdwmzA7mnHTBVSKd6iLFxcC5ipMP_nXWWPX3eT4GJCy8cSq6Z6c295ATfCjA.m3u8?u=1756878715
+https://stream1.freetv.fun/2fda0dbc8ad206b2ea146eca06e1ae4c228af479c5eb9e98fe39f28b3a634661.m3u8
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood" group-title="台湾",Hollywood
 http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
+https://stream1.freetv.fun/4f1224450a344f842cfe4c403593b22a393dc6791e6f469e45c1a24365d08bf5.ctv
+https://stream1.freetv.fun/66205b3f0abc81d54dbb5b7d4774f3ff44ed63ee7454d7cc342c1e4c62526c1a.m3u8
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="台湾",东森电影
 https://hls.iill.top/api/dsdy/index.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715
@@ -219,6 +226,7 @@ https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982
 http://49.213.188.67:50007/4gtv-live144/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
 rtmp://f13h.mine.nu/sat/tv731
+https://stream1.freetv.fun/06b6214f3d5ee5f7d354b14fe53ac947012b5e07efc6d1b2b8599a5200bdafa5.m3u8
 #EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" group-title="台湾",DAZN 2
 rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
@@ -236,6 +244,11 @@ https://tv.iill.top/4gtv/4gtv-live0499
 #EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV"  group-title="台湾",韓國娛樂台
 https://tv.iill.top/4gtv/4gtv-4gtv016
 http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
+#EXTINF:-1 tvg-id="CHANNEL [V]" tvg-name="韓國娛樂台KMTV"  group-title="台湾",CHANNEL [V]
+https://stream1.freetv.fun/e6fd793af18d33af5d733cfb4a92c312133939ea2ffc38a57d1ee5e41cae05a7.m3u8
+https://stream1.freetv.fun/f204d2bcd40362f1b92163527b2e9bfec8ac954ee359600902044070830fa789.m3u8
+https://stream1.freetv.fun/60b5d88ff52ced712ce569b61358764f11121db452433c5db5babefbba205b44.m3u8
+https://stream1.freetv.fun/fca0bd28ae8000f3bef263858ee50350cdcee11c4819c3ced4e0b2869ec9c770.m3u8
 #EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝"  group-title="台湾",愛奇藝
 https://o11.163189.xyz/stream/live/iqiyi/
 http://php.jdshipin.com/smt.php?id=Qiyi
@@ -353,6 +366,7 @@ http://106.107.237.222:5050/smart.php?id=hollywoodmovies_twn&token=885252
 http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
 #EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" group-title="电影频道",HBO HD
 https://hls.iill.top/api/HBO-Hits/index.m3u8
+https://stream1.freetv.fun/2fda0dbc8ad206b2ea146eca06e1ae4c228af479c5eb9e98fe39f28b3a634661.m3u8
 http://49.213.188.67:5052/smart.php?id=hbohd_twn&token=885252
 http://106.107.237.222:5050/smart.php?id=hbohd_twn&token=885252
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD"  group-title="电影频道",HBO Family
@@ -360,6 +374,7 @@ https://hls.iill.top/api/HBO-Family/index.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD"  group-title="电影频道",HBO Signature
 https://hls.iill.top/api/HBO-Signature/index.m3u8
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="电影频道",Dreamworks
+https://stream1.freetv.fun/507234129b2f546137c7b8b705ca753f3b9492cec252541fd10d868814247272.m3u8
 http://142.171.248.206:5050/smart.php?id=Dreamworks&token=885252
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="电影频道",AXN Taiwan
 http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
@@ -422,6 +437,9 @@ http://106.107.237.222:5050/smart.php?id=Cnn&token=885252
 #EXTINF:-1 tvg-id="cnn_twn" tvg-name="CNN backup" group-title="新闻频道",CNN backup
 http://142.171.248.206:5050/smart.php?id=cnn_twn&token=885252
 #EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
+https://stream1.freetv.fun/24358f38712d187d2fd38cb6f4c48fa88543e025ac9a386899adec203cb10b0a.m3u8
+https://stream1.freetv.fun/8ceea8c7e1961842e551fc90916350de2838ee500e19edf3fdbf2f2c0c3561bf.m3u8
+https://stream1.freetv.fun/c5d042d56862cb15b7c1d63632f4af1d1eef22b318719cc48d0190fa4225a6f0.m3u8
 http://106.107.237.222:5050/smart.php?id=Bbcnews&token=885252
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
 https://tv.iill.top/4gtv/4gtv-live071
