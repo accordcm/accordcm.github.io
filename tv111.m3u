@@ -8,17 +8,19 @@ http://106.107.234.186:50007/media-live072/index.m3u8?token=C2sImhXY5hzM65REQX4K
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
-https://111.iptv543.com/live.php?id=feifannews_twn
+https://live.catvod.com/live.php?token=1322e58d505e1bf4eeb2ebad226c6cd6010148dc17aa489e9e010287764fd38d&id=feifannews_twn
+https://live.catvod.com/live.php?token=1322e58d505e1bf4eeb2ebad226c6cd6010148dc17aa489e9e010287764fd38d&id=feifannews_twn
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 https://tv.iill.top/4gtv/4gtv-4gtv153
 http://106.107.234.186:50007/4gtv-4gtv153/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 https://tv.iill.top/4gtv/litv-ftv13
 http://74.91.26.218:82/live/ftvnews.m3u8
+https://live.catvod.com/live.php?token=1322e58d505e1bf4eeb2ebad226c6cd6010148dc17aa489e9e010287764fd38d&id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
-http://74.91.26.218:82/live/ttvnews.m3u8
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
 https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8
+http://74.91.26.218:82/live/ttvnews.m3u8
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 https://tv.iill.top/4gtv/4gtv-4gtv074
 http://74.91.26.218:82/live/ctvnews.m3u8
