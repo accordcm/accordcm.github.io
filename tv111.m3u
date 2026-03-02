@@ -280,7 +280,7 @@ https://stream1.freetv.fun/f204d2bcd40362f1b92163527b2e9bfec8ac954ee359600902044
 https://stream1.freetv.fun/60b5d88ff52ced712ce569b61358764f11121db452433c5db5babefbba205b44.m3u8
 https://stream1.freetv.fun/fca0bd28ae8000f3bef263858ee50350cdcee11c4819c3ced4e0b2869ec9c770.m3u8
 http://106.107.234.186:5050/4gtv-4gtv016/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
-#EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK Xstream搖滾極限頻道" group-title="電影戲劇",ROCK Xstream搖滾極限頻道
+#EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK Xstream搖滾極限頻道" group-title="台湾",ROCK Xstream搖滾極限頻道
 http://106.107.234.186:5050/4gtv-live124/index.m3u8?token=EurmFfd7lKmoJIXfY5vmTyfXh9zSEdRlyqScOYMd0M2vgIomgFvREwgQj9rptOH5
 #EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝"  group-title="台湾",愛奇藝
 https://o11.163189.xyz/stream/live/iqiyi/
@@ -431,7 +431,7 @@ http://49.213.188.67:5052/smart.php?id=lungxiangtime_twn&token=885252
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg5nyfTBbogpBcvdxQnhJXBxSTYwRPXzbZ315XNk3qsAzFVun-Ztblz-KYP9-Ef0cfTSmaFXko8C8HdRmMqltBgdcG3E_rZ53SQXB_TtxesMdLOCQpYZIBynwJkV1V21brQCU9HINEmqvVXJ0cIkIQ0PUpAgSWU9_J121N6WUmJQYGUeq34D9xihDhHPFyrnITw.m3u8?u=1756878715
 http://49.213.188.67:5052/smart.php?id=WarnerTV&token=885252
 http://106.107.237.222:5050/smart.php?id=WarnerTV&token=885252
-#EXTINF:-1 tvg-id="Hbofamily" tvg-name="HBO Family" group-title="電影戲劇",HBO Family
+#EXTINF:-1 tvg-id="Hbofamily" tvg-name="HBO Family" group-title="電影频道",HBO Family
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mJPp0JaaWt0UHnPdZ2oXPXt8AD-2wmgj1uSMZmlbnVxV9-jLgZGzM1jBGKeAZ87oRrO9E_Xvob7XVEm6y4Qr2jgdjYQH_9d-EKyI8DgsgaJyX-YdylzYa8MNkrKE-WqwQb_JXp1kHNpOLlV9s3QODVFXsySRRKetl-cazstKWOUZLtnLtVW4LGZCpPx_VNyww7L5fjvFJBQDmDsgfJsx2aY.m3u8?u=1756878715
 http://142.171.248.206:5050/smart.php?id=Hbofamily&token=885252
 #EXTINF:-1 tvg-id="Axn" tvg-name="Axn HD" group-title="電影频道",Axn HD
