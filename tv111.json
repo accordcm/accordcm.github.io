@@ -366,12 +366,11 @@ http://106.107.234.186:5050/4gtv-live107/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2
 https://live.catvod.com/live.php?token=d3392547232b35fc7ae2a9bb8e6bcf74f0dfffdf577f346211cf0816c0c9590b&id=yoyo_twn
 http://220.134.196.147:9588/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
-http://106.107.237.222:50007/of-litv-xinchuang20/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-http://106.107.237.222:5051/litv-xinchuang20/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
-http://106.107.237.222:50007/4gtv-live132/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.234.186:5050/litv-xinchuang20/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
+http://106.107.234.186:5050/of-litv-xinchuang20/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 http://106.107.234.186:5050/litv-xinchuang20/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
-http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
+http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
 https://tv.iill.top/4gtv/4gtv-live017
 http://106.107.234.186:5050/4gtv-live017/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
@@ -381,11 +380,11 @@ http://106.107.234.186:5050/4gtv-live105/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2
 #EXTINF:-1 tvg-id="NICKJR."  group-title="兒童卡通",Nick Jr.
 https://tv.iill.top/4gtv/4gtv-live032
 http://106.107.234.186:5050/4gtv-live032/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 #EXTINF:-1 tvg-id="lhkt01" tvg-name="龍華卡通" group-title="兒童卡通",龍華卡通
 http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
-http://106.107.237.222:50007/litv-xinchuang01/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
-http://106.107.237.222:5051/litv-xinchuang01/index.m3u8?token=t5oeSW08QAHcnt7M70-d0H_vpL3nOSHnjtNzi8hmX7aLNmO_lKpAppZ0B2tnrhaR
+http://106.107.237.222:50007/litv-xinchuang01/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
+http://106.107.237.222:5051/litv-xinchuang01/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 #EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" group-title="兒童卡通",Cartoon Network
 http://tv123.vvvv.ee/live.php/?ch=b97db5e11498
 http://49.213.188.67:5052/smart.php?id=Cn&token=885252
@@ -478,18 +477,18 @@ http://106.107.234.186:50007/4gtv-4gtv074/index.m3u8?token=C2sImhXY5hzM65REQX4KP
 https://tv.iill.top/4gtv/4gtv-4gtv052
 http://74.91.26.218:82/live/ctsnews.m3u8
 http://tv123.vvvv.ee/live.php/?ch=2350805a1336
-http://106.107.234.186:50007/4gtv-4gtv052/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
+http://106.107.234.186:50007/4gtv-4gtv052/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="新闻频道",寰宇新聞台
 https://tv.iill.top/4gtv/litv-longturn14
 http://106.107.234.186:5050/4gtv-live408/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 http://106.107.234.186:5050/litv-longturn14/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
-http://106.107.234.186:50007/litv-longturn14/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
+http://106.107.234.186:50007/litv-longturn14/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
 https://tv.iill.top/4gtv/4gtv-4gtv156
-http://106.107.234.186:50007/4gtv-4gtv156/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
+http://106.107.234.186:50007/4gtv-4gtv156/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 #EXTINF:-1 tvg-id="CGTN" tvg-name="NHK新聞資訊台" group-title="新闻频道",NHK新聞資訊台
 https://live.catvod.com/live.php?token=1322e58d505e1bf4eeb2ebad226c6cd6010148dc17aa489e9e010287764fd38d&id=nhkworld_japan
-http://106.107.234.186:50007/4gtv-live168/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
+http://106.107.234.186:50007/4gtv-live168/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="新闻频道",CGTN
 http://106.107.237.222:5050/smart.php?id=cgtn&token=885252
 #EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
@@ -507,9 +506,9 @@ http://106.107.237.222:5050/smart.php?id=Bbcnews&token=885252
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
 https://tv.iill.top/4gtv/4gtv-live071
 http://106.107.237.222:5050/smart.php?id=dw_twn&token=885252
-http://106.107.237.222:50007/4gtv-live071/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.237.222:50007/4gtv-live071/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 #EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" group-title="新闻频道",France 24
-http://106.107.237.222:50007/4gtv-live146/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.237.222:50007/4gtv-live146/index.m3u8?token=UdwlzQnXKpaB1412zRuIl2i9mUXoB5LU7EJi36DriVJGHaI1QjY50Uyc5thHnY2o
 
 
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
