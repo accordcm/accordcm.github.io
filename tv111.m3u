@@ -330,7 +330,7 @@ http://play-qukan.cztv.com/live/1758879019692345.m3u8
 http://74.91.26.218:82/live/zjwshd.m3u8
 http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
 #EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="中国",江苏卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
+https://live.catvod.com/live.php?token=d3392547232b35fc7ae2a9bb8e6bcf74f0dfffdf577f346211cf0816c0c9590b&id=jiangsu_twn
 http://74.91.26.218:82/live/jswshd.m3u8
 https://111.iptv543.com/live.php?id=jiangsu_twn
 #EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="东方卫视" group-title="中国",东方卫视
