@@ -506,12 +506,13 @@ https://tv.iill.top/4gtv/litv-ftv13
 http://49.213.188.67:5055/litv-ftv13/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="新闻频道",中視新聞台
 https://tv.iill.top/4gtv/4gtv-4gtv074
-http://106.107.234.186:50007/4gtv-4gtv074/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
+http://74.91.26.218:82/live/ctvnews.m3u8
+http://49.213.188.67:5055/4gtv-4gtv074/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" group-title="新闻频道",華視新聞台
 https://tv.iill.top/4gtv/4gtv-4gtv052
 http://74.91.26.218:82/live/ctsnews.m3u8
 http://tv123.vvvv.ee/live.php/?ch=2350805a1336
-http://106.107.234.186:50007/4gtv-4gtv052/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
+http://49.213.188.67:5055/4gtv-4gtv052/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="新闻频道",寰宇新聞台
 https://tv.iill.top/4gtv/litv-longturn14
 http://49.213.188.67:5055/4gtv-live408/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
