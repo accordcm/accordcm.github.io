@@ -165,7 +165,6 @@ http://211.23.114.106:9318/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大综合 " group-title="台湾",八大综合
 http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
 http://211.23.114.106:8521/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
-
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y2NcDLAMny_Xqf9mK2_Uh-WAYfLzOQp23oOkbBKRdhO9NiXckoXfk1G_wolfUyEIHoo3IAS4NjGYYo1s8Yw3TBp47aePy1RsKMhXEFyNRUZ7iKwb82DRsB5PucOXjgJBsbNupM2t7bKDqeg3YaOfbGONJiBH6Yz94ZGQoFKO0uj5yRgDDMNfx2G5ZIqLEsW00Q.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大綜藝台 " group-title="台湾",八大綜藝
 https://tv.iill.top/4gtv/4gtv-4gtv039
@@ -738,108 +737,6 @@ http://49.213.188.67:5052/smart.php?id=phoenixinfo_hd&token=885252
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="GPT-香港",凤凰香港
 http://r.jdshipin.com/yDoTN
 http://49.213.188.67:5052/smart.php?id=hkphoenix_twn&token=885252
-
-
-#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="" group-title="GPT-新加坡",Channel 8
-http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="" group-title="GPT-新加坡",Suria
-http://49.213.188.67:5052/smart.php?id=suria&token=885252
-#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="GPT-新加坡",Channel U
-http://cdn6.163189.xyz/163189/ch
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="" group-title="GPT-新加坡",Vasantham
-http://49.213.188.67:5052/smart.php?id=vasantham&token=885252
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-新加坡",CNA
-http://49.213.188.67:5052/smart.php?id=cna&token=885252
-#EXTINF:-1 tvg-id="CNA backup" tvg-name="CNA backup" tvg-logo="" group-title="GPT-新加坡",CNA backup
-http://49.213.188.67:5052/smart.php?id=cna_twn&token=885252
-#EXTINF:-1 tvg-id="MeWatch Ch 5" tvg-name="MeWatch Ch 5" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 5
-http://49.213.188.67:5052/smart.php?id=Mewatch_ch5&token=885252
-#EXTINF:-1 tvg-id="MeWatch Ch 8" tvg-name="MeWatch Ch 8" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 8
-http://49.213.188.67:5052/smart.php?id=Mewatch_ch8&token=885252
-#EXTINF:-1 tvg-id="MeWatch Ch U" tvg-name="MeWatch Ch U" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch U
-http://49.213.188.67:5052/smart.php?id=Mewatch_chU&token=885252
-#EXTINF:-1 tvg-id="MeWatch Suria" tvg-name="MeWatch Suria" tvg-logo="" group-title="GPT-新加坡",MeWatch Suria
-http://49.213.188.67:5052/smart.php?id=Mewatch_Suria&token=885252
-#EXTINF:-1 tvg-id="MeWatch Vasantham" tvg-name="MeWatch Vasantham" tvg-logo="" group-title="GPT-新加坡",MeWatch Vasantham
-http://49.213.188.67:5052/smart.php?id=Mewatch_Vasantham&token=885252
-#EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="MeWatch CNA" tvg-logo="" group-title="GPT-新加坡",MeWatch CNA
-http://49.213.188.67:5052/smart.php?id=Mewatch_cna&token=885252
-
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="" group-title="GPT-马来西亚",TV1
-http://49.213.188.67:5052/smart.php?id=TV1&token=885252
-#EXTINF:-1 tvg-id="TV1 backup" tvg-name="TV1 backup" tvg-logo="" group-title="GPT-马来西亚",TV1 backup
-http://49.213.188.67:5052/smart.php?id=TV1_backup&token=885252
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="" group-title="GPT-马来西亚",TV2
-http://49.213.188.67:5052/smart.php?id=TV2&token=885252
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="" group-title="GPT-马来西亚",TV3
-http://49.213.188.67:5052/smart.php?id=TV3&token=885252
-#EXTINF:-1 tvg-id="TV3 SD" tvg-name="TV3 SD" tvg-logo="" group-title="GPT-马来西亚",TV3 SD
-http://49.213.188.67:5052/smart.php?id=TV3_mega&token=885252
-#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="" group-title="GPT-马来西亚",NTV7
-http://49.213.188.67:5052/smart.php?id=NTV7&token=885252
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="" group-title="GPT-马来西亚",TV8
-http://49.213.188.67:5052/smart.php?id=TV8&token=885252
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="" group-title="GPT-马来西亚",TV9
-http://49.213.188.67:5052/smart.php?id=TV9&token=885252
-#EXTINF:-1 tvg-id="Ria" tvg-name="Ria" tvg-logo="" group-title="GPT-马来西亚",Ria
-http://49.213.188.67:5052/smart.php?id=Ria-0&token=885252
-#EXTINF:-1 tvg-id="Ria-3" tvg-name="Ria-3" tvg-logo="" group-title="GPT-马来西亚",Ria-3
-http://49.213.188.67:5052/smart.php?id=Ria_backup&token=885252
-#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="" group-title="GPT-马来西亚",Al-Hijrah
-http://49.213.188.67:5052/smart.php?id=Alhijrah&token=885252
-#EXTINF:-1 tvg-id="Al-Hijrah backup" tvg-name="Al-Hijrah backup" tvg-logo="" group-title="GPT-马来西亚",Al-Hijrah backup
-http://49.213.188.67:5052/smart.php?id=Alhijrah_backup&token=885252
-#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" tvg-logo="" group-title="GPT-马来西亚",Awani
-http://49.213.188.67:5052/smart.php?id=Awani&token=885252
-#EXTINF:-1 tvg-id="Bernama" tvg-name="Bernama" tvg-logo="" group-title="GPT-马来西亚",Bernama
-http://49.213.188.67:5052/smart.php?id=Bernama&token=885252
-#EXTINF:-1 tvg-id="Prima" tvg-name="Prima" tvg-logo="" group-title="GPT-马来西亚",Prima
-http://49.213.188.67:5052/smart.php?id=Prima-0&token=885252
-#EXTINF:-1 tvg-id="Prima backup" tvg-name="Prima backup" tvg-logo="" group-title="GPT-马来西亚",Prima backup
-http://49.213.188.67:5052/smart.php?id=AAprima1&token=885252
-#EXTINF:-1 tvg-id="Astro Sonypix" tvg-name="Astro Sonypix" tvg-logo="" group-title="GPT-马来西亚",Astro Sonypix
-http://49.213.188.67:5052/smart.php?id=Asonypix&token=885252
-#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="" group-title="GPT-马来西亚",Sony HD
-http://49.213.188.67:5052/smart.php?id=SetOne&token=885252
-#EXTINF:-1 tvg-id="TvN" tvg-name="TvN" tvg-logo="" group-title="GPT-马来西亚",TvN
-http://49.213.188.67:5052/smart.php?id=TVN&token=885252
-#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="" group-title="GPT-马来西亚",AEC
-http://49.213.188.67:5052/smart.php?id=AEC&token=885252
-#EXTINF:-1 tvg-id="华丽台 HD （Wah Lai Toi）" tvg-name="华丽台 HD （Wah Lai Toi）" tvg-logo="" group-title="GPT-马来西亚",华丽台 HD （Wah Lai Toi）
-http://49.213.188.67:5052/smart.php?id=Wlt&token=885252
-#EXTINF:-1 tvg-id="欢喜台 HD （Hua Hee Tai）" tvg-name="欢喜台 HD （Hua Hee Tai）" tvg-logo="" group-title="GPT-马来西亚",欢喜台 HD （Hua Hee Tai）
-https://o11.163189.xyz/stream/live/hxt/
-#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="" group-title="GPT-马来西亚",Astro QJ
-https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
-#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="GPT-马来西亚",TVB Jade
-http://49.213.188.67:5052/smart.php?id=Tvbjade&token=885252
-#EXTINF:-1 tvg-id="TVB Asia" tvg-name="TVB Asia" tvg-logo="" group-title="GPT-马来西亚",TVB Asia
-http://49.213.188.67:5052/smart.php?id=Tvbasia&token=885252
-
-#EXTINF:-1 tvg-id="Channel 3 Thailand" tvg-name="Channel 3 Thailand" tvg-logo="" group-title="GPT-泰国",Channel 3 Thailand
-http://49.213.188.67:5052/smart.php?id=ch3_pat&token=885252
-#EXTINF:-1 tvg-id="Channel 5 Thailand" tvg-name="Channel 5 Thailand" tvg-logo="" group-title="GPT-泰国",Channel 5 Thailand
-http://49.213.188.67:5052/smart.php?id=ch5_pat&token=885252
-#EXTINF:-1 tvg-id="Channel 7 Thailand" tvg-name="Channel 7 Thailand" tvg-logo="" group-title="GPT-泰国",Channel 7 Thailand
-http://49.213.188.67:5052/smart.php?id=ch7_pat&token=885252
-#EXTINF:-1 tvg-id="MCOT HD Thailand-1" tvg-name="MCOT HD Thailand-1" tvg-logo="" group-title="GPT-泰国",MCOT HD Thailand-1
-http://49.213.188.67:5052/smart.php?id=mcot_pat&token=885252
-#EXTINF:-1 tvg-id="PPTV Thailand1" tvg-name="PPTV Thailand1" tvg-logo="" group-title="GPT-泰国",PPTV Thailand1
-http://49.213.188.67:5052/smart.php?id=pptv_pat&token=885252
-#EXTINF:-1 tvg-id="Thai Thai" tvg-name="Thai Thai" tvg-logo="" group-title="GPT-泰国",Thai Thai
-http://49.213.188.67:5052/smart.php?id=thaithai_pat&token=885252
-#EXTINF:-1 tvg-id="Amarin" tvg-name="Amarin" tvg-logo="" group-title="GPT-泰国",Amarin
-http://49.213.188.67:5052/smart.php?id=amarin_pat&token=885252
-#EXTINF:-1 tvg-id="Ch 8" tvg-name="Ch 8" tvg-logo="" group-title="GPT-泰国",Ch 8
-http://49.213.188.67:5052/smart.php?id=ch8_pat&token=885252
-#EXTINF:-1 tvg-id="GmmOne" tvg-name="GmmOne" tvg-logo="" group-title="GPT-泰国",GmmOne
-http://49.213.188.67:5052/smart.php?id=gmmone_pat&token=885252
-#EXTINF:-1 tvg-id="Mono" tvg-name="Mono" tvg-logo="" group-title="GPT-泰国",Mono
-http://49.213.188.67:5052/smart.php?id=mono_pat&token=885252
-#EXTINF:-1 tvg-id="Thairath" tvg-name="Thairath" tvg-logo="" group-title="GPT-泰国",Thairath
-http://49.213.188.67:5052/smart.php?id=thairath_pat&token=885252
-#EXTINF:-1 tvg-id="tpbs" tvg-name="tpbs" tvg-logo="" group-title="GPT-泰国",tpbs
-http://49.213.188.67:5052/smart.php?id=tpbs_pat&token=885252
 
 
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
