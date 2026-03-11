@@ -24,6 +24,7 @@ http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
 https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8
 http://74.91.26.218:82/live/ttvnews.m3u8
+https://tv.iill.top/FainTV.php?id=19366
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 https://tv.iill.top/4gtv/4gtv-4gtv074
 http://74.91.26.218:82/live/ctvnews.m3u8
@@ -68,6 +69,7 @@ http://49.213.188.67:5055/4gtv-4gtv002/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbB
 #EXTINF:-1 tvg-id="台視" tvg-name="台視"  group-title="台湾",台視
 rtmp://f13h.mine.nu/sat/tv071
 http://74.91.26.218:82/live/ttv.m3u8
+https://tv.iill.top/FainTV.php?id=19371
 #EXTINF:-1 tvg-id="中視" tvg-name="中視"  group-title="台湾",中視
 http://74.91.26.218:82/live/ctv.m3u8
 rtmp://f13h.mine.nu/sat/tv091
@@ -270,6 +272,7 @@ http://49.213.188.67:5055/4gtv-live411/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbB
 http://49.213.188.67:5055/4gtv-4gtv014/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV"  group-title="台湾",車迷 TV
 https://tv.iill.top/4gtv/4gtv-live201
+https://www.4gtv.tv/channel/4gtv-live201?set=1&ch=160
 http://49.213.188.67:5055/4gtv-live201/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
 https://tv.iill.top/4gtv/4gtv-live144
