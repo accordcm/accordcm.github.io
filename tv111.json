@@ -2,20 +2,15 @@
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 https://tv.iill.top/4gtv/4gtv-4gtv152
 http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
-https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 http://49.213.188.67:5055/4gtv-4gtv152/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS 新聞台" group-title="台湾",TVBS 新聞台
 http://49.213.188.67:5055/4gtv-4gtv072/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 http://211.23.114.106:8510/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
-https://www.4gtv.tv/channel/media-live072?set=1&ch=473
-https://tv.iill.top/4gtv/media-live072
-http://49.213.188.67:5055/media-live072/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
 rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 https://tv.iill.top/4gtv/4gtv-4gtv153
-https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 http://49.213.188.67:5055/4gtv-4gtv153/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 http://74.91.26.218:82/live/ftvnews.m3u8
@@ -42,7 +37,6 @@ https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9
 https://tv.iill.top/4gtv/4gtv-4gtv075
 https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 http://49.213.188.67:5055/4gtv-4gtv075/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
-https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 https://hls.iill.top/api/Era-News/index.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQvzDmsGPRsuRU2uKtozBIbVuj3nQ76zeQNSfvlqaCO74L1hE9YA3539hcp4FLk3RsP67gciU6sMI9_Ho3bTvoNl5lAWH0RAIF53EiwGIB1btqj1CJWfr7pdC0PMT5nku57JdhxBU8vjD_Be8N6lFdkCGP61-QcU2SJ38Xv_HOGSnGTLVAVAzlWXdVwjiDGte9w.m3u8?u=1756878715
@@ -282,7 +276,6 @@ http://49.213.188.67:5055/4gtv-live201/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbB
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
 https://tv.iill.top/4gtv/4gtv-live144
 https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982c23983686ac.m3u8
-https://www.4gtv.tv/channel/4gtv-live144?set=1&ch=236
 http://49.213.188.67:5055/4gtv-live144/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
 rtmp://f13h.mine.nu/sat/tv731
@@ -293,7 +286,6 @@ rtmp://f13h.mine.nu/sat/tv741
 http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
 https://tv.iill.top/4gtv/4gtv-4gtv006
-https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 http://49.213.188.67:5055/4gtv-4gtv006/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
 https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173
@@ -301,15 +293,12 @@ http://49.213.188.67:5055/4gtv-live047/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbB
 http://49.213.188.67:5055/of-4gtv-4gtv102/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 https://tv.iill.top/4gtv/4gtv-live047
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
-https://www.4gtv.tv/channel/4gtv-live046?set=1&ch=174
 https://tv.iill.top/4gtv/4gtv-live046
 http://49.213.188.67:5055/4gtv-live046/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物3台"  group-title="台湾",東森購物三台
 https://tv.iill.top/4gtv/4gtv-live048
-https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=287
 http://49.213.188.67:5055/4gtv-live048/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物5台" group-title="台湾",東森購物五台
-https://www.4gtv.tv/channel/4gtv-live049?set=1&ch=286
 http://49.213.188.67:5055/4gtv-live049/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 https://tv.iill.top/4gtv/4gtv-live0499
 #EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV"  group-title="台湾",韓國娛樂台
@@ -324,7 +313,6 @@ https://stream1.freetv.fun/60b5d88ff52ced712ce569b61358764f11121db452433c5db5bab
 https://stream1.freetv.fun/fca0bd28ae8000f3bef263858ee50350cdcee11c4819c3ced4e0b2869ec9c770.m3u8
 http://49.213.188.67:5055/4gtv-4gtv016/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK Xstream搖滾極限頻道" group-title="台湾",ROCK Xstream搖滾極限頻道
-https://www.4gtv.tv/channel/4gtv-live080?set=1&ch=275
 https://tv.iill.top/4gtv/4gtv-live124
 http://49.213.188.67:5055/4gtv-live124/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝"  group-title="台湾",愛奇藝
@@ -507,17 +495,14 @@ http://142.171.248.206:5050/smart.php?id=Axn&token=885252
 https://tv.iill.top/4gtv/4gtv-live089
 https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
 https://stream1.freetv.fun/badd2c471b785d2032379719c9b0e85c841d1fbff319e8d6cd17683cd807314e.m3u8
-https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
 http://49.213.188.67:5055/4gtv-live089/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 http://49.213.188.67:5055/iNEWS/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="台視財經" group-title="新闻频道",台視財經
 http://74.91.26.218:82/live/ttvcj.m3u8
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="新闻频道",東森財經新聞
-https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 http://49.213.188.67:5055/4gtv-4gtv153/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 https://tv.iill.top/4gtv/4gtv-4gtv153
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="新闻频道",民視新聞台
-https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
 http://49.213.188.67:5055/litv-ftv13/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 https://tv.iill.top/4gtv/litv-ftv13
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="新闻频道",中視新聞台
@@ -525,7 +510,6 @@ http://74.91.26.218:82/live/ctvnews.m3u8
 http://49.213.188.67:5055/4gtv-4gtv074/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 https://tv.iill.top/4gtv/4gtv-4gtv074
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" group-title="新闻频道",華視新聞台
-https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 http://74.91.26.218:82/live/ctsnews.m3u8
 https://tv.iill.top/4gtv/4gtv-4gtv052
 http://tv123.vvvv.ee/live.php/?ch=2350805a1336
@@ -555,13 +539,10 @@ http://142.171.248.206:5050/smart.php?id=cnn_twn&token=885252
 https://stream1.freetv.fun/24358f38712d187d2fd38cb6f4c48fa88543e025ac9a386899adec203cb10b0a.m3u8
 https://stream1.freetv.fun/8ceea8c7e1961842e551fc90916350de2838ee500e19edf3fdbf2f2c0c3561bf.m3u8
 https://stream1.freetv.fun/c5d042d56862cb15b7c1d63632f4af1d1eef22b318719cc48d0190fa4225a6f0.m3u8
-http://106.107.237.222:5050/smart.php?id=Bbcnews&token=885252
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
-https://www.4gtv.tv/channel/4gtv-live071?set=1&ch=226
-https://tv.iill.top/4gtv/4gtv-live071
 http://49.213.188.67:5055/4gtv-live071/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
+https://tv.iill.top/4gtv/4gtv-live071
 #EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" group-title="新闻频道",France 24
-https://www.4gtv.tv/channel/4gtv-live146?set=1&ch=316
 http://49.213.188.67:5055/4gtv-live146/index.m3u8?token=2x4EQAFXsnl1j5Xt7ZaoMvbBChhzKAA6nWs7mw1EH1k4bnSDAfCD9C2nQtoB8THj
 https://tv.iill.top/4gtv/4gtv-live146
 
