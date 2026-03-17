@@ -6,10 +6,10 @@ https://tv.iill.top/4gtv/4gtv-4gtv152
 http://49.213.188.67:5055/4gtv-4gtv152/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS 新聞台" group-title="台湾",TVBS 新聞台
-http://211.23.114.106:8510/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=tvbs_n
 http://49.213.188.67:5055/4gtv-4gtv072/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
+http://211.23.114.106:8510/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 http://tv123.vvvv.ee/live.php/?ch=0ba1c6ce204
-http://tv123.vvvv.ee/live.php/?ch=128183ff587
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=feifannews_twn
 rtmp://f13h.mine.nu/sat/tv581
