@@ -401,7 +401,6 @@ http://220.134.196.147:9588/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
 https://tv.iill.top/4gtv/litv-xinchuang20
 http://49.213.188.67:5055/litv-xinchuang20/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 http://49.213.188.67:5055/of-litv-xinchuang20/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
-http://49.213.188.67:5055/litv-xinchuang20/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
 http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
@@ -419,8 +418,6 @@ http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
 http://106.107.237.222:50007/litv-xinchuang01/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 http://106.107.237.222:5051/litv-xinchuang01/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 #EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" group-title="兒童卡通",Cartoon Network
-http://tv123.vvvv.ee/live.php/?ch=7305855189
-http://tv123.vvvv.ee/live.php/?ch=b97db5e11498
 http://49.213.188.67:5052/smart.php?id=Cn&token=885252
 
 
