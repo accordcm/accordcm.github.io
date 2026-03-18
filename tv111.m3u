@@ -415,8 +415,8 @@ http://49.213.188.67:5055/4gtv-live032/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe
 http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 #EXTINF:-1 tvg-id="lhkt01" tvg-name="龍華卡通" group-title="兒童卡通",龍華卡通
 http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
+http://49.213.188.67:5055/litv-xinchuang01/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 http://106.107.237.222:50007/litv-xinchuang01/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
-http://106.107.237.222:5051/litv-xinchuang01/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 #EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" group-title="兒童卡通",Cartoon Network
 http://49.213.188.67:5052/smart.php?id=Cn&token=885252
 
