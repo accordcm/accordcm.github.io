@@ -40,7 +40,7 @@ https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 http://49.213.188.67:5055/4gtv-4gtv075/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe55uCWTmIOvvzHBsQzYYaNXhYO3Jmmh0ZgVBjIMD6
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQvzDmsGPRsuRU2uKtozBIbVuj3nQ76zeQNSfvlqaCO74L1hE9YA3539hcp4FLk3RsP67gciU6sMI9_Ho3bTvoNl5lAWH0RAIF53EiwGIB1btqj1CJWfr7pdC0PMT5nku57JdhxBU8vjD_Be8N6lFdkCGP61-QcU2SJ38Xv_HOGSnGTLVAVAzlWXdVwjiDGte9w.m3u8?u=1756878715
-http://tv123.vvvv.ee/live.php/?ch=1d78943c189
+https://tv.iill.top/api/Era-News/index.m3u8
 https://smt.goiptv.us.ci/niandainews_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 https://tv.iill.top/4gtv/4gtv-4gtv009
@@ -126,11 +126,11 @@ http://49.213.188.67:5055/4gtv-4gtv067/index.m3u8?token=6KbdNACKhDb49Tp25UUURSUe
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
 http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
 http://211.23.114.106:8508/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
-https://hls.iill.top/api/Cti-E/index.m3u8
+https://tv.iill.top/api/Cti-E/index.m3u8
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 " group-title="台湾",中天综合
 http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
 http://211.23.114.106:9325/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
-https://hls.iill.top/api/Cti-K/index.m3u8
+https://tv.iill.top/api/Cti-K/index.m3u8
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
 rtmp://9svd1.mine.nu/sat/tv331
 rtmp://9svd2.mine.nu/sat/tv331
@@ -147,11 +147,11 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://tv123.vvvv.ee/live.php/?ch=92ab9740183
 http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
-https://hls.iill.top/api/VL-Japan/index.m3u8
+https://tv.iill.top/api/VL-Japan/index.m3u8
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
 http://tv123.vvvv.ee/live.php/?ch=b2a9b17b186
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykA_uiEpHvW03tNX4HngqJnGzfHmgPSIB9CXLj3ovIrxDJIHt1drFnazqDOw_YzFTfMA5eIk3p9r3cwIQFU5cpfdb46Yrp_4-ygB0D7K8DEktWz0apes_3G6uQylmpLzDiHsKnTryo0sthj4TrINlSY6xYdWNOmoGD0OYxkOnvsu2WRKzud8UPVeERrSMQGtUw.m3u8?u=1756878715
-https://hls.iill.top/api/VL-ONTV/index.m3u8
+https://tv.iill.top/api/VL-ONTV/index.m3u8
 http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
 #EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公视 CTV" group-title="台湾",公视 CTV
 http://74.91.26.218:82/live/pts.m3u8
