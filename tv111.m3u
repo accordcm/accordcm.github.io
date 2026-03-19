@@ -471,13 +471,12 @@ https://stream1.freetv.fun/507234129b2f546137c7b8b705ca753f3b9492cec252541fd10d8
 http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
 https://smt.goiptv.us.ci/axn_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="電影频道",CINEMAX
-https://live.catvod.com/live.php?token=d3392547232b35fc7ae2a9bb8e6bcf74f0dfffdf577f346211cf0816c0c9590b&id=cinemax_twn
-https://hls.iill.top/api/Cinemax/index.m3u8
+http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+https://tv.iill.top/api/Cinemax/index.m3u8
 http://106.107.237.222:5050/smart.php?id=Cinemax&token=885252
 http://106.107.237.222:5050/smart.php?id=cinemax_twn&token=885252
-http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
 #EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙祥时代" group-title="電影频道",龙祥时代
-https://live.catvod.com/live.php?token=d3392547232b35fc7ae2a9bb8e6bcf74f0dfffdf577f346211cf0816c0c9590b&id=lungxiangtime_twn
+https://hls.iill.top/api/LSTIME-Movie/index.m3u8
 http://49.213.188.67:5052/smart.php?id=lungxiangtime_twn&token=885252
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" group-title="電影频道",Warner TV
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg5nyfTBbogpBcvdxQnhJXBxSTYwRPXzbZ315XNk3qsAzFVun-Ztblz-KYP9-Ef0cfTSmaFXko8C8HdRmMqltBgdcG3E_rZ53SQXB_TtxesMdLOCQpYZIBynwJkV1V21brQCU9HINEmqvVXJ0cIkIQ0PUpAgSWU9_J121N6WUmJQYGUeq34D9xihDhHPFyrnITw.m3u8?u=1756878715
