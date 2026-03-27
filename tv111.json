@@ -59,6 +59,7 @@ http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
 https://tv.iill.top/api/Animal-Planet/index.m3u8
 http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
 http://211.23.114.106:9312/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mDCDP6sZCGf6BrSsjKDK6F13vOaMEhttG1FhkKjJ95x90K_JYNK6uwNWjfw-QnvGuWqEuctQzxdPh5n4hC2DgEfiyuRZnhCGkBJfIovhAGaRbXi8LHmBds4JcUxrnYSl3lrig8BGi8FdfRZCMQ5oT34697cBb5OiElOsu6iFvlQxF11zJbyNDof-3wZZ52pRGIGMNKykXnDza3eJPUrrKOM.m3u8?u=1756878715
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mDCDP6sZCGf6BrSsjKDK6F13vOaMEhttG1FhkKjJ95x90K_JYNK6uwNWjfw-QnvGuWqEuctQzxdPh5n4hC2DgEfiyuRZnhCGkBJfIovhAGaRbXi8LHmBds4JcUxrnYSl3lrig8BGi8FdfRZCMQ5oT34697cBb5OiElOsu6iFvlQxF11zJbyNDof-3wZZ52pRGIGMNKykXnDza3eJPUrrKOM.m3u8?u=1756878715
@@ -331,24 +332,23 @@ https://tv.iill.top/migu/hnws
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 http://107.150.60.122/live/zjwshd.m3u8
-http://211.23.114.106:8537/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
-http://play-qukan.cztv.com/live/1758879019692345.m3u8
 http://74.91.26.218:82/live/zjwshd.m3u8
-http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="中国",江苏卫视
 http://107.150.60.122/live/jswshd.m3u8
 http://74.91.26.218:82/live/jswshd.m3u8
-https://111.iptv543.com/live.php?id=jiangsu_twn
 #EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="东方卫视" group-title="中国",东方卫视
 http://74.91.26.218:82/live/dfwshd.m3u8
 http://107.150.60.122/live/dfwshd.m3u8
 http://211.23.114.106:8517/http/59.120.8.187:8078/hls/41/80/east.m3u8
 #EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="中国",北京卫视
-http://156.238.248.80:8880/play/28.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="中国",深圳卫视
 http://107.150.60.122/live/szwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="fujian" tvg-name="廈門衛視" group-title="中国",廈門衛視
 http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
 http://211.23.114.106:8530/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 #EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="中国",福建东南卫视
 http://107.150.60.122/live/dnwshd.m3u8
