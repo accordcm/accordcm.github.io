@@ -48,7 +48,6 @@ http://106.107.242.141:50007/4gtv-4gtv009/index.m3u8?token=paRB1qzz5JGDrYExQG4Th
 http://106.107.242.141:50007/4gtv-live409/index.m3u8?token=paRB1qzz5JGDrYExQG4ThSDlb2bZC3L5oA5MrdhbH2bnHKkRkAkfIh4MTtVyleR4
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
-https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=yinews
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 tvg-id="sanle_taiwan" tvg-name="三立新闻" group-title="台湾",三立新闻
 http://211.23.114.106:8544/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
@@ -667,7 +666,6 @@ https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-name="V Paradise (NSFW)" tvg-logo="https://logo.catvod.com/V Paradise (NSFW).png" group-title="日本",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
 
-
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
 #EXTINF:-1 tvg-id="iqiyi01" tvg-name="爱奇艺" tvg-logo="" group-title="香港",爱奇艺
@@ -694,28 +692,21 @@ http://49.213.188.67:5052/smart.php?id=j2_twn&token=885252
 http://142.171.248.206:5050/smart.php?id=j2_twn&token=885252
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="香港",ViuTV
 https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
-http://49.213.188.67:5052/smart.php?id=viu1_twn&token=885252
 #EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="香港",ViuTV 6
-https://111.iptv543.com/live.php?id=viusix_twn
 https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
 #EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="香港",RTHK 31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 http://cdn.163189.xyz/163189/rthk31
-https://111.iptv543.com/live.php?id=rhk31_twn
-http://49.213.188.67:5052/smart.php?id=rhk31_twn&token=885252
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="" group-title="香港",RTHK 32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 http://49.213.188.67:5052/smart.php?id=rhk32_twn&token=885252
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="香港",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-http://49.213.188.67:5052/smart.php?id=hoycaijing_twn&token=885252
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="香港",凤凰中文
 http://r.jdshipin.com/cCCzW
-http://49.213.188.67:5052/smart.php?id=phoenixtv_hd&token=885252
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="香港",凤凰资讯
 http://r.jdshipin.com/0Rp07
-http://49.213.188.67:5052/smart.php?id=phoenixinfo_hd&token=885252
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="香港",凤凰香港
 http://r.jdshipin.com/yDoTN
-http://49.213.188.67:5052/smart.php?id=hkphoenix_twn&token=885252
+
