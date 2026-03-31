@@ -508,9 +508,8 @@ http://74.91.26.218:82/live/ctvnews.m3u8
 http://106.107.242.141:50007/4gtv-4gtv074/index.m3u8?token=paRB1qzz5JGDrYExQG4ThSDlb2bZC3L5oA5MrdhbH2bnHKkRkAkfIh4MTtVyleR4
 https://tv.iill.top/4gtv/4gtv-4gtv074
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" group-title="新闻频道",華視新聞台
-http://74.91.26.218:82/live/ctsnews.m3u8
 https://tv.iill.top/4gtv/4gtv-4gtv052
-http://tv123.vvvv.ee/live.php/?ch=2350805a1336
+http://74.91.26.218:82/live/ctsnews.m3u8
 http://106.107.242.141:50007/4gtv-4gtv052/index.m3u8?token=paRB1qzz5JGDrYExQG4ThSDlb2bZC3L5oA5MrdhbH2bnHKkRkAkfIh4MTtVyleR4
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="新闻频道",寰宇新聞台
 https://tv.iill.top/4gtv/litv-longturn14
