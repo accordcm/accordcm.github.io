@@ -2,12 +2,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 https://tv.iill.top/4gtv/4gtv-4gtv152
+http://49.213.188.67:50002/index.m3u8?pid=4gtv-4gtv152@292&fun=TV4GTV&proxy=true&token=8852
 http://106.107.242.141:50007/4gtv-4gtv152/index.m3u8?token=paRB1qzz5JGDrYExQG4ThSDlb2bZC3L5oA5MrdhbH2bnHKkRkAkfIh4MTtVyleR4
 http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS 新聞台" group-title="台湾",TVBS 新聞台
 https://tv.iill.top/4gtv/media-live072
 rtmp://f13h.mine.nu/sat/tv551
 rtmp://f13h.mine.nu/sat/tv571
+http://49.213.188.67:50002/index.m3u8?pid=media-live072@473&fun=TV4GTV&proxy=true&token=8852
 http://61.221.215.25:8800/hls/9/index.m3u8
 http://106.107.242.141:50007/media-live072/index.m3u8?token=paRB1qzz5JGDrYExQG4ThSDlb2bZC3L5oA5MrdhbH2bnHKkRkAkfIh4MTtVyleR4
 http://106.107.242.141:50007/4gtv-4gtv072/index.m3u8?token=paRB1qzz5JGDrYExQG4ThSDlb2bZC3L5oA5MrdhbH2bnHKkRkAkfIh4MTtVyleR4
@@ -250,6 +252,7 @@ https://111.iptv543.com/live.php?id=eltasport1_twn
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakeoYbDa6YZg-u47U6PhP5DZDJlUneMuOwRC3h5idOWdj_Ny25T7d4wMr5fziLsOD6XXT-oUNWhwoH4RG1NNB5fVfEtrENxQLrVzpdhIVXRVF8HKsB9oRlNdivgx1RwAjrpr62fIFBt1i1Czn7cEY6HMUqD6HCE0PS2FaKfJtY2Dlnntgigm1VGesLu8-5qxq9LNFJP_GDyjXOBG2VdISah4.m3u8?u=1756878715
 rtmp://106.107.234.156/live/livestream.m3u8
+http://106.107.242.199:81/stream0
 https://111.iptv543.com/live.php?id=eltasport2_twn
 rtmp://66.103.204.107//live/livestream.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
