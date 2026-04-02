@@ -7,8 +7,6 @@ http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS 新聞台" group-title="台湾",TVBS 新聞台
 https://tv.iill.top/4gtv/media-live072
 http://49.213.188.67:50002/index.m3u8?pid=media-live072@473&fun=TV4GTV&proxy=true&token=8852
-http://61.221.215.25:8800/hls/9/index.m3u8
-http://106.107.242.141:50007/media-live072/index.m3u8?token=paRB1qzz5JGDrYExQG4ThSDlb2bZC3L5oA5MrdhbH2bnHKkRkAkfIh4MTtVyleR4
 rtmp://f13h.mine.nu/sat/tv551
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
