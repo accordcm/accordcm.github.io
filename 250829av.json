@@ -134,6 +134,15 @@
            "quickSearch": 1,
            "filterable": 0
         },
+		{
+          "key": "大地资源",
+          "name": "💞大地资源💞",
+           "type": 1,
+           "api": "https://dadiapi.com/api.php",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 0
+        },
 		 {
           "key": "影视",
           "name": "影視💋",
@@ -197,10 +206,10 @@
             "filterable": 1
         },
 		 {
-            "key": "淫水机资源",
-            "name": "淫水机资源",
+            "key": "天堂福利",
+            "name": "天堂福利",
             "type": 0,
-            "api": "https://www.xrbsp.com/api/xml.php",
+            "api": "http://bttcj.com/inc/sapi.php",
             "searchable": 0,
             "quickSearch": 0
         },
@@ -214,17 +223,17 @@
             "filterable": 1
         },
         {
-            "key": "kxgav",
-            "name": "白嫖资源",
+            "key": "S猫资源",
+            "name": "S猫资源",
             "type": 0,
-            "api": "https://www.kxgav.com/api/xml.php",
+            "api": "https://api.maozyapi.com/inc/api.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
 		 {
-            "key": "白嫖资源1",
-            "name": "白嫖资源1",
+            "key": "白嫖资源",
+            "name": "白嫖资源",
             "type": 0,
             "api": "https://www.kxgav.com/api/xml.php",
             "searchable": 0,
@@ -248,10 +257,10 @@
             "quickSearch": 0
         },
         {
-            "key": "(18+)大地资源",
-            "name": "(18+)大地资源",
+            "key": "屌丝资源",
+            "name": "屌丝资源",
             "type": 0,
-            "api": "https://dadiapi.com/api.php/",
+            "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -290,6 +299,15 @@
             "searchable": 0,
             "quickSearch": 0
         },
+		{
+            "key": "KpgxdyE",
+            "name": "黄AV资源(已修复)",
+            "type": 1,
+            "api": "https://www.pgxdy.com/api/xml.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
         {
             "key": "大地资源",
             "name": "大地资源",
@@ -316,11 +334,29 @@
             "quickSearch": 1,
             "filterable": 0
         },
+		{
+            "key": "💞老鸭资源💞",
+            "name": "💞老鸭资源💞",
+            "type": 1,
+            "api": "https://api.apilyzy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
         {
             "key": "maozyapi",
             "name": "色猫资源",
             "type": 0,
             "api": "https://api.maozyapi.com/inc/api.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		{
+            "key": "咪咪资源",
+            "name": "咪咪资源",
+            "type": 0,
+            "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
