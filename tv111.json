@@ -15,6 +15,7 @@ http://66.103.204.107:5050/smart.php?id=feifannews_twn&token=885252
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 https://tv.iill.top/4gtv/4gtv-4gtv153
+https://live.catvod.com/?id=L2xyL2RMUU9uRW1haldxQjY1ekxRVWVLdlVJY1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD01NjNhNzE4MCZjbj0zNGZlZjU0YSZjcD1lMDMzZDU3MSZjdT1jMjgzYTU1NSZycD1kTGQ0ZFA5NGRMZDJqTFRsbkY&tk=1d259ea524fc09491421a76c568cd2a4
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 http://74.91.26.218:82/live/ftvnews.m3u8
 https://tv.iill.top/4gtv/litv-ftv13
@@ -50,6 +51,7 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://211.23.95.147:18881/live/19_h265.ts
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mEVHMuNt4FXbPf9SvxlxLQpyK4ElzHmpjpUh5gdP6VClo3RI0bQAB253Ba77OdXDa7sX1wnbgu6ape6GTBp9-UPRmm1uOg7BsiX0NfTgkdAJYFygF-tkq3hTreLzus73dNNJOwR3O6zhVcqSiibzpAW919OyzRANkaZj_qbR-RvtqB2TxZuFQTR7Gd3qXolCZw.m3u8?u=1756878715
 https://hls.iill.top/api/Discovery/index.m3u8
+https://live.catvod.com/?id=L2xyL2RMUU9uRW1haldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD01NjNhNzE4MCZjbj0zNGZlZjU0YSZjcD1kMjI3ODVkYyZjdT1jMjgzYTU1NSZycD1kTGQ0ZFA5NGRMZDJqTFRsbkY&tk=1d259ea524fc09491421a76c568cd2a4
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 https://tv.iill.top/api/Animal-Planet/index.m3u8
@@ -170,6 +172,8 @@ https://tv.iill.top/api/ET-Foreign-Movie-Channel/index.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mC3015hsvpEc6eDcUk4mvopVQtp6nlzWobtnuBKKBituajEnyybNUk-LLZEz69RaUMqbXBLyh-lF8fRE4fJXcMPgYzQG49BxTCq6sYH71TC25maGuC_HSHA1bjjwZbRGfsOfP5RaGSXmqARhRI8fOmwQanwlbDSyKKEhMVZYVYjZoaJVJ7dWgBK-kMlE3TgwoA.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="台湾",CINEMAX
 http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+https://live.catvod.com/?id=L2xyL2RMUU9uRW1halduZ1ZScU1RWnliNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NTYzYTcxODAmY249MzRmZWY1NGEmY3A9NjhlYjJhYzAmY3U9YzI4M2E1NTUmcnA9ZExkNGRQOTRkTGQyakxUbG5G&tk=1d259ea524fc09491421a76c568cd2a4
+https://live.catvod.com/?id=L2xyL2RMUU9uRW1hakJuZ1ZScU1RWkZ1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTU2M2E3MTgwJmNuPTM0ZmVmNTRhJmNwPThlMDE0ODAwJmN1PWMyODNhNTU1JnJwPWRMZDRkUDk0ZExkMmpMVGxuRg&tk=1d259ea524fc09491421a76c568cd2a4
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="台湾",龍華洋片
 https://tv.iill.top/ofiii/litv-xinchuang02
 http://49.213.188.67:50007/litv-xinchuang02/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
