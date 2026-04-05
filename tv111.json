@@ -106,13 +106,11 @@ rtmp://f13h.mine.nu/sat/tv421
 https://tv.iill.top/4gtv/4gtv-4gtv067
 http://49.213.188.67:50007/4gtv-4gtv067/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
-http://66.103.204.107:5050/smart.php?id=ctient&token=885252
+https://live.catvod.com/?id=L2xyL2RMUU9uRW1halduQnZVcTQ2aWZPVkNzSVZDZWw2aUlNZE4waHxjZD01NjNhNzE4MCZjbj0zNGZlZjU0YSZjcD03YmYzMmEyNyZjdT1jMjgzYTU1NSZycD1kTGQ0ZFA5NGRMZDJqTFRsbkY&tk=1d259ea524fc09491421a76c568cd2a4
 http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
-http://211.23.114.106:8508/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 " group-title="台湾",中天综合
-http://66.103.204.107:5050/smart.php?id=ctizhonghe&token=885252
+https://live.catvod.com/?id=L2xyL2RMUU9uRW1halduQnZaZ0dWV0ljdkMwdXBDMnl4VTJncE5fNFZQbmFBbXxjZD01NjNhNzE4MCZjbj0zNGZlZjU0YSZjcD0yMmYwMjNiOCZjdT1jMjgzYTU1NSZycD1kTGQ0ZFA5NGRMZDJqTFRsbkY&tk=1d259ea524fc09491421a76c568cd2a4
 http://211.23.114.106:9325/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
-http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
 rtmp://9svd1.mine.nu/sat/tv331
 rtmp://9svd2.mine.nu/sat/tv331
@@ -125,14 +123,15 @@ http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
 #EXTINF:-1 tvg-id="ettvdrama" tvg-name="東森戲劇" group-title="台湾",東森戲劇
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrJr0JpJ4YG-0D2dlO03Xx9kE5_TelraDakln8Fybn2hnwUt6dVS2agyGKeywcmE986yBp3VcHnmGrdm-4Yv7AM18p8CncJ2JJdCtCmHj2al_kmi_yaVKmJLnzf-HENeJysMzBP9NGsL5OAMn_sZ3GX73iz7c7su3PBgE7ATDc1l5D2dTM3oGoMCaPHscvkQJg.m3u8?u=1756878715
 http://211.23.114.106:8552/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
-http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
 rtmp://f13h.mine.nu/sat/tv771
+https://live.catvod.com/?id=L2xyL2RMUU9uRW1hak56Z3pDcXVWQ3M0ekNneXBDczRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTU2M2E3MTgwJmNuPTM0ZmVmNTRhJmNwPTcyNTdlOTRjJmN1PWMyODNhNTU1JnJwPWRMZDRkUDk0ZExkMmpMVGxuRg&tk=1d259ea524fc09491421a76c568cd2a4
 http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 http://211.23.114.106:9336/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykA_uiEpHvW03tNX4HngqJnGzfHmgPSIB9CXLj3ovIrxDJIHt1drFnazqDOw_YzFTfMA5eIk3p9r3cwIQFU5cpfdb46Yrp_4-ygB0D7K8DEktWz0apes_3G6uQylmpLzDiHsKnTryo0sthj4TrINlSY6xYdWNOmoGD0OYxkOnvsu2WRKzud8UPVeERrSMQGtUw.m3u8?u=1756878715
+https://live.catvod.com/?id=L2xyL2RMUU9uRW1hak56Z3pDcXVWQ3M0ejVndVZSNkd6M2ZPVkNzSVZDZWw2aUlNZE4waHxjZD01NjNhNzE4MCZjbj0zNGZlZjU0YSZjcD0zZDIzNGFmZiZjdT1jMjgzYTU1NSZycD1kTGQ0ZFA5NGRMZDJqTFRsbkY&tk=1d259ea524fc09491421a76c568cd2a4
 http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
 #EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公视 CTV" group-title="台湾",公视 CTV
 http://74.91.26.218:82/live/pts.m3u8
@@ -157,6 +156,7 @@ https://tv.iill.top/4gtv/4gtv-4gtv034
 http://49.213.188.67:50007/4gtv-4gtv034/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 https://hls.iill.top/api/HBO/index.m3u8
+https://live.catvod.com/?id=L2xyL2RMUU9uRW1hald5clZXeTlaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NTYzYTcxODAmY249MzRmZWY1NGEmY3A9MTc3YjFkNWMmY3U9YzI4M2E1NTUmcnA9ZExkNGRQOTRkTGQyakxUbG5G&tk=1d259ea524fc09491421a76c568cd2a4
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mGrZcwK1dZ7bGeU0qVprgcfpFuGaCu4nsb3PunUObDR-S7mGOcXUVHBDR7doGwqccs-usV859TpPCuLShw0kUvybURZKyhNh5bdefpCo3xPo39BWk9wg28fZOWIn2w25nNWa6DmdwmzA7mnHTBVSKd6iLFxcC5ipMP_nXWWPX3eT4GJCy8cSq6Z6c295ATfCjA.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood" group-title="台湾",Hollywood
 https://stream1.freetv.fun/4f1224450a344f842cfe4c403593b22a393dc6791e6f469e45c1a24365d08bf5.ctv
