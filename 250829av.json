@@ -2,23 +2,7 @@
     "spider": "https://agit.ai/fenwe/fm/raw/branch/main/jar/custom_spider.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "logo": "https://raw.github.tax/wwb521/live/main/18.ico",
-	
-	
-	"lives": [
-        {
-            "name": "FMMABAI",
-            "type": 0,
-            "url": "https://git.acwing.com/abai/tv/-/raw/main/fmm.txt",
-            "epg": "https://epg.pw/xmltv/epg_CN.xml"
-        },
-        {
-            "name": "iptv365",
-            "type": 0,
-            "url": "https://live.iptv365.org/live.txt",
-            "epg": "https://e.erw.cc/all.xml"
-        }
-             ],
-	
+
     "sites": [
         {
             "key": "155",
