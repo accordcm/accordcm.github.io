@@ -69,17 +69,6 @@
                 "人兽性交"
             ]
         },
-        {
-            "key": "量子",
-            "name": "量子",
-            "type": 0,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
 		 {
             "key": "非凡",
             "name": "非凡",
@@ -101,24 +90,6 @@
            "jar": "https://8415.kstore.space/Tvbox/jar/papapg.jar"
         },
 		{
-          "key": "Pig",
-          "name": "朱古力 🏆",
-          "type": 3,
-          "api": "csp_Pig",
-          "searchable": 1,
-          "filterable": 1,
-          "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/custom_spider-fm.jar"
-        },
-	    {
-          "key": "絲襪资源",
-          "name": "絲襪資源 🏆",
-           "type": 1,
-           "api": "https://siwazyw.tv/api.php/provide/vod/",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 0
-        },
-		{
           "key": "大地资源",
           "name": "💞大地资源💞",
            "type": 1,
@@ -137,23 +108,15 @@
            "filterable": 0
     },
 		{
-            "key": "橘貓資源",
-            "name": "橘貓資源",
+            "key": "色猫資源",
+            "name": "色猫資源",
             "type": 1,
-            "api": "https://to.to-long.com/api.php/provide/vod/",
+            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
         },
-		{
-            "key": "KpgxdyE",
-            "name": "黄資源",
-            "type": 0,
-            "api": "https://www.pgxdy.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+	
 		{
             "key": "番號資源",
             "name": "番號資源",
@@ -163,66 +126,6 @@
             "quickSearch": 1,
             "filterable": 0
         },  
-        {
-            "key": "ms4nii",
-            "name": "美少女资源",
-            "type": 0,
-            "api": "https://www.msnii.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		{
-            "key": "美少女资源1",
-            "name": "美少女资源1",
-            "type": 0,
-            "api": "https://www.msnii.com/api/xml.php",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "KxrbspE",
-            "name": "飲水机资源",
-            "type": 0,
-            "api": "https://www.xrbsp.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		 {
-            "key": "天堂福利",
-            "name": "天堂福利",
-            "type": 0,
-            "api": "http://bttcj.com/inc/sapi.php",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "gdlsE",
-            "name": "香奶爾资源",
-            "type": 0,
-            "api": "https://www.gdlsp.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "S猫资源",
-            "name": "S猫资源",
-            "type": 0,
-            "api": "https://api.maozyapi.com/inc/api.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		 {
-            "key": "白嫖资源",
-            "name": "白嫖资源",
-            "type": 0,
-            "api": "https://www.kxgav.com/api/xml.php",
-            "searchable": 0,
-            "quickSearch": 0
-        },
         {
             "key": "9號资源",
             "name": "9號资源",
@@ -239,15 +142,6 @@
             "api": "https://dadiapi.com/api.php",
             "searchable": 0,
             "quickSearch": 0
-        },
-        {
-            "key": "屌丝资源",
-            "name": "屌丝资源",
-            "type": 0,
-            "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
         },
         {
             "key": "樂播",
@@ -268,39 +162,6 @@
             "filterable": 0
         },
         {
-            "key": "91麻豆",
-            "name": "91麻豆",
-            "type": 1,
-            "api": "https://91md.me/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "黄AV资源",
-            "name": "黄AV资源",
-            "type": 1,
-            "api": "https://www.pgxdy.com/api/json.php",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-		{
-            "key": "KpgxdyE",
-            "name": "黄AV资源(已修复)",
-            "type": 1,
-            "api": "https://www.pgxdy.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "大地资源",
-            "name": "大地资源",
-            "type": 0,
-            "api": "https://dadiapi.com/api.php",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "辣椒资源",
             "name": "辣椒资源",
             "type": 1,
@@ -319,28 +180,10 @@
             "filterable": 0
         },
 		{
-            "key": "💞老鸭资源💞",
-            "name": "💞老鸭资源💞",
-            "type": 1,
-            "api": "https://api.apilyzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "maozyapi",
-            "name": "色猫资源",
+            "key": "探探资源",
+            "name": "探探资源",
             "type": 0,
-            "api": "https://api.maozyapi.com/inc/api.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		{
-            "key": "咪咪资源",
-            "name": "咪咪资源",
-            "type": 0,
-            "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml",
+            "api": "https://apittzy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
