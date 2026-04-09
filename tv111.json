@@ -4,7 +4,6 @@
 http://49.213.188.67:50002/index.m3u8?pid=4gtv-4gtv152@292&fun=TV4GTV&proxy=true&token=8852
 https://tv.iill.top/4gtv/4gtv-4gtv152
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
-http://iptv.4666888.xyz/iptv2A.php?id=43
 https://tv.iill.top/4gtv/media-live072
 http://49.213.188.67:50002/index.m3u8?pid=media-live072@473&fun=TV4GTV&proxy=true&token=8852
 https://gptapi.passwdword.xyz/live/encrypted/OGYxYWMzYTgwZmZjOTljYThjMjU0ODgwM2Q4NjZjNTA6NTZjOTQwYmY1OTYyNTA4ODQ1NWYyOGFiOTc0MTcxYTZkZmI4ZjUxZDBhODgwYjA3OTllOTNmNmZlYWMxMjNjNmY4ZDAwZGZhYzQwNDgwYjUxOTFiYjcwMmNiNWIyMjFmNzM2MDFjNGNhMWNhNDA1MGVjOThhNTFjNDA2Yjk3NWIyM2E1NmY4MjBiNzNmZWE1ZTBjNTM4ZjUwYTU0NGQ4ZTNjY2VhZDQxMjg2OWQ2MjAxZjBiNjcwNGZmNmI4NWZmNjQzNjM3YWUwMzUzZmE2MmUzYzExOTVkYjBhYWUzNjlhNDMwZDQ5MTI1YjQ5NzZmMzFiMTk4NmYyYjA0Y2UwMzQ5MDM4ZGVlNDczMDg3YjI1NTE5YzFhZmJjMjY1N2Q2YTFhZmM5ZjQxNmNiZmI3NmEwZTIwYzQyYjVkZTM1MzUxNWMyYTEyMTRhOTA5MTFlNTVhMmM4MTA0MzRlNTJlNWQyYzNmY2ZlZmM1YmU2ZmNjYjU0YzBkZWM2YzQ2ZGVlNTE5MmZiYjY3YWZmNDU1Yzc4ZTBlZDljNDRiYzVmZDQ?username=tg_0ypy6s61
@@ -18,8 +17,8 @@ http://66.103.204.107:5050/smart.php?id=feifannews_twn&token=885252
 http://49.213.188.67:50002/index.m3u8?pid=4gtv-4gtv153@293&fun=TV4GTV&proxy=true&token=8852
 https://tv.iill.top/4gtv/4gtv-4gtv153
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
-http://74.91.26.218:82/live/ftvnews.m3u8
 http://49.213.188.67:50002/index.m3u8?pid=litv-ftv13@31&fun=TV4GTV&proxy=true&token=8852
+http://74.91.26.218:82/live/ftvnews.m3u8
 https://tv.iill.top/4gtv/litv-ftv13
 http://49.213.188.67:50007/4gtv-live413/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
