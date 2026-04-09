@@ -120,8 +120,6 @@ http://211.23.114.106:9381/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="东森综合" group-title="台湾",东森综合
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyqP7JL5zoJwS4YNNznemr_YdtSKhh6NNAwR9PzzP461sjhlssLp3lK6UJ8-tnuwG8CbBxKI1dg3OfG2PGsVIQaseJXA6DBTaS0MuVPFR_aOdPVW3LH5YhV9dtBSNyWyJZiz6NyMdgyeWK4kjvnkBH2wPAT52wt91Db438hm8mDpNXQRutSpHIsBlvrQktzdyMg.m3u8?u=1756878715
 http://211.23.95.147:18881/live/32_h265.ts
-http://211.23.114.106:8535/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
-http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
 #EXTINF:-1 tvg-id="ettvdrama" tvg-name="東森戲劇" group-title="台湾",東森戲劇
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrJr0JpJ4YG-0D2dlO03Xx9kE5_TelraDakln8Fybn2hnwUt6dVS2agyGKeywcmE986yBp3VcHnmGrdm-4Yv7AM18p8CncJ2JJdCtCmHj2al_kmi_yaVKmJLnzf-HENeJysMzBP9NGsL5OAMn_sZ3GX73iz7c7su3PBgE7ATDc1l5D2dTM3oGoMCaPHscvkQJg.m3u8?u=1756878715
 http://211.23.114.106:8552/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
@@ -265,6 +263,7 @@ rtmp://f13h.mine.nu/sat/tv741
 http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
 https://tv.iill.top/4gtv/4gtv-4gtv006
+http://49.213.188.67:50002/index.m3u8?pid=4gtv-4gtv006@113&fun=TV4GTV&proxy=true&token=8852
 http://49.213.188.67:50007/4gtv-4gtv006/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
 https://tv.iill.top/4gtv/4gtv-live047
@@ -488,6 +487,7 @@ http://49.213.188.67:50007/4gtv-live408/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiN
 http://49.213.188.67:50007/litv-longturn14/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
 https://tv.iill.top/4gtv/4gtv-4gtv156
+http://49.213.188.67:50002/index.m3u8?pid=litv-longturn14@36&fun=TV4GTV&proxy=true&token=8852
 https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 http://49.213.188.67:50007/4gtv-4gtv156/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="CGTN" tvg-name="NHK新聞資訊台" group-title="新闻频道",NHK新聞資訊台
