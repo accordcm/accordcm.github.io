@@ -27,13 +27,11 @@ https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df6492
 http://211.23.95.147:18881/live/dtv2_h265.ts
 http://74.91.26.218:82/live/ctvnews.m3u8
 https://v.iill.top/4gtv/4gtv-4gtv074/index.m3u8
-http://49.213.188.67:50007/4gtv-4gtv040/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://74.91.26.218:82/live/ctsnews.m3u8
 https://v.iill.top/4gtv/4gtv-4gtv052/index.m3u8
 http://211.23.95.147:18881/live/dtv20_h265.ts
 http://49.213.188.67:50007/4gtv-live452/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-https://tv.iill.top/4gtv/4gtv-4gtv052
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
 http://211.23.95.147:18881/live/86_h265.ts
 https://v.iill.top/4gtv/4gtv-4gtv075/index.m3u8
