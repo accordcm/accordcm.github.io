@@ -177,6 +177,7 @@ http://49.213.188.67:50007/4gtv-4gtv034/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiN
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 http://211.23.95.147:18881/live/65_h265.ts
 https://hls.iill.top/api/HBO/index.m3u8
+https://hls.iill.top/test/HBO/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood" group-title="台湾",Hollywood
 http://211.23.95.147:18881/live/68_h265.ts
 https://v.iill.top/api/Hollywood-Movie/index.m3u8
@@ -230,8 +231,9 @@ https://v.iill.top/4gtv/4gtv-4gtv070/index.m3u8
 http://49.213.188.67:50007/4gtv-4gtv070/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
 rtmp://f13h.mine.nu:1935/sat/tv721
-https://v.iill.top/api/VL-Sports/index.m3u8
+https://v.iill.top/test/VL-Sports/index.m3u8
 http://211.23.95.147:18881/live/72_h265.ts
+https://v.iill.top/api/VL-Sports/index.m3u8
 #EXTINF:-1 tvg-id="videolandmax" tvg-name="緯來育樂HD" group-title="台湾",緯來育樂HD
 https://v.iill.top/api/VL-E/index.m3u8
 http://211.23.95.147:18881/live/70_h265.ts
@@ -253,6 +255,7 @@ rtmp://106.107.177.219/live/livestream.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK6QQTlk7iWm5Uajk1lQpN0AjxqQTT_Rm3q4jvRzwvvpIsADrXIdNyXvzQdIw7iv0ZhYFk0V2F6PBQxqfeJc97hBZDbLdYeWFEp8jlASlOUEKOTbt8G58UDsApgJSfgE_llY4kJ_TaTi69rMtazG5nl2S3PLnYFudbGUjKTd91LkBzNwEZnl1qv3mt4nsYbOSlQ.m3u8?u=1756878715
 https://hls.iill.top/api/Sports-Network/index.m3u8
 #EXTINF:-1 tvg-id="bosisport2_twn" tvg-name="博斯运动 2" group-title="台湾",博斯运动 2
+https://v.iill.top/tw/Football-Channel/index.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at55McAKfqQYZ_bh0WHyvSLXgvua0UJSNbSpRSF_cwXxKsaG0TvWr2jw9UO5CsTLLc3I0x0LEqkmz5zXbLJGF1FlQV1qBvGgSkaK_bcVKjnJwVM40LuU-0SQ6zzLq7BILeX7l8-9u-H1E2qFrNopOjh-wvQY1QABGTFN6ZvXKxiDhjwkvHQt-kfnyjYICUQ7i8g.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="博斯高球2 HD" group-title="台湾",博斯高球2 HD
 https://v.iill.top/tw/Golf-Plus/index.m3u8
