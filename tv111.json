@@ -71,18 +71,21 @@ http://49.213.188.67:50007/4gtv-live215/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiN
 http://211.23.95.147:18881/live/dtv14_h265.ts
 https://v.iill.top/api/TTV/index.m3u8
 rtmp://f13h.mine.nu/sat/tv071
+rtmp://59.124.75.138/sat/tv071
 http://74.91.26.218:82/live/ttv.m3u8
 http://165.154.226.214:50007/li-4gtv-4gtv066/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="中視" tvg-name="中視"  group-title="台湾",中視
 http://74.91.26.218:82/live/ctv.m3u8
 https://v.iill.top/4gtv/4gtv-4gtv040/index.m3u8
 http://211.23.95.147:18881/live/dtv1_h265.ts
+http://rihou.cc:555/tv/hktv/tb19tw0816tw
 rtmp://f13h.mine.nu:1935/sat/tv091
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-id="華視" tvg-name="華視"  group-title="台湾",華視
 http://211.23.95.147:18881/live/dtv18_h265.ts
 http://74.91.26.218:82/live/cts.m3u8
 https://v.iill.top/4gtv/4gtv-4gtv041/index.m3u8
+rtmp://59.124.75.138/sat/tv111
 rtmp://f13h.mine.nu/sat/tv111y
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
 http://74.91.26.218:82/live/ftvtw.m3u8
@@ -110,6 +113,7 @@ http://49.213.188.67:50007/4gtv-live207/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiN
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 https://v.iill.top/4gtv/media-live073/index.m3u8
+http://rihou.cc:555/tv/hktv/tb19tw0812tw
 http://61.221.215.25:8800/hls/9/index.m3u8
 http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
@@ -793,32 +797,39 @@ https://tv.iill.top/phenix/fhhk
 #EXTINF:-1 tvg-name="潘多拉完美" tvg-logo="https://logo.catvod.com/潘多拉完美.png" group-title="私人频道_543",潘多拉完美
 https://ppt.cc/fgXIWx
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+p3p://focus169.org:27891/68c5150d00003cfa1bcb3a4b42ac4a6f
 http://z3.ubtvfans.com/live/rx3/410/66c109fb88bb7a37dc95ee016b973074/index.m3u8
 http://z88.ubtvfans.com/live/rx4/2932/0b07c2cd5bc42fdcffd64abab1f96e44/index.m3u8
 #EXTINF:-1 tvg-name="香蕉" tvg-logo="https://logo.catvod.com/香蕉.png" group-title="私人频道_543",香蕉
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.
+p3p://focus169.org:27891/68c5154e000a511d1bcc3ac8270529f3
 https://z88.ubtvfans.com/live/rx3/2930/93c025a5c3be7d05709f0b84a89082ca/index.m3u8
 #EXTINF:-1 tvg-name="松视1" tvg-logo="https://logo.catvod.com/松视1.png" group-title="私人频道_543",松视1
 https://ppt.cc/fEFVsx
+p3p://focus169.org:27891/68c51615000d14bb1bcf44d658bd48b6
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=TYoFnl&tk=EuWQIWwVA7n1
 http://lc.aacalive.com:26789/i/ghjnvq5o/8c85giea/index.m3u8
 #EXTINF:-1 tvg-name="松视2" tvg-logo="https://logo.catvod.com/松视2.png" group-title="私人频道_543",松视2
 https://ppt.cc/fOaEIx
+p3p://focus169.org:27891/68c514c5000a534d1bca23a018055a96
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 http://lc.aacalive.com:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
 http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=HU6ied&tk=EuWQIWwVA7n1
 #EXTINF:-1 tvg-name="松视3" tvg-logo="https://logo.catvod.com/松视3.png" group-title="私人频道_543",松视3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+p3p://focus169.org:27891/68c514830004cb381bc9206546066484
 https://z88.ubtvfans.com/live/rx2/404/d4cddf5dd02c52c1eced8dd7f0b2ccb0/index.m3u8
 #EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="私人频道_543",惊艳
 https://ppt.cc/fmpKVx
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+p3p://focus169.org:27891/68c51592000590641bcd433132d8030d
 http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc123/index.m3u8
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 #EXTINF:-1 tvg-name="LOOK" tvg-logo="https://logo.catvod.com/LOOK.png" group-title="私人频道_543",LOOK
 p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
 #EXTINF:-1 tvg-name="HAPPY" tvg-logo="https://logo.catvod.com/HAPPY.png" group-title="私人频道_543",HAPPY
+p3p://focus169.org:27891/68c513b3000c3f2c1bc5f5cd7bb035e9
 http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
 http://z88.ubtvfans.com/live/rx3/2908/bc0aa6ce3602ddcd50c5e522a53cb857/index.m3u8
 #EXTINF:-1 tvg-name="奧視2台(梯子)" tvg-logo="https://logo.catvod.com/奧視2台(梯子).png" group-title="私人频道_543",奧視2台(梯子)
@@ -828,13 +839,16 @@ https://z88.ubtvfans.com/live/rx2/415/6babc0f5085a850b99b33c0a22186200/index.m3u
 http://lc.aacalive.com:26789/i/ghjnvq5o/8c855daa/index.m3u8
 #EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://logo.catvod.com/彩虹K.png" group-title="私人频道_543",彩虹K
 https://z88.ubtvfans.com/live/rx2/415/6babc0f5085a850b99b33c0a22186200/index.m3u8
+p3p://focus169.org:27891/68c513f7000965f31bc6feb25b242537
 p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
 #EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://logo.catvod.com/彩虹电影.png" group-title="私人频道_543",彩虹电影
+p3p://focus169.org:27891/68c5143d00032b1d1bc80e8b01d60c25
 http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
 #EXTINF:-1 tvg-name="彩虹频道" tvg-logo="https://logo.catvod.com/彩虹频道.png" group-title="私人频道_543",彩虹频道
 http://125.227.210.55:8203/VideoInput/play.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 #EXTINF:-1 tvg-name="极限电影" tvg-logo="https://logo.catvod.com/极限电影.png" group-title="私人频道_543",极限电影
+p3p://focus169.org:27891/68c515d3000cc9471bce42f36fa02273
 http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
 https://z88.ubtvfans.com/live/rx2/405/edbcd09f2865ec906139ec4677a87d4e/index.m3u8
 https://z88.ubtvfans.com/live/rx3/2909/e8831e8b236d26de96babfcb64ab28ad/index.m3u8
