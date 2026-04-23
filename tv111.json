@@ -319,13 +319,11 @@ https://live.ottiptv.cc/huya/23903164
 https://live.ottiptv.cc/huya/29465892
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="周星馳專場" group-title="中国",周星馳專場
 https://live.ottiptv.cc/huya/11336587
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="喜劇片系列" group-title="中国",喜劇片系列
-https://live.ottiptv.cc/huya/11602044
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="中国",湖南卫视
 http://107.150.60.122/live/hnwshd.m3u8
 http://74.91.26.218:82/live/hnwshd.m3u8
-http://211.23.95.147:18881/live/dtv45_h265.ts
 https://v.iill.top/api/hnws/index.m3u8
+http://211.23.95.147:18881/live/dtv45_h265.ts
 http://211.23.95.147:18881/live/dtv45_h265.ts
 #EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" group-title="中国",浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -333,9 +331,8 @@ http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 https://v.iill.top/api/zjws/index.m3u8
 http://211.23.95.147:18881/live/dtv44_h265.ts
 http://107.150.60.122/live/zjwshd.m3u8
-http://74.91.26.218:82/live/zjwshd.m3u8
-http://211.23.95.147:18881/live/dtv44_h265.ts
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+http://74.91.26.218:82/live/zjwshd.m3u8
 #EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="中国",江苏卫视
 http://107.150.60.122/live/jswshd.m3u8
 https://v.iill.top/api/jsws/index.m3u8
@@ -345,36 +342,28 @@ https://v.iill.top/api/dfws/index.m3u8
 http://74.91.26.218:82/live/dfwshd.m3u8
 http://107.150.60.122/live/dfwshd.m3u8
 http://211.23.95.147:18881/live/dtv38_h265.ts
-http://211.23.114.106:8517/http/59.120.8.187:8078/hls/41/80/east.m3u8
-http://211.23.114.106:8544/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
 #EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="中国",北京卫视
-http://153.0.171.163:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 https://v.iill.top/api/bjws/index.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+http://153.0.171.163:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="中国",深圳卫视
-http://153.0.171.163:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 http://107.150.60.122/live/szwshd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+http://153.0.171.163:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="fujian" tvg-name="廈門衛視" group-title="中国",廈門衛視
-http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 http://211.23.95.147:18881/live/dtv45_h265.ts
 http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
-http://211.23.114.106:8530/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 #EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="中国",福建东南卫视
-http://153.0.171.163:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 http://107.150.60.122/live/dnwshd.m3u8
 #EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="广东卫视" group-title="中国",广东卫视
-http://153.0.171.163:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 http://74.91.26.218:82/live/gdwshd.m3u8
 http://107.150.60.122/live/gdwshd.m3u8
 https://tv.iill.top/kdf/2030
+http://153.0.171.163:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" group-title="中国",湖北卫视
-http://153.0.171.163:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 http://107.150.60.122/live/hbwshd.m3u8
 http://go.bkpcp.top/mg/hubws
-https://smt.goiptv.us.ci/hubei/playlist.m3u8
 #EXTINF:-1 tvg-id="guangxi" tvg-name="广西卫视" group-title="中国",广西卫视
-http://153.0.171.163:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 http://107.150.60.122/live/gxwshd.m3u8
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
 #EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ 體育" group-title="中国",CCTV-5+ 體育
