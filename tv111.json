@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz"
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
-http://211.23.95.147:18881/live/51_h265.ts
 https://v.iill.top/4gtv/4gtv-4gtv152/index.m3u8
+http://211.23.95.147:18881/live/51_h265.ts
 http://rihou.cc:555/tv/hktv/tw0814tw
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
-http://211.23.95.147:18881/live/55_h265.ts
 https://v.iill.top/4gtv/media-live072/index.m3u8
+http://211.23.95.147:18881/live/55_h265.ts
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://211.23.95.147:18881/live/58_h265.ts
 rtmp://f13h.mine.nu/sat/tv581
@@ -33,8 +33,8 @@ https://v.iill.top/4gtv/4gtv-4gtv052/index.m3u8
 http://211.23.95.147:18881/live/dtv20_h265.ts
 http://49.213.188.67:50007/4gtv-live452/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
-http://211.23.95.147:18881/live/86_h265.ts
 https://v.iill.top/4gtv/4gtv-4gtv075/index.m3u8
+http://211.23.95.147:18881/live/86_h265.ts
 https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 https://v.iill.top/api/Era-News/index.m3u8
@@ -808,13 +808,13 @@ https://tv.iill.top/phenix/fhhk
 
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="潘多拉完美" tvg-logo="https://logo.catvod.com/潘多拉完美.png" group-title="私人频道_543",潘多拉完美
-https://ppt.cc/fgXIWx
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 p3p://focus169.org:27891/68c5150d00003cfa1bcb3a4b42ac4a6f
-http://z3.ubtvfans.com/live/rx3/410/66c109fb88bb7a37dc95ee016b973074/index.m3u8
 http://z88.ubtvfans.com/live/rx4/2932/0b07c2cd5bc42fdcffd64abab1f96e44/index.m3u8
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+http://z3.ubtvfans.com/live/rx3/410/66c109fb88bb7a37dc95ee016b973074/index.m3u8
+https://ppt.cc/fgXIWx
 #EXTINF:-1 tvg-name="香蕉" tvg-logo="https://logo.catvod.com/香蕉.png" group-title="私人频道_543",香蕉
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 p3p://focus169.org:27891/68c5154e000a511d1bcc3ac8270529f3
 https://z88.ubtvfans.com/live/rx3/2930/93c025a5c3be7d05709f0b84a89082ca/index.m3u8
 #EXTINF:-1 tvg-name="松视1" tvg-logo="https://logo.catvod.com/松视1.png" group-title="私人频道_543",松视1
@@ -834,19 +834,17 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 p3p://focus169.org:27891/68c514830004cb381bc9206546066484
 https://z88.ubtvfans.com/live/rx2/404/d4cddf5dd02c52c1eced8dd7f0b2ccb0/index.m3u8
 #EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="私人频道_543",惊艳
-https://ppt.cc/fmpKVx
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 p3p://focus169.org:27891/68c51592000590641bcd433132d8030d
 http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc123/index.m3u8
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+https://ppt.cc/fmpKVx
 #EXTINF:-1 tvg-name="LOOK" tvg-logo="https://logo.catvod.com/LOOK.png" group-title="私人频道_543",LOOK
 p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
 #EXTINF:-1 tvg-name="HAPPY" tvg-logo="https://logo.catvod.com/HAPPY.png" group-title="私人频道_543",HAPPY
 p3p://focus169.org:27891/68c513b3000c3f2c1bc5f5cd7bb035e9
 http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
 http://z88.ubtvfans.com/live/rx3/2908/bc0aa6ce3602ddcd50c5e522a53cb857/index.m3u8
-#EXTINF:-1 tvg-name="奧視2台(梯子)" tvg-logo="https://logo.catvod.com/奧視2台(梯子).png" group-title="私人频道_543",奧視2台(梯子)
-http://125.227.210.55:8203/VideoInput/play.ts
 #EXTINF:-1 tvg-name="彩虹e" tvg-logo="https://logo.catvod.com/彩虹e.png" group-title="私人频道_543",彩虹e
 https://z88.ubtvfans.com/live/rx2/415/6babc0f5085a850b99b33c0a22186200/index.m3u8
 http://lc.aacalive.com:26789/i/ghjnvq5o/8c855daa/index.m3u8
