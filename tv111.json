@@ -3,12 +3,15 @@
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv152/index.m3u8
 http://211.23.95.147:18881/live/51_h265.ts
+https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv152&token=xiatianshigou
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
 https://cdn-2.ttvb.eu.org/4gtv/media-live072/index.m3u8
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
 http://211.23.95.147:18881/live/58_h265.ts
+https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv010&token=xiatianshigou
+http://free.cnlive.club/channel/6302a884/index.m3u8
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv153/index.m3u8
 http://211.23.95.147:18881/live/57_h265.ts
@@ -40,6 +43,7 @@ http://211.23.95.147:18881/live/50_h265.ts
 https://cdn-2.ttvb.eu.org/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv009/index.m3u8
+https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
 http://49.213.188.67:50007/4gtv-live409/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
@@ -145,6 +149,7 @@ rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
 https://cdn-2.ttvb.eu.org/api/VL-ONTV/index.m3u8
 http://211.23.95.147:18881/live/26_h265.ts
+https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykA_uiEpHvW03tNX4HngqJnGzfHmgPSIB9CXLj3ovIrxDJIHt1drFnazqDOw_YzFTfMA5eIk3p9r3cwIQFU5cpfdb46Yrp_4-ygB0D7K8DEktWz0apes_3G6uQylmpLzDiHsKnTryo0sthj4TrINlSY6xYdWNOmoGD0OYxkOnvsu2WRKzud8UPVeERrSMQGtUw.m3u8?u=1756878715
 https://gptapi.passwdword.xyz/live/encrypted/MThmYjBlMmIwZmU4ZDFkODI2ZGRkNzAzOGZmMDQzYjM6Zjc4YTdiOTZkMTNlNjU2NzNiNzI4NGU4ZDEyYjc1ZmZiN2Y5YTg5M2FmN2U5ZDkyOGNiOThhOWE2ZjUxNGY4OTkwZTEyMzc1N2M1ZGUxZmE4YjA1ZmJiM2RmZGZhYTkxMjVhMDZjN2M2M2I4YmEwOTllMWIyMDNlMjhiNzcxMDEzYTZiOGNiMTIwZTcxMTRmMzRlZTkwN2FjMjdkOWE3MWRkMDEwZTJhZTQ4YThkOGQ5ZjlkMDExZjU4OGU5YzRiNGM4NDU1MGU4NmQ1M2MwMjcxMGQzNGI1ZDMzOTU4OWM5YWNmZmI2NjQwMzc1M2UyMmMxOTE2OGNmZDZmYTQ3Y2E5NDYyNDk0ZTRkNDA0Yjg4NzgwZGI5Yjc3ZjBkMDVlZGQzNDVhMTQ3NjAzOWZkZjkyZWIwMjJjMDBiMjZiOGNjNWI4ZjYyZTdkOTM3MjMyYmJkNDQxMWNjZDJjMDIxMTM2OWNmYjUyNmQyNTk5MTJlNWIzMmNmMWJjMjI5NjVh?username=tg_0ypy6s61
 #EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公视 CTV" group-title="台湾",公视 CTV
@@ -419,6 +424,7 @@ http://49.213.188.67:5052/smart.php?id=Cn&token=885252
 
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="電影频道",美亚电影
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+http://free.cnlive.club/channel/5824ef5e/index.m3u8
 http://74.91.26.218:82/live/mydy.m3u8
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv011/index.m3u8
