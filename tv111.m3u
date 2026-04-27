@@ -48,10 +48,10 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://211.23.95.147:18881/live/19_h265.ts
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mEVHMuNt4FXbPf9SvxlxLQpyK4ElzHmpjpUh5gdP6VClo3RI0bQAB253Ba77OdXDa7sX1wnbgu6ape6GTBp9-UPRmm1uOg7BsiX0NfTgkdAJYFygF-tkq3hTreLzus73dNNJOwR3O6zhVcqSiibzpAW919OyzRANkaZj_qbR-RvtqB2TxZuFQTR7Gd3qXolCZw.m3u8?u=1756878715
 https://hls.iill.top/api/Discovery/index.m3u8
-http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
 http://61.221.215.25:8800/hls/57/index.m3u8
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mNyIlzkzrirTA9w334RKhTIGYWEDaucdaZoXaetgS5tzonAUYnp8XHCqXfdmMaSdDNFY1KQFXU6NXCnCj_J7-X8kIYMqGp_RSwsHJxjFK_pxDw5-2os6P4AFqQpd3Zu8nyBgf56GuuUc32khQWI7_k7Aq77uBVlff4W53MTRk7trYaXqCSCprq0u-FaaYBQdLw.m3u8?u=1756878715
 https://tv.iill.top/api/Animal-Planet/index.m3u8
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mDCDP6sZCGf6BrSsjKDK6F13vOaMEhttG1FhkKjJ95x90K_JYNK6uwNWjfw-QnvGuWqEuctQzxdPh5n4hC2DgEfiyuRZnhCGkBJfIovhAGaRbXi8LHmBds4JcUxrnYSl3lrig8BGi8FdfRZCMQ5oT34697cBb5OiElOsu6iFvlQxF11zJbyNDof-3wZZ52pRGIGMNKykXnDza3eJPUrrKOM.m3u8?u=1756878715
@@ -145,6 +145,7 @@ rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
 https://cdn-2.ttvb.eu.org/api/VL-ONTV/index.m3u8
 http://211.23.95.147:18881/live/26_h265.ts
+https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykA_uiEpHvW03tNX4HngqJnGzfHmgPSIB9CXLj3ovIrxDJIHt1drFnazqDOw_YzFTfMA5eIk3p9r3cwIQFU5cpfdb46Yrp_4-ygB0D7K8DEktWz0apes_3G6uQylmpLzDiHsKnTryo0sthj4TrINlSY6xYdWNOmoGD0OYxkOnvsu2WRKzud8UPVeERrSMQGtUw.m3u8?u=1756878715
 https://gptapi.passwdword.xyz/live/encrypted/MThmYjBlMmIwZmU4ZDFkODI2ZGRkNzAzOGZmMDQzYjM6Zjc4YTdiOTZkMTNlNjU2NzNiNzI4NGU4ZDEyYjc1ZmZiN2Y5YTg5M2FmN2U5ZDkyOGNiOThhOWE2ZjUxNGY4OTkwZTEyMzc1N2M1ZGUxZmE4YjA1ZmJiM2RmZGZhYTkxMjVhMDZjN2M2M2I4YmEwOTllMWIyMDNlMjhiNzcxMDEzYTZiOGNiMTIwZTcxMTRmMzRlZTkwN2FjMjdkOWE3MWRkMDEwZTJhZTQ4YThkOGQ5ZjlkMDExZjU4OGU5YzRiNGM4NDU1MGU4NmQ1M2MwMjcxMGQzNGI1ZDMzOTU4OWM5YWNmZmI2NjQwMzc1M2UyMmMxOTE2OGNmZDZmYTQ3Y2E5NDYyNDk0ZTRkNDA0Yjg4NzgwZGI5Yjc3ZjBkMDVlZGQzNDVhMTQ3NjAzOWZkZjkyZWIwMjJjMDBiMjZiOGNjNWI4ZjYyZTdkOTM3MjMyYmJkNDQxMWNjZDJjMDIxMTM2OWNmYjUyNmQyNTk5MTJlNWIzMmNmMWJjMjI5NjVh?username=tg_0ypy6s61
 #EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公视 CTV" group-title="台湾",公视 CTV
