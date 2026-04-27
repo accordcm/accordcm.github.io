@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz"
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
-http://211.23.95.147:18881/live/51_h265.ts
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv152/index.m3u8
+http://211.23.95.147:18881/live/51_h265.ts
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
-https://cdn-2.ttvb.eu.org/4gtv/media-live072/index.m3u8
 http://211.23.95.147:18881/live/55_h265.ts
+https://cdn-2.ttvb.eu.org/4gtv/media-live072/index.m3u8
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
 http://211.23.95.147:18881/live/58_h265.ts
