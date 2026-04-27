@@ -539,67 +539,6 @@ https://cdn-2.ttvb.eu.org/4gtv/4gtv-live146/index.m3u8
 http://49.213.188.67:50007/4gtv-live146/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 
 
-
-#EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS"  group-title="新闻频道",三立iNEWS
-https://cdn-2.ttvb.eu.org/tw/4gtv-live089/index.m3u8
-https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
-https://stream1.freetv.fun/badd2c471b785d2032379719c9b0e85c841d1fbff319e8d6cd17683cd807314e.m3u8
-http://49.213.188.67:50007/4gtv-live089/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-http://49.213.188.67:50007/iNEWS/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-#EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="台視財經" group-title="新闻频道",台視財經
-http://74.91.26.218:82/live/ttvcj.m3u8
-http://211.23.95.147:18881/live/dtv16_h265.ts
-#EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="新闻频道",東森財經新聞
-https://cdn-2.ttvb.eu.org/tw/4gtv-4gtv153/index.m3u8
-http://49.213.188.67:50007/4gtv-4gtv153/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-#EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="新闻频道",民視新聞台
-http://211.23.95.147:18881/live/dtv9_h265.ts
-https://tv.iill.top/4gtv/litv-ftv13
-http://49.213.188.67:50007/4gtv-live413/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-#EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="新闻频道",中視新聞台
-http://74.91.26.218:82/live/ctvnews.m3u8
-https://cdn-2.ttvb.eu.org/tw/4gtv-4gtv074/index.m3u8
-http://49.213.188.67:50007/4gtv-4gtv074/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" group-title="新闻频道",華視新聞台
-https://cdn-2.ttvb.eu.org/tw/4gtv-4gtv052/index.m3u8
-http://74.91.26.218:82/live/ctsnews.m3u8
-http://211.23.95.147:18881/live/dtv18_h265.ts
-http://49.213.188.67:50007/4gtv-4gtv052/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-#EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="新闻频道",寰宇新聞台
-https://cdn-2.ttvb.eu.org/tw/litv-longturn14/index.m3u8
-https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
-http://49.213.188.67:50007/4gtv-live408/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-http://49.213.188.67:50007/litv-longturn14/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-#EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
-https://cdn-2.ttvb.eu.org/tw/4gtv-4gtv156/index.m3u8
-http://49.213.188.67:50002/index.m3u8?pid=litv-longturn14@36&fun=TV4GTV&proxy=true&token=8852
-https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
-http://49.213.188.67:50007/4gtv-4gtv156/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-#EXTINF:-1 tvg-id="CGTN" tvg-name="NHK新聞資訊台" group-title="新闻频道",NHK新聞資訊台
-https://cdn-2.ttvb.eu.org/tw/4gtv-live168/index.m3u8
-https://www.4gtv.tv/channel/4gtv-live168?set=1&ch=461
-http://49.213.188.67:50007/4gtv-live168/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="新闻频道",CGTN
-http://106.107.237.222:5050/smart.php?id=cgtn&token=885252
-#EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
-https://live.catvod.com/live.php?token=1322e58d505e1bf4eeb2ebad226c6cd6010148dc17aa489e9e010287764fd38d&id=foxnews_twn
-http://49.213.188.67:5052/smart.php?id=foxnews_twn&token=885252
-#EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" group-title="新闻频道",CNN
-http://125.227.210.55:8166/VideoInput/play.ts
-http://142.171.248.206:5050/smart.php?id=cnn_twn&token=885252
-http://106.107.237.222:5050/smart.php?id=Cnn&token=885252
-#EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
-http://125.227.210.55:8165/VideoInput/play.ts
-https://stream1.freetv.fun/24358f38712d187d2fd38cb6f4c48fa88543e025ac9a386899adec203cb10b0a.m3u8
-https://stream1.freetv.fun/8ceea8c7e1961842e551fc90916350de2838ee500e19edf3fdbf2f2c0c3561bf.m3u8
-https://stream1.freetv.fun/c5d042d56862cb15b7c1d63632f4af1d1eef22b318719cc48d0190fa4225a6f0.m3u8
-#EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
-https://cdn-2.ttvb.eu.org/tw/4gtv-live071/index.m3u8
-http://49.213.188.67:50007/4gtv-live071/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-#EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" group-title="新闻频道",France 24
-https://cdn-2.ttvb.eu.org/tw/4gtv-live146/index.m3u8
-http://49.213.188.67:50007/4gtv-live146/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
 https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
