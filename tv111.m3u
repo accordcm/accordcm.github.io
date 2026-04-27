@@ -4,8 +4,8 @@
 http://211.23.95.147:18881/live/51_h265.ts
 https://v.iill.top/4gtv/4gtv-4gtv152/index.m3u8
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
-https://v.iill.top/4gtv/media-live072/index.m3u8
 http://211.23.95.147:18881/live/55_h265.ts
+https://v.iill.top/4gtv/media-live072/index.m3u8
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
 http://211.23.95.147:18881/live/58_h265.ts
@@ -36,11 +36,11 @@ http://211.23.95.147:18881/live/86_h265.ts
 https://v.iill.top/4gtv/4gtv-4gtv075/index.m3u8
 https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
-https://v.iill.top/api/Era-News/index.m3u8
 http://211.23.95.147:18881/live/50_h265.ts
+https://v.iill.top/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
-https://v.iill.top/4gtv/4gtv-4gtv009/index.m3u8
 http://49.213.188.67:50007/4gtv-live409/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
+https://v.iill.top/4gtv/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
