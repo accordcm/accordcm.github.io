@@ -3,11 +3,9 @@
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv152/index.m3u8
 http://211.23.95.147:18881/live/51_h265.ts
-https://tv123.cc.cd/live.php/?ch=6df7a3f0263
-https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv152&token=xiatianshigou
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
-https://tv123.cc.cd/live.php/?ch=d589a4c8271
+https://tv123.cc.cd/live.php/?ch=6df7a3f0263
 https://cdn-2.ttvb.eu.org/4gtv/media-live072/index.m3u8
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
@@ -16,7 +14,6 @@ https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv010&token=xiatianshigou
 http://free.cnlive.club/channel/6302a884/index.m3u8
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv153/index.m3u8
-https://tv123.cc.cd/live.php/?ch=b9d11e54264
 http://211.23.95.147:18881/live/57_h265.ts
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 http://74.91.26.218:82/live/ftvnews.m3u8
@@ -55,7 +52,6 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mEVHMuNt4FXbPf9SvxlxLQpyK4ElzHmpjpUh5gdP6VClo3RI0bQAB253Ba77OdXDa7sX1wnbgu6ape6GTBp9-UPRmm1uOg7BsiX0NfTgkdAJYFygF-tkq3hTreLzus73dNNJOwR3O6zhVcqSiibzpAW919OyzRANkaZj_qbR-RvtqB2TxZuFQTR7Gd3qXolCZw.m3u8?u=1756878715
-https://tv123.cc.cd/live.php/?ch=076ac509431
 https://hls.iill.top/api/Discovery/index.m3u8
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
@@ -119,6 +115,7 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv068/index.m3u8
+https://tv123.cc.cd/live.php/?ch=b9d11e54264
 http://211.23.95.147:18881/live/42_h265.ts
 http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
 rtmp://f13h.mine.nu/sat/tv421
@@ -459,14 +456,11 @@ https://cdn-2.ttvb.eu.org/api/Hollywood-Movie/index.m3u8
 https://smt.goiptv.us.ci/hollywoodmovies_twn/playlist.m3u8
 http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
 #EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" group-title="電影频道",HBO HD
-https://tv123.cc.cd/live.php/?ch=b975fbfb432
 https://smt.goiptv.us.ci/hbohd_twn/playlist.m3u8
 https://stream1.freetv.fun/2fda0dbc8ad206b2ea146eca06e1ae4c228af479c5eb9e98fe39f28b3a634661.m3u8
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD"  group-title="電影频道",HBO Family
-https://tv123.cc.cd/live.php/?ch=f40ce323434
 https://hls.iill.top/api/HBO-Family/index.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD"  group-title="電影频道",HBO Signature
-https://tv123.cc.cd/live.php/?ch=f6353af7435
 https://hls.iill.top/api/HBO-Signature/index.m3u8
 https://smt.goiptv.us.ci/hbosignature_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="電影频道",Dreamworks
