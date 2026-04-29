@@ -278,6 +278,8 @@ https://tv123.cc.cd/live.php/?ch=fdec9798378
 http://49.213.188.67:50007/4gtv-live201/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
 https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982c23983686ac.m3u8
+https://o11.163189.xyz/stream/live/jgbdx/
+https://cdn12.178.indevs.in/163189/5479c245d9d580b5
 http://49.213.188.67:50007/4gtv-live144/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-live144/index.m3u8
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
@@ -436,11 +438,13 @@ https://tv123.cc.cd/live.php/?ch=aa740678334
 http://211.23.95.147:18881/live/69_h265.ts
 http://49.213.188.67:50007/4gtv-4gtv017/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="緯來電影HD" group-title="電影频道",緯來電影HD
-https://tv123.cc.cd/live.php/?ch=702f58eb251
+https://smt.1678520.xyz/163189/602e9465658d4f8c
+https://smt2.1678520.xyz/smt3.2.1.php?id=videolandmovie
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LypZl51sr4vf3DGhZh3g1VUuuJLW7HVy471lEuDO-YH11Gl0MCkU9WPcq_d0755X83srub1-XHBE5VbZ_j0gx5SPYEI5SLQlIljrPPsTmql9SFpa6P4IOxG5COwYIkcjPYJSXp8eyJ2SYELzoWKcB5ls02Ml0ER2jnqJTLQouDP-GRTvxVnAv-md1jJ8pOhWFPA.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="電影频道",东森电影
-https://tv123.cc.cd/live.php/?ch=739318cc265
+https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
 https://cdn-2.ttvb.eu.org/api/ET-Movie/index.m3u8
+https://tv123.cc.cd/live.php/?ch=739318cc265
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="電影频道",东森洋片
 https://cdn-2.ttvb.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
