@@ -51,6 +51,7 @@ http://211.23.95.147:18881/live/49_h265.ts
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
+https://live.catvod.com/?id=L2xyL2RMUU9uRTFJaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD01ZTJhMWM4YSZjbj02YjM2MzU4ZCZjcD1mZjU0ZTNlZCZjdT05NzBmMDY5ZiZycD1kUG1CakwxaGpMVFdkcmg3blBU&tk=6759a8f65e7035b71b11e5478c66f764
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mEVHMuNt4FXbPf9SvxlxLQpyK4ElzHmpjpUh5gdP6VClo3RI0bQAB253Ba77OdXDa7sX1wnbgu6ape6GTBp9-UPRmm1uOg7BsiX0NfTgkdAJYFygF-tkq3hTreLzus73dNNJOwR3O6zhVcqSiibzpAW919OyzRANkaZj_qbR-RvtqB2TxZuFQTR7Gd3qXolCZw.m3u8?u=1756878715
 https://hls.iill.top/api/Discovery/index.m3u8
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
@@ -444,6 +445,8 @@ https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
 https://cdn-2.ttvb.eu.org/api/ET-Movie/index.m3u8
 https://tv123.cc.cd/live.php/?ch=739318cc265
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="ettvwestern" tvg-name="STAR movie" group-title="電影频道",STAR movie
+https://live.catvod.com/?id=L2xyL2RMUU9uRTFJak5uQlFaSk1WTnpnelpuYnBSc0tqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTVlMmExYzhhJmNuPTJkOWVlODVlJmNwPTRjODNhYTU5JmN1PTk3MGYwNjlmJnJwPWRQcGhqTFRPbmloMmRQRjRkTF9O&tk=6759a8f65e7035b71b11e5478c66f764
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="電影频道",东森洋片
 https://cdn-2.ttvb.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
 #EXTINF:-1 tvg-id="lhdy01" tvg-name="龍華电影" group-title="電影频道",龍華电影
@@ -458,11 +461,13 @@ https://cdn-2.ttvb.eu.org/api/Hollywood-Movie/index.m3u8
 https://smt.goiptv.us.ci/hollywoodmovies_twn/playlist.m3u8
 http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
 #EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" group-title="電影频道",HBO HD
+https://live.catvod.com/?id=L2xyL2RMUU9uRTFJakJ5clY3Zk9WQ3NJVkNlbDZpSU1kTjBofGNkPTVlMmExYzhhJmNuPTJkOWVlODVlJmNwPTgyOTRmNGYzJmN1PTk3MGYwNjlmJnJwPWRQcGhqTFRPbmloMmRQRjRkTF9O&tk=6759a8f65e7035b71b11e5478c66f764
 https://smt.goiptv.us.ci/hbohd_twn/playlist.m3u8
 https://stream1.freetv.fun/2fda0dbc8ad206b2ea146eca06e1ae4c228af479c5eb9e98fe39f28b3a634661.m3u8
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD"  group-title="電影频道",HBO Family
 https://hls.iill.top/api/HBO-Family/index.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD"  group-title="電影频道",HBO Signature
+https://live.catvod.com/?id=L2xyL2RMUU9uRTFJakJ5clZObmd6V0l5NjVxN3ozZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTVlMmExYzhhJmNuPTJkOWVlODVlJmNwPWRhZmVkMDJlJmN1PTk3MGYwNjlmJnJwPWRQcGhqTFRPbmloMmRQRjRkTF9O&tk=6759a8f65e7035b71b11e5478c66f764
 https://hls.iill.top/api/HBO-Signature/index.m3u8
 https://smt.goiptv.us.ci/hbosignature_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="電影频道",Dreamworks
