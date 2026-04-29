@@ -354,7 +354,6 @@ http://107.150.60.122/live/szwshd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 http://153.0.171.163:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="fujian" tvg-name="廈門衛視" group-title="中国",廈門衛視
-http://211.23.95.147:18881/live/dtv45_h265.ts
 http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="中国",福建东南卫视
 http://107.150.60.122/live/dnwshd.m3u8
