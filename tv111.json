@@ -10,8 +10,7 @@ https://cdn-2.ttvb.eu.org/4gtv/media-live072/index.m3u8
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
 http://211.23.95.147:18881/live/58_h265.ts
-https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv010&token=xiatianshigou
-http://free.cnlive.club/channel/6302a884/index.m3u8
+https://live.catvod.com/?id=L2xyL2RMUU9uRTFJald6ZXZVenlWUkllNk5uYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTVlMmExYzhhJmNuPTZiMzYzNThkJmNwPTJmYWY0MDk5JmN1PTk3MGYwNjlmJnJwPWRQbUJqTDFoakxUV2RyaDduUFQ&tk=6759a8f65e7035b71b11e5478c66f764
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv153/index.m3u8
 http://211.23.95.147:18881/live/57_h265.ts
@@ -53,8 +52,6 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://211.23.95.147:18881/live/19_h265.ts
 https://live.catvod.com/?id=L2xyL2RMUU9uRTFJaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD01ZTJhMWM4YSZjbj02YjM2MzU4ZCZjcD1mZjU0ZTNlZCZjdT05NzBmMDY5ZiZycD1kUG1CakwxaGpMVFdkcmg3blBU&tk=6759a8f65e7035b71b11e5478c66f764
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mEVHMuNt4FXbPf9SvxlxLQpyK4ElzHmpjpUh5gdP6VClo3RI0bQAB253Ba77OdXDa7sX1wnbgu6ape6GTBp9-UPRmm1uOg7BsiX0NfTgkdAJYFygF-tkq3hTreLzus73dNNJOwR3O6zhVcqSiibzpAW919OyzRANkaZj_qbR-RvtqB2TxZuFQTR7Gd3qXolCZw.m3u8?u=1756878715
-https://hls.iill.top/api/Discovery/index.m3u8
-http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
 http://61.221.215.25:8800/hls/58/index.m3u8
