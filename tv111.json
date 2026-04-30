@@ -100,6 +100,7 @@ http://49.213.188.67:50007/4gtv-4gtv004/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiN
 http://211.23.95.147:18881/live/29_h265.ts
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立都會HD" group-title="台湾",三立都會HD
 http://211.23.95.147:18881/live/30_h265.ts
+http://23.128.116.71:5589/live.php?id=sanlidouhui_twn&h=23.128.116.71&p=22364&token=1768656088.71792c6eb5cad5cf0b18fea078d4b239afcebabadce35bd9315d491180a5e404
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyhe8D9-CeEZQOFp7zCqF24LuwRx6fPqGc9nVvRCSe8pURtD_rOyCY6te_lShE5e2UFnSlpJaPU9DnssY8P3sF0i-MGMgUUcjuPGzZVw7xPTPtxPe_0wca7LHPCUozbRcdFbsDj6-AD8DwPLxqTPhE-H3p6MpbpgmNwqIJjSMOxe7JembWOda5yJwdZG8QtJHRw.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-live207/index.m3u8
@@ -112,7 +113,6 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv068/index.m3u8
-https://tv123.cc.cd/live.php/?ch=b9d11e54264
 http://211.23.95.147:18881/live/42_h265.ts
 http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
 rtmp://f13h.mine.nu/sat/tv421
@@ -421,6 +421,7 @@ http://49.213.188.67:5052/smart.php?id=Cn&token=885252
 
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="電影频道",美亚电影
 http://74.91.26.218:82/live/mydy.m3u8
+P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv011/index.m3u8
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" group-title="電影频道",amc 電影台
