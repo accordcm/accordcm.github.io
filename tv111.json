@@ -183,15 +183,12 @@ https://stream1.freetv.fun/4f1224450a344f842cfe4c403593b22a393dc6791e6f469e45c1a
 https://stream1.freetv.fun/66205b3f0abc81d54dbb5b7d4774f3ff44ed63ee7454d7cc342c1e4c62526c1a.m3u8
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="台湾",东森电影
 https://cdn-2.ttvb.eu.org/api/ET-Movie/index.m3u8
-http://iptv.4666888.xyz/iptv2A.php?id=48
 http://rihou.cc:555/tv/hktv/gzmjhftw
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" group-title="台湾",纬来电影台
 http://211.23.95.147:18881/live/63_h265.ts
 http://iptv.4666888.xyz/iptv2A.php?id=54
 https://cdn-2.ttvb.eu.org/api/VL-Movies/index.m3u8
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="台湾",东森洋片
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyueGr-6I5WurXyVzCPErAn1bIY0Xo0oD4WTTmWvbwk0WlRLAiSKjvvk1qlTgn_rvKqmndIlkvXOsgb2pLGqYWlBY4bum9lzyFDqrQV09sm9mH8Norh0gOkpeKmnKhs7l0EGvOTpy8B5LkIDy-zcVjSoBzBiSy2SqAL9FF4LqSM_pIZGYBuWkuHd68RQGk25yig.m3u8?u=1756878715
 https://cdn-2.ttvb.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
 http://211.23.95.147:18881/live/67_h265.ts
