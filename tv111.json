@@ -194,10 +194,8 @@ https://cdn-2.ttvb.eu.org/api/VL-Movies/index.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyueGr-6I5WurXyVzCPErAn1bIY0Xo0oD4WTTmWvbwk0WlRLAiSKjvvk1qlTgn_rvKqmndIlkvXOsgb2pLGqYWlBY4bum9lzyFDqrQV09sm9mH8Norh0gOkpeKmnKhs7l0EGvOTpy8B5LkIDy-zcVjSoBzBiSy2SqAL9FF4LqSM_pIZGYBuWkuHd68RQGk25yig.m3u8?u=1756878715
 https://cdn-2.ttvb.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mC3015hsvpEc6eDcUk4mvopVQtp6nlzWobtnuBKKBituajEnyybNUk-LLZEz69RaUMqbXBLyh-lF8fRE4fJXcMPgYzQG49BxTCq6sYH71TC25maGuC_HSHA1bjjwZbRGfsOfP5RaGSXmqARhRI8fOmwQanwlbDSyKKEhMVZYVYjZoaJVJ7dWgBK-kMlE3TgwoA.m3u8?u=1756878715
 http://211.23.95.147:18881/live/67_h265.ts
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="台湾",CINEMAX
-http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
 http://211.23.95.147:18881/live/71_h265.ts
 https://cdn-2.ttvb.eu.org/api/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="台湾",龍華洋片
@@ -207,7 +205,6 @@ http://49.213.188.67:50007/litv-xinchuang02/index.m3u8?token=hi2EiSlYUiejYLRPv51
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
 https://iptv.yang-1989.eu.org/ofiii/litv-xinchuang18
 http://49.213.188.67:50007/litv-xinchuang18/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
-http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龍華经典台" group-title="台湾",龍華经典台
 https://iptv.yang-1989.eu.org/ofiii/litv-xinchuang21
 http://49.213.188.67:50007/litv-xinchuang21/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
