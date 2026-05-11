@@ -227,8 +227,8 @@ https://cdn-2.ttvb.eu.org/4gtv/litv-ftv07/index.m3u8
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv076/index.m3u8
 https://gptapi.passwdword.xyz/live/encrypted/ZjU4OGEwYzQxYjcxMzcwNjdkYTM0ZjMxZmQxMDc2N2Q6MzMwMmI4NzFhNDI4MjlmNzg4ZDQxODI1YjgyNDg0MmVlYTZkMDQ3YzhkMTk3MzNlMGQzMDBiOTk0MThlYTQxZGUyZTAwOWM0MmRlYTZjODNjYmJkNzllMjAwOWJiOWEzMGRkNWJlNzM4YzUwNjczYjFmYzgwZWZmNjc4NzE3ZDIwMDdhODU0NGE4MjdmMjI1OWZiMjk1OWJlMDYwMjU2NjQ5NjgyNzBhOGQ0Y2RlNTg0YjcxNGZiYjFiNzUyNGYyODFjMDVkMjdjYWUzYWYxNWY2ZjQzNmZhMjZkNWVkOTkwMmY3ZDc0NzgwMmM1ZDAyMzA1MWUxYzZlMWNjNjRkZWZmZDQ5ZmVlMDU5OWU3NDQwZTljNDRkZGZlZDFhNWQyZDVmMDA2ZWM2ODE3NWYyNzM1MDQzNTQzMjMyNzgzZTM5ZjY4ZGUxMTBmZDc0NjYxZmQ0ODJkYmU5ODE5ZDMwZjI4YjU1MDczNjJkNTNlZjIwODk5NTBkMGFhNTMzZDc0ZWU4Y2QwOGMxM2FhN2U0MzgzOTdjODRlYjRmODM5NmU?username=tg_0ypy6s61
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" group-title="台湾",愛爾達娛樂
-https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv070/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv070/index.m3u8
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" group-title="台湾",愛爾達生活旅遊台
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-live120/index.m3u8
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
@@ -249,10 +249,12 @@ http://106.107.234.156/hls/1_0.m3u8
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakeoYbDa6YZg-u47U6PhP5DZDJlUneMuOwRC3h5idOWdj_Ny25T7d4wMr5fziLsOD6XXT-oUNWhwoH4RG1NNB5fVfEtrENxQLrVzpdhIVXRVF8HKsB9oRlNdivgx1RwAjrpr62fIFBt1i1Czn7cEY6HMUqD6HCE0PS2FaKfJtY2Dlnntgigm1VGesLu8-5qxq9LNFJP_GDyjXOBG2VdISah4.m3u8?u=1756878715
+http://66.103.204.107:5678/live/stream-686d50b1-1ba0-4bbd-88eb-13f772f6ac52/index.m3u8?u=admin&p=40b00cc2ad70b77c869596da7462345b9480ee3f7259cbd5371a5245b3b46a96
 http://106.107.242.199:81/stream0
 rtmp://106.107.234.156/live/livestream.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakdgDZYTd1TO17f1P5z1fhiat3_-0ZLkDmL_tm5VqfvlwYflnMRf6IMKUgWfzBvelfrb4GedBcHyXMidxDfbodbANXYhzG4eE296vdiGRXnbPAc1cTkGMtlGhA1KKcjE2KtNrUt4FDZ10KUAC-H7ZCUfiwTSNlI7MnP71NYfHszNjp1J1az5RpXgtkFrE1-HAXz_LN21JCg4GUNOTEkYx8xo.m3u8?u=1756878715
+http://66.103.204.107:5678/live/stream-b01b71e0-f1ed-4117-82c3-6d7f8434214a/index.m3u8?u=admin&p=40b00cc2ad70b77c869596da7462345b9480ee3f7259cbd5371a5245b3b46a96
 rtmp://f13h.mine.nu/sat/md041
 rtmp://106.107.177.219/live/livestream.m3u8
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯运动 1" group-title="台湾",博斯运动 1
@@ -264,18 +266,19 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 #EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="博斯高球2 HD" group-title="台湾",博斯高球2 HD
 https://cdn-2.ttvb.eu.org/tw/Golf-Plus/index.m3u8
 #EXTINF:-1 tvg-id="bositennis_twn" tvg-name="博斯网球 HD" group-title="台湾",博斯网球 HD
+http://67.220.71.199:2347/livehttpplay?channel_id=42026http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34901
 https://cdn-2.ttvb.eu.org/tw/Tennis-Channel/index.m3u8
 #EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="博斯无限1" group-title="台湾",博斯无限1
 https://cdn-2.ttvb.eu.org/tw/Unlimited-Channel/index.m3u8
 #EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="博斯无限2" group-title="台湾",博斯无限2
 https://cdn-2.ttvb.eu.org/tw/Unlimited-Channel-2/index.m3u8
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="台湾",時尚運動X
-https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv014/index.m3u8
 http://106.107.242.201:50007/4gtv-live411/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv014/index.m3u8
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV"  group-title="台湾",車迷 TV
+http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-live201/index.m3u8
 https://tv123.cc.cd/live.php/?ch=fdec9798378
-http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
 https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982c23983686ac.m3u8
 https://o11.163189.xyz/stream/live/jgbdx/
@@ -290,9 +293,9 @@ https://stream1.freetv.fun/06b6214f3d5ee5f7d354b14fe53ac947012b5e07efc6d1b2b8599
 rtmp://f13h.mine.nu/sat/tv741
 http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
-https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv006/index.m3u8
 http://49.213.188.67:50002/index.m3u8?pid=4gtv-4gtv006@113&fun=TV4GTV&proxy=true&token=8852
 http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv006/index.m3u8
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-live047/index.m3u8
 http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
@@ -301,11 +304,11 @@ http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=zbKLB9o6aG4RtRozte
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-live046/index.m3u8
 http://106.107.242.201:50007/4gtv-live046/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物3台"  group-title="台湾",東森購物三台
-https://cdn-2.ttvb.eu.org/4gtv/4gtv-live048/index.m3u8
 http://106.107.242.201:50007/4gtv-live048/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+https://cdn-2.ttvb.eu.org/4gtv/4gtv-live048/index.m3u8
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物5台" group-title="台湾",東森購物五台
-https://cdn-2.ttvb.eu.org/4gtv/4gtv-live0499/index.m3u8
 http://106.107.242.201:50007/4gtv-live049/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+https://cdn-2.ttvb.eu.org/4gtv/4gtv-live0499/index.m3u8
 #EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV"  group-title="台湾",韓國娛樂台
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv016/index.m3u8
 http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
@@ -314,9 +317,9 @@ https://cdn-2.ttvb.eu.org/api/MTV-Live/index.m3u8
 https://stream1.freetv.fun/fca0bd28ae8000f3bef263858ee50350cdcee11c4819c3ced4e0b2869ec9c770.m3u8
 https://stream1.freetv.fun/f204d2bcd40362f1b92163527b2e9bfec8ac954ee359600902044070830fa789.m3u8
 #EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK搖滾極限頻道" group-title="台湾",ROCK搖滾極限頻道
-https://cdn-2.ttvb.eu.org/4gtv/4gtv-live124/index.m3u8
 http://49.213.188.67:50002/index.m3u8?pid=4gtv-live124@485&fun=TV4GTV&proxy=true&token=8852
 http://106.107.242.201:50007/4gtv-live124/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+https://cdn-2.ttvb.eu.org/4gtv/4gtv-live124/index.m3u8
 #EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝"  group-title="台湾",愛奇藝
 https://o11.163189.xyz/stream/live/iqiyi/
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
