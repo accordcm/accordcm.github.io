@@ -513,23 +513,19 @@ http://211.23.95.147:18881/live/dtv18_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv052/index.m3u8
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="新闻频道",寰宇新聞台
-https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
-https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
 http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
-https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
+https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
 https://cdn-2.ttvb.eu.org/4gtv/litv-longturn14/index.m3u8
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
-http://49.213.188.67:50002/index.m3u8?pid=litv-longturn14@36&fun=TV4GTV&proxy=true&token=8852
-https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv156/index.m3u8
+http://49.213.188.67:50002/index.m3u8?pid=litv-longturn14@36&fun=TV4GTV&proxy=true&token=8852
+https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 #EXTINF:-1 tvg-id="CGTN" tvg-name="NHK新聞資訊台" group-title="新闻频道",NHK新聞資訊台
-https://www.4gtv.tv/channel/4gtv-live168?set=1&ch=461
 http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
+https://www.4gtv.tv/channel/4gtv-live168?set=1&ch=461
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-live168/index.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="新闻频道",CGTN
-http://106.107.237.222:5050/smart.php?id=cgtn&token=885252
 #EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
 https://live.catvod.com/live.php?token=1322e58d505e1bf4eeb2ebad226c6cd6010148dc17aa489e9e010287764fd38d&id=foxnews_twn
 http://49.213.188.67:5052/smart.php?id=foxnews_twn&token=885252
