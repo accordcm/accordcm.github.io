@@ -1,21 +1,17 @@
 #EXTM3U x-tvg-url="https://epg.yang-1989.eu.org/epg.xml.gz"
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
-https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv152/index.m3u8
 http://211.23.95.147:18881/live/51_h265.ts
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
-https://cdn-2.ttvb.eu.org/4gtv/media-live072/index.m3u8
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
 http://211.23.95.147:18881/live/58_h265.ts
 http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
-https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv153/index.m3u8
 http://211.23.95.147:18881/live/57_h265.ts
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 http://74.91.26.218:82/live/ftvnews.m3u8
-https://cdn-2.ttvb.eu.org/4gtv/litv-ftv13/index.m3u8
 http://211.23.95.147:18881/live/dtv9_h265.ts
 http://49.213.188.67:50007/4gtv-live413/index.m3u8?token=hi2EiSlYUiejYLRPv51ypiNGZNQ2pJuUOTB4fxb7eHBtXAgioX6crmQ0WmOdId1y
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
@@ -184,12 +180,14 @@ https://stream1.freetv.fun/4f1224450a344f842cfe4c403593b22a393dc6791e6f469e45c1a
 https://stream1.freetv.fun/66205b3f0abc81d54dbb5b7d4774f3ff44ed63ee7454d7cc342c1e4c62526c1a.m3u8
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="台湾",东森电影
 https://cdn-2.ttvb.eu.org/api/ET-Movie/index.m3u8
+https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
 http://rihou.cc:555/tv/hktv/gzmjhftw
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" group-title="台湾",纬来电影台
 http://211.23.95.147:18881/live/63_h265.ts
 http://iptv.4666888.xyz/iptv2A.php?id=54
 https://cdn-2.ttvb.eu.org/api/VL-Movies/index.m3u8
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="台湾",东森洋片
+https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
 https://cdn-2.ttvb.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
 http://211.23.95.147:18881/live/67_h265.ts
