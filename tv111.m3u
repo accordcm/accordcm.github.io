@@ -9,7 +9,6 @@ http://106.107.242.201:50007/media-live072/index.m3u8?token=zbKLB9o6aG4RtRozteaO
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
 http://211.23.95.147:18881/live/58_h265.ts
-https://live.catvod.com/?id=L2xyL2RMUU9uUFQyald6ZXZVenlWUkllNk5uYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiZmJhN2U5JmNuPTZlN2JhNDQ3JmNwPTQwMDIxZGY0JmN1PTRiNmE1OTZmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=52c58b8134d9bc0b4a5fa588d7b54c27
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 http://211.23.95.147:18881/live/57_h265.ts
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
