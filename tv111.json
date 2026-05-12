@@ -12,6 +12,7 @@ http://211.23.95.147:18881/live/58_h265.ts
 https://stream1.freetv.fun/0d5a5ce924aa323b57e608e00cf62cbd6628179bf5d0b2e0ddd93a5796ccfbdf.ctv
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 http://211.23.95.147:18881/live/57_h265.ts
+https://stream1.freetv.fun/8227a95ee4fbe9c073f89b95227461fc87028d39b16c1eff1609ece6d1517932.ctv
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 http://74.91.26.218:82/live/ftvnews.m3u8
 http://211.23.95.147:18881/live/dtv9_h265.ts
