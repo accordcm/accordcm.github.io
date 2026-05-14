@@ -67,7 +67,6 @@ http://61.221.215.25:8800/hls/58/index.m3u8
 https://tv.iill.top/api/Animal-Planet/index.m3u8
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
 https://live.catvod.com/?id=L2xyL2RMUU9uUFRCakJJeTZDNmVWTjZnVkNfdXBDMnl4VTJncE5fNFZQbmFBbXxjZD02ZmIxMTUzNiZjbj0xZTBkNTg0YyZjcD0xZDI1ZWUzNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=5d1d2125458ac630bb15de5ccc842470
-https://live.catvod.com/?id=L2xyL2RMUU9uUFQyakJJeTZDNmVWTjZnVkNfdXBDMnl4VTJncE5fNFZQbmFBbXxjZD1jYmZiYTdlOSZjbj02ZTdiYTQ0NyZjcD04NzI1YWZhZSZjdT00YjZhNTk2ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=52c58b8134d9bc0b4a5fa588d7b54c27
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://211.23.95.147:18881/live/21_h265.ts
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
@@ -126,7 +125,6 @@ http://rihou.cc:555/tv/hktv/tb19tw0812tw
 http://61.221.215.25:8800/hls/9/index.m3u8
 http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
-https://live.catvod.com/?id=L2xyL2RMUU9uUFQyak5TV1Fjbkc2VXM0VkNxYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiZmJhN2U5JmNuPTZlN2JhNDQ3JmNwPTZmNTJlMjk5JmN1PTRiNmE1OTZmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=52c58b8134d9bc0b4a5fa588d7b54c27
 http://211.23.95.147:18881/live/42_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=1936
 http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
