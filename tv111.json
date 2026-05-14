@@ -2,9 +2,11 @@
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=544
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=738
 http://106.107.242.201:50007/media-live072/index.m3u8?token=zbKLB9o6aG4RtRozteaOt3g6IVoVkJXrj8TTxhMf4u02pvZPiANcQ6bYiGhWW2zJ
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
@@ -12,6 +14,7 @@ http://211.23.95.147:18881/live/58_h265.ts
 https://stream1.freetv.fun/0d5a5ce924aa323b57e608e00cf62cbd6628179bf5d0b2e0ddd93a5796ccfbdf.ctv
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 http://211.23.95.147:18881/live/57_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=761
 https://stream1.freetv.fun/8227a95ee4fbe9c073f89b95227461fc87028d39b16c1eff1609ece6d1517932.ctv
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 http://74.91.26.218:82/live/ftvnews.m3u8
@@ -41,6 +44,7 @@ https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv075/index.m3u8
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=825
 https://stream1.freetv.fun/cd2161f9482428a22867ab32562ba7bac738dbb01a6d523f8dea418bfe7c5d4d.ctv
 https://cdn-2.ttvb.eu.org/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
@@ -119,6 +123,7 @@ http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
 https://live.catvod.com/?id=L2xyL2RMUU9uUFQyak5TV1Fjbkc2VXM0VkNxYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiZmJhN2U5JmNuPTZlN2JhNDQ3JmNwPTZmNTJlMjk5JmN1PTRiNmE1OTZmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=52c58b8134d9bc0b4a5fa588d7b54c27
 http://211.23.95.147:18881/live/42_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1936
 http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
 rtmp://f13h.mine.nu/sat/tv421
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv068/index.m3u8
@@ -183,6 +188,7 @@ http://106.107.242.201:50007/4gtv-4gtv034/index.m3u8?token=zbKLB9o6aG4RtRozteaOt
 https://cdn-2.ttvb.eu.org/4gtv/4gtv-4gtv034/index.m3u8
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 http://211.23.95.147:18881/live/65_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=898
 https://hls.iill.top/api/HBO/index.m3u8
 https://hls.iill.top/test/HBO/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood" group-title="台湾",Hollywood
