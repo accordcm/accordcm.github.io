@@ -456,6 +456,7 @@ http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 https://iptv.yang-1989.eu.org/ofiii/litv-xinchuang01
 http://106.107.242.201:50007/litv-xinchuang01/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" group-title="兒童卡通",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 http://125.227.210.55:8167/VideoInput/play.ts
 http://49.213.188.67:5052/smart.php?id=Cn&token=885252
 
