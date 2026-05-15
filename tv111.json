@@ -587,10 +587,8 @@ http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 
 
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
-https://live.catvod.com/?id=L2xyL2RMUU9uUFRCaldJR3ZXNmJ2UnNPUVVodXBDMnl4VTJncE5fNFZQbmFBbXxjZD02ZmIxMTUzNiZjbj0xZTBkNTg0YyZjcD1iOTE2NGZjMyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=5d1d2125458ac630bb15de5ccc842470
 https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
-https://live.catvod.com/?id=L2xyL2RMUU9uUFRCaldJR3ZXcWJ2UnNPUVVodXBDMnl4VTJncE5fNFZQbmFBbXxjZD02ZmIxMTUzNiZjbj0xZTBkNTg0YyZjcD05YTg3MGUwMCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=5d1d2125458ac630bb15de5ccc842470
 https://nl.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
 https://nl.utako.moe/Nippon_TV/index.m3u8
@@ -601,13 +599,10 @@ https://nl.utako.moe/TBS/index.m3u8
 http://xsmt.ccwu.cc/xsmt/smt.php?id=1418
 https://nl.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
-https://live.catvod.com/?id=L2xyL2RMUU9uUFRCaldzbFFVeWc2NXpidlJzT1FVaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NmZiMTE1MzYmY249MWUwZDU4NGMmY3A9ZGE0MzEzOWUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=5d1d2125458ac630bb15de5ccc842470
 https://nl.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://logo.catvod.com/TV Tokyo.png" group-title="日本",TV Tokyo
-https://live.catvod.com/?id=L2xyL2RMUU9uUFRCak5TdXZOZXU2NXpidlJzT1FVaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NmZiMTE1MzYmY249MWUwZDU4NGMmY3A9NGQxZjU4M2YmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=5d1d2125458ac630bb15de5ccc842470
 https://nl.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
-https://live.catvod.com/?id=L2xyL2RMUU9uUFRCak5TdXZOZXVWWnlidlJzT1FVaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NmZiMTE1MzYmY249MWUwZDU4NGMmY3A9ZDhhNTUxMjImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=5d1d2125458ac630bb15de5ccc842470
 https://nl.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX2" tvg-logo="https://logo.catvod.com/TOKYO MX2.png" group-title="日本",TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
@@ -626,19 +621,16 @@ https://nl.utako.moe/kbs/index.m3u8
 #EXTINF:-1 tvg-name="SUN" tvg-logo="https://logo.catvod.com/SUN.png" group-title="日本",SUN
 https://nl.utako.moe/suntv/index.m3u8
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://logo.catvod.com/NHK BS.png" group-title="日本",NHK BS
-https://live.catvod.com/?id=L2xyL2RMUU9uUFRCaldJR3ZXSmxkcWZLUVp0eVZyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTZmYjExNTM2JmNuPTFlMGQ1ODRjJmNwPWE2YjlkMzQ0JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=5d1d2125458ac630bb15de5ccc842470
 https://nl.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 tvg-name="BS NTV" tvg-logo="https://logo.catvod.com/BS NTV.png" group-title="日本",BS NTV
 https://nl.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 tvg-name="BS Asahi" tvg-logo="https://logo.catvod.com/BS Asahi.png" group-title="日本",BS Asahi
 https://nl.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://logo.catvod.com/BS TBS.png" group-title="日本",BS TBS
-https://live.catvod.com/?id=L2xyL2RMUU9uUFRCaldKbDZDSmxaV2d5cENzNGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NmZiMTE1MzYmY249MWUwZDU4NGMmY3A9MTE2YWY5MDkmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=5d1d2125458ac630bb15de5ccc842470
 https://nl.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://logo.catvod.com/BS TV Tokyo.png" group-title="日本",BS TV Tokyo
 https://nl.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://logo.catvod.com/BS Fuji.png" group-title="日本",BS Fuji
-https://live.catvod.com/?id=L2xyL2RMUU9uUFRCaldKbHpjcUt2cWZLUVp0eVZyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTZmYjExNTM2JmNuPTFlMGQ1ODRjJmNwPTNhZGRmNTYzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=5d1d2125458ac630bb15de5ccc842470
 https://nl.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 tvg-name="BS10" tvg-logo="https://logo.catvod.com/BS10.png" group-title="日本",BS10
 https://nl.utako.moe/bs10/index.m3u8
