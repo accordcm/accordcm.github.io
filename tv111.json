@@ -636,7 +636,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
 https://nl.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://logo.catvod.com/Fuji TV.png" group-title="日本",Fuji TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
-http://xsmt.ccwu.cc/xsmt/smt.php?id=1418
 https://nl.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
@@ -647,8 +646,6 @@ https://nl.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
 https://nl.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 tvg-name="TOKYO MX2" tvg-logo="https://logo.catvod.com/TOKYO MX2.png" group-title="日本",TOKYO MX2
-https://nl.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 tvg-name="MBS" tvg-logo="https://logo.catvod.com/MBS.png" group-title="日本",MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
 https://nl.utako.moe/mbs/index.m3u8
@@ -742,8 +739,10 @@ https://nl.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 tvg-name="Space Shower TV" tvg-logo="https://logo.catvod.com/Space Shower TV.png" group-title="日本",Space Shower TV
 https://nl.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://logo.catvod.com/MTV.png" group-title="日本",MTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 tvg-name="Kayo Pops" tvg-logo="https://logo.catvod.com/Kayo Pops.png" group-title="日本",Kayo Pops
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://logo.catvod.com/Disney Channel.png" group-title="日本",Disney Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
