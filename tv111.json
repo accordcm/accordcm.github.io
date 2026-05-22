@@ -57,7 +57,6 @@ http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 http://211.23.95.147:18881/live/49_h265.ts
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
-P2p://starvod.xyz:19806/21623917279d451d8ae1f141e9eadfe3
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
@@ -256,25 +255,11 @@ https://cdn.19891230.eu.org/api/VL-E/index.m3u8
 http://211.23.95.147:18881/live/70_h265.ts
 http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
-P2p://starvod.xyz:19806/fcf98a4d8ed349d8a87008d6d1a22969
-P2p://starvod.xyz:19806/05f806d83f8f429ca7d888f6147cc87f
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakRKUEVTLBLou0zZzYzXV5AT2hPbd2vlxZwFUKeDAHYHW8L-dZa58kETdQgxBeElrDsHz7uqJyN5XBTeIMLyd5C9gNbZOSPnBJMwfD16_APHMusOTvcoMgy4s3SlNcY4Whc3y-JgME7_luQp-1rmZnQ0xcj0w344qITNWQiz4Ibz8dDGWjXFmrhJNxnCDIka5vH0US5R4QKdfIUbcSpOGhEk.m3u8?u=1756878715
-http://66.103.204.107:5678/live/stream-8bbf5631-f703-49ce-be8f-18acc2c12e91/index.m3u8?u=admin&p=40b00cc2ad70b77c869596da7462345b9480ee3f7259cbd5371a5245b3b46a96
-http://106.107.242.199/hls/1_0.m3u8
-http://106.107.234.156/hls/1_0.m3u8
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
-P2p://starvod.xyz:19806/b8330505ad094ae5b26a8921763ce06a
 P2p://starvod.xyz:19806/a0e5505257c543aa8154010cada0bc7b
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakeoYbDa6YZg-u47U6PhP5DZDJlUneMuOwRC3h5idOWdj_Ny25T7d4wMr5fziLsOD6XXT-oUNWhwoH4RG1NNB5fVfEtrENxQLrVzpdhIVXRVF8HKsB9oRlNdivgx1RwAjrpr62fIFBt1i1Czn7cEY6HMUqD6HCE0PS2FaKfJtY2Dlnntgigm1VGesLu8-5qxq9LNFJP_GDyjXOBG2VdISah4.m3u8?u=1756878715
-http://66.103.204.107:5678/live/stream-686d50b1-1ba0-4bbd-88eb-13f772f6ac52/index.m3u8?u=admin&p=40b00cc2ad70b77c869596da7462345b9480ee3f7259cbd5371a5245b3b46a96
-http://106.107.242.199:81/stream0
 rtmp://106.107.234.156/live/livestream.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
-P2p://starvod.xyz:19806/fdeb9a7f7f5b4d17b6328abd918ce93f
-P2p://starvod.xyz:19806/e872108ba12a45e0910ad60e6918097d
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakdgDZYTd1TO17f1P5z1fhiat3_-0ZLkDmL_tm5VqfvlwYflnMRf6IMKUgWfzBvelfrb4GedBcHyXMidxDfbodbANXYhzG4eE296vdiGRXnbPAc1cTkGMtlGhA1KKcjE2KtNrUt4FDZ10KUAC-H7ZCUfiwTSNlI7MnP71NYfHszNjp1J1az5RpXgtkFrE1-HAXz_LN21JCg4GUNOTEkYx8xo.m3u8?u=1756878715
-http://66.103.204.107:5678/live/stream-b01b71e0-f1ed-4117-82c3-6d7f8434214a/index.m3u8?u=admin&p=40b00cc2ad70b77c869596da7462345b9480ee3f7259cbd5371a5245b3b46a96
 rtmp://f13h.mine.nu/sat/md041
 rtmp://106.107.177.219/live/livestream.m3u8
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯运动 1" group-title="台湾",博斯运动 1
