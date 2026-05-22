@@ -60,8 +60,6 @@ http://211.23.95.147:18881/live/19_h265.ts
 p3p://focus169.org:25271/641383f300048101a59561c464b07293
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
-http://61.221.215.25:8800/hls/58/index.m3u8
-https://tv.iill.top/api/Animal-Planet/index.m3u8
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
 http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
@@ -97,10 +95,9 @@ https://cdn.19891230.eu.org/4gtv/4gtv-4gtv001/index.m3u8
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" group-title="台湾",民視第一台
 http://211.23.95.147:18881/live/dtv8_h265.ts
 http://74.91.26.218:82/live/ftvdy.m3u8
-http://106.107.242.201:50007/4gtv-live403/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv003/index.m3u8
+http://106.107.242.201:50007/4gtv-live403/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" group-title="台湾",民視綜藝
-http://iptv.4666888.xyz/iptv2A.php?id=46
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv004/index.m3u8
 https://stream1.freetv.fun/51da87decd2f08e9452c87b45ae332fee7d780327a457e8739a68758ed98c8c5.ctv
 http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
