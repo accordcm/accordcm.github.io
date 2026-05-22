@@ -55,28 +55,19 @@ rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
-p3p://focus169.org:25271/68b0691100058590cb0be6b71cba1cda
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 p3p://focus169.org:25271/641383f300048101a59561c464b07293
-https://iptv.852851.xyz/ch/ee7ef198f616261e038e4f294d9fe833/master.m3u8
-https://iptv.852851.xyz/ch/890ee37739191a269ebebd5b2bc0d874/master.m3u8
-http://xsmt.ccwu.cc/xsmt/smt.php?id=2878
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
 http://61.221.215.25:8800/hls/58/index.m3u8
 p3p://focus169.org:25271/64138361000ebac2a5932a2128c72b2e
 https://tv.iill.top/api/Animal-Planet/index.m3u8
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
-p3p://focus169.org:25271/6413838c000428cca593cf656569021f
-p3p://focus169.org:25271/6413837500016343a59374d77edf394b
 http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 https://live.catvod.com/?id=L2xyL2RMUU9uUFRCakJJeTZDNmVWTjZnVkNfdXBDMnl4VTJncE5fNFZQbmFBbXxjZD02ZmIxMTUzNiZjbj0xZTBkNTg0YyZjcD0xZDI1ZWUzNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=5d1d2125458ac630bb15de5ccc842470
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://211.23.95.147:18881/live/21_h265.ts
-p3p://focus169.org:25271/64138278000b9ab8a58f9b2b5a106790
-p3p://focus169.org:25271/6413828d000cff1da58fed8f7d2719cf
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 http://74.91.26.218:82/live/ftv.m3u8
 rtmp://f13h.mine.nu/sat/tv051
@@ -148,12 +139,9 @@ http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
 http://61.221.215.25:8800/hls/47/index.m3u8
 http://211.23.95.147:18881/live/39_h265.ts
-http://xsmt.ccwu.cc/xsmt/smt.php?id=1967
 https://gptapi.passwdword.xyz/live/encrypted/ZGE0MmMxZGM0YmRlM2Y1MTFlZjQxMGMxNWU5NzY3YWQ6MGYwNDY3ZmRkZWQ4MmI3ZDBmNmNmN2I3M2Y1MzllYTYxNjQ3YmRjYzVkZTkzMDM0NjU5NmZjODA1NTAxYzcwOTEzODQzZmVhNzMxYjY5NGQxMTA4ZmNjYzhkY2YwYmQ0M2I4NGUwYTk2NzIwMjJmMjhkNmNiMTRkNDVmOGRhNDExOGIyYWY2NTlmMDFlYzVhMDhiNGJmNzNlMGRlNzFlNWQ5NDZiMmUxNTVjOGU5NjRiY2U3ODg4Mzg5NWFiOGVkYTUwNGVhYjYwNjBiNDNmNzZmZGU2OGQxZDYyMzMzNTk4ZGFhZDYwZGJhZjc3NzU3YzU3ZTJhMzY1NTMzYzQxMjNlODgzMzM4MjEyMDRhZTk1MGUwNWRlYmY3MWFhZmE5MzhiNjMzNDQyMjI1NzE0MjY0NWI0NWMwODI2YTM5NmEyZmNkYzU0ZmE0MDhhMTA3NzQwZGZmYmJlOGExODMzZmI1Yjg2MjhiOGUzOTAxMDBiZDllZGJjZWMwMDhjYmQ3?username=tg_0ypy6s61
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 " group-title="台湾",中天综合
 http://211.23.95.147:18881/live/36_h265.ts
-http://xsmt.ccwu.cc/xsmt/smt.php?id=741
-https://live.catvod.com/?id=L2xyL2RMUU9uUFQyalduQnZaZ0dWV0ljdkMwdXBDMnl4VTJncE5fNFZQbmFBbXxjZD1jYmZiYTdlOSZjbj02ZTdiYTQ0NyZjcD0wNmVjMDg1MCZjdT00YjZhNTk2ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=52c58b8134d9bc0b4a5fa588d7b54c27
 https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
 rtmp://9svd1.mine.nu/sat/tv331
