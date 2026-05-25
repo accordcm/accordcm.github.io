@@ -545,9 +545,6 @@ https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 https://www.4gtv.tv/channel/4gtv-live168?set=1&ch=461
 https://cdn.19891230.eu.org/4gtv/4gtv-live168/index.m3u8
-#EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
-https://live.catvod.com/live.php?token=1322e58d505e1bf4eeb2ebad226c6cd6010148dc17aa489e9e010287764fd38d&id=foxnews_twn
-http://49.213.188.67:5052/smart.php?id=foxnews_twn&token=885252
 #EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" group-title="新闻频道",CNN
 http://125.227.210.55:8166/VideoInput/play.ts
 http://142.171.248.206:5050/smart.php?id=cnn_twn&token=885252
@@ -761,7 +758,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 https://nl.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 tvg-name="Neco Channel" tvg-logo="https://logo.catvod.com/Neco Channel.png" group-title="日本",Neco Channel
 https://nl.utako.moe/neco/index.m3u8
-
 #EXTINF:-1 tvg-name="Dlife" tvg-logo="https://logo.catvod.com/Dlife.png" group-title="日本",Dlife
 https://nl.utako.moe/dlife/index.m3u8
 #EXTINF:-1 tvg-name="Toei Channel" tvg-logo="https://logo.catvod.com/Toei Channel.png" group-title="日本",Toei Channel
