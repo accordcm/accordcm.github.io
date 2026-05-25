@@ -116,6 +116,7 @@
             "quickSearch": 1,
             "filterable": 0
         },
+
 	
 		{
             "key": "番號資源",
@@ -125,7 +126,38 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },  
+        },
+
+		{
+            "key": "茅台资源",
+            "name": "茅台资源",
+            "type": 0,
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+
+        {
+            "key": "黃色倉庫",
+            "name": "黃色倉庫",
+            "type": 0,
+            "api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+
+		{
+            "key": "杏吧资源",
+            "name": "杏吧资源",
+            "type": 0,
+            "api": "https://xingba222.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+		
         {
             "key": "9號资源",
             "name": "9號资源",
@@ -136,10 +168,10 @@
             "filterable": 0
         },
 	    {
-            "key": "大地资源",
-            "name": "大地资源",
+            "key": "小雞资源",
+            "name": "小雞资源",
             "type": 0,
-            "api": "https://dadiapi.com/api.php",
+            "api": "https://api.xiaojizy.live/provide/vod",
             "searchable": 0,
             "quickSearch": 0
         },
@@ -153,10 +185,10 @@
             "filterable": 0
         },
         {
-            "key": "番号资源",
-            "name": "番号资源",
+            "key": "CK伦理资源",
+            "name": "CK伦理资源",
             "type": 1,
-            "api": "http://fhapi9.com/api.php/provide/vod/",
+            "api": "https://ckzy.me/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
