@@ -463,6 +463,7 @@ https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="STAR movie" group-title="電影频道",STAR movie
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2258
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="電影频道",东森洋片
+https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
 http://xsmt.ccwu.cc/xsmt/smt.php?id=763
 https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
 #EXTINF:-1 tvg-id="lhdy01" tvg-name="龍華电影" group-title="電影频道",龍華电影
@@ -477,6 +478,7 @@ https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
 https://smt.goiptv.us.ci/hollywoodmovies_twn/playlist.m3u8
 http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
 #EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" group-title="電影频道",HBO HD
+http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 http://xsmt.ccwu.cc/xsmt/smt.php?id=898
 https://smt.goiptv.us.ci/hbohd_twn/playlist.m3u8
 https://stream1.freetv.fun/2fda0dbc8ad206b2ea146eca06e1ae4c228af479c5eb9e98fe39f28b3a634661.m3u8
@@ -496,6 +498,7 @@ http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
 https://smt.goiptv.us.ci/axn_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="電影频道",CINEMAX
 http://211.23.95.147:18881/live/71_h265.ts
+http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
 http://xsmt.ccwu.cc/xsmt/smt.php?id=496
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2732
 https://tv.iill.top/api/Cinemax/index.m3u8
@@ -532,13 +535,13 @@ http://211.23.95.147:18881/live/dtv18_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv052/index.m3u8
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="新闻频道",寰宇新聞台
+https://cdn.19891230.eu.org/4gtv/litv-longturn14/index.m3u8
 http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
-https://cdn.19891230.eu.org/4gtv/litv-longturn14/index.m3u8
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
-http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv156/index.m3u8
+http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 http://49.213.188.67:50002/index.m3u8?pid=litv-longturn14@36&fun=TV4GTV&proxy=true&token=8852
 https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 #EXTINF:-1 tvg-id="CGTN" tvg-name="NHK新聞資訊台" group-title="新闻频道",NHK新聞資訊台
