@@ -48,8 +48,8 @@ https://cdn.19891230.eu.org/4gtv/4gtv-4gtv075/index.m3u8
 http://211.23.95.147:18881/live/50_h265.ts
 https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
-rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
+https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
@@ -339,8 +339,9 @@ https://live.ottiptv.cc/huya/23903164
 https://live.ottiptv.cc/huya/29465892
 https://live.ottiptv.cc/huya/26355857
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="周星馳專場" group-title="中国",周星馳專場
-http://81.70.10.196:35455/huya/11342412
-http://129.150.54.232:10001/huya/11342412
+https://live.ottiptv.cc/huya/11336587
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="競速專場" group-title="中国",競速專場
+https://live.ottiptv.cc/huya/29982635
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="中国",湖南卫视
 http://107.150.60.122/live/hnwshd.m3u8
 http://74.91.26.218:82/live/hnwshd.m3u8
