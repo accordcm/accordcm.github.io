@@ -52,12 +52,9 @@ http://211.23.95.147:18881/live/50_h265.ts
 https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
-https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
-mitv://64.32.9.99:7999/6d6573f701ac772d243a189958404e94.ts
-http://digital-live-pull.zegonetwork.com/live/AiFKsPywGO4PlJFOgApEFEjmjKOXUfDhoZH50OBp9PPmy.flv
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 mitv://64.32.9.99:7999/ad09fef029e62f4b30af0662ef392a7b.ts
