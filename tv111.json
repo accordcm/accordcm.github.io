@@ -2,7 +2,6 @@
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
-mitv://64.32.9.99:7999/1a1b15e335429cdfeca9281e513982ed.ts
 http://211.23.95.147:18881/live/51_h265.ts
 https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
@@ -15,6 +14,7 @@ http://106.107.242.201:50007/media-live072/index.m3u8?token=4rVRTbLhbNKI5CsxERk8
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://211.23.95.147:18881/live/58_h265.ts
 rtmp://f13h.mine.nu/sat/tv581
+mitv://64.32.9.99:7999/aa58b9531785d4649205ed9cd6831abe.ts
 http://digital-live-pull.zegonetwork.com/live/XnL8UgHti1u6107aezZlltMDbNuAnrdFtBIWRgQzr2WU5.flv
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv153/index.m3u8
@@ -56,17 +56,23 @@ https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
+mitv://64.32.9.99:7999/6d6573f701ac772d243a189958404e94.ts
 http://digital-live-pull.zegonetwork.com/live/AiFKsPywGO4PlJFOgApEFEjmjKOXUfDhoZH50OBp9PPmy.flv
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
+mitv://64.32.9.99:7999/ad09fef029e62f4b30af0662ef392a7b.ts
+mitv://64.32.9.99:7999/2929f628a4038653f33422f6cb0ea946.ts
 https://live.catvod.com/?id=L2xyL2RMUU9uUDFXaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0zYzgyZDdiMCZjbj0xZTBkNTg0YyZjcD1mZjU0ZTNlZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=f06492ac239bb8578699de1b071d658f
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
+mitv://64.32.9.99:7999/95c7e4fa671b3b4408b7ec955fa66b36.ts
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
+mitv://64.32.9.99:7999/698783f389b16ed43167e0abc3f84507.ts
 https://live.catvod.com/?id=L2xyL2RMUU9uUDFXakJJeTZDNmVWTjZnVkNfdXBDMnl4VTJncE5fNFZQbmFBbXxjZD0zYzgyZDdiMCZjbj0xZTBkNTg0YyZjcD0xZDI1ZWUzNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=f06492ac239bb8578699de1b071d658f
 http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://211.23.95.147:18881/live/21_h265.ts
+mitv://64.32.9.99:7999/2e37794e15a91664b0cb32291df0b0b8.ts
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 http://74.91.26.218:82/live/ftv.m3u8
 rtmp://f13h.mine.nu/sat/tv051
@@ -160,6 +166,7 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://211.23.95.147:18881/live/77_h265.ts
 rtmp://f13h.mine.nu/sat/tv771
 rtmp://59.124.75.138/sat/tv771
+mitv://64.32.9.99:7999/ad24fed6fe05dc5c577b4015d9316e84.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2048
 https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
@@ -216,6 +223,7 @@ http://211.23.95.147:18881/live/63_h265.ts
 http://iptv.4666888.xyz/iptv2A.php?id=54
 https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="台湾",东森洋片
+mitv://64.32.9.99:7999/1a1b15e335429cdfeca9281e513982ed.ts
 https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
 https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
@@ -246,6 +254,7 @@ http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=4rVRTbLhbNKI5CsxE
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="台湾",民視旅遊
 https://stream1.freetv.fun/3439333a186efc0756e2eba2d5dadafc25d63abc56ae450e1d9df49c0180668d.m3u8
 https://cdn.19891230.eu.org/4gtv/litv-ftv07/index.m3u8
+mitv://64.32.9.99:7999/5e205ea30002744e08c48482d54bf9a8.ts
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台"  group-title="台湾",亚洲旅游台
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv076/index.m3u8
 https://gptapi.passwdword.xyz/live/encrypted/ZjU4OGEwYzQxYjcxMzcwNjdkYTM0ZjMxZmQxMDc2N2Q6MzMwMmI4NzFhNDI4MjlmNzg4ZDQxODI1YjgyNDg0MmVlYTZkMDQ3YzhkMTk3MzNlMGQzMDBiOTk0MThlYTQxZGUyZTAwOWM0MmRlYTZjODNjYmJkNzllMjAwOWJiOWEzMGRkNWJlNzM4YzUwNjczYjFmYzgwZWZmNjc4NzE3ZDIwMDdhODU0NGE4MjdmMjI1OWZiMjk1OWJlMDYwMjU2NjQ5NjgyNzBhOGQ0Y2RlNTg0YjcxNGZiYjFiNzUyNGYyODFjMDVkMjdjYWUzYWYxNWY2ZjQzNmZhMjZkNWVkOTkwMmY3ZDc0NzgwMmM1ZDAyMzA1MWUxYzZlMWNjNjRkZWZmZDQ5ZmVlMDU5OWU3NDQwZTljNDRkZGZlZDFhNWQyZDVmMDA2ZWM2ODE3NWYyNzM1MDQzNTQzMjMyNzgzZTM5ZjY4ZGUxMTBmZDc0NjYxZmQ0ODJkYmU5ODE5ZDMwZjI4YjU1MDczNjJkNTNlZjIwODk5NTBkMGFhNTMzZDc0ZWU4Y2QwOGMxM2FhN2U0MzgzOTdjODRlYjRmODM5NmU?username=tg_0ypy6s61
@@ -266,10 +275,12 @@ http://211.23.95.147:18881/live/70_h265.ts
 http://192.129.226.68:5678/live/stream-fdaf177a-3050-4102-8d70-f8160698b2f8/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
+mitv://64.32.9.99:7999/32b44fe88515320e436ed6f2ccfa92e1.ts
 http://61.61.67.208:5678/live/stream-b82d67b5-7416-4bc8-8be9-3f76b0e5de0e/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
 http://61.61.67.208:5678/live/stream-fcf203ba-305f-4bc9-9113-e5e15e34242b/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+mitv://64.32.9.99:7999/c2396866410023896fd23e8c28a81867.ts
 P2p://starvod.xyz:19806/a0e5505257c543aa8154010cada0bc7b
 rtmp://106.107.234.156/live/livestream.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
@@ -554,28 +565,19 @@ https://cdn.19891230.eu.org/4gtv/4gtv-4gtv052/index.m3u8
 https://cdn.19891230.eu.org/4gtv/litv-longturn14/index.m3u8
 http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
 http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
-https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv156/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
-http://49.213.188.67:50002/index.m3u8?pid=litv-longturn14@36&fun=TV4GTV&proxy=true&token=8852
-https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 #EXTINF:-1 tvg-id="CGTN" tvg-name="NHK新聞資訊台" group-title="新闻频道",NHK新聞資訊台
-http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
-https://www.4gtv.tv/channel/4gtv-live168?set=1&ch=461
 https://cdn.19891230.eu.org/4gtv/4gtv-live168/index.m3u8
+http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
 #EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
-https://live.catvod.com/live.php?token=1322e58d505e1bf4eeb2ebad226c6cd6010148dc17aa489e9e010287764fd38d&id=foxnews_twn
+https://live.catvod.com/?id=L2xyL2RMUU9uUDFXald6dXhDSWU2Tm5iNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9M2M4MmQ3YjAmY249MWUwZDU4NGMmY3A9ODkxNDU5ZGQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=f06492ac239bb8578699de1b071d658f
 http://49.213.188.67:5052/smart.php?id=foxnews_twn&token=885252
 #EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" group-title="新闻频道",CNN
-http://125.227.210.55:8166/VideoInput/play.ts
-http://142.171.248.206:5050/smart.php?id=cnn_twn&token=885252
-http://106.107.237.222:5050/smart.php?id=Cnn&token=885252
+https://live.catvod.com/?id=L2xyL2RMUU9uUDFXakJuNFZyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTNjODJkN2IwJmNuPTFlMGQ1ODRjJmNwPWIxNWI2Y2JiJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=f06492ac239bb8578699de1b071d658f
 #EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
 http://125.227.210.55:8165/VideoInput/play.ts
-https://stream1.freetv.fun/24358f38712d187d2fd38cb6f4c48fa88543e025ac9a386899adec203cb10b0a.m3u8
-https://stream1.freetv.fun/8ceea8c7e1961842e551fc90916350de2838ee500e19edf3fdbf2f2c0c3561bf.m3u8
-https://stream1.freetv.fun/c5d042d56862cb15b7c1d63632f4af1d1eef22b318719cc48d0190fa4225a6f0.m3u8
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
 https://cdn.19891230.eu.org/4gtv/4gtv-live071/index.m3u8
 http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
