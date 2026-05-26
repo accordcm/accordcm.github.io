@@ -56,13 +56,11 @@ https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
-mitv://64.32.9.99:7999/6d6573f701ac772d243a189958404e94.ts
-http://digital-live-pull.zegonetwork.com/live/AiFKsPywGO4PlJFOgApEFEjmjKOXUfDhoZH50OBp9PPmy.flv
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 mitv://64.32.9.99:7999/ad09fef029e62f4b30af0662ef392a7b.ts
-mitv://64.32.9.99:7999/2929f628a4038653f33422f6cb0ea946.ts
 https://live.catvod.com/?id=L2xyL2RMUU9uUDFXaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0zYzgyZDdiMCZjbj0xZTBkNTg0YyZjcD1mZjU0ZTNlZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=f06492ac239bb8578699de1b071d658f
+mitv://64.32.9.99:7999/2929f628a4038653f33422f6cb0ea946.ts
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
 mitv://64.32.9.99:7999/95c7e4fa671b3b4408b7ec955fa66b36.ts
