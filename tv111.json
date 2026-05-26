@@ -58,11 +58,10 @@ http://211.23.95.147:18881/live/49_h265.ts
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 mitv://64.32.9.99:7999/ad09fef029e62f4b30af0662ef392a7b.ts
-mitv://64.32.9.99:7999/2929f628a4038653f33422f6cb0ea946.ts
 https://live.catvod.com/?id=L2xyL2RMUU9uUDFXaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0zYzgyZDdiMCZjbj0xZTBkNTg0YyZjcD1mZjU0ZTNlZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=f06492ac239bb8578699de1b071d658f
+mitv://64.32.9.99:7999/2929f628a4038653f33422f6cb0ea946.ts
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
-mitv://64.32.9.99:7999/95c7e4fa671b3b4408b7ec955fa66b36.ts
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
 mitv://64.32.9.99:7999/698783f389b16ed43167e0abc3f84507.ts
 https://live.catvod.com/?id=L2xyL2RMUU9uUDFXakJJeTZDNmVWTjZnVkNfdXBDMnl4VTJncE5fNFZQbmFBbXxjZD0zYzgyZDdiMCZjbj0xZTBkNTg0YyZjcD0xZDI1ZWUzNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=f06492ac239bb8578699de1b071d658f
@@ -71,11 +70,11 @@ http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 http://211.23.95.147:18881/live/21_h265.ts
 mitv://64.32.9.99:7999/2e37794e15a91664b0cb32291df0b0b8.ts
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
 http://74.91.26.218:82/live/ftv.m3u8
 rtmp://f13h.mine.nu/sat/tv051
 https://stream1.freetv.fun/3de1bef9bfa7e28ddac0d0c4982736636d3b61978f2f2525d9133f7afcff0884.ctv
 http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
 #EXTINF:-1 tvg-id="台視" tvg-name="台視"  group-title="台湾",台視
 http://211.23.95.147:18881/live/dtv14_h265.ts
 https://cdn.19891230.eu.org/api/TTV/index.m3u8
@@ -96,8 +95,8 @@ rtmp://f13h.mine.nu/sat/tv111y
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
 http://74.91.26.218:82/live/ftvtw.m3u8
 http://211.23.95.147:18881/live/dtv10_h265.ts
-http://106.107.242.201:50007/4gtv-live401/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv001/index.m3u8
+http://106.107.242.201:50007/4gtv-live401/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" group-title="台湾",民視第一台
 http://211.23.95.147:18881/live/dtv8_h265.ts
 http://74.91.26.218:82/live/ftvdy.m3u8
@@ -391,6 +390,7 @@ http://107.150.60.122/live/dfwshd.m3u8
 http://211.23.95.147:18881/live/dtv38_h265.ts
 #EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="中国",北京卫视
 https://cdn.19891230.eu.org/api/bjws/index.m3u8
+mitv://64.32.9.99:7999/95c7e4fa671b3b4408b7ec955fa66b36.ts
 http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 http://153.0.171.163:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="中国",深圳卫视
