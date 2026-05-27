@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epg.yang-1989.eu.org/epg.xml.gz"
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
 http://211.23.95.147:18881/live/51_h265.ts
 https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=4rVRTbLhbNKI5CsxERk84ON7ERbQoVaDhDdlNaBHDY5t3fiGJ02k0dRTduEPjJm7
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
