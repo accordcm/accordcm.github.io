@@ -432,8 +432,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=49
 https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8
 http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=faqYa5fl7nRnVJb0R4f9ryvA4EvNleLhQBlKUNGiRD4QOr806ThWOpsMUNa82kZQ
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="東森幼幼 Yoyo TV" group-title="兒童卡通",東森幼幼 Yoyo TV
-https://cdn.19891230.eu.org/api/YoYo-TV/index.m3u8
 http://211.23.95.147:18881/live/25_h265.ts
+https://cdn.19891230.eu.org/api/YoYo-TV/index.m3u8
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
 https://cdn.19891230.eu.org/4gtv/litv-xinchuang20/index.m3u8
 http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=faqYa5fl7nRnVJb0R4f9ryvA4EvNleLhQBlKUNGiRD4QOr806ThWOpsMUNa82kZQ
