@@ -130,11 +130,9 @@ http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
 http://211.23.95.147:18881/live/42_h265.ts
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv068/index.m3u8
-http://xsmt.ccwu.cc/xsmt/smt.php?id=1936
 http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=faqYa5fl7nRnVJb0R4f9ryvA4EvNleLhQBlKUNGiRD4QOr806ThWOpsMUNa82kZQ
 http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
 rtmp://f13h.mine.nu/sat/tv421
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv068/index.m3u8
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台"  group-title="台湾",TVBS精采台
 http://iptv.4666888.xyz/iptv2A.php?id=47
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv067/index.m3u8
