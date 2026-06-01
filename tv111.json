@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
 https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
+https://tv123.cc.cd/live.php/?ch=3ac67377443
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=faqYa5fl7nRnVJb0R4f9ryvA4EvNleLhQBlKUNGiRD4QOr806ThWOpsMUNa82kZQ
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
@@ -26,6 +27,7 @@ http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=faqYa5fl7nRnVJb0R4f9r
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
 http://211.23.95.147:18881/live/dtv15_h265.ts
 http://74.91.26.218:82/live/ttvnews.m3u8
+https://tv123.cc.cd/live.php/?ch=42347b6c476
 https://cdn.yang-1989.eu.org/ofiii/4gtv-4gtv051
 https://stream1.freetv.fun/acf759885e73c2111d803506fcfa512f1e81c53c08993f536b1c24a1f305a2fd.m3u8
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
@@ -50,7 +52,9 @@ http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=faqYa5fl7nRnVJb0R4f9r
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
 https://cdn.19891230.eu.org/api/Era-News/index.m3u8
+https://tv123.cc.cd/live.php/?ch=7bbb8e70436
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
+https://tv123.cc.cd/live.php/?ch=cb8ca1ca440
 rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=faqYa5fl7nRnVJb0R4f9ryvA4EvNleLhQBlKUNGiRD4QOr806ThWOpsMUNa82kZQ
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
@@ -78,6 +82,7 @@ http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=faqYa5fl7nRnVJb0R4f9r
 #EXTINF:-1 tvg-id="台視" tvg-name="台視"  group-title="台湾",台視
 http://211.23.95.147:18881/live/dtv14_h265.ts
 https://cdn.19891230.eu.org/api/TTV/index.m3u8
+https://tv123.cc.cd/live.php/?ch=ccbebb27475
 http://74.91.26.218:82/live/ttv.m3u8
 rtmp://f13h.mine.nu/sat/tv071
 rtmp://59.124.75.138/sat/tv071
@@ -94,11 +99,13 @@ rtmp://59.124.75.138/sat/tv111
 rtmp://f13h.mine.nu/sat/tv111y
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
 http://74.91.26.218:82/live/ftvtw.m3u8
+https://tv123.cc.cd/live.php/?ch=c30dd11b485
 http://211.23.95.147:18881/live/dtv10_h265.ts
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv001/index.m3u8
 http://106.107.242.201:50007/4gtv-live401/index.m3u8?token=faqYa5fl7nRnVJb0R4f9ryvA4EvNleLhQBlKUNGiRD4QOr806ThWOpsMUNa82kZQ
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" group-title="台湾",民視第一台
 http://211.23.95.147:18881/live/dtv8_h265.ts
+https://tv123.cc.cd/live.php/?ch=9f85881e489
 http://74.91.26.218:82/live/ftvdy.m3u8
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv003/index.m3u8
 mitv://64.32.9.99:7999/5e205ea30002744e08c48482d54bf9a8.ts
@@ -117,6 +124,7 @@ http://192.129.226.68:5678/live/stream-de022abf-14ca-41d0-b476-924610b19a48/inde
 http://23.128.116.71:5589/live.php?id=sanlidouhui_twn&h=23.128.116.71&p=22364&token=1768656088.71792c6eb5cad5cf0b18fea078d4b239afcebabadce35bd9315d491180a5e404
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyhe8D9-CeEZQOFp7zCqF24LuwRx6fPqGc9nVvRCSe8pURtD_rOyCY6te_lShE5e2UFnSlpJaPU9DnssY8P3sF0i-MGMgUUcjuPGzZVw7xPTPtxPe_0wca7LHPCUozbRcdFbsDj6-AD8DwPLxqTPhE-H3p6MpbpgmNwqIJjSMOxe7JembWOda5yJwdZG8QtJHRw.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
+https://tv123.cc.cd/live.php/?ch=f825f238491
 http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=faqYa5fl7nRnVJb0R4f9ryvA4EvNleLhQBlKUNGiRD4QOr806ThWOpsMUNa82kZQ
 http://23.128.116.71:5589/live.php?id=sanlizhonghe&h=23.128.116.71&p=22364&token=1768656088.492115de19636f0cd4cf03421832bbed5f62da67f42781bc53be1a0faaf20858
 https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8
@@ -159,6 +167,7 @@ https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrJr0JpJ4YG-0D2dlO03Xx9kE5_TelraDakln8Fybn2hnwUt6dVS2agyGKeywcmE986yBp3VcHnmGrdm-4Yv7AM18p8CncJ2JJdCtCmHj2al_kmi_yaVKmJLnzf-HENeJysMzBP9NGsL5OAMn_sZ3GX73iz7c7su3PBgE7ATDc1l5D2dTM3oGoMCaPHscvkQJg.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
 http://211.23.95.147:18881/live/77_h265.ts
+https://tv123.cc.cd/live.php/?ch=f50755a7430
 rtmp://f13h.mine.nu/sat/tv771
 rtmp://59.124.75.138/sat/tv771
 mitv://64.32.9.99:7999/ad24fed6fe05dc5c577b4015d9316e84.ts
@@ -166,8 +175,8 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=2048
 https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
 https://cdn.19891230.eu.org/api/VL-ONTV/index.m3u8
+https://tv123.cc.cd/live.php/?ch=1244a5e8433
 http://211.23.95.147:18881/live/26_h265.ts
-http://xsmt.ccwu.cc/xsmt/smt.php?id=2053
 https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykA_uiEpHvW03tNX4HngqJnGzfHmgPSIB9CXLj3ovIrxDJIHt1drFnazqDOw_YzFTfMA5eIk3p9r3cwIQFU5cpfdb46Yrp_4-ygB0D7K8DEktWz0apes_3G6uQylmpLzDiHsKnTryo0sthj4TrINlSY6xYdWNOmoGD0OYxkOnvsu2WRKzud8UPVeERrSMQGtUw.m3u8?u=1756878715
 https://gptapi.passwdword.xyz/live/encrypted/MThmYjBlMmIwZmU4ZDFkODI2ZGRkNzAzOGZmMDQzYjM6Zjc4YTdiOTZkMTNlNjU2NzNiNzI4NGU4ZDEyYjc1ZmZiN2Y5YTg5M2FmN2U5ZDkyOGNiOThhOWE2ZjUxNGY4OTkwZTEyMzc1N2M1ZGUxZmE4YjA1ZmJiM2RmZGZhYTkxMjVhMDZjN2M2M2I4YmEwOTllMWIyMDNlMjhiNzcxMDEzYTZiOGNiMTIwZTcxMTRmMzRlZTkwN2FjMjdkOWE3MWRkMDEwZTJhZTQ4YThkOGQ5ZjlkMDExZjU4OGU5YzRiNGM4NDU1MGU4NmQ1M2MwMjcxMGQzNGI1ZDMzOTU4OWM5YWNmZmI2NjQwMzc1M2UyMmMxOTE2OGNmZDZmYTQ3Y2E5NDYyNDk0ZTRkNDA0Yjg4NzgwZGI5Yjc3ZjBkMDVlZGQzNDVhMTQ3NjAzOWZkZjkyZWIwMjJjMDBiMjZiOGNjNWI4ZjYyZTdkOTM3MjMyYmJkNDQxMWNjZDJjMDIxMTM2OWNmYjUyNmQyNTk5MTJlNWIzMmNmMWJjMjI5NjVh?username=tg_0ypy6s61
@@ -191,6 +200,7 @@ http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
 http://211.23.114.106:8521/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大綜藝台 " group-title="台湾",八大綜藝
 http://165.154.226.214:50007/li-4gtv-4gtv039/index.m3u8?proxy=true
+https://tv123.cc.cd/live.php/?ch=d48217fa474
 https://iptv.852851.xyz/ch/99658c11ae4549774ee7be76da9e1615/master.m3u8
 http://106.107.242.201:50007/4gtv-4gtv039/index.m3u8?token=faqYa5fl7nRnVJb0R4f9ryvA4EvNleLhQBlKUNGiRD4QOr806ThWOpsMUNa82kZQ
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv039/index.m3u8
@@ -466,6 +476,7 @@ https://cdn.19891230.eu.org/4gtv/4gtv-4gtv011/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=faqYa5fl7nRnVJb0R4f9ryvA4EvNleLhQBlKUNGiRD4QOr806ThWOpsMUNa82kZQ
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" group-title="電影频道",amc 電影台
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv017/index.m3u8
+https://tv123.cc.cd/live.php/?ch=e53e03a6513
 https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 http://211.23.95.147:18881/live/69_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv017/index.m3u8?token=faqYa5fl7nRnVJb0R4f9ryvA4EvNleLhQBlKUNGiRD4QOr806ThWOpsMUNa82kZQ
@@ -566,6 +577,7 @@ http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=faqYa5fl7nRnVJb0R4f9r
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
+https://tv123.cc.cd/live.php/?ch=2cbc2853573
 http://iptv.4666888.xyz/iptv2A.php?id=34
 https://mytv.cdn.loc.cc/o12.php?id=fct
 https://o11.163189.xyz/stream/tvb/fct4k/
@@ -581,16 +593,21 @@ https://cdn6.163189.xyz/163189/wxxw
 https://o11.163189.xyz/stream/tvb/tvbp/
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="香港",ViuTV
+https://tv123.cc.cd/live.php/?ch=bc2cebc3589
 https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
 #EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="香港",ViuTV 6
+https://tv123.cc.cd/live.php/?ch=a5412198590
 https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
 #EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="香港",RTHK 31
+https://tv123.cc.cd/live.php/?ch=87022437591
 http://cdn.163189.xyz/163189/rthk31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="" group-title="香港",RTHK 32
+https://tv123.cc.cd/live.php/?ch=a5706184592
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 http://49.213.188.67:5052/smart.php?id=rhk32_twn&token=885252
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="香港",HOY TV
+https://tv123.cc.cd/live.php/?ch=f5563773585
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="香港",凤凰中文
 http://r.jdshipin.com/cCCzW
