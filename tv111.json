@@ -186,10 +186,12 @@ http://211.23.95.147:18881/live/dtv5_h265.ts
 #EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
 http://211.23.95.147:18881/live/dtv23_h265.ts
 https://cdn.19891230.eu.org/4gtv/4gtv-live007/index.m3u8
+https://tv123.cc.cd/live.php/?ch=eb9b748e562
 http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmgrc6Cj9bnaXGBfHBsZOYOMy-bA6Py8QYbR5L4AUnAzGok1kOIHtEl5ogSVL0zq6swebJiAfnb8RtT_81CXgXq0lkLrfdMonXitV_lF8BL27ZmJKF-03n3L7mcYj_Gd1D7ZUgLCsh7Y4BiLiENKAGFgj4BqOkWktD7PQE-sf8c71LRRfzum8DGioF2BYbNIacChsAg1xC4wGXeoGW3_PQA.m3u8?u=1756878715
 https://cdn.19891230.eu.org/4gtv/4gtv-live106/index.m3u8
+https://tv123.cc.cd/live.php/?ch=d98c14be563
+https://tv123.cc.cd/live.php/?ch=7a21ed6c2181
 http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
 http://211.23.95.147:18881/live/27_h265.ts
@@ -467,6 +469,7 @@ http://125.227.210.55:8167/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="電影频道",美亚电影
 mitv://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
+https://tv123.cc.cd/live.php/?ch=fae21aef977
 P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
 https://live.catvod.com/?id=L2xyL2RMUU9uUDFOaldhZXZaZXlWVWZXdlVxYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTI2ZDA5NjJkJmNuPTFlMGQ1ODRjJmNwPWMwMDVmYmI3JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=f06492ac239bb8578699de1b071d658f
 http://74.91.26.218:82/live/mydy.m3u8
@@ -559,6 +562,7 @@ https://cdn.19891230.eu.org/4gtv/4gtv-4gtv156/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="CGTN" tvg-name="NHK新聞資訊台" group-title="新闻频道",NHK新聞資訊台
 https://cdn.19891230.eu.org/4gtv/4gtv-live168/index.m3u8
+https://tv123.cc.cd/live.php/?ch=11ac5975504
 http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
 https://live.catvod.com/?id=L2xyL2RMUU9uUDFXald6dXhDSWU2Tm5iNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9M2M4MmQ3YjAmY249MWUwZDU4NGMmY3A9ODkxNDU5ZGQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=f06492ac239bb8578699de1b071d658f
@@ -569,9 +573,11 @@ https://live.catvod.com/?id=L2xyL2RMUU9uUDFXakJuNFZyZk9WQ3NJVkNlbDZpSU1kTjBofGNk
 http://125.227.210.55:8165/VideoInput/play.ts
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
 https://cdn.19891230.eu.org/4gtv/4gtv-live071/index.m3u8
+https://tv123.cc.cd/live.php/?ch=ddba298c502
 http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" group-title="新闻频道",France 24
 https://cdn.19891230.eu.org/4gtv/4gtv-live146/index.m3u8
+https://tv123.cc.cd/live.php/?ch=7be984c1503
 http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 
 #EXTM3U
