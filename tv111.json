@@ -593,10 +593,10 @@ https://cdn6.163189.xyz/163189/wxxw
 https://o11.163189.xyz/stream/tvb/tvbp/
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="香港",ViuTV
-https://tv123.cc.cd/live.php/?ch=bc2cebc3589
+https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
 https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
 #EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="香港",ViuTV 6
-https://tv123.cc.cd/live.php/?ch=a5412198590
+https://cdn.19891230.eu.org/hk/ViuTVsix/index.m3u8
 https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
 #EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="香港",RTHK 31
 https://tv123.cc.cd/live.php/?ch=87022437591
@@ -607,8 +607,8 @@ https://tv123.cc.cd/live.php/?ch=a5706184592
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 http://49.213.188.67:5052/smart.php?id=rhk32_twn&token=885252
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="香港",HOY TV
-https://tv123.cc.cd/live.php/?ch=f5563773585
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+https://tv123.cc.cd/live.php/?ch=f5563773585
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="香港",凤凰中文
 http://r.jdshipin.com/cCCzW
 http://r.jdshipin.com/0Rp07
