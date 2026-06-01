@@ -24,9 +24,9 @@ http://74.91.26.218:82/live/ftvnews.m3u8
 http://211.23.95.147:18881/live/dtv9_h265.ts
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=faqYa5fl7nRnVJb0R4f9ryvA4EvNleLhQBlKUNGiRD4QOr806ThWOpsMUNa82kZQ
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
-https://cdn.yang-1989.eu.org/ofiii/4gtv-4gtv051
 http://211.23.95.147:18881/live/dtv15_h265.ts
 http://74.91.26.218:82/live/ttvnews.m3u8
+https://cdn.yang-1989.eu.org/ofiii/4gtv-4gtv051
 https://stream1.freetv.fun/acf759885e73c2111d803506fcfa512f1e81c53c08993f536b1c24a1f305a2fd.m3u8
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
 https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8
