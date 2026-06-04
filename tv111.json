@@ -507,7 +507,6 @@ http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=gQ0VSbIPIRJr5Kgtu
 http://211.23.95.147:18881/live/68_h265.ts
 https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
 https://smt.goiptv.us.ci/hollywoodmovies_twn/playlist.m3u8
-http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
 #EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" group-title="電影频道",HBO HD
 http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 mitv://64.32.9.99:7999/b3195b4a5321641710713b534d83c607.ts
@@ -628,7 +627,6 @@ https://tv.iill.top/phenix/fhhk
 
 
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd01
 https://uk.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gd02
@@ -636,19 +634,14 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=gd02
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gd03
 https://uk.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd04
 https://uk.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://logo.catvod.com/Fuji TV.png" group-title="日本",Fuji TV
-https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd05
 https://uk.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
-https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd06
 https://uk.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://logo.catvod.com/TV Tokyo.png" group-title="日本",TV Tokyo
-https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd07
 https://uk.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd08
 https://uk.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 tvg-name="MBS" tvg-logo="https://logo.catvod.com/MBS.png" group-title="日本",MBS
 https://uk.utako.moe/mbs/index.m3u8
@@ -663,7 +656,6 @@ https://uk.utako.moe/ytv/index.m3u8
 #EXTINF:-1 tvg-name="KBS" tvg-logo="https://logo.catvod.com/KBS.png" group-title="日本",KBS
 https://uk.utako.moe/kbs/index.m3u8
 #EXTINF:-1 tvg-name="SUN" tvg-logo="https://logo.catvod.com/SUN.png" group-title="日本",SUN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 https://uk.utako.moe/suntv/index.m3u8
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://logo.catvod.com/NHK BS.png" group-title="日本",NHK BS
 https://uk.utako.moe/NHK_BS/index.m3u8
@@ -684,73 +676,65 @@ https://uk.utako.moe/bs10/index.m3u8
 https://tv123.cc.cd/live.php/?ch=df2c422c81
 https://uk.utako.moe/BS11/index.m3u8
 #EXTINF:-1 tvg-name="BS12" tvg-logo="https://logo.catvod.com/BS12.png" group-title="日本",BS12
-https://tv123.cc.cd/live.php/?ch=a7d3f28d82
 https://uk.utako.moe/bs12/index.m3u8
 #EXTINF:-1 tvg-name="NHK BS4K" tvg-logo="https://logo.catvod.com/NHK BS4K.png" group-title="日本",NHK BS4K
 https://uk.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 tvg-name="BS TV Tokyo 4K (test)" tvg-logo="https://logo.catvod.com/BS TV Tokyo 4K (test).png" group-title="日本",BS TV Tokyo 4K (test)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 https://uk.utako.moe/bstx4k/index.m3u8
 #EXTINF:-1 tvg-name="WOWOW Prime" tvg-logo="https://logo.catvod.com/WOWOW Prime.png" group-title="日本",WOWOW Prime
- https://uk.utako.moe/wprime/index.m3u8
+https://uk.utako.moe/wprime/index.m3u8
 #EXTINF:-1 tvg-name="WOWOW Cinema" tvg-logo="https://logo.catvod.com/WOWOW Cinema.png" group-title="日本",WOWOW Cinema
- https://uk.utako.moe/wcinema/index.m3u8
+https://uk.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 tvg-name="WOWOW Live" tvg-logo="https://logo.catvod.com/WOWOW Live.png" group-title="日本",WOWOW Live
- https://uk.utako.moe/wlive/index.m3u8
+https://uk.utako.moe/wlive/index.m3u8
 #EXTINF:-1 tvg-name="BS 10 Star Channel" tvg-logo="https://logo.catvod.com/BS 10 Star Channel.png" group-title="日本",BS 10 Star Channel
- https://uk.utako.moe/bs10_star/index.m3u8
+https://uk.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 tvg-name="JSport 1" tvg-logo="https://logo.catvod.com/JSport 1.png" group-title="日本",JSport 1
- https://uk.utako.moe/js1/index.m3u8
+https://uk.utako.moe/js1/index.m3u8
 #EXTINF:-1 tvg-name="JSport 2" tvg-logo="https://logo.catvod.com/JSport 2.png" group-title="日本",JSport 2
- https://uk.utako.moe/js2/index.m3u8
+https://uk.utako.moe/js2/index.m3u8
 #EXTINF:-1 tvg-name="JSport 3" tvg-logo="https://logo.catvod.com/JSport 3.png" group-title="日本",JSport 3
  https://uk.utako.moe/js3/index.m3u8
 #EXTINF:-1 tvg-name="JSport 4" tvg-logo="https://logo.catvod.com/JSport 4.png" group-title="日本",JSport 4
- https://uk.utako.moe/js4/index.m3u8
+https://uk.utako.moe/js4/index.m3u8
 #EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://logo.catvod.com/Green Channel.png" group-title="日本",Green Channel
- https://uk.utako.moe/green/index.m3u8
+https://uk.utako.moe/green/index.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="日本",Animax
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
 https://mt02.utako.moe/Animax/index.m3u8
 #EXTINF:-1 tvg-name="Nihon Eiga Senmon" tvg-logo="https://logo.catvod.com/Nihon Eiga Senmon.png" group-title="日本",Nihon Eiga Senmon
- https://mt02.utako.moe/nihoneiga/index.m3u8
+https://mt02.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 tvg-name="Sky A" tvg-logo="https://logo.catvod.com/Sky A.png" group-title="日本",Sky A
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 https://mt02.utako.moe/skya/index.m3u8
 #EXTINF:-1 tvg-name="Gaora Sports" tvg-logo="https://logo.catvod.com/Gaora Sports.png" group-title="日本",Gaora Sports
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 https://uk.utako.moe/gaora/index.m3u8
 #EXTINF:-1 tvg-name="AT-X" tvg-logo="https://logo.catvod.com/AT-X.png" group-title="日本",AT-X
- https://uk.utako.moe/AT-X/index.m3u8
+https://uk.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 tvg-name="Space Shower TV" tvg-logo="https://logo.catvod.com/Space Shower TV.png" group-title="日本",Space Shower TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 https://uk.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://logo.catvod.com/MTV.png" group-title="日本",MTV
- https://uk.utako.moe/mtv/index.m3u8
+https://uk.utako.moe/mtv/index.m3u8
 #EXTINF:-1 tvg-name="Kayo Pops" tvg-logo="https://logo.catvod.com/Kayo Pops.png" group-title="日本",Kayo Pops
- https://uk.utako.moe/kayopops/index.m3u8
+https://uk.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://logo.catvod.com/Disney Channel.png" group-title="日本",Disney Channel
- https://uk.utako.moe/disneychan/index.m3u8
+https://uk.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Japan" tvg-logo="https://logo.catvod.com/Cartoon Network Japan.png" group-title="日本",Cartoon Network 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
- https://uk.utako.moe/cartoon_network/index.m3u8
+https://uk.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-name="Nittele G+" tvg-logo="https://logo.catvod.com/Nittele G+.png" group-title="日本",Nittele G+
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 https://uk.utako.moe/ntvgplus/index.m3u8
 #EXTINF:-1 tvg-name="Family Gekijyo" tvg-logo="https://logo.catvod.com/Family Gekijyo.png" group-title="日本",Family Gekijyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
 https://mt02.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 tvg-name="Mondo TV" tvg-logo="https://logo.catvod.com/Mondo TV.png" group-title="日本",Mondo TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 https://mt02.utako.moe/mondo/index.m3u8
 #EXTINF:-1 tvg-name="TBS Channel 1" tvg-logo="https://logo.catvod.com/TBS Channel 1.png" group-title="日本",TBS Channel 1
- https://mt02.utako.moe/tbsch1/index.m3u8
+https://mt02.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 tvg-name="TBS Channel 2" tvg-logo="https://logo.catvod.com/TBS Channel 2.png" group-title="日本",TBS Channel 2
- https://mt02.utako.moe/tbsch2/index.m3u8
+https://mt02.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 tvg-name="TV Asahi Channel 1" tvg-logo="https://logo.catvod.com/TV Asahi Channel 1.png" group-title="日本",TV Asahi Channel 1
- https://mt02.utako.moe/ex_ch1/index.m3u8
+https://mt02.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 tvg-name="TV Asahi Channel 2" tvg-logo="https://logo.catvod.com/TV Asahi Channel 2.png" group-title="日本",TV Asahi Channel 2
- https://uk.utako.moe/ex_ch2/index.m3u8
+https://uk.utako.moe/ex_ch2/index.m3u8
 #EXTINF:-1 tvg-name="Fuji TV ONE" tvg-logo="https://logo.catvod.com/Fuji TV ONE.png" group-title="日本",Fuji TV ONE
  https://uk.utako.moe/fuji_one/index.m3u8
 #EXTINF:-1 tvg-name="Fuji TV TWO" tvg-logo="https://logo.catvod.com/Fuji TV TWO.png" group-title="日本",Fuji TV TWO
@@ -761,15 +745,15 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 #EXTINF:-1 tvg-name="Neco Channel" tvg-logo="https://logo.catvod.com/Neco Channel.png" group-title="日本",Neco Channel
 https://uk.utako.moe/neco/index.m3u8
 #EXTINF:-1 tvg-name="Dlife" tvg-logo="https://logo.catvod.com/Dlife.png" group-title="日本",Dlife
- https://uk.utako.moe/dlife/index.m3u8
+https://uk.utako.moe/dlife/index.m3u8
 #EXTINF:-1 tvg-name="Toei Channel" tvg-logo="https://logo.catvod.com/Toei Channel.png" group-title="日本",Toei Channel
- https://uk.utako.moe/toei/index.m3u8
+https://uk.utako.moe/toei/index.m3u8
 #EXTINF:-1 tvg-name="Fighting TV Samurai" tvg-logo="https://logo.catvod.com/Fighting TV Samurai.png" group-title="日本",Fighting TV Samurai
- https://uk.utako.moe/fighting_tv/index.m3u8
+https://uk.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 tvg-name="Entermei Tele" tvg-logo="https://logo.catvod.com/Entermei Tele.png" group-title="日本",Entermei Tele
- https://uk.utako.moe/entermei_tele/index.m3u8
+https://uk.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 tvg-name="Sport Live Plus" tvg-logo="https://logo.catvod.com/Sport Live Plus.png" group-title="日本",Sport Live Plus
- https://uk.utako.moe/sport_live_plus/index.m3u8
+https://uk.utako.moe/sport_live_plus/index.m3u8
 #EXTINF:-1 tvg-name="Home Drama Channel" tvg-logo="https://logo.catvod.com/Home Drama Channel.png" group-title="日本",Home Drama Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 https://uk.utako.moe/homedrama/index.m3u8
