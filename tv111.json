@@ -62,11 +62,7 @@ http://211.23.95.147:18881/live/49_h265.ts
 mitv://64.32.9.99:7999/6d6573f701ac772d243a189958404e94.ts
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
-mitv://64.32.9.99:7999/ad09fef029e62f4b30af0662ef392a7b.ts
-https://live.catvod.com/?id=L2xyL2RMUU9uUDFXaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0zYzgyZDdiMCZjbj0xZTBkNTg0YyZjcD1mZjU0ZTNlZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=f06492ac239bb8578699de1b071d658f
 mitv://64.32.9.99:7999/2929f628a4038653f33422f6cb0ea946.ts
-#EXTINF:-1 tvg-id="DMAX_twn" tvg-name="DMAX" group-title="台湾",DMAX
-mitv://64.32.9.99:7999/7c7cc8ebb284f0565c4930ec9a937b40.ts
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
@@ -286,6 +282,7 @@ P2p://starvod.xyz:19806/a0e5505257c543aa8154010cada0bc7b
 rtmp://106.107.234.156/live/livestream.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
 http://192.129.226.68:5678/live/stream-fe77596f-b5f3-468d-aeba-3deba8bb34bd/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+mitv://64.32.9.99:7999/5d4436990004002b1371769086142d81.ts
 rtmp://f13h.mine.nu/sat/md041
 rtmp://106.107.177.219/live/livestream.m3u8
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯运动 1" group-title="台湾",博斯运动 1
@@ -306,6 +303,7 @@ http://106.107.242.201:50007/litv-xinchuang09/index.m3u8?token=gQ0VSbIPIRJr5Kgtu
 https://cdn.19891230.eu.org/tw/Tennis-Channel/index.m3u8
 #EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="博斯無限1" group-title="台湾",博斯無限1
 https://cdn.19891230.eu.org/tw/Unlimited-Channel/index.m3u8
+mitv://64.32.9.99:7999/0a418a341263209b89ef90a853154d99.ts
 http://106.107.242.201:50007/litv-xinchuang10/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="博斯無限2" group-title="台湾",博斯無限2
 https://cdn.19891230.eu.org/tw/Unlimited-Channel-2/index.m3u8
@@ -567,10 +565,11 @@ https://cdn.19891230.eu.org/4gtv/4gtv-live168/index.m3u8
 https://tv123.cc.cd/live.php/?ch=11ac5975504
 http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
-https://live.catvod.com/?id=L2xyL2RMUU9uUDFXald6dXhDSWU2Tm5iNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9M2M4MmQ3YjAmY249MWUwZDU4NGMmY3A9ODkxNDU5ZGQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=f06492ac239bb8578699de1b071d658f
-http://49.213.188.67:5052/smart.php?id=foxnews_twn&token=885252
+mitv://64.32.9.99:7999/8518826cc4034b8bc8e3e86961e3f192.ts
+mitv://64.32.9.99:7999/0a4346f1f63028c5998e9f48445d235f.ts
 #EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" group-title="新闻频道",CNN
-https://live.catvod.com/?id=L2xyL2RMUU9uUDFXakJuNFZyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTNjODJkN2IwJmNuPTFlMGQ1ODRjJmNwPWIxNWI2Y2JiJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=f06492ac239bb8578699de1b071d658f
+mitv://64.32.9.99:7999/93b49b4d0e61b567ca2f200a3e7720f7.ts
+mitv://64.32.9.99:7999/09e75fc9a17f94bbaf7380d23f202787.ts
 #EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
 http://125.227.210.55:8165/VideoInput/play.ts
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
@@ -630,8 +629,10 @@ https://tv.iill.top/phenix/fhhk
 
 
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
+mitv://64.32.9.99:7999/73f9163ee21afc17d13ef3bb510d9bf1.ts
 https://uk.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gd02
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gd03
@@ -668,6 +669,7 @@ https://uk.utako.moe/suntv/index.m3u8
 mitv://64.32.9.99:7999/76c8f3807771dbe8d41e0f0f5787bf10.ts
 https://uk.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 tvg-name="BS NTV" tvg-logo="https://logo.catvod.com/BS NTV.png" group-title="日本",BS NTV
+mitv://64.32.9.99:7999/00ffe5e2f9f248ecce51c248c054fbd5.ts
 https://uk.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 tvg-name="BS Asahi" tvg-logo="https://logo.catvod.com/BS Asahi.png" group-title="日本",BS Asahi
 https://uk.utako.moe/bsasahi/index.m3u8
@@ -688,6 +690,7 @@ https://uk.utako.moe/BS11/index.m3u8
 #EXTINF:-1 tvg-name="BS12" tvg-logo="https://logo.catvod.com/BS12.png" group-title="日本",BS12
 https://uk.utako.moe/bs12/index.m3u8
 #EXTINF:-1 tvg-name="NHK BS4K" tvg-logo="https://logo.catvod.com/NHK BS4K.png" group-title="日本",NHK BS4K
+mitv://64.32.9.99:7999/45bd38e10a392eaec21ea7633c088963.ts
 https://uk.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 tvg-name="BS TV Tokyo 4K (test)" tvg-logo="https://logo.catvod.com/BS TV Tokyo 4K (test).png" group-title="日本",BS TV Tokyo 4K (test)
 https://uk.utako.moe/bstx4k/index.m3u8
