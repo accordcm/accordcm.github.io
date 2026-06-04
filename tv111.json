@@ -65,6 +65,8 @@ http://211.23.95.147:18881/live/19_h265.ts
 mitv://64.32.9.99:7999/ad09fef029e62f4b30af0662ef392a7b.ts
 https://live.catvod.com/?id=L2xyL2RMUU9uUDFXaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0zYzgyZDdiMCZjbj0xZTBkNTg0YyZjcD1mZjU0ZTNlZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=f06492ac239bb8578699de1b071d658f
 mitv://64.32.9.99:7999/2929f628a4038653f33422f6cb0ea946.ts
+#EXTINF:-1 tvg-id="DMAX_twn" tvg-name="DMAX" group-title="台湾",DMAX
+mitv://64.32.9.99:7999/7c7cc8ebb284f0565c4930ec9a937b40.ts
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
@@ -468,6 +470,7 @@ http://125.227.210.55:8167/VideoInput/play.ts
 
 
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="電影频道",美亚电影
+mitv://64.32.9.99:7999/7c6fb2cb638f3005dabaa8ffa5b9d6c2.ts
 mitv://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
 https://tv123.cc.cd/live.php/?ch=fae21aef977
 P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
@@ -636,12 +639,15 @@ https://uk.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
 https://uk.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://logo.catvod.com/Fuji TV.png" group-title="日本",Fuji TV
+mitv://64.32.9.99:7999/fc49182f4215483bd79e21b4d2025c87.ts
 https://uk.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
 https://uk.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://logo.catvod.com/TV Tokyo.png" group-title="日本",TV Tokyo
+mitv://64.32.9.99:7999/f5fadf9bb5781ea36bcc2ea76671c0db.ts
 https://uk.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
+mitv://64.32.9.99:7999/7388a9a98fa43d0a535872082bccc53d.ts
 https://uk.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 tvg-name="MBS" tvg-logo="https://logo.catvod.com/MBS.png" group-title="日本",MBS
 https://uk.utako.moe/mbs/index.m3u8
@@ -654,16 +660,20 @@ https://uk.utako.moe/kansaitv/index.m3u8
 #EXTINF:-1 tvg-name="ytv" tvg-logo="https://logo.catvod.com/ytv.png" group-title="日本",ytv
 https://uk.utako.moe/ytv/index.m3u8
 #EXTINF:-1 tvg-name="KBS" tvg-logo="https://logo.catvod.com/KBS.png" group-title="日本",KBS
+mitv://64.32.9.99:7999/a4c891966905d4f8723c00c4cf83b2f0.ts
 https://uk.utako.moe/kbs/index.m3u8
 #EXTINF:-1 tvg-name="SUN" tvg-logo="https://logo.catvod.com/SUN.png" group-title="日本",SUN
 https://uk.utako.moe/suntv/index.m3u8
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://logo.catvod.com/NHK BS.png" group-title="日本",NHK BS
+mitv://64.32.9.99:7999/76c8f3807771dbe8d41e0f0f5787bf10.ts
 https://uk.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 tvg-name="BS NTV" tvg-logo="https://logo.catvod.com/BS NTV.png" group-title="日本",BS NTV
 https://uk.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 tvg-name="BS Asahi" tvg-logo="https://logo.catvod.com/BS Asahi.png" group-title="日本",BS Asahi
 https://uk.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://logo.catvod.com/BS TBS.png" group-title="日本",BS TBS
+mitv://64.32.9.99:7999/797003eecced09476e74db4fedcc2be4.ts
+mitv://64.32.9.99:7999/aea8fb5d3955b2e65fd5d736d2a6ba32.ts
 https://uk.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://logo.catvod.com/BS TV Tokyo.png" group-title="日本",BS TV Tokyo
 https://uk.utako.moe/TV_Tokyo/index.m3u8
@@ -708,6 +718,7 @@ https://mt02.utako.moe/skya/index.m3u8
 #EXTINF:-1 tvg-name="Gaora Sports" tvg-logo="https://logo.catvod.com/Gaora Sports.png" group-title="日本",Gaora Sports
 https://uk.utako.moe/gaora/index.m3u8
 #EXTINF:-1 tvg-name="AT-X" tvg-logo="https://logo.catvod.com/AT-X.png" group-title="日本",AT-X
+mitv://64.32.9.99:7999/99a520c169cd539095993a95d2e08abc.ts
 https://uk.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 tvg-name="Space Shower TV" tvg-logo="https://logo.catvod.com/Space Shower TV.png" group-title="日本",Space Shower TV
 https://uk.utako.moe/spaceshower/index.m3u8
