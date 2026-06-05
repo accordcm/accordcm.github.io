@@ -81,6 +81,22 @@
             ]
         },
 		{
+         "key": "天涯资源",
+         "name": "天涯资源(有三级片)",
+         "type": 0,
+         "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
+         "searchable": 1,
+         "quickSearch": 1
+        },
+	   {
+        "key": "iKun资源",
+        "name": "iKun资源(有三级片)",
+        "type": 0,
+        "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+        "searchable": 1,
+        "quickSearch": 1
+       },
+		{
           "key": "didizy.com",
           "name": "滴滴 💋",
           "type": 1,
@@ -98,6 +114,16 @@
            "quickSearch": 1,
            "filterable": 0
         },
+		{
+          "key": "大地采集",
+          "name": "🐬大地av｜🔞",
+          "type": 0,
+          "api": "https://dadiapi.com/apple_m3u8.php",
+          "playUrl": "https://play.dadiapi.com/watch?url=",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0
+         },
 		 {
           "key": "影视",
           "name": "影視💋",
@@ -106,7 +132,7 @@
 		  "searchable": 1,
            "quickSearch": 1,
            "filterable": 0
-    },
+        },
 		{
             "key": "色猫資源",
             "name": "色猫資源",
@@ -115,9 +141,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-
-		{
+         },
+		 {
+            "key": "香蕉资源",
+            "name": "🐬香蕉资源🔞",
+            "type": 0,
+            "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 0
+         },
+		 {
             "key": "番號資源",
             "name": "番號資源",
             "type": 0,
@@ -125,8 +158,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-
+         },
+	     {
+           "key": "*番号资源",
+           "name": "🐬番号资源｜🔞",
+           "type": 1,
+           "api": "http://fhapi9.com/api.php/provide/vod/",
+           "searchable": 0,
+           "quickSearch": 0,
+           "filterable": 0
+         },
 		{
             "key": "杏吧资源",
             "name": "杏吧资源",
