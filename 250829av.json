@@ -91,7 +91,7 @@
         },
 		{
          "key": "天涯资源",
-         "name": "天涯资源(有三级片)",
+         "name": "天涯资源",
          "type": 0,
          "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
          "searchable": 1,
@@ -99,7 +99,7 @@
         },
 	   {
         "key": "iKun资源",
-        "name": "iKun资源(有三级片)",
+        "name": "iKun资源",
         "type": 0,
         "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
         "searchable": 1,
