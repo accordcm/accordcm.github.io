@@ -8,8 +8,8 @@ https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
-mitv://64.32.9.99:7999/80284a143b5f12c755570504cca71b70.ts
 https://cdn.19891230.eu.org/4gtv/media-live072/index.m3u8
+http://61.221.215.25:8800/hls/9/index.m3u8
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 http://106.107.242.201:50007/media-live072/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
@@ -27,11 +27,9 @@ http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw67
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
 http://211.23.95.147:18881/live/dtv15_h265.ts
 http://74.91.26.218:82/live/ttvnews.m3u8
-https://tv123.cc.cd/live.php/?ch=42347b6c476
-https://cdn.yang-1989.eu.org/ofiii/4gtv-4gtv051
-https://stream1.freetv.fun/acf759885e73c2111d803506fcfa512f1e81c53c08993f536b1c24a1f305a2fd.m3u8
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
 https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8
+https://cdn.yang-1989.eu.org/ofiii/4gtv-4gtv051
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 http://211.23.95.147:18881/live/dtv2_h265.ts
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv074/index.m3u8
@@ -254,7 +252,7 @@ http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=gQ0VSbIPIRJr5Kgtu
 https://cdn.19891230.eu.org/4gtv/litv-ftv07/index.m3u8
 https://stream1.freetv.fun/3439333a186efc0756e2eba2d5dadafc25d63abc56ae450e1d9df49c0180668d.m3u8
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台"  group-title="台湾",亚洲旅游台
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv076/index.m3u8
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv035/index.m3u8
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" group-title="台湾",愛爾達娛樂
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv070/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
@@ -584,6 +582,7 @@ http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw67
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
+https://test.19891230.eu.org/hk/J/index.m3u8
 https://tv123.cc.cd/live.php/?ch=2cbc2853573
 http://iptv.4666888.xyz/iptv2A.php?id=34
 https://mytv.cdn.loc.cc/o12.php?id=fct
@@ -597,6 +596,7 @@ https://o11.163189.xyz/stream/tvb/mzt/
 http://r.jdshipin.com/CkuBd
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="" group-title="香港",TVBPLUS
+https://test.19891230.eu.org/hk/TVB-Plus/index.m3u8
 https://o11.163189.xyz/stream/tvb/tvbp/
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="香港",ViuTV
