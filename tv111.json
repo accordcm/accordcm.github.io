@@ -629,10 +629,10 @@ https://tv.iill.top/phenix/fhhk
 
 
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
-mitv://64.32.9.99:7999/73f9163ee21afc17d13ef3bb510d9bf1.ts
+https://tv123.cc.cd/live.php?ch=541b7c8b1
 https://uk.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+https://tv123.cc.cd/live.php?ch=f754bb162
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gd02
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gd03
