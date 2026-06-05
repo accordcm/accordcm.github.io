@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
 https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 https://tv123.cc.cd/live.php/?ch=3ac67377443
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
@@ -33,6 +34,7 @@ https://cdn.yang-1989.eu.org/ofiii/4gtv-4gtv051
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 http://211.23.95.147:18881/live/dtv2_h265.ts
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv074/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://74.91.26.218:82/live/ctsnews.m3u8
@@ -50,7 +52,6 @@ http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw67
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
 https://cdn.19891230.eu.org/api/Era-News/index.m3u8
-https://tv123.cc.cd/live.php/?ch=7bbb8e70436
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 https://tv123.cc.cd/live.php/?ch=cb8ca1ca440
 rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
@@ -60,10 +61,14 @@ http://211.23.95.147:18881/live/49_h265.ts
 mitv://64.32.9.99:7999/6d6573f701ac772d243a189958404e94.ts
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
+http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 mitv://64.32.9.99:7999/2929f628a4038653f33422f6cb0ea946.ts
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
+http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
+https://tvpass.org/live/NationalGeographicEast/hd
+https://tvpass.org/live/NationalGeographicWildEast/hd
 http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 mitv://64.32.9.99:7999/698783f389b16ed43167e0abc3f84507.ts
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
@@ -71,20 +76,20 @@ http://211.23.95.147:18881/live/21_h265.ts
 mitv://64.32.9.99:7999/2e37794e15a91664b0cb32291df0b0b8.ts
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
-http://74.91.26.218:82/live/ftv.m3u8
+ http://74.91.26.218:82/live/ftv.m3u8
 rtmp://f13h.mine.nu/sat/tv051
 https://stream1.freetv.fun/3de1bef9bfa7e28ddac0d0c4982736636d3b61978f2f2525d9133f7afcff0884.ctv
 http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="台視" tvg-name="台視"  group-title="台湾",台視
 http://211.23.95.147:18881/live/dtv14_h265.ts
 https://cdn.19891230.eu.org/api/TTV/index.m3u8
-https://tv123.cc.cd/live.php/?ch=ccbebb27475
 http://74.91.26.218:82/live/ttv.m3u8
 rtmp://f13h.mine.nu/sat/tv071
 rtmp://59.124.75.138/sat/tv071
 #EXTINF:-1 tvg-id="中視" tvg-name="中視"  group-title="台湾",中視
 rtmp://f13h.mine.nu:1935/sat/tv091
 rtmp://f13h.mine.nu/sat/tv091
+http://74.91.26.218:82/live/ctv.m3u8
 http://211.23.95.147:18881/live/dtv1_h265.ts
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv040/index.m3u8
 #EXTINF:-1 tvg-id="華視" tvg-name="華視"  group-title="台湾",華視
@@ -95,16 +100,13 @@ rtmp://59.124.75.138/sat/tv111
 rtmp://f13h.mine.nu/sat/tv111y
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
 http://74.91.26.218:82/live/ftvtw.m3u8
-https://tv123.cc.cd/live.php/?ch=c30dd11b485
 http://211.23.95.147:18881/live/dtv10_h265.ts
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv001/index.m3u8
 http://106.107.242.201:50007/4gtv-live401/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" group-title="台湾",民視第一台
 http://211.23.95.147:18881/live/dtv8_h265.ts
-https://tv123.cc.cd/live.php/?ch=9f85881e489
 http://74.91.26.218:82/live/ftvdy.m3u8
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv003/index.m3u8
-mitv://64.32.9.99:7999/5e205ea30002744e08c48482d54bf9a8.ts
 http://106.107.242.201:50007/4gtv-live403/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" group-title="台湾",民視綜藝
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv004/index.m3u8
@@ -113,17 +115,14 @@ http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw67
 #EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="三立台湾台" group-title="台湾",三立台湾台
 http://211.23.95.147:18881/live/29_h265.ts
 http://192.129.226.68:5678/live/stream-eefa8ba0-ca8f-4860-821c-3efd67680f23/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-http://23.128.116.71:5589/live.php?id=sanlitaiwan&h=23.128.116.71&p=22364&token=1768656088.86691cca94504da575d8df777cf38454e46d310d063477dfb6dc26c93a6a248f
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立都會HD" group-title="台湾",三立都會HD
 http://211.23.95.147:18881/live/30_h265.ts
 http://192.129.226.68:5678/live/stream-de022abf-14ca-41d0-b476-924610b19a48/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-http://23.128.116.71:5589/live.php?id=sanlidouhui_twn&h=23.128.116.71&p=22364&token=1768656088.71792c6eb5cad5cf0b18fea078d4b239afcebabadce35bd9315d491180a5e404
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyhe8D9-CeEZQOFp7zCqF24LuwRx6fPqGc9nVvRCSe8pURtD_rOyCY6te_lShE5e2UFnSlpJaPU9DnssY8P3sF0i-MGMgUUcjuPGzZVw7xPTPtxPe_0wca7LHPCUozbRcdFbsDj6-AD8DwPLxqTPhE-H3p6MpbpgmNwqIJjSMOxe7JembWOda5yJwdZG8QtJHRw.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
-https://tv123.cc.cd/live.php/?ch=f825f238491
-http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
-http://23.128.116.71:5589/live.php?id=sanlizhonghe&h=23.128.116.71&p=22364&token=1768656088.492115de19636f0cd4cf03421832bbed5f62da67f42781bc53be1a0faaf20858
 https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8
+http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立戲劇台" group-title="台湾",三立戲劇台
+http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8
