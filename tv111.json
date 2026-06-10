@@ -652,13 +652,11 @@ https://uk.utako.moe/suntv/index.m3u8
 mitv://64.32.9.99:7999/76c8f3807771dbe8d41e0f0f5787bf10.ts
 https://uk.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 tvg-name="BS NTV" tvg-logo="https://logo.catvod.com/BS NTV.png" group-title="日本",BS NTV
-mitv://64.32.9.99:7999/00ffe5e2f9f248ecce51c248c054fbd5.ts
 https://uk.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 tvg-name="BS Asahi" tvg-logo="https://logo.catvod.com/BS Asahi.png" group-title="日本",BS Asahi
 https://uk.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://logo.catvod.com/BS TBS.png" group-title="日本",BS TBS
 mitv://64.32.9.99:7999/797003eecced09476e74db4fedcc2be4.ts
-mitv://64.32.9.99:7999/aea8fb5d3955b2e65fd5d736d2a6ba32.ts
 https://uk.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://logo.catvod.com/BS TV Tokyo.png" group-title="日本",BS TV Tokyo
 https://uk.utako.moe/TV_Tokyo/index.m3u8
@@ -690,7 +688,7 @@ https://uk.utako.moe/js1/index.m3u8
 #EXTINF:-1 tvg-name="JSport 2" tvg-logo="https://logo.catvod.com/JSport 2.png" group-title="日本",JSport 2
 https://uk.utako.moe/js2/index.m3u8
 #EXTINF:-1 tvg-name="JSport 3" tvg-logo="https://logo.catvod.com/JSport 3.png" group-title="日本",JSport 3
- https://uk.utako.moe/js3/index.m3u8
+https://uk.utako.moe/js3/index.m3u8
 #EXTINF:-1 tvg-name="JSport 4" tvg-logo="https://logo.catvod.com/JSport 4.png" group-title="日本",JSport 4
 https://uk.utako.moe/js4/index.m3u8
 #EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://logo.catvod.com/Green Channel.png" group-title="日本",Green Channel
@@ -733,12 +731,12 @@ https://mt02.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 tvg-name="TV Asahi Channel 2" tvg-logo="https://logo.catvod.com/TV Asahi Channel 2.png" group-title="日本",TV Asahi Channel 2
 https://uk.utako.moe/ex_ch2/index.m3u8
 #EXTINF:-1 tvg-name="Fuji TV ONE" tvg-logo="https://logo.catvod.com/Fuji TV ONE.png" group-title="日本",Fuji TV ONE
- https://uk.utako.moe/fuji_one/index.m3u8
+https://uk.utako.moe/fuji_one/index.m3u8
 #EXTINF:-1 tvg-name="Fuji TV TWO" tvg-logo="https://logo.catvod.com/Fuji TV TWO.png" group-title="日本",Fuji TV TWO
- https://uk.utako.moe/fuji_two/index.m3u8
+https://uk.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 tvg-name="Fuji TV NEXT" tvg-logo="https://logo.catvod.com/Fuji TV NEXT.png" group-title="日本",Fuji TV NEXT
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
- https://uk.utako.moe/fuji_next/index.m3u8
+https://uk.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 tvg-name="Neco Channel" tvg-logo="https://logo.catvod.com/Neco Channel.png" group-title="日本",Neco Channel
 https://uk.utako.moe/neco/index.m3u8
 #EXTINF:-1 tvg-name="Dlife" tvg-logo="https://logo.catvod.com/Dlife.png" group-title="日本",Dlife
