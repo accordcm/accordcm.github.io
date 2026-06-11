@@ -63,7 +63,6 @@ https://live.catvod.com/?id=L2xyL2RMUU9uTFRPaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNz
 http://211.23.95.147:18881/live/22_h265.ts
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
-https://live.catvod.com/?id=L2xyL2RMUU9uTFRPakJJeTZDNmVWN2ZPVkNzSVZDZWw2aUlNZE4waHxjZD05MDExODYwMyZjbj0xZTBkNTg0YyZjcD1kMzlkODJjYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=c7e2bf35ec63f591c5e09b4a6e8c457c
 http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://211.23.95.147:18881/live/21_h265.ts
@@ -115,29 +114,24 @@ http://192.129.226.68:5678/live/stream-de022abf-14ca-41d0-b476-924610b19a48/inde
 https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8
 http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立戲劇台" group-title="台湾",三立戲劇台
-http://61.221.215.25:8800/hls/41/index.m3u8
+https://live.catvod.com/?id=L2xyL2RMUU9uTFRPak5ueVZSMmd4Q2VLNnFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9OTAxMTg2MDMmY249MWUwZDU4NGMmY3A9YTIyZmM3NzUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=c7e2bf35ec63f591c5e09b4a6e8c457c
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8
 http://rihou.cc:555/tv/hktv/tb19tw0812tw
 http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 http://61.221.215.25:8800/hls/9/index.m3u8
-http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
 http://211.23.95.147:18881/live/42_h265.ts
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv068/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
-http://211.23.114.106:8553/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
-rtmp://f13h.mine.nu/sat/tv421
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台"  group-title="台湾",TVBS精采台
-http://iptv.4666888.xyz/iptv2A.php?id=47
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv067/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
 http://61.221.215.25:8800/hls/47/index.m3u8
 http://211.23.95.147:18881/live/39_h265.ts
 http://192.129.226.68:5678/live/stream-f1692e94-380a-4b0a-b484-fa21257f507c/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-https://gptapi.passwdword.xyz/live/encrypted/ZGE0MmMxZGM0YmRlM2Y1MTFlZjQxMGMxNWU5NzY3YWQ6MGYwNDY3ZmRkZWQ4MmI3ZDBmNmNmN2I3M2Y1MzllYTYxNjQ3YmRjYzVkZTkzMDM0NjU5NmZjODA1NTAxYzcwOTEzODQzZmVhNzMxYjY5NGQxMTA4ZmNjYzhkY2YwYmQ0M2I4NGUwYTk2NzIwMjJmMjhkNmNiMTRkNDVmOGRhNDExOGIyYWY2NTlmMDFlYzVhMDhiNGJmNzNlMGRlNzFlNWQ5NDZiMmUxNTVjOGU5NjRiY2U3ODg4Mzg5NWFiOGVkYTUwNGVhYjYwNjBiNDNmNzZmZGU2OGQxZDYyMzMzNTk4ZGFhZDYwZGJhZjc3NzU3YzU3ZTJhMzY1NTMzYzQxMjNlODgzMzM4MjEyMDRhZTk1MGUwNWRlYmY3MWFhZmE5MzhiNjMzNDQyMjI1NzE0MjY0NWI0NWMwODI2YTM5NmEyZmNkYzU0ZmE0MDhhMTA3NzQwZGZmYmJlOGExODMzZmI1Yjg2MjhiOGUzOTAxMDBiZDllZGJjZWMwMDhjYmQ3?username=tg_0ypy6s61
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 " group-title="台湾",中天综合
 https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
 http://211.23.95.147:18881/live/36_h265.ts
