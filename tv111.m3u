@@ -114,7 +114,7 @@ http://192.129.226.68:5678/live/stream-de022abf-14ca-41d0-b476-924610b19a48/inde
 https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8
 http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立戲劇台" group-title="台湾",三立戲劇台
-https://live.catvod.com/?id=L2xyL2RMUU9uTFRPak5ueVZSMmd4Q2VLNnFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9OTAxMTg2MDMmY249MWUwZDU4NGMmY3A9YTIyZmM3NzUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=c7e2bf35ec63f591c5e09b4a6e8c457c
+http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
 https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8
 http://rihou.cc:555/tv/hktv/tb19tw0812tw
