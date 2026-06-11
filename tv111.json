@@ -48,13 +48,14 @@ http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=rpKOWfui47ZeJP1HPLZqG
 http://211.23.95.147:18881/live/50_h265.ts
 https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
-https://tv123.cc.cd/live.php/?ch=cb8ca1ca440
-rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
+https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
 mitv://64.32.9.99:7999/6d6573f701ac772d243a189958404e94.ts
+http://211.23.95.147:18881/live/104_h265.ts
+#EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
+http://211.23.95.147:18881/live/54_h265.ts
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 http://61.221.215.25:8800/hls/50/index.m3u8
@@ -70,6 +71,7 @@ http://211.23.95.147:18881/live/21_h265.ts
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
 http://74.91.26.218:82/live/ftv.m3u8
 rtmp://f13h.mine.nu/sat/tv051
+http://211.23.95.147:18881/live/dtv7_h265.ts
 https://stream1.freetv.fun/3de1bef9bfa7e28ddac0d0c4982736636d3b61978f2f2525d9133f7afcff0884.ctv
 http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="台視" tvg-name="台視"  group-title="台湾",台視
@@ -115,7 +117,7 @@ https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8
 https://tv123.cc.cd/live.php?ch=85814429182
 http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立戲劇台" group-title="台湾",三立戲劇台
-https://live.catvod.com/?id=L2xyL2RMUU9uTFRPak5ueVZSMmd4Q2VLNnFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9OTAxMTg2MDMmY249MWUwZDU4NGMmY3A9YTIyZmM3NzUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=c7e2bf35ec63f591c5e09b4a6e8c457c
+http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
 https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8
 http://rihou.cc:555/tv/hktv/tb19tw0812tw
@@ -292,12 +294,15 @@ https://cdn.19891230.eu.org/4gtv/4gtv-live144/index.m3u8
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
 rtmp://f13h.mine.nu/sat/tv731
 http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+http://211.23.95.147:18881/live/73_h265.ts
 https://stream1.freetv.fun/06b6214f3d5ee5f7d354b14fe53ac947012b5e07efc6d1b2b8599a5200bdafa5.m3u8
 #EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" group-title="台湾",DAZN 2
 rtmp://f13h.mine.nu/sat/tv741
+http://211.23.95.147:18881/live/74_h265.ts
 http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv006/index.m3u8
+https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
 https://cdn.19891230.eu.org/4gtv/4gtv-live047/index.m3u8
@@ -639,7 +644,7 @@ https://uk.utako.moe/kbs/index.m3u8
 #EXTINF:-1 tvg-name="SUN" tvg-logo="https://logo.catvod.com/SUN.png" group-title="日本",SUN
 https://uk.utako.moe/suntv/index.m3u8
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://logo.catvod.com/NHK BS.png" group-title="日本",NHK BS
-mitv://64.32.9.99:7999/76c8f3807771dbe8d41e0f0f5787bf10.ts
+http://211.23.95.147:18881/live/dtv39_h265.ts
 https://uk.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 tvg-name="BS NTV" tvg-logo="https://logo.catvod.com/BS NTV.png" group-title="日本",BS NTV
 https://uk.utako.moe/bsntv/index.m3u8
@@ -648,7 +653,7 @@ https://uk.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://logo.catvod.com/BS TBS.png" group-title="日本",BS TBS
 https://uk.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://logo.catvod.com/BS TV Tokyo.png" group-title="日本",BS TV Tokyo
-https://uk.utako.moe/TV_Tokyo/index.m3u8
+http://211.23.95.147:18881/live/dtv40_h265.ts
 #EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://logo.catvod.com/BS Fuji.png" group-title="日本",BS Fuji
 https://uk.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 tvg-name="BS10" tvg-logo="https://logo.catvod.com/BS10.png" group-title="日本",BS10
