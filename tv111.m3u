@@ -48,13 +48,13 @@ http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=rpKOWfui47ZeJP1HPLZqG
 http://211.23.95.147:18881/live/50_h265.ts
 https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
-https://tv123.cc.cd/live.php/?ch=cb8ca1ca440
-rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
 mitv://64.32.9.99:7999/6d6573f701ac772d243a189958404e94.ts
+http://211.23.95.147:18881/live/104_h265.ts
+#EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
+http://211.23.95.147:18881/live/54_h265.ts
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 http://61.221.215.25:8800/hls/50/index.m3u8
@@ -70,6 +70,7 @@ http://211.23.95.147:18881/live/21_h265.ts
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
 http://74.91.26.218:82/live/ftv.m3u8
 rtmp://f13h.mine.nu/sat/tv051
+http://211.23.95.147:18881/live/dtv7_h265.ts
 https://stream1.freetv.fun/3de1bef9bfa7e28ddac0d0c4982736636d3b61978f2f2525d9133f7afcff0884.ctv
 http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="台視" tvg-name="台視"  group-title="台湾",台視
@@ -112,9 +113,8 @@ http://211.23.95.147:18881/live/30_h265.ts
 http://192.129.226.68:5678/live/stream-de022abf-14ca-41d0-b476-924610b19a48/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
 https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8
+https://tv123.cc.cd/live.php?ch=85814429182
 http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
-#EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立戲劇台" group-title="台湾",三立戲劇台
-http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
 https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8
 http://rihou.cc:555/tv/hktv/tb19tw0812tw
@@ -291,12 +291,15 @@ https://cdn.19891230.eu.org/4gtv/4gtv-live144/index.m3u8
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
 rtmp://f13h.mine.nu/sat/tv731
 http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+http://211.23.95.147:18881/live/73_h265.ts
 https://stream1.freetv.fun/06b6214f3d5ee5f7d354b14fe53ac947012b5e07efc6d1b2b8599a5200bdafa5.m3u8
 #EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" group-title="台湾",DAZN 2
 rtmp://f13h.mine.nu/sat/tv741
+http://211.23.95.147:18881/live/74_h265.ts
 http://211.23.114.106:8555/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv006/index.m3u8
+https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
 https://cdn.19891230.eu.org/4gtv/4gtv-live047/index.m3u8
@@ -326,7 +329,6 @@ mitv://starvod.xyz:19806/1cd1505d309948e596459856926cda41.ts
 https://o11.163189.xyz/stream/live/iqiyi/
 http://iptv.4666888.xyz/iptv2A.php?id=21
 mitv://64.32.9.99:7999/cdca23900eff43363303ac0953c99769.ts
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="變形記專場" group-title="中国",變形記專場
@@ -622,3 +624,45 @@ https://uk.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
 https://tv123.cc.cd/live.php?ch=243b498a8
 https://uk.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://logo.catvod.com/BS TV Tokyo.png" group-title="日本",BS TV Tokyo
+http://211.23.95.147:18881/live/dtv40_h265.ts
+#EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://logo.catvod.com/BS Fuji.png" group-title="日本",BS Fuji
+https://uk.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 tvg-name="BS10" tvg-logo="https://logo.catvod.com/BS10.png" group-title="日本",BS10
+https://tv123.cc.cd/live.php/?ch=ca7a457f80
+https://uk.utako.moe/bs10/index.m3u8
+#EXTINF:-1 tvg-name="BS11" tvg-logo="https://logo.catvod.com/BS11.png" group-title="日本",BS11
+https://tv123.cc.cd/live.php?ch=13d3982225
+https://uk.utako.moe/BS11/index.m3u8
+#EXTINF:-1 tvg-name="BS12" tvg-logo="https://logo.catvod.com/BS12.png" group-title="日本",BS12
+https://tv123.cc.cd/live.php?ch=c1305cce26
+https://uk.utako.moe/bs12/index.m3u8
+#EXTINF:-1 tvg-name="Space Shower TV" tvg-logo="https://logo.catvod.com/Space Shower TV.png" group-title="日本",Space Shower TV
+https://tv123.cc.cd/live.php?ch=85f85df513
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://logo.catvod.com/MTV.png" group-title="日本",MTV
+https://tv123.cc.cd/live.php?ch=c031f7a414
+#EXTINF:-1 tvg-name="Cartoon Network Japan" tvg-logo="https://logo.catvod.com/Cartoon Network Japan.png" group-title="日本",Cartoon Network 
+https://tv123.cc.cd/live.php?ch=4ad480a920
+https://uk.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 tvg-name="Nittele G+" tvg-logo="https://logo.catvod.com/Nittele G+.png" group-title="日本",Nittele G+
+https://tv123.cc.cd/live.php?ch=0e4e851721
+https://uk.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 tvg-name="Family Gekijyo" tvg-logo="https://logo.catvod.com/Family Gekijyo.png" group-title="日本",Family Gekijyo
+https://tv123.cc.cd/live.php?ch=786179a223
+https://mt02.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 tvg-name="Mondo TV" tvg-logo="https://logo.catvod.com/Mondo TV.png" group-title="日本",Mondo TV
+https://tv123.cc.cd/live.php?ch=7a040ee524
+#EXTINF:-1 tvg-name="TBS Channel 1" tvg-logo="https://logo.catvod.com/TBS Channel 1.png" group-title="日本",TBS Channel 1
+https://tv123.cc.cd/live.php?ch=13d3982225
+#EXTINF:-1 tvg-name="TBS Channel 2" tvg-logo="https://logo.catvod.com/TBS Channel 2.png" group-title="日本",TBS Channel 2
+https://tv123.cc.cd/live.php?ch=c1305cce26
+#EXTINF:-1 tvg-name="TV Asahi Channel 1" tvg-logo="https://logo.catvod.com/TV Asahi Channel 1.png" group-title="日本",TV Asahi Channel 1
+https://tv123.cc.cd/live.php?ch=c73742c127
+#EXTINF:-1 tvg-name="TV Asahi Channel 2" tvg-logo="https://logo.catvod.com/TV Asahi Channel 2.png" group-title="日本",TV Asahi Channel 2
+https://tv123.cc.cd/live.php?ch=fdc4fb3d28
+#EXTINF:-1 tvg-name="Fuji TV ONE" tvg-logo="https://logo.catvod.com/Fuji TV ONE.png" group-title="日本",Fuji TV ONE
+https://tv123.cc.cd/live.php?ch=4e2dabef29
+#EXTINF:-1 tvg-name="Fuji TV TWO" tvg-logo="https://logo.catvod.com/Fuji TV TWO.png" group-title="日本",Fuji TV TWO
+https://tv123.cc.cd/live.php?ch=c601c1a130
+#EXTINF:-1 tvg-name="Fuji TV NEXT" tvg-logo="https://logo.catvod.com/Fuji TV NEXT.png" group-title="日本",Fuji TV NEXT
+https://tv123.cc.cd/live.php?ch=c2abc1c931
