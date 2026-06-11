@@ -48,7 +48,6 @@ http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=rpKOWfui47ZeJP1HPLZqG
 http://211.23.95.147:18881/live/50_h265.ts
 https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
-https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
@@ -56,7 +55,6 @@ mitv://64.32.9.99:7999/6d6573f701ac772d243a189958404e94.ts
 http://211.23.95.147:18881/live/104_h265.ts
 #EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
 http://211.23.95.147:18881/live/54_h265.ts
-https://4gtv.158.qzz.io/163189/6fb8aec9-e4b2-4bed-8832-b5e9cce4a830/
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 http://61.221.215.25:8800/hls/50/index.m3u8
@@ -117,8 +115,6 @@ http://192.129.226.68:5678/live/stream-de022abf-14ca-41d0-b476-924610b19a48/inde
 https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8
 https://tv123.cc.cd/live.php?ch=85814429182
 http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
-#EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立戲劇台" group-title="台湾",三立戲劇台
-P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
 https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8
 http://rihou.cc:555/tv/hktv/tb19tw0812tw
@@ -667,7 +663,6 @@ https://uk.utako.moe/BS11/index.m3u8
 https://tv123.cc.cd/live.php?ch=c1305cce26
 https://uk.utako.moe/bs12/index.m3u8
 #EXTINF:-1 tvg-name="NHK BS4K" tvg-logo="https://logo.catvod.com/NHK BS4K.png" group-title="日本",NHK BS4K
-mitv://64.32.9.99:7999/45bd38e10a392eaec21ea7633c088963.ts
 https://uk.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 tvg-name="BS TV Tokyo 4K (test)" tvg-logo="https://logo.catvod.com/BS TV Tokyo 4K (test).png" group-title="日本",BS TV Tokyo 4K (test)
 https://uk.utako.moe/bstx4k/index.m3u8
