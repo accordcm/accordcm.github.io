@@ -200,6 +200,7 @@ http://211.23.95.147:18881/live/67_h265.ts
 http://211.23.95.147:18881/live/71_h265.ts
 https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="台湾",龍華洋片
+http://cdn8.163189.xyz/163189/lhyp
 https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang02
 http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
@@ -236,11 +237,9 @@ https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
 https://cdn.19891230.eu.org/api/VL-E/index.m3u8
 http://211.23.95.147:18881/live/70_h265.ts
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
-rtmp://f13h.mine.nu/sat/tv731
 http://61.61.67.208:5678/live/stream-b82d67b5-7416-4bc8-8be9-3f76b0e5de0e/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
-rtmp://f13h.mine.nu/sat/tv741
 http://61.61.67.208:5678/live/stream-fcf203ba-305f-4bc9-9113-e5e15e34242b/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
 rtmp://106.107.234.156/live/livestream.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
@@ -320,10 +319,8 @@ https://cdn.19891230.eu.org/4gtv/4gtv-live124/index.m3u8
 http://106.107.242.201:50007/4gtv-live124/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 http://49.213.188.67:50002/index.m3u8?pid=4gtv-live124@485&fun=TV4GTV&proxy=true&token=8852
 #EXTINF:-1 tvg-id="愛奇藝" tvg-name="愛奇藝"  group-title="台湾",愛奇藝
-mitv://starvod.xyz:19806/1cd1505d309948e596459856926cda41.ts
 https://o11.163189.xyz/stream/live/iqiyi/
 http://iptv.4666888.xyz/iptv2A.php?id=21
-mitv://64.32.9.99:7999/cdca23900eff43363303ac0953c99769.ts
 
 #EXTM3U
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="變形記專場" group-title="中国",變形記專場
