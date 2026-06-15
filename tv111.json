@@ -55,6 +55,15 @@ mitv://64.32.9.99:7999/6d6573f701ac772d243a189958404e94.ts
 http://211.23.95.147:18881/live/104_h265.ts
 #EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
 http://211.23.95.147:18881/live/54_h265.ts
+#EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
+https://cdn.19891230.eu.org/4gtv/litv-longturn14/index.m3u8
+http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
+http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
+http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
+#EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv156/index.m3u8
+http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 http://61.221.215.25:8800/hls/50/index.m3u8
