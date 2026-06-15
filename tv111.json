@@ -58,7 +58,6 @@ http://211.23.95.147:18881/live/54_h265.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
 https://cdn.19891230.eu.org/4gtv/litv-longturn14/index.m3u8
 http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
-https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
 http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
@@ -131,23 +130,19 @@ http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=rpKOWfui47ZeJP1HPLZqG
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
 http://211.23.95.147:18881/live/42_h265.ts
-http://47.242.63.189:2025/api1.php?id=20189
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv068/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台"  group-title="台湾",TVBS精采台
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv067/index.m3u8
-http://47.242.63.189:2025/api1.php?id=20191
 http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
 http://61.221.215.25:8800/hls/47/index.m3u8
 http://211.23.95.147:18881/live/39_h265.ts
-http://47.242.63.189:2025/api1.php?id=20194
 http://192.129.226.68:5678/live/stream-f1692e94-380a-4b0a-b484-fa21257f507c/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 " group-title="台湾",中天综合
 https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
 http://211.23.95.147:18881/live/36_h265.ts
-http://47.242.63.189:2025/api1.php?id=20195
 http://192.129.226.68:5678/live/stream-e81b26d8-82df-4074-9f91-666e6e9b6780/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
 rtmp://9svd1.mine.nu/sat/tv331
@@ -256,25 +251,20 @@ https://cdn.19891230.eu.org/api/VL-E/index.m3u8
 http://211.23.95.147:18881/live/70_h265.ts
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
 http://61.61.67.208:5678/live/stream-b82d67b5-7416-4bc8-8be9-3f76b0e5de0e/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-http://47.242.63.189:2025/api1.php?id=20232
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
 http://61.61.67.208:5678/live/stream-fcf203ba-305f-4bc9-9113-e5e15e34242b/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
-http://47.242.63.189:2025/api1.php?id=20233
 rtmp://106.107.234.156/live/livestream.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
 http://192.129.226.68:5678/live/stream-fe77596f-b5f3-468d-aeba-3deba8bb34bd/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-http://47.242.63.189:2025/api1.php?id=20234
 rtmp://f13h.mine.nu/sat/md041
 rtmp://106.107.177.219/live/livestream.m3u8
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯运动 1" group-title="台湾",博斯运动 1
 https://iptv.852851.xyz/ch/0474efea8c1c3c6e20242824c61b5e92/master.m3u8
-http://47.242.63.189:2025/api1.php?id=20263
 http://106.107.242.201:50007/litv-xinchuang07/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 https://hls.iill.top/api/Sports-Network/index.m3u8
 #EXTINF:-1 tvg-id="bosisport2_twn" tvg-name="博斯运动 2" group-title="台湾",博斯运动 2
 https://iptv.852851.xyz/ch/6afa6caf7dd79c45d66786820a9f47e3/master.m3u8
-http://47.242.63.189:2025/api1.php?id=20264
 http://106.107.242.201:50007/litv-xinchuang08/index.m3u8?token=rpKOWfui47ZeJP1HPLZqGzteUJBFKMrC0dqD1rg7nN5fNL3X5d5OY0LWL6DrdQXe
 #EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="博斯高球2 HD" group-title="台湾",博斯高球2 HD
 https://iptv.852851.xyz/ch/22c476107f000ce0caa2d434ac8a8665/master.m3u8
