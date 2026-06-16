@@ -624,7 +624,6 @@ https://tv.iill.top/phenix/fhhk
 
 
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=10&bind=0&uin=159413&playseek=
 https://tv123.cc.cd/live.php?ch=01e2f8f91
 https://uk.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
@@ -651,7 +650,6 @@ https://uk.utako.moe/mbs/index.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://logo.catvod.com/ABC.png" group-title="日本",ABC
 https://uk.utako.moe/abc/index.m3u8
 #EXTINF:-1 tvg-name="TV Osaka" tvg-logo="https://logo.catvod.com/TV Osaka.png" group-title="日本",TV Osaka
-https://live.catvod.com/?id=L2xyL2RMUU9uTFRPaldJR3ZXZmxRVU15WldneXBDczRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTkwMTE4NjAzJmNuPTFlMGQ1ODRjJmNwPWY1ZTAzYThjJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=c7e2bf35ec63f591c5e09b4a6e8c457c
 https://uk.utako.moe/tvo/index.m3u8
 #EXTINF:-1 tvg-name="Kansai TV" tvg-logo="https://logo.catvod.com/Kansai TV.png" group-title="日本",Kansai TV
 https://uk.utako.moe/kansaitv/index.m3u8
@@ -765,10 +763,8 @@ https://uk.utako.moe/sport_live_plus/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 https://uk.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 tvg-name="Channel Ginga" tvg-logo="https://logo.catvod.com/Channel Ginga.png" group-title="日本",Channel Ginga
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 https://uk.utako.moe/gingach/index.m3u8
 #EXTINF:-1 tvg-name="Tabi Channel" tvg-logo="https://logo.catvod.com/Tabi Channel.png" group-title="日本",Tabi Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 https://uk.utako.moe/tabi/index.m3u8
 #EXTINF:-1 tvg-name="Pigoo (NSFW)" tvg-logo="https://logo.catvod.com/Pigoo (NSFW).png" group-title="日本",Pigoo (NSFW)
 https://uk.utako.moe/pigoo/index.m3u8
