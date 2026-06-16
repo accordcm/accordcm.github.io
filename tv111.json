@@ -334,20 +334,38 @@ https://live.ottiptv.cc/huya/23903164
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="穿越片系列" group-title="輪播專區",穿越片系列
 https://live.ottiptv.cc/huya/29465892
 https://isus.cc/php/huya.php?id=29465892
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="穿越劇系列" group-title="輪播專區",穿越劇系列
+https://isus.cc/php/huya.php?id=26355857
 https://live.ottiptv.cc/huya/26355857
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="高分片系列" group-title="輪播專區",高分片系列
+https://isus.cc/php/huya.php?id=23902225
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="熱門片系列" group-title="輪播專區",熱門片系列
+https://isus.cc/php/huya.php?id=880261
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="動作片系列" group-title="輪播專區",動作片系列
+https://isus.cc/php/huya.php?id=10871113
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="喜劇片系列" group-title="輪播專區",喜劇片系列
+https://isus.cc/php/huya.php?id=11602044
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="愛情片系列" group-title="輪播專區",愛情片系列
+https://isus.cc/php/huya.php?id=29982639
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="周星馳專場" group-title="輪播專區",周星馳專場
 http://74.91.26.218:82/live/vlzxc.m3u8
 https://live.ottiptv.cc/huya/11336587
+http://173.208.212.130:8181/1080p/vlzxc.m3u8
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="競速專場" group-title="輪播專區",競速專場
 https://live.ottiptv.cc/huya/29982635
 https://isus.cc/php/huya.php?id=29982635
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="喜劇片系列" group-title="輪播專區",喜劇片系列
-https://isus.cc/php/huya.php?id=11602044
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="韓劇系列" group-title="輪播專區",韓劇系列
 https://isus.cc/php/huya.php?id=23863787
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="戰爭片系列" group-title="輪播專區",戰爭片系列
 https://isus.cc/php/huya.php?id=21059618
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="徐峥系列" group-title="輪播專區",徐峥系列
+https://isus.cc/php/huya.php?id=11602043
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="邓超系列" group-title="輪播專區",邓超系列
+https://isus.cc/php/huya.php?id=11336592
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="强森系列" group-title="輪播專區",强森系列
+https://isus.cc/php/huya.php?id=21059581
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="中国",湖南卫视
