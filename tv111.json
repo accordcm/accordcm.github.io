@@ -329,28 +329,27 @@ https://o11.163189.xyz/stream/live/iqiyi/
 http://iptv.4666888.xyz/iptv2A.php?id=21
 mitv://64.32.9.99:7999/cdca23900eff43363303ac0953c99769.ts
 
-#EXTM3U
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="變形記專場" group-title="中国",變形記專場
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="變形記專場" group-title="輪播專區",變形記專場
 https://live.ottiptv.cc/huya/23903164
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="穿越片系列" group-title="中国",穿越片系列
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="穿越片系列" group-title="輪播專區",穿越片系列
 https://live.ottiptv.cc/huya/29465892
-https://live.ottiptv.cc/huya/26355857
 https://isus.cc/php/huya.php?id=29465892
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="周星馳專場" group-title="中国",周星馳專場
+https://live.ottiptv.cc/huya/26355857
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="周星馳專場" group-title="輪播專區",周星馳專場
+http://74.91.26.218:82/live/vlzxc.m3u8
 https://live.ottiptv.cc/huya/11336587
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412
-http://74.91.26.218:82/live/vlzxc.m3u8
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="競速專場" group-title="中国",競速專場
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="競速專場" group-title="輪播專區",競速專場
 https://live.ottiptv.cc/huya/29982635
 https://isus.cc/php/huya.php?id=29982635
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="喜劇片系列" group-title="中国",喜劇片系列
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="喜劇片系列" group-title="輪播專區",喜劇片系列
 https://isus.cc/php/huya.php?id=11602044
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="搞笑專場" group-title="中国",搞笑專場
-https://isus.cc/php/huya.php?id=21059634
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="韓劇系列" group-title="中国",韓劇系列
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="韓劇系列" group-title="輪播專區",韓劇系列
 https://isus.cc/php/huya.php?id=23863787
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="戰爭片系列" group-title="中国",戰爭片系列
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="戰爭片系列" group-title="輪播專區",戰爭片系列
 https://isus.cc/php/huya.php?id=21059618
+
+#EXTM3U
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="中国",湖南卫视
 http://107.150.60.122/live/hnwshd.m3u8
 http://74.91.26.218:82/live/hnwshd.m3u8
