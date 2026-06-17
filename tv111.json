@@ -69,12 +69,15 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 https://live.catvod.com/?id=L2xyL2RMUU9uTFRPaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD05MDExODYwMyZjbj0xZTBkNTg0YyZjcD1mZjU0ZTNlZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=c7e2bf35ec63f591c5e09b4a6e8c457c
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
+http://125.227.210.55:3052/VideoInput/play.ts
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
+https://ha.msbot.dpdns.org/4gtv_api.php?id=139
 https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139
 http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://211.23.95.147:18881/live/21_h265.ts
+http://kaniptv.com/xz/xz_277f8e103a/wwkds.php?id=tlc
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
 http://74.91.26.218:82/live/ftv.m3u8
@@ -202,11 +205,14 @@ https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
 https://stream1.freetv.fun/4f1224450a344f842cfe4c403593b22a393dc6791e6f469e45c1a24365d08bf5.ctv
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="台湾",东森电影
 https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
+http://125.227.210.55:3052/VideoInput/play.ts
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" group-title="台湾",纬来电影台
 http://211.23.95.147:18881/live/63_h265.ts
 https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="台湾",东森洋片
 https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
+http://125.227.210.55:3055/VideoInput/play.ts
+http://125.227.210.55:3078/VideoInput/play.ts
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
 http://211.23.95.147:18881/live/67_h265.ts
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="台湾",CINEMAX
@@ -233,9 +239,11 @@ https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang11
 http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="台湾",民視旅遊
 https://cdn.19891230.eu.org/4gtv/litv-ftv07/index.m3u8
+https://ha.msbot.dpdns.org/4gtv_api.php?id=61
 https://stream1.freetv.fun/3439333a186efc0756e2eba2d5dadafc25d63abc56ae450e1d9df49c0180668d.m3u8
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台"  group-title="台湾",亚洲旅游台
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv035/index.m3u8
+https://ha.msbot.dpdns.org/4gtv_api.php?id=250
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" group-title="台湾",愛爾達娛樂
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv070/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -251,6 +259,8 @@ https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
 https://cdn.19891230.eu.org/api/VL-E/index.m3u8
 http://211.23.95.147:18881/live/70_h265.ts
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8?0
 http://106.107.177.247:5678/live/stream-14760d6c-b244-42de-8ae4-88233185ada2/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
