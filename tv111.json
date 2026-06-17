@@ -69,13 +69,13 @@ http://61.61.67.208:19890/trams/2878/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
 http://61.221.215.25:8800/hls/57/index.m3u8
+http://61.61.67.208:19890/trams/474/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
 https://ha.msbot.dpdns.org/4gtv_api.php?id=139
 http://61.61.67.208:19890/trams/2106/playlist.m3u8?token=885252
 http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://211.23.95.147:18881/live/21_h265.ts
-http://kaniptv.com/xz/xz_277f8e103a/wwkds.php?id=tlc
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
 http://74.91.26.218:82/live/ftv.m3u8
@@ -475,10 +475,8 @@ http://125.227.210.55:8167/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="電影频道",美亚电影
 https://live.catvod.com/?id=L2xyL2RMUU9uTFRhaldhZXZaZXlWVWZXdlVxYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTM4OTkzMzhmJmNuPTFlMGQ1ODRjJmNwPWMwMDVmYmI3JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=c7e2bf35ec63f591c5e09b4a6e8c457c
-https://live.tvfix.org/live/mydy/index.m3u8
-http://74.91.26.218:82/live/mydy.m3u8
+http://61.61.67.208:19890/trams/2099/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
-https://cdn12.178.indevs.in/163189/a643783ec587540e
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv011/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" group-title="電影频道",amc 電影台
