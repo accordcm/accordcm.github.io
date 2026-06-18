@@ -631,15 +631,15 @@ https://tv.iill.top/phenix/fhhk
 
 #EXTM3U
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 https://uk.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
-https://tv123.cc.cd/live.php?ch=a7ca07103
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 https://uk.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 https://uk.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://logo.catvod.com/Fuji TV.png" group-title="日本",Fuji TV
 https://tv123.cc.cd/live.php?ch=4e2dabef29
