@@ -217,7 +217,7 @@ http://47.242.63.189:2025/api1.php?id=20242
 https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang02
 http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
-https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang18
+http://cdn8.163189.xyz/163189/lhxj
 http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龍華经典台" group-title="台湾",龍華经典台
 https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang21
