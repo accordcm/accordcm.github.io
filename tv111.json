@@ -695,81 +695,77 @@ https://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS 10 Star Channel" tvg-logo="https://logo.catvod.com/BS 10 Star Channel.png" group-title="日本",BS 10 Star Channel
 https://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 1" tvg-logo="https://logo.catvod.com/JSport 1.png" group-title="日本",JSport 1
-https://uk.utako.moe/js1/index.m3u8
+https://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 2" tvg-logo="https://logo.catvod.com/JSport 2.png" group-title="日本",JSport 2
-https://uk.utako.moe/js2/index.m3u8
+https://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 3" tvg-logo="https://logo.catvod.com/JSport 3.png" group-title="日本",JSport 3
-https://uk.utako.moe/js3/index.m3u8
+https://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 4" tvg-logo="https://logo.catvod.com/JSport 4.png" group-title="日本",JSport 4
-https://uk.utako.moe/js4/index.m3u8
+https://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://logo.catvod.com/Green Channel.png" group-title="日本",Green Channel
-https://uk.utako.moe/green/index.m3u8
+https://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="日本",Animax
-https://mt02.utako.moe/Animax/index.m3u8
+https://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Nihon Eiga Senmon" tvg-logo="https://logo.catvod.com/Nihon Eiga Senmon.png" group-title="日本",Nihon Eiga Senmon
-https://mt02.utako.moe/nihoneiga/index.m3u8
+https://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Sky A" tvg-logo="https://logo.catvod.com/Sky A.png" group-title="日本",Sky A
-https://tv123.cc.cd/live.php?ch=59b3939756
+https://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Gaora Sports" tvg-logo="https://logo.catvod.com/Gaora Sports.png" group-title="日本",Gaora Sports
-https://uk.utako.moe/gaora/index.m3u8
+https://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="AT-X" tvg-logo="https://logo.catvod.com/AT-X.png" group-title="日本",AT-X
-https://uk.utako.moe/AT-X/index.m3u8
+https://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Space Shower TV" tvg-logo="https://logo.catvod.com/Space Shower TV.png" group-title="日本",Space Shower TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+https://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://logo.catvod.com/MTV.png" group-title="日本",MTV
-https://tv123.cc.cd/live.php?ch=c031f7a414
+https://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Kayo Pops" tvg-logo="https://logo.catvod.com/Kayo Pops.png" group-title="日本",Kayo Pops
-https://uk.utako.moe/kayopops/index.m3u8
+https://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://logo.catvod.com/Disney Channel.png" group-title="日本",Disney Channel
-https://uk.utako.moe/disneychan/index.m3u8
+https://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Cartoon Network Japan" tvg-logo="https://logo.catvod.com/Cartoon Network Japan.png" group-title="日本",Cartoon Network 
-https://tv123.cc.cd/live.php?ch=4ad480a920
-https://uk.utako.moe/cartoon_network/index.m3u8
+https://akariko.netgenx.site/stream/jp/cartoon_network_japan/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Nittele G+" tvg-logo="https://logo.catvod.com/Nittele G+.png" group-title="日本",Nittele G+
-https://tv123.cc.cd/live.php?ch=0e4e851721
-https://uk.utako.moe/ntvgplus/index.m3u8
+https://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Family Gekijyo" tvg-logo="https://logo.catvod.com/Family Gekijyo.png" group-title="日本",Family Gekijyo
-https://tv123.cc.cd/live.php?ch=786179a223
-https://mt02.utako.moe/familygeki/index.m3u8
+https://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Mondo TV" tvg-logo="https://logo.catvod.com/Mondo TV.png" group-title="日本",Mondo TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+https://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TBS Channel 1" tvg-logo="https://logo.catvod.com/TBS Channel 1.png" group-title="日本",TBS Channel 1
-https://tv123.cc.cd/live.php?ch=13d3982225
+https://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TBS Channel 2" tvg-logo="https://logo.catvod.com/TBS Channel 2.png" group-title="日本",TBS Channel 2
-https://tv123.cc.cd/live.php?ch=c1305cce26
+https://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TV Asahi Channel 1" tvg-logo="https://logo.catvod.com/TV Asahi Channel 1.png" group-title="日本",TV Asahi Channel 1
-https://tv123.cc.cd/live.php?ch=c73742c127
+https://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TV Asahi Channel 2" tvg-logo="https://logo.catvod.com/TV Asahi Channel 2.png" group-title="日本",TV Asahi Channel 2
-https://tv123.cc.cd/live.php?ch=fdc4fb3d28
+https://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Fuji TV ONE" tvg-logo="https://logo.catvod.com/Fuji TV ONE.png" group-title="日本",Fuji TV ONE
-https://tv123.cc.cd/live.php?ch=4e2dabef29
+https://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Fuji TV TWO" tvg-logo="https://logo.catvod.com/Fuji TV TWO.png" group-title="日本",Fuji TV TWO
-https://tv123.cc.cd/live.php?ch=c601c1a130
+https://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Fuji TV NEXT" tvg-logo="https://logo.catvod.com/Fuji TV NEXT.png" group-title="日本",Fuji TV NEXT
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+https://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Neco Channel" tvg-logo="https://logo.catvod.com/Neco Channel.png" group-title="日本",Neco Channel
-https://uk.utako.moe/neco/index.m3u8
+https://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Dlife" tvg-logo="https://logo.catvod.com/Dlife.png" group-title="日本",Dlife
-https://uk.utako.moe/dlife/index.m3u8
+https://akariko.netgenx.site/stream/jp/dlife/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Toei Channel" tvg-logo="https://logo.catvod.com/Toei Channel.png" group-title="日本",Toei Channel
-https://uk.utako.moe/toei/index.m3u8
+https://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Fighting TV Samurai" tvg-logo="https://logo.catvod.com/Fighting TV Samurai.png" group-title="日本",Fighting TV Samurai
-https://tv123.cc.cd/live.php?ch=c6a277cb35
+https://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Entermei Tele" tvg-logo="https://logo.catvod.com/Entermei Tele.png" group-title="日本",Entermei Tele
-https://uk.utako.moe/entermei_tele/index.m3u8
+https://akariko.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Sport Live Plus" tvg-logo="https://logo.catvod.com/Sport Live Plus.png" group-title="日本",Sport Live Plus
-https://uk.utako.moe/sport_live_plus/index.m3u8
+https://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Home Drama Channel" tvg-logo="https://logo.catvod.com/Home Drama Channel.png" group-title="日本",Home Drama Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-https://uk.utako.moe/homedrama/index.m3u8
+https://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Channel Ginga" tvg-logo="https://logo.catvod.com/Channel Ginga.png" group-title="日本",Channel Ginga
-https://uk.utako.moe/gingach/index.m3u8
+https://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Tabi Channel" tvg-logo="https://logo.catvod.com/Tabi Channel.png" group-title="日本",Tabi Channel
-https://uk.utako.moe/tabi/index.m3u8
-#EXTINF:-1 tvg-name="Pigoo (NSFW)" tvg-logo="https://logo.catvod.com/Pigoo (NSFW).png" group-title="日本",Pigoo (NSFW)
-https://uk.utako.moe/pigoo/index.m3u8
+https://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-name="discovery" tvg-logo="https://logo.catvod.com/Pigoo (NSFW).png" group-title="日本",discovery
+https://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="V Paradise (NSFW)" tvg-logo="https://logo.catvod.com/V Paradise (NSFW).png" group-title="日本",V Paradise (NSFW)
-https://uk.utako.moe/v_paradise/index.m3u8
+https://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 
 
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
