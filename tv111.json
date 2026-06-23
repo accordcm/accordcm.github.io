@@ -654,21 +654,9 @@ https://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 https://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
 https://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-name="MBS" tvg-logo="https://logo.catvod.com/MBS.png" group-title="日本",MBS
-https://uk.utako.moe/mbs/index.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-logo="https://logo.catvod.com/ABC.png" group-title="日本",ABC
-https://uk.utako.moe/abc/index.m3u8
-#EXTINF:-1 tvg-name="TV Osaka" tvg-logo="https://logo.catvod.com/TV Osaka.png" group-title="日本",TV Osaka
-https://uk.utako.moe/tvo/index.m3u8
-#EXTINF:-1 tvg-name="Kansai TV" tvg-logo="https://logo.catvod.com/Kansai TV.png" group-title="日本",Kansai TV
-https://uk.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 tvg-name="ytv" tvg-logo="https://logo.catvod.com/ytv.png" group-title="日本",ytv
-https://uk.utako.moe/ytv/index.m3u8
 #EXTINF:-1 tvg-name="KBS" tvg-logo="https://logo.catvod.com/KBS.png" group-title="日本",KBS
-mitv://64.32.9.99:7999/a4c891966905d4f8723c00c4cf83b2f0.ts
-https://uk.utako.moe/kbs/index.m3u8
-#EXTINF:-1 tvg-name="SUN" tvg-logo="https://logo.catvod.com/SUN.png" group-title="日本",SUN
-https://uk.utako.moe/suntv/index.m3u8
+https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+https://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://logo.catvod.com/NHK BS.png" group-title="日本",NHK BS
 https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
 http://211.23.95.147:18881/live/dtv39_h265.ts
