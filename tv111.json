@@ -791,8 +791,8 @@ http://125.227.210.55:3033/VideoInput/play.ts
 #EXTINF:-1 tvg-name="彩虹e" tvg-logo="https://logo.catvod.com/彩虹e.png" group-title="私人频道_543",彩虹e
 https://z3.ubtvfans.com/live/rx3/415/15b51d347d222d169964b2bcf3535be2/index.m3u8
 #EXTINF:-1 tvg-name="彩虹频道" tvg-logo="https://logo.catvod.com/彩虹频道.png" group-title="私人频道_543",彩虹频道
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 https://z3.ubtvfans.com/live/rx3/406/03c7100e4af027d56d4a65f2ac40740d/index.m3u8
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 https://z3.ubtvfans.com/live/rx5/2914/970e6b93d6cf6a4c26b6adfcc6b05445/index.m3u8
 #EXTINF:-1 tvg-name="极限电影" tvg-logo="https://logo.catvod.com/极限电影.png" group-title="私人频道_543",极限电影
 https://z3.ubtvfans.com/live/rx3/405/fed61aa5af46663a552bfed2bd8c0a3f/index.m3u8
