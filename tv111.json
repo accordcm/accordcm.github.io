@@ -118,6 +118,7 @@ https://cdn.19891230.eu.org/4gtv/4gtv-4gtv003/index.m3u8
 http://106.107.242.201:50007/4gtv-live403/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" group-title="台湾",民視綜藝
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv004/index.m3u8
+http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782727174761
 https://stream1.freetv.fun/51da87decd2f08e9452c87b45ae332fee7d780327a457e8739a68758ed98c8c5.ctv
 http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="三立台湾台" group-title="台湾",三立台湾台
@@ -466,15 +467,19 @@ https://cdn.19891230.eu.org/4gtv/litv-xinchuang20/index.m3u8
 http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
+http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782727174761
 http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
+http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1782727174761
 https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
 http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="尼克兒童頻道"  group-title="兒童卡通",尼克兒童頻道
 https://cdn.19891230.eu.org/4gtv/4gtv-live105/index.m3u8
+http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1782727174761
 http://106.107.242.201:50007/4gtv-live105/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="NICKJR."  group-title="兒童卡通",Nick Jr.
 https://cdn.19891230.eu.org/4gtv/4gtv-live032/index.m3u8
+http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782727174761
 http://49.213.188.67:50002/index.m3u8?pid=4gtv-live105@185&fun=TV4GTV&proxy=true&token=8852
 http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -544,6 +549,7 @@ mitv://64.32.9.99:7999/a750f670c08fc80f09e23b652052fd90.ts
 
 #EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS"  group-title="新闻频道",三立iNEWS
 https://cdn.19891230.eu.org/4gtv/4gtv-live089/index.m3u8
+http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782727174761
 https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
 https://stream1.freetv.fun/badd2c471b785d2032379719c9b0e85c841d1fbff319e8d6cd17683cd807314e.m3u8
 http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
