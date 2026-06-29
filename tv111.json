@@ -638,10 +638,12 @@ https://tv.iill.top/phenix/fhhk
 
 #EXTM3U
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
+http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
 https://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 https://uk.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
 https://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+http://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
 https://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
