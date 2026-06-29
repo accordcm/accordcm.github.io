@@ -347,13 +347,17 @@ http://iptv.4666888.xyz/iptv2A.php?id=21
 
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="變形記專場" group-title="輪播專區",變形記專場
 https://live.ottiptv.cc/huya/23903164
+#EXTINF:-1 tvg-id="精彩陸劇1台" tvg-name="精彩陸劇1台" group-title="輪播專區",精彩陸劇1台
+http://4gtv.cnlive.club/channel/n7179beac/index.m3u8?q=1782727174761
+#EXTINF:-1 tvg-id="精彩陸劇2台" tvg-name="精彩陸劇2台" group-title="輪播專區",精彩陸劇2台
+http://4gtv.cnlive.club/channel/n69c8194d/index.m3u8?q=1782727174761
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="穿越片系列" group-title="輪播專區",穿越片系列
 https://live.ottiptv.cc/huya/29465892
 https://isus.cc/php/huya.php?id=29465892
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="穿越劇系列" group-title="輪播專區",穿越劇系列
 https://live.ottiptv.cc/huya/26355857
 https://isus.cc/php/huya.php?id=26355857
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="熱門片系列" group-title="輪播專區",熱門片系列
+#EXTINF:-1 tvg-id="熱門片系列" tvg-name="熱門片系列" group-title="輪播專區",熱門片系列
 https://isus.cc/php/huya.php?id=880261
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="動作片系列" group-title="輪播專區",動作片系列
 https://isus.cc/php/huya.php?id=10871113
@@ -481,6 +485,8 @@ http://106.107.242.201:50007/litv-xinchuang01/index.m3u8?token=oBLnyzLuUwG0z7J6R
 #EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" group-title="兒童卡通",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1 tvg-id="哆啦A夢" tvg-name="哆啦A夢" group-title="兒童卡通",哆啦A夢
+http://4gtv.cnlive.club/channel/9fc6b5c/index.m3u8?q=1782727174761
 
 
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="電影频道",美亚电影
@@ -493,6 +499,7 @@ http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=oBLnyzLuUwG0z7J6R62QY
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" group-title="電影频道",amc 電影台
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv017/index.m3u8
 https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782727174761
 http://211.23.95.147:18881/live/69_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv017/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="緯來電影HD" group-title="電影频道",緯來電影HD
