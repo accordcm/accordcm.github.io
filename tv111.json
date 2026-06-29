@@ -486,6 +486,7 @@ http://61.61.67.208:19890/trams/2099/playlist.m3u8?token=885252
 https://live.catvod.com/?id=L2xyL2RMUU9uTFRhaldhZXZaZXlWVWZXdlVxYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTM4OTkzMzhmJmNuPTFlMGQ1ODRjJmNwPWMwMDVmYmI3JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=c7e2bf35ec63f591c5e09b4a6e8c457c
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv011/index.m3u8
+http://iptv.4666888.xyz/iptv2A.php?id=54
 http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" group-title="電影频道",amc 電影台
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv017/index.m3u8
@@ -494,7 +495,6 @@ http://211.23.95.147:18881/live/69_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv017/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="緯來電影HD" group-title="電影频道",緯來電影HD
 https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
-http://iptv.4666888.xyz/iptv2A.php?id=54
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="電影频道",东森电影
 https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="STAR movie" group-title="電影频道",STAR movie
@@ -764,18 +764,23 @@ https://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=h
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="潘多拉完美" tvg-logo="https://logo.catvod.com/潘多拉完美.png" group-title="私人频道_543",潘多拉完美
 http://z88.ubtvfans.com/live/rx4/2932/0b07c2cd5bc42fdcffd64abab1f96e44/index.m3u8
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 https://ppt.cc/fgXIWx
 #EXTINF:-1 tvg-name="香蕉" tvg-logo="https://logo.catvod.com/香蕉.png" group-title="私人频道_543",香蕉
 https://stream1.freetv.fun/58de13dd44637831a30fd05decc775f0648b376c707586e3dcbe7da08a87ea53.ctv
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.m3u8
 http://125.227.210.55:1009/VideoInput/play.ts
 #EXTINF:-1 tvg-name="松视1" tvg-logo="https://logo.catvod.com/松视1.png" group-title="私人频道_543",松视1
 https://ppt.cc/fEFVsx
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 http://125.227.210.55:1022/VideoInput/play.ts
 #EXTINF:-1 tvg-name="松视2" tvg-logo="https://logo.catvod.com/松视2.png" group-title="私人频道_543",松视2
 https://ppt.cc/fOaEIx
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 #EXTINF:-1 tvg-name="松视3" tvg-logo="https://logo.catvod.com/松视3.png" group-title="私人频道_543",松视3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
