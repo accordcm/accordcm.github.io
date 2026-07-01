@@ -367,6 +367,7 @@ http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="競速專場" group-title="輪播專區",競速專場
 https://live.ottiptv.cc/huya/29982635
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="韓劇系列" group-title="輪播專區",韓劇系列
+https://live.ottiptv.cc/huya/23863787
 https://isus.cc/php/huya.php?id=23863787
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="戰爭片系列" group-title="輪播專區",戰爭片系列
 https://live.ottiptv.cc/huya/21059618
@@ -376,7 +377,6 @@ https://live.ottiptv.cc/huya/11602043
 https://live.ottiptv.cc/huya/11336592
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="强森系列" group-title="輪播專區",强森系列
 https://live.ottiptv.cc/huya/21059581
-
 
 
 #EXTM3U
