@@ -347,24 +347,18 @@ http://iptv.4666888.xyz/iptv2A.php?id=21
 
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="變形記專場" group-title="輪播專區",變形記專場
 https://live.ottiptv.cc/huya/23903164
-#EXTINF:-1 tvg-id="精彩陸劇1台" tvg-name="精彩陸劇1台" group-title="輪播專區",精彩陸劇1台
-http://4gtv.cnlive.club/channel/n7179beac/index.m3u8?q=1782727174761
-#EXTINF:-1 tvg-id="精彩陸劇2台" tvg-name="精彩陸劇2台" group-title="輪播專區",精彩陸劇2台
-http://4gtv.cnlive.club/channel/n69c8194d/index.m3u8?q=1782727174761
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="穿越片系列" group-title="輪播專區",穿越片系列
 https://live.ottiptv.cc/huya/29465892
-https://isus.cc/php/huya.php?id=29465892
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="穿越劇系列" group-title="輪播專區",穿越劇系列
 https://live.ottiptv.cc/huya/26355857
-https://isus.cc/php/huya.php?id=26355857
 #EXTINF:-1 tvg-id="熱門片系列" tvg-name="熱門片系列" group-title="輪播專區",熱門片系列
-https://isus.cc/php/huya.php?id=880261
+https://live.ottiptv.cc/huya/880261
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="動作片系列" group-title="輪播專區",動作片系列
-https://isus.cc/php/huya.php?id=10871113
+https://live.ottiptv.cc/huya/10871113
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="喜劇片系列" group-title="輪播專區",喜劇片系列
-https://isus.cc/php/huya.php?id=11602044
+https://live.ottiptv.cc/huya/11602044
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="愛情片系列" group-title="輪播專區",愛情片系列
-https://isus.cc/php/huya.php?id=29982639
+https://live.ottiptv.cc/huya/29982639
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="周星馳專場" group-title="輪播專區",周星馳專場
 http://74.91.26.218:82/live/vlzxc.m3u8
 https://live.ottiptv.cc/huya/11336587
@@ -372,17 +366,17 @@ http://173.208.212.130:8181/1080p/vlzxc.m3u8
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="競速專場" group-title="輪播專區",競速專場
 https://live.ottiptv.cc/huya/29982635
-https://isus.cc/php/huya.php?id=29982635
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="韓劇系列" group-title="輪播專區",韓劇系列
 https://isus.cc/php/huya.php?id=23863787
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="戰爭片系列" group-title="輪播專區",戰爭片系列
-https://isus.cc/php/huya.php?id=21059618
+https://live.ottiptv.cc/huya/21059618
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="徐峥系列" group-title="輪播專區",徐峥系列
-https://isus.cc/php/huya.php?id=11602043
+https://live.ottiptv.cc/huya/11602043
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="邓超系列" group-title="輪播專區",邓超系列
-https://isus.cc/php/huya.php?id=11336592
+https://live.ottiptv.cc/huya/11336592
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="强森系列" group-title="輪播專區",强森系列
-https://isus.cc/php/huya.php?id=21059581
+https://live.ottiptv.cc/huya/21059581
+
 
 
 #EXTM3U
@@ -415,6 +409,7 @@ https://cdn.19891230.eu.org/api/bjws/index.m3u8
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="中国",深圳卫视
 http://107.150.60.122/live/szwshd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+http://192.151.150.154/live/szwshd.m3u8
 http://153.0.171.163:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="fujian" tvg-name="廈門衛視" group-title="中国",廈門衛視
 http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
@@ -434,18 +429,11 @@ http://107.150.60.122/live/gxwshd.m3u8
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
 #EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ 體育" group-title="中国",CCTV-5+ 體育
 http://74.91.26.218:82/live/cctv5p.m3u8
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-https://111.iptv543.com/live.php?id=cctv5plus
+http://207.56.13.146:81/cdnlive/cctv5.m3u8
 #EXTINF:-1 tvg-id="phoenixtv_hd" tvg-name="鳯凰衛視中文" group-title="中国",鳯凰衛視中文
-http://r.jdshipin.com/cCCzW
-https://cdn6.163189.xyz/163189/fhzw
-https://tv.iill.top/phenix/fhzw
-http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
+http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-id="phoenixinfo_hd" tvg-name="鳯凰衛視資訊" group-title="中国",鳯凰衛視資訊
-http://r.jdshipin.com/0Rp07
-https://cdn6.163189.xyz/163189/fhzx
-https://tv.iill.top/phenix/fhzx
-http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+http://cdn6.163189.xyz/163189/fhzx
 
 
 #EXTM3U
