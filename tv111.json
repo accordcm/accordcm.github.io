@@ -395,25 +395,23 @@ http://211.23.95.147:18881/live/dtv45_h265.ts
 #EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" group-title="中国",浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-https://cdn.19891230.eu.org/api/zjws/index.m3u8
 http://211.23.95.147:18881/live/dtv44_h265.ts
 http://107.150.60.122/live/zjwshd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 http://74.91.26.218:82/live/zjwshd.m3u8
 #EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="中国",江苏卫视
 http://107.150.60.122/live/jswshd.m3u8
-https://cdn.19891230.eu.org/api/jsws/index.m3u8
 http://74.91.26.218:82/live/jswshd.m3u8
+https://cdn.19891230.eu.org/api/jsws/index.m3u8
 #EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="东方卫视" group-title="中国",东方卫视
-https://cdn.19891230.eu.org/api/dfws/index.m3u8
 http://74.91.26.218:82/live/dfwshd.m3u8
 http://107.150.60.122/live/dfwshd.m3u8
 http://211.23.95.147:18881/live/dtv38_h265.ts
+https://iptv.yang-1989.eu.org/kdf/2030
 #EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="中国",北京卫视
-https://cdn.19891230.eu.org/api/bjws/index.m3u8
-mitv://64.32.9.99:7999/95c7e4fa671b3b4408b7ec955fa66b36.ts
 http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 http://153.0.171.163:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+https://cdn.19891230.eu.org/api/bjws/index.m3u8
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="中国",深圳卫视
 http://107.150.60.122/live/szwshd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
@@ -422,6 +420,7 @@ http://153.0.171.163:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="中国",福建东南卫视
 http://107.150.60.122/live/dnwshd.m3u8
+http://61.61.67.208:19890/trams/697/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="广东卫视" group-title="中国",广东卫视
 http://74.91.26.218:82/live/gdwshd.m3u8
 http://107.150.60.122/live/gdwshd.m3u8
