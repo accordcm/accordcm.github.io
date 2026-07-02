@@ -212,22 +212,20 @@ http://211.23.95.147:18881/live/67_h265.ts
 http://211.23.95.147:18881/live/71_h265.ts
 https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="台湾",龍華洋片
-http://cdn8.163189.xyz/163189/lhyp
+https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang02
 http://47.242.63.189:2025/api1.php?id=20242
 https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang02
 http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
-http://cdn8.163189.xyz/163189/lhxj
+https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang18
 http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龍華经典台" group-title="台湾",龍華经典台
 https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang21
 http://106.107.242.201:50007/litv-xinchuang21/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="lunghuaidol_twn" tvg-name="龍華偶像" group-title="台湾",龍華偶像
-https://cdn8.163189.xyz/163189/lhox
 https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang12
 http://106.107.242.201:50007/litv-xinchuang12/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="lhrh01" tvg-name="龍華日韓台" group-title="台湾",龍華日韓台
-https://cdn8.163189.xyz/163189/lhrh
 https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang11
 http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="台湾",民視旅遊
