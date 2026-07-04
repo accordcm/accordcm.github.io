@@ -14,14 +14,13 @@ http://106.107.242.201:50007/media-live072/index.m3u8?token=oBLnyzLuUwG0z7J6R62Q
 http://211.23.95.147:18881/live/58_h265.ts
 rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv153/index.m3u8
-http://211.23.95.147:18881/live/57_h265.ts
-http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782727174761
 https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 https://ha.msbot.dpdns.org/4gtv_api.php?id=211
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv153/index.m3u8
+http://211.23.95.147:18881/live/57_h265.ts
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
-http://74.91.26.218:82/live/ftvnews.m3u8
 http://211.23.95.147:18881/live/dtv9_h265.ts
+http://74.91.26.218:82/live/ftvnews.m3u8
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
 http://211.23.95.147:18881/live/dtv15_h265.ts
@@ -31,14 +30,13 @@ https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df6492
 https://cdn.yang-1989.eu.org/ofiii/4gtv-4gtv051
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 http://211.23.95.147:18881/live/dtv2_h265.ts
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv074/index.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 http://74.91.26.218:82/live/ctvnews.m3u8
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv074/index.m3u8
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://74.91.26.218:82/live/ctsnews.m3u8
+http://211.23.95.147:18881/live/dtv20_h265.ts
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv052/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-http://211.23.95.147:18881/live/dtv20_h265.ts
 http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
 https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
