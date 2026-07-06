@@ -47,7 +47,7 @@ https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e
 http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
-https://cdn.19891230.eu.org/api/Era-News/index.m3u8
+https://iptv.yang-1989.xyz/tw/8zurak?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
@@ -140,10 +140,11 @@ http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=oBLnyzLuUwG0z7J6R62QY
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
 http://61.221.215.25:8800/hls/47/index.m3u8
 http://211.23.95.147:18881/live/39_h265.ts
+https://iptv.yang-1989.xyz/tw/xunz7e?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 http://192.129.226.68:5678/live/stream-f1692e94-380a-4b0a-b484-fa21257f507c/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 " group-title="台湾",中天综合
 http://211.23.95.147:18881/live/36_h265.ts
-https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
+https://iptv.yang-1989.xyz/tw/bdqakb?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 http://192.129.226.68:5678/live/stream-e81b26d8-82df-4074-9f91-666e6e9b6780/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
 rtmp://9svd1.mine.nu/sat/tv331
@@ -151,19 +152,18 @@ rtmp://9svd2.mine.nu/sat/tv331
 http://211.23.95.147:18881/live/33_h265.ts
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="东森综合" group-title="台湾",东森综合
 http://211.23.95.147:18881/live/32_h265.ts
-https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
+https://iptv.yang-1989.xyz/tw/fdz7fj?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 #EXTINF:-1 tvg-id="ettvdrama" tvg-name="東森戲劇" group-title="台湾",東森戲劇
 http://211.23.95.147:18881/live/40_h265.ts
-https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
+https://iptv.yang-1989.xyz/tw/de39sh?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrJr0JpJ4YG-0D2dlO03Xx9kE5_TelraDakln8Fybn2hnwUt6dVS2agyGKeywcmE986yBp3VcHnmGrdm-4Yv7AM18p8CncJ2JJdCtCmHj2al_kmi_yaVKmJLnzf-HENeJysMzBP9NGsL5OAMn_sZ3GX73iz7c7su3PBgE7ATDc1l5D2dTM3oGoMCaPHscvkQJg.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
 http://211.23.95.147:18881/live/77_h265.ts
 rtmp://f13h.mine.nu/sat/tv771
-https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
+https://iptv.yang-1989.xyz/tw/nnnwnu?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
-https://cdn.19891230.eu.org/api/VL-ONTV/index.m3u8
+https://iptv.yang-1989.xyz/tw/jn3cbd?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 http://211.23.95.147:18881/live/26_h265.ts
-https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
 #EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公视 CTV" group-title="台湾",公视 CTV
 http://74.91.26.218:82/live/pts.m3u8
 http://211.23.95.147:18881/live/dtv5_h265.ts
@@ -200,13 +200,13 @@ http://211.23.95.147:18881/live/68_h265.ts
 https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
 https://stream1.freetv.fun/4f1224450a344f842cfe4c403593b22a393dc6791e6f469e45c1a24365d08bf5.ctv
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="台湾",东森电影
-https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
+https://iptv.yang-1989.xyz/tw/8hvv63?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 http://125.227.210.55:3052/VideoInput/play.ts
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" group-title="台湾",纬来电影台
 http://211.23.95.147:18881/live/63_h265.ts
-https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
+https://iptv.yang-1989.xyz/tw/usk4v9?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="台湾",东森洋片
-https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
+https://iptv.yang-1989.xyz/tw/tas74k?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 http://125.227.210.55:3055/VideoInput/play.ts
 http://125.227.210.55:3078/VideoInput/play.ts
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
@@ -244,11 +244,10 @@ http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=oBLnyzLuUwG0z7J6R62QY
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" group-title="台湾",愛爾達生活旅遊台
 https://cdn.19891230.eu.org/4gtv/4gtv-live120/index.m3u8
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
+https://iptv.yang-1989.xyz/tw/a66j2g?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 rtmp://f13h.mine.nu:1935/sat/tv721
 rtmp://f13h.mine.nu/sat/tv721
 http://211.23.95.147:18881/live/72_h265.ts
-http://192.129.226.68:5678/live/stream-fdaf177a-3050-4102-8d70-f8160698b2f8/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
 #EXTINF:-1 tvg-id="videolandmax" tvg-name="緯來育樂HD" group-title="台湾",緯來育樂HD
 https://cdn.19891230.eu.org/api/VL-E/index.m3u8
 http://211.23.95.147:18881/live/70_h265.ts
@@ -437,8 +436,7 @@ https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7a
 http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="東森幼幼 Yoyo TV" group-title="兒童卡通",東森幼幼 Yoyo TV
 http://211.23.95.147:18881/live/25_h265.ts
-https://cdn.19891230.eu.org/api/YoYo-TV/index.m3u8
-https://cdn.19891230.eu.org/4gtv/4gtv-live107/index.m3u8
+https://iptv.yang-1989.xyz/tw/vbuzg9?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
 https://cdn.19891230.eu.org/4gtv/litv-xinchuang20/index.m3u8
 http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
