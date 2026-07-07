@@ -589,8 +589,7 @@ http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=oBLnyzLuUwG0z7J6R62QY
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
-https://iptv.yang-1989.xyz/myTV/kgx5z6?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
-https://iptv.yang-1989.xyz/myTV/fw5bma?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+http://124.244.129.167:9004/0.ts
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="香港",明珠台
 https://iptv.yang-1989.xyz/myTV/q8pw4f?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
