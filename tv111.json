@@ -2,7 +2,8 @@
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
-https://iptv.yang-1989.xyz/4gtv/rwd2aw?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+https://ha.msbot.dpdns.org/4gtv_api.php?id=234
+https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
@@ -41,7 +42,7 @@ http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=oBLnyzLuUwG0z7J6R62QY
 http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
 http://211.23.95.147:18881/live/86_h265.ts
-https://iptv.yang-1989.xyz/4gtv/643b3w?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+https://ha.msbot.dpdns.org/4gtv_api.php?id=268
 https://stream1.freetv.fun/0b727cefde59b26132997b410779b477cc6c0e0b46250c83e29418c11d1a4e19.m3u8
 https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
 http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -96,12 +97,12 @@ http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="中視" tvg-name="中視"  group-title="台湾",中視
 rtmp://f13h.mine.nu:1935/sat/tv091
 rtmp://f13h.mine.nu/sat/tv091
+https://ha.msbot.dpdns.org/4gtv_api.php?id=4
 http://74.91.26.218:82/live/ctv.m3u8
 http://211.23.95.147:18881/live/dtv1_h265.ts
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv040/index.m3u8
 #EXTINF:-1 tvg-id="華視" tvg-name="華視"  group-title="台湾",華視
 http://211.23.95.147:18881/live/dtv18_h265.ts
-https://iptv.yang-1989.xyz/4gtv/rm6uzd?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 http://74.91.26.218:82/live/cts.m3u8
 rtmp://59.124.75.138/sat/tv111
 rtmp://f13h.mine.nu/sat/tv111y
@@ -140,7 +141,7 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 http://211.23.95.147:18881/live/42_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台"  group-title="台湾",TVBS精采台
-https://iptv.852851.xyz/ch/bb3281a447bf2b92e8649856a3cf47e4/master.m3u8
+https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
 http://61.221.215.25:8800/hls/47/index.m3u8
@@ -191,7 +192,8 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
 http://211.23.114.106:8521/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大綜藝台 " group-title="台湾",八大綜藝
-https://iptv.yang-1989.xyz/4gtv/5sbnmx?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+https://ha.msbot.dpdns.org/4gtv_api.php?id=114
+https://ha.msbot.dpdns.org/4gtv_api.php?id=276
 http://106.107.242.201:50007/4gtv-4gtv039/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台"  group-title="台湾",八大精彩
 https://iptv.yang-1989.xyz/4gtv/p6h8m8?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
@@ -310,7 +312,7 @@ https://iptv.yang-1989.xyz/4gtv/5mk4aj?token=5b184287f9fecb9fac3078f6bb1afdbc6f7
 https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
-https://iptv.yang-1989.xyz/4gtv/hpecrm?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+https://ha.msbot.dpdns.org/4gtv_api.php?id=173
 http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
@@ -450,7 +452,7 @@ http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=oBLnyzLuUwG0z7J6R62QY
 http://211.23.95.147:18881/live/25_h265.ts
 https://iptv.yang-1989.xyz/tw/vbuzg9?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
-https://iptv.yang-1989.xyz/4gtv/t7bgnq?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+https://ha.msbot.dpdns.org/4gtv_api.php?id=490
 http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
@@ -459,7 +461,7 @@ https://iptv.yang-1989.xyz/4gtv/uyw8u7?token=5b184287f9fecb9fac3078f6bb1afdbc6f7
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv057/index.m3u8
 http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
-https://iptv.yang-1989.xyz/4gtv/m9yfa7?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+https://ha.msbot.dpdns.org/4gtv_api.php?id=282
 http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1782727174761
 http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="尼克兒童頻道"  group-title="兒童卡通",尼克兒童頻道
