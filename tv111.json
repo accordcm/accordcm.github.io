@@ -7,8 +7,8 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
-https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3u8
-https://iptv.yang-1989.xyz/4gtv/mc6pmr?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782727174761
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 http://106.107.242.201:50007/media-live072/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -21,8 +21,9 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=211
 http://211.23.95.147:18881/live/57_h265.ts
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 http://211.23.95.147:18881/live/dtv9_h265.ts
+https://ha.msbot.dpdns.org/4gtv_api.php?id=257
 http://74.91.26.218:82/live/ftvnews.m3u8
-https://iptv.yang-1989.xyz/4gtv/r3f6y4?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+https://ha.msbot.dpdns.org/4gtv_api.php?id=31
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
 http://211.23.95.147:18881/live/dtv15_h265.ts
@@ -36,8 +37,9 @@ https://iptv.yang-1989.xyz/4gtv/tzvtdu?token=5b184287f9fecb9fac3078f6bb1afdbc6f7
 http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://74.91.26.218:82/live/ctsnews.m3u8
+https://ha.msbot.dpdns.org/4gtv_api.php?id=34
 http://211.23.95.147:18881/live/dtv20_h265.ts
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv052/index.m3u8
+https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
@@ -50,7 +52,8 @@ http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=oBLnyzLuUwG0z7J6R62QY
 http://211.23.95.147:18881/live/50_h265.ts
 https://iptv.yang-1989.xyz/tw/8zurak?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
-https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
+https://ha.msbot.dpdns.org/4gtv_api.php?id=260
+https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
@@ -61,7 +64,8 @@ http://211.23.95.147:18881/live/54_h265.ts
 http://125.227.210.55:3022/VideoInput/play.ts
 https://iptv.yang-1989.xyz/4gtv/qphdan?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
-https://iptv.yang-1989.xyz/4gtv/tmyh89?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+https://ha.msbot.dpdns.org/4gtv_api.php?id=262
+https://ha.msbot.dpdns.org/4gtv_api.php?id=36
 http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
