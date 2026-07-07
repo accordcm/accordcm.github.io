@@ -91,9 +91,7 @@ http://211.23.95.147:18881/live/dtv7_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=246
 rtmp://f13h.mine.nu/sat/tv051
 https://stream1.freetv.fun/3de1bef9bfa7e28ddac0d0c4982736636d3b61978f2f2525d9133f7afcff0884.ctv
-https://iptv.yang-1989.xyz/4gtv/d9sdjr?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
 #EXTINF:-1 tvg-id="台視" tvg-name="台視"  group-title="台湾",台視
 https://iptv.yang-1989.xyz/tw/nzfee2?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 http://211.23.95.147:18881/live/dtv14_h265.ts
