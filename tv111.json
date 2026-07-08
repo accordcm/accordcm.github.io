@@ -588,19 +588,19 @@ http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=oBLnyzLuUwG0z7J6R62QY
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
 http://124.244.129.167:9004/0.ts
+http://qingyi.7766.org:9004/0.ts
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="香港",明珠台
 https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="" group-title="香港",无线新闻
-https://iptv.yang-1989.xyz/myTV/nxb7nh?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
+http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 #EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="" group-title="香港",TVBPLUS
 https://test.19891230.eu.org/hk/TVB-Plus/index.m3u8
 https://o11.163189.xyz/stream/tvb/tvbp/
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="香港",ViuTV
-https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
-https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
+https://cdn10.163189.xyz/163189/viu/
 #EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="香港",ViuTV 6
-https://cdn.19891230.eu.org/hk/ViuTVsix/index.m3u8
+https://cdn10.163189.xyz/163189/viu6/
 https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
 #EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="香港",RTHK 31
 https://tv123.cc.cd/live.php/?ch=87022437591
@@ -611,18 +611,14 @@ https://tv123.cc.cd/live.php/?ch=a5706184592
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 http://49.213.188.67:5052/smart.php?id=rhk32_twn&token=885252
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="香港",HOY TV
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-https://tv123.cc.cd/live.php/?ch=f5563773585
+https://cdn6.163189.xyz/163189/hoy
+https://cdn.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="香港",凤凰中文
-http://r.jdshipin.com/cCCzW
-http://r.jdshipin.com/0Rp07
-https://tv.iill.top/phenix/fhzw
+http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="香港",凤凰资讯
-http://r.jdshipin.com/0Rp07
-https://tv.iill.top/phenix/fhzx
+http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="香港",凤凰香港
-http://r.jdshipin.com/yDoTN
-https://tv.iill.top/phenix/fhhk
+http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
