@@ -2,7 +2,6 @@
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
-http://23.128.116.71:5005/4gtv_api.php?id=234&ts=1783909404&token=_TRd54N8i41gDxFlTxl3zbnyLTBWsOeiEKu2QgdnppI
 https://ha.msbot.dpdns.org/4gtv_api.php?id=234
 https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -19,7 +18,6 @@ rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 https://ha.msbot.dpdns.org/4gtv_api.php?id=211
-http://23.128.116.71:5005/4gtv_api.php?id=211&ts=1783909404&token=qj-gpQtWNdM5wGAPwNCG9iyBB-JLBVWnwS1rCUufLNM
 http://211.23.95.147:18881/live/57_h265.ts
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 http://211.23.95.147:18881/live/dtv9_h265.ts
@@ -129,8 +127,6 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=183
 https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
-https://iptv.852851.xyz/ch/8e237e2c45602fe3eebb9890fa3ff31c/master.m3u8
-http://23.128.116.71:5005/4gtv_api.php?id=184&ts=1783909404&token=zSBh86VjpOEfW-f0uOrIvh2_qFFtId_YzMzYfFyG5ao
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 http://211.23.95.147:18881/live/42_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -293,7 +289,6 @@ https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=173
-http://23.128.116.71:5005/4gtv_api.php?id=173&ts=1783909404&token=QVCZXi3CMbn1OrUgBcRvmMQC6QGKRoXR06dK9Pllpcg
 http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
