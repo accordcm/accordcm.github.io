@@ -202,8 +202,7 @@ http://211.23.95.147:18881/live/67_h265.ts
 http://211.23.95.147:18881/live/71_h265.ts
 https://iptv.yang-1989.xyz/tw/h8st6t?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="台湾",龍華洋片
-http://47.242.63.189:2025/api1.php?id=20242
-https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang02
+https://cdn.qd.je/163189/lhyp
 http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
 http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
