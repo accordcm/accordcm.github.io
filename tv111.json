@@ -557,24 +557,27 @@ http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=oBLnyzLuUwG0z7J6R62QY
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
 http://124.244.129.167:9004/0.ts
 http://qingyi.7766.org:9004/0.ts
-http://120.238.85.131:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="香港",明珠台
 http://iptv.4666888.xyz/iptv2A.php?id=29
 http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="" group-title="香港",无线新闻
 https://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="" group-title="香港",TVBPLUS
-http://r.jdshipin.com/ndGgS
+https://cdn.qd.je/163189/tvbp
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="香港",ViuTV
-https://cdn10.163189.xyz/163189/9dede8e5-1578-4eb8-bf64-3c8b1865bbf7/
+https://cdn.qd.je/163189/viu
 #EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="香港",ViuTV 6
+https://cdn.qd.je/163189/viu6
 https://cdn10.163189.xyz/163189/dcd63a47-61e9-4bae-8af3-fca15f2d002b/
 #EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="香港",RTHK 31
-http://cdn.163189.xyz/163189/rthk31
+https://cdn.qd.je/163189/rthk31
 #EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="" group-title="香港",RTHK 32
-http://cdn.163189.xyz/163189/rthk32
+https://cdn.qd.je/163189/rthk32
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="香港",HOY TV
 http://iptv.4666888.xyz/iptv2A.php?id=35
+https://cdn.qd.je/163189/hoy
+https://cdn.qd.je/163189/hoy2
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="香港",凤凰中文
 http://www.liangcl.top:8686/udp/233.50.202.35:5140
 http://120.198.84.146:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
