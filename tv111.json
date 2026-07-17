@@ -63,11 +63,13 @@ http://125.227.210.55:3022/VideoInput/play.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=262
 https://ha.msbot.dpdns.org/4gtv_api.php?id=36
+https://iptv.yang-1989.xyz/4gtv/t765n2?token=c5015c1005c96b01751b591b914e71a5c3bb250ac15b3158
 http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+https://iptv.yang-1989.xyz/4gtv/e4unux?token=c5015c1005c96b01751b591b914e71a5c3bb250ac15b3158
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
@@ -178,9 +180,11 @@ http://211.23.114.106:8521/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大綜藝台 " group-title="台湾",八大綜藝
 https://ha.msbot.dpdns.org/4gtv_api.php?id=114
 https://ha.msbot.dpdns.org/4gtv_api.php?id=276
+https://iptv.yang-1989.xyz/4gtv/ayjxju?token=c5015c1005c96b01751b591b914e71a5c3bb250ac15b3158
 http://106.107.242.201:50007/4gtv-4gtv039/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台"  group-title="台湾",八大精彩
 https://ha.msbot.dpdns.org/4gtv_api.php?id=172
+https://iptv.yang-1989.xyz/4gtv/7g7s6t?token=c5015c1005c96b01751b591b914e71a5c3bb250ac15b3158
 http://106.107.242.201:50007/4gtv-4gtv034/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 http://211.23.95.147:18881/live/65_h265.ts
@@ -218,6 +222,7 @@ https://iptv.yang-1989.xyz/ofiii/g6g4ma?token=5b184287f9fecb9fac3078f6bb1afdbc6f
 http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="台湾",民視旅遊
 https://ha.msbot.dpdns.org/4gtv_api.php?id=61
+https://iptv.yang-1989.xyz/4gtv/y44vyy?token=c5015c1005c96b01751b591b914e71a5c3bb250ac15b3158
 https://stream1.freetv.fun/3439333a186efc0756e2eba2d5dadafc25d63abc56ae450e1d9df49c0180668d.m3u8
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台"  group-title="台湾",亚洲旅游台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=250
