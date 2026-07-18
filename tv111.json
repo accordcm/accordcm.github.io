@@ -141,7 +141,7 @@ http://211.23.95.147:18881/live/39_h265.ts
 http://125.227.210.55:3044/VideoInput/play.ts
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 " group-title="台湾",中天综合
 http://211.23.95.147:18881/live/36_h265.ts
-http://192.129.226.68:5678/live/stream-e81b26d8-82df-4074-9f91-666e6e9b6780/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+http://192.129.226.68:19890/trams/741/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
 rtmp://9svd1.mine.nu/sat/tv331
 rtmp://9svd2.mine.nu/sat/tv331
