@@ -56,7 +56,6 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
-mitv://64.32.9.99:7999/6d6573f701ac772d243a189958404e94.ts
 http://211.23.95.147:18881/live/104_h265.ts
 #EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
 http://211.23.95.147:18881/live/54_h265.ts
@@ -75,7 +74,6 @@ http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=VReyM0RgfyFP0rK6tRCqi
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 http://192.129.226.68:19890/trams/2878/playlist.m3u8?token=885252
-http://61.61.67.208:19890/trams/2878/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
 http://125.227.210.55:3054/VideoInput/play.ts
@@ -139,8 +137,8 @@ http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=VReyM0RgfyFP0rK6tRCqi
 https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
-http://61.221.215.25:8800/hls/47/index.m3u8
 http://211.23.95.147:18881/live/39_h265.ts
+http://125.227.210.55:3044/VideoInput/play.ts
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 " group-title="台湾",中天综合
 http://211.23.95.147:18881/live/36_h265.ts
 http://192.129.226.68:5678/live/stream-e81b26d8-82df-4074-9f91-666e6e9b6780/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
