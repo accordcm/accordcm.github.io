@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://material.1989.click/epg.xml.gz"
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
-http://211.23.95.147:18881/live/51_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=234
+http://211.23.95.147:18881/live/51_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
-http://211.23.95.147:18881/live/55_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+http://211.23.95.147:18881/live/55_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782727174761
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
