@@ -335,8 +335,6 @@ https://live.ottiptv.cc/huya/880261
 https://live.ottiptv.cc/huya/10871113
 #EXTINF:-1 tvg-id="愛情片系列" tvg-name="愛情片系列" group-title="輪播專區",愛情片系列
 https://live.ottiptv.cc/huya/29982639
-#EXTINF:-1 tvg-id="喜劇片系列" tvg-name="喜劇片系列" group-title="輪播專區",喜劇片系列
-https://live.ottiptv.cc/huya/11602044
 #EXTINF:-1 tvg-id="劉德華專場" tvg-name="劉德華專場" group-title="輪播專區",劉德華專場
 http://74.91.26.218:82/live/vlldh.m3u8
 #EXTINF:-1 tvg-id="古天樂系列" tvg-name="古天樂系列" group-title="輪播專區",古天樂系列
@@ -345,8 +343,6 @@ https://live.ottiptv.cc/huya/29982675
 http://74.91.26.218:82/live/vlzxc.m3u8
 http://107.150.60.122/live/lbzxc.m3u8
 https://live.ottiptv.cc/huya/11336587
-http://173.208.212.130:8181/1080p/vlzxc.m3u8
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="競速專場" group-title="輪播專區",競速專場
 https://live.ottiptv.cc/huya/29982635
 #EXTINF:-1 tvg-id="韓劇系列" tvg-name="韓劇系列" group-title="輪播專區",韓劇系列
