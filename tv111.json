@@ -17,9 +17,6 @@ http://211.23.95.147:18881/live/58_h265.ts
 rtmp://f13h.mine.nu/sat/tv581
 http://125.227.210.55:1086/VideoInput/play.ts
 http://154.222.29.54/jr.php?id=ustvnewshd
-http://154.222.29.54/jr.php?id=ustvnews
-http://154.222.29.54/jr.php?id=ustvnewslm
-http://154.222.29.54/jr.php?id=USNews
 http://154.222.29.54/jr.php?id=154
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 https://ha.msbot.dpdns.org/4gtv_api.php?id=293
@@ -53,7 +50,6 @@ http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=VReyM0RgfyFP0rK6tRCqi
 http://211.23.95.147:18881/live/86_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=268
 http://154.222.29.54/jr.php?id=mnewshd
-http://154.222.29.54/jr.php?id=mnewsy
 http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
@@ -467,8 +463,6 @@ http://125.227.210.55:8167/VideoInput/play.ts
 
 
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="電影频道",美亚电影
-http://zb.hpc.tw/smtv.php?id=meiyamovie_twn
-http://154.222.29.54/jr.php?id=MytvMeiyaMovieEN
 http://154.222.29.54/jr.php?id=CMAMHK
 http://154.222.29.54/jr.php?id=9
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
@@ -597,11 +591,11 @@ https://cdn.qd.je/163189/wxxwt
 #EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="" group-title="香港",TVBPLUS
 https://cdn.qd.je/163189/tvbp
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="香港",ViuTV
-https://cdn.qd.je/163189/viu
 http://154.222.29.54/jr.php?id=ViuTvChannel
+https://cdn.qd.je/163189/viu
 #EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="香港",ViuTV 6
-https://cdn.qd.je/163189/viu6
 http://154.222.29.54/jr.php?id=ViuTv6Channel
+https://cdn.qd.je/163189/viu6
 #EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="香港",RTHK 31
 https://cdn.qd.je/163189/rthk31
 http://154.222.29.54/jr.php?id=rthk31hd
