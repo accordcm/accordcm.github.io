@@ -262,11 +262,9 @@ rtmp://f13h.mine.nu/sat/tv741
 http://211.23.95.147:18881/live/74_h265.ts
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
 https://ha.msbot.dpdns.org/4gtv_api.php?id=113
-https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=173
-https://iptv.yang-1989.xyz/4gtv/6j7zfj?token=c5015c1005c96b01751b591b914e71a5c3bb250ac15b3158
 http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
@@ -282,7 +280,6 @@ http://106.107.242.201:50007/4gtv-live049/index.m3u8?token=VReyM0RgfyFP0rK6tRCqi
 https://ha.msbot.dpdns.org/4gtv_api.php?id=446
 http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="CHANNEL [V]" tvg-name="CHANNEL [V]"  group-title="台湾",CHANNEL [V]
-https://cdn.19891230.eu.org/api/MTV-Live/index.m3u8
 https://stream1.freetv.fun/fca0bd28ae8000f3bef263858ee50350cdcee11c4819c3ced4e0b2869ec9c770.m3u8
 #EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK搖滾極限頻道" group-title="台湾",ROCK搖滾極限頻道
 https://ha.msbot.dpdns.org/4gtv_api.php?id=485
