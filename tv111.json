@@ -215,7 +215,6 @@ https://iptv.yang-1989.xyz/ofiii/g6g4ma?token=5b184287f9fecb9fac3078f6bb1afdbc6f
 http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="台湾",民視旅遊
 https://ha.msbot.dpdns.org/4gtv_api.php?id=61
-https://iptv.yang-1989.xyz/4gtv/y44vyy?token=c5015c1005c96b01751b591b914e71a5c3bb250ac15b3158
 https://stream1.freetv.fun/3439333a186efc0756e2eba2d5dadafc25d63abc56ae450e1d9df49c0180668d.m3u8
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台"  group-title="台湾",亚洲旅游台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=250
@@ -613,22 +612,29 @@ https://cdn6.cc.cd/163189/fhhk
 #EXTM3U
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
 http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=5-15
+https://haru.charandom.blog/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
-http://154.222.29.54/jr.php?id=NHKETeleTokyoHD
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02&isp=5-15
+https://haru.charandom.blog/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
-https://nl.utako.moe/Nippon_TV/index.m3u8
+https://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
-http://154.222.29.54/jr.php?id=BSTBSHD
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04&isp=5-15
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=5-15
 #EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://logo.catvod.com/Fuji TV.png" group-title="日本",Fuji TV
-http://154.222.29.54/jr.php?id=FujiTVHD
+https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
-http://154.222.29.54/jr.php?id=TVAsahiHD
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06&isp=5-15
+https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://logo.catvod.com/TV Tokyo.png" group-title="日本",TV Tokyo
-http://154.222.29.54/jr.php?id=TVTokyoHD
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07&isp=5-15
+https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TV Osaka" tvg-logo="https://logo.catvod.com/TV Osaka.png" group-title="日本",TV Osaka
 http://154.222.29.54/jr.php?id=TVOsakaHD
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
-http://154.222.29.54/jr.php?id=TokyoMX1HD
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08&isp=5-15
 #EXTINF:-1 tvg-name="KBS" tvg-logo="https://logo.catvod.com/KBS.png" group-title="日本",KBS
 https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
@@ -648,29 +654,29 @@ http://211.23.95.147:18881/live/dtv40_h265.ts
 #EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://logo.catvod.com/BS Fuji.png" group-title="日本",BS Fuji
 https://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS10" tvg-logo="https://logo.catvod.com/BS10.png" group-title="日本",BS10
-http://154.222.29.54/jr.php?id=BS10HD
+https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS11" tvg-logo="https://logo.catvod.com/BS11.png" group-title="日本",BS11
-http://154.222.29.54/jr.php?id=BS11HD
+https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS12" tvg-logo="https://logo.catvod.com/BS12.png" group-title="日本",BS12
-http://154.222.29.54/jr.php?id=BS12TwelveHD
+https://haru.charandom.blog/stream/jp/bs12/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="NHK BS4K" tvg-logo="https://logo.catvod.com/NHK BS4K.png" group-title="日本",NHK BS4K
-https://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=5-15
 #EXTINF:-1 tvg-name="WOWOW Prime" tvg-logo="https://logo.catvod.com/WOWOW Prime.png" group-title="日本",WOWOW Prime
-http://154.222.29.54/jr.php?id=WOWOWPrimeHD
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=5-15
 #EXTINF:-1 tvg-name="WOWOW Cinema" tvg-logo="https://logo.catvod.com/WOWOW Cinema.png" group-title="日本",WOWOW Cinema
-http://154.222.29.54/jr.php?id=WOWOWCinemaHD
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=5-15
 #EXTINF:-1 tvg-name="WOWOW Live" tvg-logo="https://logo.catvod.com/WOWOW Live.png" group-title="日本",WOWOW Live
-http://318.tugu.xyz//yyh.php?id=WOWOWLiveHD
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=5-15
 #EXTINF:-1 tvg-name="BS 10 Star Channel" tvg-logo="https://logo.catvod.com/BS 10 Star Channel.png" group-title="日本",BS 10 Star Channel
 http://154.222.29.54/jr.php?id=BS10StarChannelHD
 #EXTINF:-1 tvg-name="JSport 1" tvg-logo="https://logo.catvod.com/JSport 1.png" group-title="日本",JSport 1
-http://154.222.29.54/jr.php?id=JSports1HD
+https://haru.charandom.blog/stream/jp/jsport_1/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 2" tvg-logo="https://logo.catvod.com/JSport 2.png" group-title="日本",JSport 2
-http://154.222.29.54/jr.php?id=JSports2HD
+https://haru.charandom.blog/stream/jp/jsport_2/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 3" tvg-logo="https://logo.catvod.com/JSport 3.png" group-title="日本",JSport 3
-http://154.222.29.54/jr.php?id=JSports3HD
+https://haru.charandom.blog/stream/jp/jsport_3/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 4" tvg-logo="https://logo.catvod.com/JSport 4.png" group-title="日本",JSport 4
-http://154.222.29.54/jr.php?id=JSports4HD
+https://haru.charandom.blog/stream/jp/jsport_4/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://logo.catvod.com/Green Channel.png" group-title="日本",Green Channel
 http://154.222.29.54/jr.php?id=GreenChannelHD
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="日本",Animax
@@ -682,7 +688,7 @@ https://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Gaora Sports" tvg-logo="https://logo.catvod.com/Gaora Sports.png" group-title="日本",Gaora Sports
 https://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="AT-X" tvg-logo="https://logo.catvod.com/AT-X.png" group-title="日本",AT-X
-http://154.222.29.54/jr.php?id=AnimeTheaterXATXHD
+https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Space Shower TV" tvg-logo="https://logo.catvod.com/Space Shower TV.png" group-title="日本",Space Shower TV
 http://154.222.29.54/jr.php?id=SpaceShowerTVHD
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://logo.catvod.com/MTV.png" group-title="日本",MTV
