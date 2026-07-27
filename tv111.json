@@ -181,6 +181,7 @@ https://iptv.yang-1989.xyz/4gtv/7g7s6t?token=c5015c1005c96b01751b591b914e71a5c3b
 http://106.107.242.201:50007/4gtv-4gtv034/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 http://211.23.95.147:18881/live/65_h265.ts
+http://125.227.210.55:3013/VideoInput/play.ts
 http://61.61.67.208:19890/trams/898/playlist.m3u8?token=885252
 http://192.129.226.68:5678/live/stream-00655b03-547a-495c-b0e1-37c227067f4f/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood" group-title="台湾",Hollywood
@@ -621,8 +622,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=5-15
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04&isp=5-15
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=5-15
 #EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://logo.catvod.com/Fuji TV.png" group-title="日本",Fuji TV
-https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
-https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05&isp=5-15
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06&isp=5-15
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://logo.catvod.com/TV Tokyo.png" group-title="日本",TV Tokyo
@@ -644,10 +644,10 @@ http://154.222.29.54/jr.php?id=BSAsahiHD
 #EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://logo.catvod.com/BS TBS.png" group-title="日本",BS TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=5-15
 #EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://logo.catvod.com/BS TV Tokyo.png" group-title="日本",BS TV Tokyo
-https://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=5-15
 http://211.23.95.147:18881/live/dtv40_h265.ts
 #EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://logo.catvod.com/BS Fuji.png" group-title="日本",BS Fuji
-https://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=5-15
 #EXTINF:-1 tvg-name="BS10" tvg-logo="https://logo.catvod.com/BS10.png" group-title="日本",BS10
 https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS11" tvg-logo="https://logo.catvod.com/BS11.png" group-title="日本",BS11
