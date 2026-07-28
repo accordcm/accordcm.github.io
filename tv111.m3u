@@ -9,6 +9,7 @@ http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=VReyM0RgfyFP0rK6tRCqi
 https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 http://211.23.95.147:18881/live/55_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+https://stream1.freetv.fun/5bad1e2d485e59cb1ef7353889b99add71e736816a9b993d98ba670303c51367.m3u8
 http://106.107.242.201:50007/media-live072/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://211.23.95.147:18881/live/58_h265.ts
@@ -32,6 +33,7 @@ https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df6492
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 http://211.23.95.147:18881/live/dtv2_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=4
+https://stream1.freetv.fun/58cd055c9424338d2e80de463e6ceddadfc12ea2bad59457c79dc0f9e86ac51d.m3u8
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://74.91.26.218:82/live/ctsnews.m3u8
 https://ha.msbot.dpdns.org/4gtv_api.php?id=34
@@ -47,6 +49,8 @@ http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=VReyM0RgfyFP0rK6tRCqi
 http://211.23.95.147:18881/live/50_h265.ts
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 https://ha.msbot.dpdns.org/4gtv_api.php?id=260
+https://stream1.freetv.fun/2e5ea7a94f8b536b824d80670f398f48d1efa96faac6a5226cdc92b55d7a2e16.m3u8
+https://stream1.freetv.fun/15573ff43772cdbb44535d8129707a4a005c703eaa02a624b34b00b3b1e5bb97.m3u8
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
@@ -65,6 +69,8 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
+https://stream1.freetv.fun/86875051a3a97e2dddc3c0544864323aba824f654f05853c65dd986cd2a95a87.m3u8
+https://stream1.freetv.fun/8cdbb8386603267a4bd09b57f2184c8cf65517be58ad0a2f38679f74ddb170a2.m3u8
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://211.23.95.147:18881/live/22_h265.ts
 http://125.227.210.55:3054/VideoInput/play.ts
@@ -135,6 +141,7 @@ http://192.129.226.68:19890/trams/741/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
 rtmp://9svd1.mine.nu/sat/tv331
 rtmp://9svd2.mine.nu/sat/tv331
+rtmp://f13h.mine.nu/sat/tv331
 http://211.23.95.147:18881/live/33_h265.ts
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="东森综合" group-title="台湾",东森综合
 http://211.23.95.147:18881/live/32_h265.ts
@@ -210,12 +217,12 @@ http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=VReyM0RgfyFP0rK6tRCqi
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" group-title="台湾",愛爾達生活旅遊台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=237
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
+http://211.23.95.147:18881/live/72_h265.ts
 rtmp://f13h.mine.nu:1935/sat/tv721
 rtmp://f13h.mine.nu/sat/tv721
-http://211.23.95.147:18881/live/72_h265.ts
 #EXTINF:-1 tvg-id="videolandmax" tvg-name="緯來育樂HD" group-title="台湾",緯來育樂HD
-https://cdn.19891230.eu.org/api/VL-E/index.m3u8
 http://211.23.95.147:18881/live/70_h265.ts
+rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
@@ -265,7 +272,6 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=113
 http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=173
-https://iptv.yang-1989.xyz/4gtv/6j7zfj?token=c5015c1005c96b01751b591b914e71a5c3bb250ac15b3158
 http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
@@ -282,6 +288,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=446
 http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="CHANNEL [V]" tvg-name="CHANNEL [V]"  group-title="台湾",CHANNEL [V]
 https://stream1.freetv.fun/fca0bd28ae8000f3bef263858ee50350cdcee11c4819c3ced4e0b2869ec9c770.m3u8
+https://stream1.freetv.fun/52501a20f13443ddf70fb69ab554399f0e46d34dbaa4303848b59f74b7152c20.m3u8
 #EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK搖滾極限頻道" group-title="台湾",ROCK搖滾極限頻道
 https://ha.msbot.dpdns.org/4gtv_api.php?id=485
 http://106.107.242.201:50007/4gtv-live124/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
@@ -289,38 +296,45 @@ http://49.213.188.67:50002/index.m3u8?pid=4gtv-live124@485&fun=TV4GTV&proxy=true
 
 
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
-#EXTINF:-1 tvg-id="變形記專場" tvg-name="變形記專場" group-title="輪播專區",變形記專場
-https://live.ottiptv.cc/huya/23903164
 #EXTINF:-1 tvg-id="穿越片系列" tvg-name="穿越片系列" group-title="輪播專區",穿越片系列
+https://yg.ygbox.de5.net/huya.php?id=29465892
 https://live.ottiptv.cc/huya/29465892
-#EXTINF:-1 tvg-id="穿越劇系列" tvg-name="穿越劇系列" group-title="輪播專區",穿越劇系列
-https://live.ottiptv.cc/huya/26355857
+#EXTINF:-1 tvg-id="喜劇片系列" tvg-name="喜劇片系列" group-title="輪播專區",喜劇片系列
+https://yg.ygbox.de5.net/huya.php?id=11352877
+https://yg.ygbox.de5.net/huya.php?id=11352897
 #EXTINF:-1 tvg-id="熱門片系列" tvg-name="熱門片系列" group-title="輪播專區",熱門片系列
-https://live.ottiptv.cc/huya/880261
+https://yg.ygbox.de5.net/huya.php?id=23728651
 #EXTINF:-1 tvg-id="動作片系列" tvg-name="動作片系列" group-title="輪播專區",動作片系列
+https://yg.ygbox.de5.net/huya.php?id=23863818
 https://live.ottiptv.cc/huya/10871113
 #EXTINF:-1 tvg-id="愛情片系列" tvg-name="愛情片系列" group-title="輪播專區",愛情片系列
 https://live.ottiptv.cc/huya/29982639
 #EXTINF:-1 tvg-id="劉德華專場" tvg-name="劉德華專場" group-title="輪播專區",劉德華專場
+https://yg.ygbox.de5.net/huya.php?id=11342424
 http://74.91.26.218:82/live/vlldh.m3u8
+#EXTINF:-1 tvg-id="古天樂系列" tvg-name="古天樂系列" group-title="輪播專區",古天樂系列
+https://yg.ygbox.de5.net/huya.php?id=29982675
 #EXTINF:-1 tvg-id="周星馳專場" tvg-name="周星馳專場" group-title="輪播專區",周星馳專場
+https://yg.ygbox.de5.net/huya.php?id=11336587
 http://74.91.26.218:82/live/vlzxc.m3u8
 http://107.150.60.122/live/lbzxc.m3u8
-https://live.ottiptv.cc/huya/11336587
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="競速專場" group-title="輪播專區",競速專場
-https://live.ottiptv.cc/huya/29982635
+https://yg.ygbox.de5.net/huya.php?id=11602051
 #EXTINF:-1 tvg-id="韓劇系列" tvg-name="韓劇系列" group-title="輪播專區",韓劇系列
-https://live.ottiptv.cc/huya/23863787
+https://yg.ygbox.de5.net/huya.php?id=26355838
 #EXTINF:-1 tvg-id="戰爭片系列" tvg-name="戰爭片系列" group-title="輪播專區",戰爭片系列
-https://live.ottiptv.cc/huya/21059618
+https://yg.ygbox.de5.net/huya.php?id=21059574
+https://yg.ygbox.de5.net/huya.php?id=20969127
 #EXTINF:-1 tvg-id="徐峥系列" tvg-name="徐峥系列" group-title="輪播專區",徐峥系列
 https://live.ottiptv.cc/huya/11602043
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="邓超系列" group-title="輪播專區",邓超系列
-https://live.ottiptv.cc/huya/11336592
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="强森系列" group-title="輪播專區",强森系列
-https://live.ottiptv.cc/huya/21059581
+https://yg.ygbox.de5.net/huya.php?id=21059581
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="硬漢系列" group-title="輪播專區",硬漢系列
-https://live.ottiptv.cc/huya/23864973
+https://yg.ygbox.de5.net/huya.php?id=29465873
+#EXTINF:-1 tvg-id="變形記專場" tvg-name="變形記專場" group-title="輪播專區",變形記專場
+https://live.ottiptv.cc/huya/23903164
+
 
 
 #EXTM3U
@@ -423,7 +437,7 @@ http://125.227.210.55:8167/VideoInput/play.ts
 
 
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="電影频道",美亚电影
-http://zb.hpc.tw/smtv.php?id=meiyamovie_twn
+https://stream1.freetv.fun/12e25aeffeee85d6fe045a3f3edb6f0cf25782b51d9d2708ea5d9c0fc9bdf0db.m3u8
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=40
 http://iptv.4666888.xyz/iptv2A.php?id=54
@@ -431,6 +445,7 @@ http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=VReyM0RgfyFP0rK6tRCqi
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" group-title="電影频道",amc 電影台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=39
 http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782727174761
+https://cdn12.178.indevs.in/163189/amc
 http://211.23.95.147:18881/live/69_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv017/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="緯來電影HD" group-title="電影频道",緯來電影HD
@@ -444,6 +459,7 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=2258
 http://125.227.210.55:3055/VideoInput/play.ts
 #EXTINF:-1 tvg-id="lhdy01" tvg-name="龍華电影" group-title="電影频道",龍華电影
 http://cdn8.163189.xyz/163189/lhdy
+http://154.222.29.54/jr.php?id=112
 http://106.107.242.201:50007/litv-xinchuang03/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="電影频道",龍華洋片
 http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
@@ -452,6 +468,7 @@ http://211.23.95.147:18881/live/68_h265.ts
 https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
 #EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" group-title="電影频道",HBO HD
 http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+http://154.222.29.54/jr.php?id=96
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD"  group-title="電影频道",HBO Family
 mitv://64.32.9.99:7999/c34331f1b9dae023e1d9db154777e28e.ts
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD"  group-title="電影频道",HBO Signature
@@ -469,7 +486,6 @@ mitv://64.32.9.99:7999/a750f670c08fc80f09e23b652052fd90.ts
 
 
 #EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS"  group-title="新闻频道",三立iNEWS
-https://iptv.852851.xyz/ch/6c0dfd2d665343f014b36b6888c1ff14/master.m3u8
 http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782727174761
 https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
 https://stream1.freetv.fun/badd2c471b785d2032379719c9b0e85c841d1fbff319e8d6cd17683cd807314e.m3u8
@@ -478,16 +494,14 @@ http://106.107.242.201:50007/iNEWS/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntM
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="台視財經" group-title="新闻频道",台視財經
 http://211.23.95.147:18881/live/dtv16_h265.ts
 http://74.91.26.218:82/live/ttvcj.m3u8
+https://stream1.freetv.fun/3b883105f8b4ece50bf1e92684e237b4931311dcfdd18212106afaed5290c813.ctv
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="新闻频道",東森財經新聞
-https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 http://211.23.95.147:18881/live/57_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="新闻频道",民視新聞台
 http://211.23.95.147:18881/live/dtv9_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=31
-https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
-https://tv.iill.top/4gtv/litv-ftv13
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="新闻频道",中視新聞台
 http://74.91.26.218:82/live/ctvnews.m3u8
@@ -501,7 +515,6 @@ http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=VReyM0RgfyFP0rK6tRCqi
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="新闻频道",寰宇新聞台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=262
 http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
-https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
 http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
@@ -509,14 +522,12 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="CGTN" tvg-name="NHK新聞資訊台" group-title="新闻频道",NHK新聞資訊台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=461
-https://tv123.cc.cd/live.php/?ch=11ac5975504
 http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
 mitv://64.32.9.99:7999/8518826cc4034b8bc8e3e86961e3f192.ts
 mitv://64.32.9.99:7999/0a4346f1f63028c5998e9f48445d235f.ts
 #EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" group-title="新闻频道",CNN
 mitv://64.32.9.99:7999/93b49b4d0e61b567ca2f200a3e7720f7.ts
-mitv://64.32.9.99:7999/09e75fc9a17f94bbaf7380d23f202787.ts
 #EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
 http://125.227.210.55:8165/VideoInput/play.ts
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
