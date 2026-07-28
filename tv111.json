@@ -296,11 +296,8 @@ http://49.213.188.67:50002/index.m3u8?pid=4gtv-live124@485&fun=TV4GTV&proxy=true
 
 
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
-#EXTINF:-1 tvg-id="變形記專場" tvg-name="變形記專場" group-title="輪播專區",變形記專場
-https://live.ottiptv.cc/huya/23903164
 #EXTINF:-1 tvg-id="穿越片系列" tvg-name="穿越片系列" group-title="輪播專區",穿越片系列
 https://yg.ygbox.de5.net/huya.php?id=29465892
-https://live.ottiptv.cc/huya/29465892
 #EXTINF:-1 tvg-id="喜劇片系列" tvg-name="喜劇片系列" group-title="輪播專區",喜劇片系列
 https://yg.ygbox.de5.net/huya.php?id=11352877
 https://yg.ygbox.de5.net/huya.php?id=11352897
@@ -308,7 +305,6 @@ https://yg.ygbox.de5.net/huya.php?id=11352897
 https://yg.ygbox.de5.net/huya.php?id=23728651
 #EXTINF:-1 tvg-id="動作片系列" tvg-name="動作片系列" group-title="輪播專區",動作片系列
 https://yg.ygbox.de5.net/huya.php?id=23863818
-https://live.ottiptv.cc/huya/10871113
 #EXTINF:-1 tvg-id="愛情片系列" tvg-name="愛情片系列" group-title="輪播專區",愛情片系列
 https://live.ottiptv.cc/huya/29982639
 #EXTINF:-1 tvg-id="劉德華專場" tvg-name="劉德華專場" group-title="輪播專區",劉德華專場
@@ -316,32 +312,25 @@ https://yg.ygbox.de5.net/huya.php?id=11342424
 http://74.91.26.218:82/live/vlldh.m3u8
 #EXTINF:-1 tvg-id="古天樂系列" tvg-name="古天樂系列" group-title="輪播專區",古天樂系列
 https://yg.ygbox.de5.net/huya.php?id=29982675
-https://live.ottiptv.cc/huya/29982675
 #EXTINF:-1 tvg-id="周星馳專場" tvg-name="周星馳專場" group-title="輪播專區",周星馳專場
-https://yg.ygbox.de5.net/huya.php?id=11336587
 http://74.91.26.218:82/live/vlzxc.m3u8
-http://107.150.60.122/live/lbzxc.m3u8
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="競速專場" group-title="輪播專區",競速專場
 https://yg.ygbox.de5.net/huya.php?id=11602051
-https://live.ottiptv.cc/huya/29982635
 #EXTINF:-1 tvg-id="韓劇系列" tvg-name="韓劇系列" group-title="輪播專區",韓劇系列
 https://yg.ygbox.de5.net/huya.php?id=26355838
 https://live.ottiptv.cc/huya/23863787
 #EXTINF:-1 tvg-id="戰爭片系列" tvg-name="戰爭片系列" group-title="輪播專區",戰爭片系列
 https://yg.ygbox.de5.net/huya.php?id=21059574
 https://yg.ygbox.de5.net/huya.php?id=20969127
-https://live.ottiptv.cc/huya/21059618
 #EXTINF:-1 tvg-id="徐峥系列" tvg-name="徐峥系列" group-title="輪播專區",徐峥系列
 https://live.ottiptv.cc/huya/11602043
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="邓超系列" group-title="輪播專區",邓超系列
-https://live.ottiptv.cc/huya/11336592
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="强森系列" group-title="輪播專區",强森系列
 https://yg.ygbox.de5.net/huya.php?id=21059581
-https://live.ottiptv.cc/huya/21059581
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="硬漢系列" group-title="輪播專區",硬漢系列
+ #EXTINF:-1 tvg-id="hunan_twn" tvg-name="硬漢系列" group-title="輪播專區",硬漢系列
 https://yg.ygbox.de5.net/huya.php?id=29465873
 https://live.ottiptv.cc/huya/23864973
-
+#EXTINF:-1 tvg-id="變形記專場" tvg-name="變形記專場" group-title="輪播專區",變形記專場
+https://live.ottiptv.cc/huya/23903164
 
 
 #EXTM3U
