@@ -47,10 +47,8 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=268
 http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
-https://iptv.852851.xyz/l/IwYf9ux9pIv_p1zqxMYc9V_1-KeHygOXMx7m3ms_NLwWPqwWLMQB68LNeUfxjRlD/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 https://ha.msbot.dpdns.org/4gtv_api.php?id=260
-https://stream1.freetv.fun/2e5ea7a94f8b536b824d80670f398f48d1efa96faac6a5226cdc92b55d7a2e16.m3u8
 https://stream1.freetv.fun/15573ff43772cdbb44535d8129707a4a005c703eaa02a624b34b00b3b1e5bb97.m3u8
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
@@ -82,9 +80,9 @@ http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://211.23.95.147:18881/live/21_h265.ts
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
+https://ha.msbot.dpdns.org/4gtv_api.php?id=246
 http://74.91.26.218:82/live/ftv.m3u8
 http://211.23.95.147:18881/live/dtv7_h265.ts
-https://ha.msbot.dpdns.org/4gtv_api.php?id=246
 rtmp://f13h.mine.nu/sat/tv051
 http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="台視" tvg-name="台視"  group-title="台湾",台視
