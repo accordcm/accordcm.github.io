@@ -47,6 +47,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=268
 http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
+https://iptv.852851.xyz/l/IwYf9ux9pIv_p1zqxMYc9V_1-KeHygOXMx7m3ms_NLwWPqwWLMQB68LNeUfxjRlD/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 https://stream1.freetv.fun/2e5ea7a94f8b536b824d80670f398f48d1efa96faac6a5226cdc92b55d7a2e16.m3u8
@@ -224,15 +225,17 @@ rtmp://f13h.mine.nu/sat/tv721
 http://211.23.95.147:18881/live/70_h265.ts
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
+https://iptv.852851.xyz/l/b-XL9DNeL8WtKl8la8mcYapUCZs2SvrEqACi-2M4px4j7_fH9vAl9ceiNKJDZHmE/index.m3u8
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
-rtmp://106.107.234.156/live/livestream.m3u8
+https://iptv.852851.xyz/l/pQsO4LdBR2oFZXMP2kjZveNthj4O1qkibLvrFpmWLr8WhpPTH7LMH1oRKXbttO8I/index.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
+https://iptv.852851.xyz/l/FVnj6O6kjg-jzqTiari1v5VDIHfmm9I1BGib5oiUiv8ezoTH50bLPjY7Hfrt-2Um/index.m3u8
 rtmp://f13h.mine.nu/sat/md041
-rtmp://106.107.177.219/live/livestream.m3u8
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯運動 1" group-title="台湾",博斯運動 1
 https://ha.msbot.dpdns.org/4gtv_api.php?id=487
 https://ha.msbot.dpdns.org/4gtv_api.php?id=265
+https://iptv.852851.xyz/l/oexCPt4hU8m3k66mJd19AtVYHx5yqCGv7789DNZWJMb7R-jZP-VwvhkZGYvhxjor/index.m3u8
 http://106.107.242.201:50007/litv-xinchuang07/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="bosisport2_twn" tvg-name="博斯運動 2" group-title="台湾",博斯運動 2
 https://ha.msbot.dpdns.org/4gtv_api.php?id=495
@@ -427,9 +430,11 @@ http://125.227.210.55:8167/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="電影频道",美亚电影
 https://stream1.freetv.fun/12e25aeffeee85d6fe045a3f3edb6f0cf25782b51d9d2708ea5d9c0fc9bdf0db.m3u8
+https://iptv.852851.xyz/l/gQMAof7MUFr6unwg5jnfj3bukJsPQoltj4maehtjADgEYEjodqta0UiP1ogV0WQj/index.m3u8
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=40
 http://iptv.4666888.xyz/iptv2A.php?id=54
+http://tv123.cc.cd/live.php?ch=264&sid=8bf1c8cfd17b10cf5011293dd935a24a&exp=1785339625&sig=2eb961a979c49ae30023f95298e54166aadd45e37d0a30aea67d5c8b68d61f87
 http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" group-title="電影频道",amc 電影台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=39
@@ -578,8 +583,9 @@ https://cdn6.cc.cd/163189/fhhk
 #EXTM3U url-tvg="https://akariko-bck1.sankuria.sbs/epg/kai-epg.xml" tvg-shift="0" m3uautoload="1"
 #EXTM3U
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
-http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
 https://akariko-bck1.sankuria.sbs/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
+http://tv123.cc.cd/live.php?ch=1645&sid=8bf1c8cfd17b10cf5011293dd935a24a&exp=1785339625&sig=d3c4836f5865b8092fa609866e6cd5ec4fd9282a94b03376ada3137fd697b17f
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=5-15
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
 https://akariko-bck1.sankuria.sbs/stream/jp/nhk_e/stream-output.m3u8?mode=hls
