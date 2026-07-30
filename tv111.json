@@ -583,21 +583,17 @@ https://cdn6.cc.cd/163189/fhhk
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
 https://akariko-bck1.sankuria.sbs/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
+http://211.23.95.147:18881/live/dtv41_h265.ts
 http://tv123.cc.cd/live.php?ch=1645&sid=8bf1c8cfd17b10cf5011293dd935a24a&exp=1785339625&sig=d3c4836f5865b8092fa609866e6cd5ec4fd9282a94b03376ada3137fd697b17f
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=5-15
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
 https://akariko-bck1.sankuria.sbs/stream/jp/nhk_e/stream-output.m3u8?mode=hls
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02&isp=5-15
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
 https://akariko-bck1.sankuria.sbs/stream/jp/ntv/stream-output.m3u8?mode=hls
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=5-15
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
 https://akariko-bck1.sankuria.sbs/stream/jp/tbs/stream-output.m3u8?mode=hls
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04&isp=5-15
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=5-15
 #EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://logo.catvod.com/Fuji TV.png" group-title="日本",Fuji TV
 https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05&isp=5-15
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
 https://akariko-bck1.sankuria.sbs/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06&isp=5-15
@@ -614,6 +610,7 @@ https://akariko-bck1.sankuria.sbs/stream/jp/kbs/stream-output.m3u8?mode=hls
 https://akariko-bck1.sankuria.sbs/stream/jp/kbs_world/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://logo.catvod.com/NHK BS.png" group-title="日本",NHK BS
 http://211.23.95.147:18881/live/dtv39_h265.ts
+https://akariko-bck1.sankuria.sbs/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS NTV" tvg-logo="https://logo.catvod.com/BS NTV.png" group-title="日本",BS NTV
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS Asahi" tvg-logo="https://logo.catvod.com/BS Asahi.png" group-title="日本",BS Asahi
@@ -621,16 +618,13 @@ https://akariko-bck1.sankuria.sbs/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://logo.catvod.com/BS TBS.png" group-title="日本",BS TBS
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=5-15
 #EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://logo.catvod.com/BS TV Tokyo.png" group-title="日本",BS TV Tokyo
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
-https://akariko-bck1.sankuria.sbs/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=5-15
 http://211.23.95.147:18881/live/dtv40_h265.ts
+https://akariko-bck1.sankuria.sbs/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://logo.catvod.com/BS Fuji.png" group-title="日本",BS Fuji
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_fuji_4k/stream-output.m3u8?mode=hls
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=5-15
 #EXTINF:-1 tvg-name="BS10" tvg-logo="https://logo.catvod.com/BS10.png" group-title="日本",BS10
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
 https://akariko-bck1.sankuria.sbs/stream/jp/bs10/stream-output.m3u8?mode=hls
@@ -641,7 +635,6 @@ https://akariko-bck1.sankuria.sbs/stream/jp/bs_11_premium/stream-output.m3u8?mod
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_12/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="NHK BS4K" tvg-logo="https://logo.catvod.com/NHK BS4K.png" group-title="日本",NHK BS4K
 https://akariko-bck1.sankuria.sbs/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=5-15
 #EXTINF:-1 tvg-name="WOWOW Prime" tvg-logo="https://logo.catvod.com/WOWOW Prime.png" group-title="日本",WOWOW Prime
 https://akariko-bck1.sankuria.sbs/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=5-15
@@ -650,7 +643,6 @@ https://akariko-bck1.sankuria.sbs/stream/jp/wowow_cinema/stream-output.m3u8?mode
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=5-15
 #EXTINF:-1 tvg-name="WOWOW Live" tvg-logo="https://logo.catvod.com/WOWOW Live.png" group-title="日本",WOWOW Live
 https://akariko-bck1.sankuria.sbs/stream/jp/wowow_live/stream-output.m3u8?mode=hls
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=5-15
 #EXTINF:-1 tvg-name="BS 10 Star Channel" tvg-logo="https://logo.catvod.com/BS 10 Star Channel.png" group-title="日本",BS 10 Star Channel
 http://154.222.29.54/jr.php?id=BS10StarChannelHD
 #EXTINF:-1 tvg-name="JSport 1" tvg-logo="https://logo.catvod.com/JSport 1.png" group-title="日本",JSport 1
@@ -670,10 +662,8 @@ https://akariko-bck1.sankuria.sbs/stream/jp/green_channel/stream-output.m3u8?mod
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=5-15
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="日本",Animax
 https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=5-15
 #EXTINF:-1 tvg-name="Nihon Eiga Senmon" tvg-logo="https://logo.catvod.com/Nihon Eiga Senmon.png" group-title="日本",Nihon Eiga Senmon
 https://akariko-bck1.sankuria.sbs/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=5-15
 #EXTINF:-1 tvg-name="Sky A" tvg-logo="https://logo.catvod.com/Sky A.png" group-title="日本",Sky A
 https://akariko-bck1.sankuria.sbs/stream/jp/sky_a/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Gaora Sports" tvg-logo="https://logo.catvod.com/Gaora Sports.png" group-title="日本",Gaora Sports
@@ -735,7 +725,6 @@ https://akariko-bck1.sankuria.sbs/stream/jp/tabi_channel/stream-output.m3u8?mode
 #EXTINF:-1 tvg-name="discovery" tvg-logo="https://logo.catvod.com/Pigoo (NSFW).png" group-title="日本",discovery
 https://akariko-bck1.sankuria.sbs/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="V Paradise (NSFW)" tvg-logo="https://logo.catvod.com/V Paradise (NSFW).png" group-title="日本",V Paradise (NSFW)
-https://akariko-bck1.sankuria.sbs/stream/jp/nouvelle_paradise_nsfw/stream-output.m3u8?mode=hls
 https://akariko-bck1.sankuria.sbs/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 
 
@@ -782,6 +771,8 @@ https://z3.ubtvfans.com/live/rx3/405/fed61aa5af46663a552bfed2bd8c0a3f/index.m3u8
 #EXTINF:-1 tvg-name="LOOK" tvg-logo="https://logo.catvod.com/LOOK.png" group-title="私人频道_543",LOOK
 p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
 https://z3.ubtvfans.com/live/rx4/2933/612f104a0e7d89b6d6a0fabebc2059e0/index.m3u8
+#EXTINF:-1 tvg-name="V Paradise" tvg-logo="https://logo.catvod.com/V Paradise.png" group-title="私人频道_543",V Paradise
+https://akariko-bck1.sankuria.sbs/stream/jp/nouvelle_paradise_nsfw/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="HAPPY" tvg-logo="https://logo.catvod.com/HAPPY.png" group-title="私人频道_543",HAPPY
 http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
 http://z88.ubtvfans.com/live/rx3/2908/bc0aa6ce3602ddcd50c5e522a53cb857/index.m3u8
