@@ -618,8 +618,8 @@ https://akariko-bck1.sankuria.sbs/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=
 #EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://logo.catvod.com/BS TBS.png" group-title="日本",BS TBS
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://logo.catvod.com/BS TV Tokyo.png" group-title="日本",BS TV Tokyo
-https://akariko-bck1.sankuria.sbs/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
+https://akariko-bck1.sankuria.sbs/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 http://211.23.95.147:18881/live/dtv40_h265.ts
 #EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://logo.catvod.com/BS Fuji.png" group-title="日本",BS Fuji
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
@@ -729,9 +729,9 @@ https://akariko-bck1.sankuria.sbs/stream/jp/v_paradise_nsfw/stream-output.m3u8?m
 
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="潘多拉完美" tvg-logo="https://logo.catvod.com/潘多拉完美.png" group-title="私人频道_543",潘多拉完美
-http://z88.ubtvfans.com/live/rx4/2932/0b07c2cd5bc42fdcffd64abab1f96e44/index.m3u8
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 https://ppt.cc/fgXIWx
+http://z88.ubtvfans.com/live/rx4/2932/0b07c2cd5bc42fdcffd64abab1f96e44/index.m3u8
 #EXTINF:-1 tvg-name="香蕉" tvg-logo="https://logo.catvod.com/香蕉.png" group-title="私人频道_543",香蕉
 https://stream1.freetv.fun/58de13dd44637831a30fd05decc775f0648b376c707586e3dcbe7da08a87ea53.ctv
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
