@@ -8,7 +8,6 @@ http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=VReyM0RgfyFP0rK6tRCqi
 https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 http://211.23.95.147:18881/live/55_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=473
-https://stream1.freetv.fun/5bad1e2d485e59cb1ef7353889b99add71e736816a9b993d98ba670303c51367.m3u8
 http://106.107.242.201:50007/media-live072/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://211.23.95.147:18881/live/58_h265.ts
@@ -26,17 +25,17 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=31
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
 http://211.23.95.147:18881/live/dtv15_h265.ts
-http://74.91.26.218:82/live/ttvnews.m3u8
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
 https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8
+http://74.91.26.218:82/live/ttvnews.m3u8
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 http://211.23.95.147:18881/live/dtv2_h265.ts
-http://74.91.26.218:82/live/ctvnews.m3u8
 http://125.227.210.55:3079/VideoInput/play.ts
+http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
-http://74.91.26.218:82/live/ctsnews.m3u8
 http://211.23.95.147:18881/live/dtv20_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=34
+http://74.91.26.218:82/live/ctsnews.m3u8
 https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
