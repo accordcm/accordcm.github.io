@@ -57,6 +57,7 @@ http://211.23.95.147:18881/live/49_h265.ts
 http://211.23.95.147:18881/live/104_h265.ts
 #EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
 http://211.23.95.147:18881/live/54_h265.ts
+https://test.946985.filegear-sg.me/proxy/6b09e91c6926a857
 http://125.227.210.55:3022/VideoInput/play.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=36
@@ -68,6 +69,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
+https://test.946985.filegear-sg.me/proxy/041ef489ab8ea78a
 https://test.946985.filegear-sg.me/proxy/dfc2aa263d2e5fcc
 https://stream1.freetv.fun/8cdbb8386603267a4bd09b57f2184c8cf65517be58ad0a2f38679f74ddb170a2.m3u8
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
@@ -130,6 +132,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+https://test.946985.filegear-sg.me/proxy/17462eeaae8946a8
 http://211.23.95.147:18881/live/42_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台"  group-title="台湾",TVBS精采台
@@ -198,17 +201,21 @@ http://211.23.95.147:18881/live/67_h265.ts
 http://211.23.95.147:18881/live/71_h265.ts
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="台湾",龍華洋片
 https://cdn.qd.je/163189/lhyp
+https://test.946985.filegear-sg.me/proxy/2fbdef6976cf37e4
 http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
 http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龍華经典台" group-title="台湾",龍華经典台
 https://cdn.qd.je/163189/lhjd
+https://test.946985.filegear-sg.me/proxy/9267c27e19de027c
 http://106.107.242.201:50007/litv-xinchuang21/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="lunghuaidol_twn" tvg-name="龍華偶像" group-title="台湾",龍華偶像
 https://cdn.qd.je/163189/lhox
+https://test.946985.filegear-sg.me/proxy/dc2f570fedf9a983
 http://106.107.242.201:50007/litv-xinchuang12/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="lhrh01" tvg-name="龍華日韓台" group-title="台湾",龍華日韓台
 https://cdn.qd.je/163189/lhrh
+https://test.946985.filegear-sg.me/proxy/536c358ed43fefd6
 http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="台湾",民視旅遊
 https://ha.msbot.dpdns.org/4gtv_api.php?id=61
@@ -399,6 +406,7 @@ http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
 https://4gtv.158.qzz.io/163189/4e7af03f-ef5e-4a0b-a2ef-0cb6a51351a9/
 https://ha.msbot.dpdns.org/4gtv_api.php?id=231
+https://test.946985.filegear-sg.me/proxy/e4ae17002aebad89
 http://iptv.4666888.xyz/iptv2A.php?id=49
 https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8
 http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
@@ -415,6 +423,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=59
 http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
 https://ha.msbot.dpdns.org/4gtv_api.php?id=282
+https://test.946985.filegear-sg.me/proxy/bdb9c02367c595b9
 http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1782727174761
 http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="尼克兒童頻道"  group-title="兒童卡通",尼克兒童頻道
@@ -429,9 +438,11 @@ http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=VReyM0RgfyFP0rK6tRCqi
 http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="lhkt01" tvg-name="龍華卡通" group-title="兒童卡通",龍華卡通
 http://cdn8.163189.xyz/163189/lhkt
+https://test.946985.filegear-sg.me/proxy/548f69d5af8e1550
 https://cdn.qd.je/163189/lhkt
 http://106.107.242.201:50007/litv-xinchuang01/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" group-title="兒童卡通",Cartoon Network
+https://test.946985.filegear-sg.me/proxy/70bbcb802727867a
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 http://125.227.210.55:8167/VideoInput/play.ts
 
@@ -463,6 +474,7 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=2258
 http://125.227.210.55:3055/VideoInput/play.ts
 #EXTINF:-1 tvg-id="lhdy01" tvg-name="龍華电影" group-title="電影频道",龍華电影
 http://cdn8.163189.xyz/163189/lhdy
+https://test.946985.filegear-sg.me/proxy/c39e6997997cc0b4
 http://154.222.29.54/jr.php?id=112
 http://106.107.242.201:50007/litv-xinchuang03/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="電影频道",龍華洋片
