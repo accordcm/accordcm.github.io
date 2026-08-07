@@ -204,6 +204,7 @@ https://cdn.qd.je/163189/lhyp
 https://test.946985.filegear-sg.me/proxy/2fbdef6976cf37e4
 http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
+https://test.946985.filegear-sg.me/proxy/7bea87074aebe645
 http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龍華经典台" group-title="台湾",龍華经典台
 https://cdn.qd.je/163189/lhjd
@@ -234,15 +235,15 @@ rtmp://f13h.mine.nu/sat/tv721
 http://211.23.95.147:18881/live/70_h265.ts
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
-https://test.946985.filegear-sg.me/proxy/643b247fe9bdebb3
 https://iptv.852851.xyz/l/b-XL9DNeL8WtKl8la8mcYapUCZs2SvrEqACi-2M4px4j7_fH9vAl9ceiNKJDZHmE/index.m3u8
+https://test.946985.filegear-sg.me/proxy/643b247fe9bdebb3
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
-https://test.946985.filegear-sg.me/proxy/6a713200b868e519
 https://iptv.852851.xyz/l/pQsO4LdBR2oFZXMP2kjZveNthj4O1qkibLvrFpmWLr8WhpPTH7LMH1oRKXbttO8I/index.m3u8
+https://test.946985.filegear-sg.me/proxy/6a713200b868e519
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
-https://test.946985.filegear-sg.me/proxy/4cabbaab10a1ee34
 https://iptv.852851.xyz/l/FVnj6O6kjg-jzqTiari1v5VDIHfmm9I1BGib5oiUiv8ezoTH50bLPjY7Hfrt-2Um/index.m3u8
+https://test.946985.filegear-sg.me/proxy/4cabbaab10a1ee34
 rtmp://f13h.mine.nu/sat/md041
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯運動 1" group-title="台湾",博斯運動 1
 https://ha.msbot.dpdns.org/4gtv_api.php?id=487
