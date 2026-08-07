@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+https://test.946985.filegear-sg.me/proxy/32f649ae453ddd09
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=291
@@ -11,6 +12,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 http://106.107.242.201:50007/media-live072/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://211.23.95.147:18881/live/58_h265.ts
+https://test.946985.filegear-sg.me/proxy/7eedfbf882f91a08
 rtmp://f13h.mine.nu/sat/tv581
 http://125.227.210.55:1086/VideoInput/play.ts
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
@@ -66,7 +68,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
-https://stream1.freetv.fun/86875051a3a97e2dddc3c0544864323aba824f654f05853c65dd986cd2a95a87.m3u8
+https://test.946985.filegear-sg.me/proxy/dfc2aa263d2e5fcc
 https://stream1.freetv.fun/8cdbb8386603267a4bd09b57f2184c8cf65517be58ad0a2f38679f74ddb170a2.m3u8
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://125.227.210.55:3054/VideoInput/play.ts
@@ -225,16 +227,20 @@ rtmp://f13h.mine.nu/sat/tv721
 http://211.23.95.147:18881/live/70_h265.ts
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
+https://test.946985.filegear-sg.me/proxy/643b247fe9bdebb3
 https://iptv.852851.xyz/l/b-XL9DNeL8WtKl8la8mcYapUCZs2SvrEqACi-2M4px4j7_fH9vAl9ceiNKJDZHmE/index.m3u8
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
+https://test.946985.filegear-sg.me/proxy/6a713200b868e519
 https://iptv.852851.xyz/l/pQsO4LdBR2oFZXMP2kjZveNthj4O1qkibLvrFpmWLr8WhpPTH7LMH1oRKXbttO8I/index.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
+https://test.946985.filegear-sg.me/proxy/4cabbaab10a1ee34
 https://iptv.852851.xyz/l/FVnj6O6kjg-jzqTiari1v5VDIHfmm9I1BGib5oiUiv8ezoTH50bLPjY7Hfrt-2Um/index.m3u8
 rtmp://f13h.mine.nu/sat/md041
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯運動 1" group-title="台湾",博斯運動 1
 https://ha.msbot.dpdns.org/4gtv_api.php?id=487
 https://ha.msbot.dpdns.org/4gtv_api.php?id=265
+https://test.946985.filegear-sg.me/proxy/36948ccccb119b46
 https://iptv.852851.xyz/l/oexCPt4hU8m3k66mJd19AtVYHx5yqCGv7789DNZWJMb7R-jZP-VwvhkZGYvhxjor/index.m3u8
 http://106.107.242.201:50007/litv-xinchuang07/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="bosisport2_twn" tvg-name="博斯運動 2" group-title="台湾",博斯運動 2
@@ -440,6 +446,8 @@ http://tv123.cc.cd/live.php?ch=264&sid=8bf1c8cfd17b10cf5011293dd935a24a&exp=1785
 http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" group-title="電影频道",amc 電影台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=39
+https://test.946985.filegear-sg.me/proxy/0586c8f5ac8ac9f3
+https://test.946985.filegear-sg.me/proxy/6f25bfa07d989b51
 http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782727174761
 https://cdn12.178.indevs.in/163189/amc
 http://211.23.95.147:18881/live/69_h265.ts
