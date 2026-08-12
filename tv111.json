@@ -453,7 +453,8 @@ https://test.946985.filegear-sg.me/proxy/70bbcb802727867a
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 http://125.227.210.55:8167/VideoInput/play.ts
 
-
+#EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="電影频道",美亚电影
+https://iptv.852851.xyz/l/gQMAof7MUFr6unwg5jnfj3bukJsPQoltj4maehtjADgEYEjodqta0UiP1ogV0WQj/index.m3u8
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=40
 http://iptv.4666888.xyz/iptv2A.php?id=54
