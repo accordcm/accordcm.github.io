@@ -16,27 +16,6 @@
             "lang": "ds",
             "ext": ""
         },
-         {
-            "key": "hipy_py_一起看[Ayq]",
-            "name": "一起看[Ayq](hipy)",
-            "type": 4,
-            "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "title": "AppYqk",
-            "lang": "hipy",
-            "ext": {
-                "host": "https://gapi0320.3njzmrx1.com/config.json,https://gapi0320.lq0okex8.com/config.json,https://gapi0320.zabqs8xp.com/config.json,https://yappconfig-20250628-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://yconfig-20250628-1360051343.cos.ap-guangzhou.myqcloud.com/config.json",
-                "appId": "d6d520ea90904f1ba680ed6c9c9f9007",
-                "appkey": "70af67d2b6cf47679b397ea4c1886877",
-                "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
-                "bundlerId": "com.flotimingo.ts",
-                "source": "1001_default",
-                "version": "1.3.10",
-                "versionCode": 1104
-            }
-        },
         {
             "key": "hipy_py_新浪资源",
             "name": "新浪资源(hipy)",
@@ -60,6 +39,27 @@
             "title": "独播库",
             "lang": "hipy",
             "ext": ""
+        },
+        {
+            "key": "hipy_py_一起看[Ayq]",
+            "name": "一起看[Ayq](hipy)",
+            "type": 4,
+            "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "title": "AppYqk",
+            "lang": "hipy",
+            "ext": {
+                "host": "https://gapi0320.3njzmrx1.com/config.json,https://gapi0320.lq0okex8.com/config.json,https://gapi0320.zabqs8xp.com/config.json,https://yappconfig-20250628-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://yconfig-20250628-1360051343.cos.ap-guangzhou.myqcloud.com/config.json",
+                "appId": "d6d520ea90904f1ba680ed6c9c9f9007",
+                "appkey": "70af67d2b6cf47679b397ea4c1886877",
+                "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
+                "bundlerId": "com.flotimingo.ts",
+                "source": "1001_default",
+                "version": "1.3.10",
+                "versionCode": 1104
+            }
         },
         {
             "key": "hipy_py_新韩剧网",
@@ -194,12 +194,6 @@
             }
         },
         {
-            "key": "爱听音乐",
-            "name": "爱听｜音乐",
-            "type": 3,
-            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱听音乐.py"
-        },
-        {
             "key": "网络直播",
             "name": "网络｜直播",
             "type": 3,
@@ -210,24 +204,6 @@
             "name": "哔哩｜直播",
             "type": 3,
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/哔哩直播.py"
-        },
-        {
-            "key": "哔哩合集",
-            "name": "哔哩｜合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "./json/哔哩合集.json",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-            }
         },
         {
             "key": "央视PY",
