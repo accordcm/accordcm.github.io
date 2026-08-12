@@ -352,16 +352,6 @@
             "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
         },
         {
-            "name": "🐉三线TV直播",
-            "type": 1,
-            "url": "https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u"
-        },
-        {
-            "name": "🐉潇宇TV直播",
-            "type": 1,
-            "url": "https://ds65.tv1288.xyz"
-        },
-        {
             "name": "🐉香雨TV直播",
             "type": 1,
             "url": "https://wget.la/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/%E9%A6%99%E9%9B%A8%E7%9B%B4%E6%92%AD.txt"
@@ -375,12 +365,7 @@
             "name": "🐉易发TV直播",
             "type": 1,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-        },
-        {
-            "name": "🐉央视TV直播",
-            "type": 1,
-            "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
-        }
+        }       
     ],
     "parses": [
         {
@@ -469,7 +454,7 @@
             }
         }
     ],
-    "notice": "萱不要再追劇了！",
+    "notice": "不要再追劇了！",
     "rules": [
         {
             "name": "农民",
