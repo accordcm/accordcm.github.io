@@ -50,6 +50,18 @@
             "ext": ""
         },
         {
+            "key": "hipy_py_独播库",
+            "name": "独播库(hipy)",
+            "type": 4,
+            "api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "title": "独播库",
+            "lang": "hipy",
+            "ext": ""
+        },
+        {
             "key": "hipy_py_新韩剧网",
             "name": "新韩剧网(hipy)",
             "type": 4,
@@ -104,32 +116,10 @@
             "ext": "http://43.248.117.123:4680"
         },
         {
-            "key": "央视PY",
-            "name": "央视丨栏目",
-            "type": 3,
-            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/央视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
             "key": "爱看机器人",
             "name": "综合丨采集",
             "type": 3,
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/爱看机器人.js"
-        },
-        {
-            "key": "贝乐虎",
-            "name": "乐虎｜少儿",
-            "type": 3,
-            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/贝乐虎.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
         },
         {
             "key": "永乐",
@@ -170,6 +160,19 @@
             "quickSearch": 1,
             "filterable": 1,
             "genre": "shortdrama"
+        },
+        {
+            "key": "drpyS_七猫短剧",
+            "name": "七猫短剧(DS)",
+            "type": 4,
+            "api": "http://192.129.140.23:5757/api/七猫短剧?pwd=dzyyds",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "title": "七猫短剧",
+            "类型": "影视",
+            "lang": "ds",
+            "ext": ""
         },
         {
             "key": "Anime1",
@@ -225,6 +228,28 @@
                 "json": "./json/哔哩合集.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
+        },
+        {
+            "key": "央视PY",
+            "name": "央视丨栏目",
+            "type": 3,
+            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/央视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+         {
+            "key": "贝乐虎",
+            "name": "乐虎｜少儿",
+            "type": 3,
+            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/贝乐虎.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "push_agent",
