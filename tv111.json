@@ -310,33 +310,44 @@ http://49.213.188.67:50002/index.m3u8?pid=4gtv-live124@485&fun=TV4GTV&proxy=true
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
 #EXTINF:-1 tvg-id="穿越片系列" tvg-name="穿越片系列" group-title="輪播專區",穿越片系列
 https://yg.ygbox.de5.net/huya.php?id=29465892
+https://huyazhibo.de5.net/?id=29465892
+https://huyazhibo.de5.net/?id=26355857
 #EXTINF:-1 tvg-id="喜劇片系列" tvg-name="喜劇片系列" group-title="輪播專區",喜劇片系列
+https://huyazhibo.de5.net/?id=11602044
 https://yg.ygbox.de5.net/huya.php?id=11352877
 https://yg.ygbox.de5.net/huya.php?id=11352897
 #EXTINF:-1 tvg-id="熱門片系列" tvg-name="熱門片系列" group-title="輪播專區",熱門片系列
 https://yg.ygbox.de5.net/huya.php?id=23728651
+https://huyazhibo.de5.net/?id=880261
 #EXTINF:-1 tvg-id="動作片系列" tvg-name="動作片系列" group-title="輪播專區",動作片系列
 https://yg.ygbox.de5.net/huya.php?id=23863818
+https://huyazhibo.de5.net/?id=10871113
 #EXTINF:-1 tvg-id="劉德華專場" tvg-name="劉德華專場" group-title="輪播專區",劉德華專場
 https://yg.ygbox.de5.net/huya.php?id=11342424
+https://huyazhibo.de5.net/?id=11342424
 http://74.91.26.218:82/live/vlldh.m3u8
 #EXTINF:-1 tvg-id="古天樂系列" tvg-name="古天樂系列" group-title="輪播專區",古天樂系列
 https://yg.ygbox.de5.net/huya.php?id=29982675
+https://huyazhibo.de5.net/?id=29982675
 #EXTINF:-1 tvg-id="周星馳專場" tvg-name="周星馳專場" group-title="輪播專區",周星馳專場
 http://74.91.26.218:82/live/vlzxc.m3u8
 https://yg.ygbox.de5.net/huya.php?id=11336587
 #EXTINF:-1 tvg-id="競速專場" tvg-name="競速專場" group-title="輪播專區",競速專場
 https://yg.ygbox.de5.net/huya.php?id=11602051
+https://huyazhibo.de5.net/?id=30145009
 #EXTINF:-1 tvg-id="韓劇系列" tvg-name="韓劇系列" group-title="輪播專區",韓劇系列
 https://yg.ygbox.de5.net/huya.php?id=26355838
+https://huyazhibo.de5.net/?id=23863787
 #EXTINF:-1 tvg-id="戰爭片系列" tvg-name="戰爭片系列" group-title="輪播專區",戰爭片系列
 https://yg.ygbox.de5.net/huya.php?id=20969127
+https://huyazhibo.de5.net/?id=21059618
 #EXTINF:-1 tvg-id="强森系列" tvg-name="强森系列" group-title="輪播專區",强森系列
 https://yg.ygbox.de5.net/huya.php?id=21059581
 #EXTINF:-1 tvg-id="硬漢系列" tvg-name="硬漢系列" group-title="輪播專區",硬漢系列
 https://yg.ygbox.de5.net/huya.php?id=29465873
+https://huyazhibo.de5.net/?id=23864973
 #EXTINF:-1 tvg-id="變形記專場" tvg-name="變形記專場" group-title="輪播專區",變形記專場
-https://live.ottiptv.cc/huya/23903164
+https://huyazhibo.de5.net/?id=23903164
 
 
 #EXTM3U
@@ -622,8 +633,8 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07&isp=5-15
 #EXTINF:-1 tvg-name="TV Osaka" tvg-logo="https://logo.catvod.com/TV Osaka.png" group-title="日本",TV Osaka
 https://akariko-bck1.sankuria.sbs/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
-https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08&isp=5-15
+https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="KBS" tvg-logo="https://logo.catvod.com/KBS.png" group-title="日本",KBS
 https://akariko-bck1.sankuria.sbs/stream/jp/kbs/stream-output.m3u8?mode=hls
 https://akariko-bck1.sankuria.sbs/stream/jp/kbs_world/stream-output.m3u8?mode=hls
@@ -665,17 +676,17 @@ https://akariko-bck1.sankuria.sbs/stream/jp/wowow_live/stream-output.m3u8?mode=h
 #EXTINF:-1 tvg-name="BS 10 Star Channel" tvg-logo="https://logo.catvod.com/BS 10 Star Channel.png" group-title="日本",BS 10 Star Channel
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 1" tvg-logo="https://logo.catvod.com/JSport 1.png" group-title="日本",JSport 1
-https://akariko-bck1.sankuria.sbs/stream/jp/jsport_1/stream-output.m3u8?mode=hls
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=5-15
+https://akariko-bck1.sankuria.sbs/stream/jp/jsport_1/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 2" tvg-logo="https://logo.catvod.com/JSport 2.png" group-title="日本",JSport 2
-https://akariko-bck1.sankuria.sbs/stream/jp/jsport_2/stream-output.m3u8?mode=hls
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=5-15
+https://akariko-bck1.sankuria.sbs/stream/jp/jsport_2/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 3" tvg-logo="https://logo.catvod.com/JSport 3.png" group-title="日本",JSport 3
-https://akariko-bck1.sankuria.sbs/stream/jp/jsport_3/stream-output.m3u8?mode=hls
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=5-15
+https://akariko-bck1.sankuria.sbs/stream/jp/jsport_3/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 4" tvg-logo="https://logo.catvod.com/JSport 4.png" group-title="日本",JSport 4
-https://akariko-bck1.sankuria.sbs/stream/jp/jsport_4/stream-output.m3u8?mode=hls
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=5-15
+https://akariko-bck1.sankuria.sbs/stream/jp/jsport_4/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://logo.catvod.com/Green Channel.png" group-title="日本",Green Channel
 https://akariko-bck1.sankuria.sbs/stream/jp/green_channel/stream-output.m3u8?mode=hls
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=5-15
@@ -690,8 +701,8 @@ https://akariko-bck1.sankuria.sbs/stream/jp/gaora_sports/stream-output.m3u8?mode
 #EXTINF:-1 tvg-name="AT-X" tvg-logo="https://logo.catvod.com/AT-X.png" group-title="日本",AT-X
 https://akariko-bck1.sankuria.sbs/stream/jp/at-x/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Space Shower TV" tvg-logo="https://logo.catvod.com/Space Shower TV.png" group-title="日本",Space Shower TV
-https://akariko-bck1.sankuria.sbs/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=5-15
+https://akariko-bck1.sankuria.sbs/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://logo.catvod.com/MTV.png" group-title="日本",MTV
 https://akariko-bck1.sankuria.sbs/stream/jp/mtv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Kayo Pops" tvg-logo="https://logo.catvod.com/Kayo Pops.png" group-title="日本",Kayo Pops
