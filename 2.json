@@ -145,12 +145,6 @@
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/Acfun.py"
         },
         {
-            "key": "聚合短剧",
-            "name": "聚合┃短剧",
-            "type": 3,
-            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/DDjhdj.js"
-        },
-        {
             "key": "星芽短剧",
             "name": "星芽｜短剧",
             "type": 3,
@@ -175,6 +169,12 @@
             "ext": ""
         },
         {
+            "key": "聚合短剧",
+            "name": "聚合┃短剧",
+            "type": 3,
+            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/DDjhdj.js"
+        },
+        {
             "key": "Anime1",
             "name": "A1｜动漫",
             "type": 3,
@@ -182,16 +182,16 @@
             "ext": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/Anime1.js"
         },
         {
-            "key": "网络直播",
-            "name": "网络｜直播",
-            "type": 3,
-            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/网络直播.py"
-        },
-        {
             "key": "哔哩直播",
             "name": "哔哩｜直播",
             "type": 3,
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/哔哩直播.py"
+        },
+        {
+            "key": "网络直播",
+            "name": "网络｜直播",
+            "type": 3,
+            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/网络直播.py"
         },
         {
             "key": "央视PY",
