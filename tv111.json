@@ -51,7 +51,6 @@ http://211.23.95.147:18881/live/50_h265.ts
 http://192.129.226.68:19890/trams/825/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 https://stream1.freetv.fun/15573ff43772cdbb44535d8129707a4a005c703eaa02a624b34b00b3b1e5bb97.m3u8
-https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
@@ -72,9 +71,7 @@ http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNh
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 http://192.129.226.68:19890/trams/2878/playlist.m3u8?token=885252
-https://test.946985.filegear-sg.me/proxy/041ef489ab8ea78a
 https://test.946985.filegear-sg.me/proxy/dfc2aa263d2e5fcc
-https://stream1.freetv.fun/8cdbb8386603267a4bd09b57f2184c8cf65517be58ad0a2f38679f74ddb170a2.m3u8
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://125.227.210.55:3054/VideoInput/play.ts
 http://211.23.95.147:18881/live/22_h265.ts
@@ -82,7 +79,6 @@ http://192.129.226.68:19890/trams/2937/playlist.m3u8?token=885252
 http://61.61.67.208:19890/trams/474/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
 http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
-http://192.129.226.68:19890/trams/2235/playlist.m3u8?token=885252
 https://ha.msbot.dpdns.org/4gtv_api.php?id=139
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://211.23.95.147:18881/live/21_h265.ts
@@ -124,7 +120,6 @@ http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNh
 #EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="三立台湾台" group-title="台湾",三立台湾台
 http://211.23.95.147:18881/live/29_h265.ts
 http://125.227.210.55:3020/VideoInput/play.ts
-http://192.129.226.68:5678/live/stream-eefa8ba0-ca8f-4860-821c-3efd67680f23/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立都會HD" group-title="台湾",三立都會HD
 http://211.23.95.147:18881/live/30_h265.ts
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
@@ -157,7 +152,6 @@ http://211.23.95.147:18881/live/33_h265.ts
 http://211.23.95.147:18881/live/32_h265.ts
 #EXTINF:-1 tvg-id="ettvdrama" tvg-name="東森戲劇" group-title="台湾",東森戲劇
 http://211.23.95.147:18881/live/40_h265.ts
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrJr0JpJ4YG-0D2dlO03Xx9kE5_TelraDakln8Fybn2hnwUt6dVS2agyGKeywcmE986yBp3VcHnmGrdm-4Yv7AM18p8CncJ2JJdCtCmHj2al_kmi_yaVKmJLnzf-HENeJysMzBP9NGsL5OAMn_sZ3GX73iz7c7su3PBgE7ATDc1l5D2dTM3oGoMCaPHscvkQJg.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
 http://211.23.95.147:18881/live/77_h265.ts
 rtmp://f13h.mine.nu/sat/tv771
