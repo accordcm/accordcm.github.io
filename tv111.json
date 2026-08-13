@@ -633,9 +633,6 @@ https://akariko-bck1.sankuria.sbs/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08&isp=5-15
 https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-name="KBS" tvg-logo="https://logo.catvod.com/KBS.png" group-title="日本",KBS
-https://akariko-bck1.sankuria.sbs/stream/jp/kbs/stream-output.m3u8?mode=hls
-https://akariko-bck1.sankuria.sbs/stream/jp/kbs_world/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://logo.catvod.com/NHK BS.png" group-title="日本",NHK BS
 http://211.23.95.147:18881/live/dtv39_h265.ts
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=5-15
