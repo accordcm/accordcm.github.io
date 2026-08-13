@@ -157,7 +157,6 @@ http://211.23.95.147:18881/live/33_h265.ts
 http://211.23.95.147:18881/live/32_h265.ts
 #EXTINF:-1 tvg-id="ettvdrama" tvg-name="東森戲劇" group-title="台湾",東森戲劇
 http://211.23.95.147:18881/live/40_h265.ts
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrJr0JpJ4YG-0D2dlO03Xx9kE5_TelraDakln8Fybn2hnwUt6dVS2agyGKeywcmE986yBp3VcHnmGrdm-4Yv7AM18p8CncJ2JJdCtCmHj2al_kmi_yaVKmJLnzf-HENeJysMzBP9NGsL5OAMn_sZ3GX73iz7c7su3PBgE7ATDc1l5D2dTM3oGoMCaPHscvkQJg.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
 http://211.23.95.147:18881/live/77_h265.ts
 rtmp://f13h.mine.nu/sat/tv771
@@ -176,7 +175,6 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=230
 http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
 http://211.23.95.147:18881/live/27_h265.ts
-http://192.129.226.68:5678/live/stream-ac3627ac-e76c-4c9b-93e2-b119b6e1b545/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大综合 " group-title="台湾",八大综合
 http://211.23.95.147:18881/live/28_h265.ts
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大綜藝台 " group-title="台湾",八大綜藝
