@@ -182,18 +182,6 @@
             "ext": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/Anime1.js"
         },
         {
-            "key": "方舟动漫",
-            "name": "方舟丨动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.cyfz.top",
-                "dataKey": "e72cdfd629e8895d",
-                "dataIv": "e72cdfd629e8895d"
-            }
-        },
-        {
             "key": "网络直播",
             "name": "网络｜直播",
             "type": 3,
