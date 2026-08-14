@@ -15,7 +15,6 @@ http://211.23.95.147:18881/live/58_h265.ts
 http://192.129.226.68:19890/trams/575/playlist.m3u8?token=885252
 rtmp://f13h.mine.nu/sat/tv581
 http://125.227.210.55:1086/VideoInput/play.ts
-https://test.946985.filegear-sg.me/proxy/7eedfbf882f91a08
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 https://ha.msbot.dpdns.org/4gtv_api.php?id=211
@@ -624,7 +623,6 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=5-15
 http://192.129.226.68:19890/trams/1397/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02&isp=5-15
-https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldJR3ZXcWJ2UnNPUVVodXBDMnl4VTJncE5fNFZQbmFBbXxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD05YTg3MGUwMCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=b7755299104ee795f46a5081cbadc4a0
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03&isp=5-15
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
