@@ -227,15 +227,6 @@
     ],
     "lives": [
         {
-            "name": "🌳本群电视",
-            "type": 0,
-            "url": "https://cloud.7so.top/f/mOlYsW/%E5%AE%B6%E7%94%A8%E6%BA%90.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
             "name": "🌿四季弯弯直播",
             "type": 0,
             "url": "http://4gtv.158.qzz.io/4gtv.m3u",
@@ -263,15 +254,6 @@
             "name": "🐉涛涛TV直播",
             "type": 1,
             "url": "http://38.75.136.137:88/api/tvlist.php"
-        },
-        {
-            "name": "🐉壹米TV直播",
-            "type": 0,
-            "url": "https://gitee.com/yimi321/ymys/raw/master/lib/tv.png",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 5,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://11.112114.xyz/logo/{name}.png"
         },
         {
             "name": "🐉天下TV直播",
@@ -367,7 +349,7 @@
             }
         }
     ],
-    "notice": "🐉 不要再追劇了！ 🐉",
+    "notice": "🐉  不要再追劇了！ 🐉",
     "rules": [
         {
             "name": "农民",
