@@ -250,6 +250,11 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
+            "name": "🐉易发TV直播",
+            "type": 1,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+        },       
+        {
             "name": "🐉王子TV直播",
             "type": 1,
             "url": "http://wangziduoqing.com/yuan/zb.txt"
@@ -269,30 +274,11 @@
             "logo": "https://11.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "🐉一线TV直播",
-            "type": 1,
-            "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
-        },
-        {
-            "name": "🐉二线TV直播",
-            "type": 1,
-            "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
-        },
-        {
-            "name": "🐉香雨TV直播",
-            "type": 1,
-            "url": "https://wget.la/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/%E9%A6%99%E9%9B%A8%E7%9B%B4%E6%92%AD.txt"
-        },
-        {
             "name": "🐉天下TV直播",
             "type": 1,
             "url": "https://ilook.epg.one/5CM5SY98BF24PL/2"
-        },
-        {
-            "name": "🐉易发TV直播",
-            "type": 1,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-        }       
+        }
+       
     ],
     "parses": [
         {
