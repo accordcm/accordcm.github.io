@@ -236,11 +236,6 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
-            "name": "🌲风云直播",
-            "type": 1,
-            "url": "http://iptv.4666888.xyz/FYTV.txt"
-        },
-        {
             "name": "🌿四季弯弯直播",
             "type": 0,
             "url": "http://4gtv.158.qzz.io/4gtv.m3u",
@@ -253,7 +248,12 @@
             "name": "🐉易发TV直播",
             "type": 1,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-        },       
+        }, 
+        {
+            "name": "🌲风云直播",
+            "type": 1,
+            "url": "http://iptv.4666888.xyz/FYTV.txt"
+        },
         {
             "name": "🐉王子TV直播",
             "type": 1,
