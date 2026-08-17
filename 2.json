@@ -17,6 +17,27 @@
             "ext": ""
         },
         {
+            "key": "爱奇艺",
+            "name": "🦋 爱奇艺",
+            "type": 3,
+            "api": "https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
+            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"
+        },
+       {
+            "key": "金牌影视",
+            "name": "🦋 金牌 • 影视",
+            "type": 3,
+            "api": "csp_Jpys",
+            "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        },
+        {
+            "key": "韩剧巴士",
+            "name": "🦋 韩剧巴士.py",
+            "type": 3,
+            "api": "https://lytvs.top/py/hanjubashi🔞.py",
+            "ext": ""
+        },
+        {
             "key": "hipy_py_一起看[Ayq]",
             "name": "一起看[Ayq](hipy)",
             "type": 4,
