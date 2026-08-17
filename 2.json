@@ -63,14 +63,6 @@
         },
         {
             "key": "hipy_py_新韩剧网",
-            "name": "🎬新韩剧网",
-            "type": 4
-            "api": "https://omnibox.qzz.io/api/tvbox/source/2061281497515560960?token=cai",
-            "searchable": 1,
-            "filterable": 0,
-        },
-        {
-            "key": "hipy_py_新韩剧网",
             "name": "新韩剧网(hipy)",
             "type": 4,
             "api": "http://www.小不点.com/api/2026/fishhxq.php",
