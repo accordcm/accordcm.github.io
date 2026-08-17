@@ -44,7 +44,7 @@
             "key": "hipy_py_一起看[Ayq]",
             "name": "一起看[Ayq](hipy)",
             "type": 4,
-            "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
+            "api": "http://142.171.248.206:5757/api/AppYqk?do=py&pwd=dzyyds",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -60,6 +60,22 @@
                 "version": "1.3.10",
                 "versionCode": 1104
             }
+        },
+        {
+            "key": "韩剧看看",
+            "name": "🌻韩剧┃看看🌻",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "http://wp.kayyw.com/f/OLb3cd/json/韩剧看看.json",
+            "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/xbpq.jar"
+        },
+        {
+            "key": "hipy_py_新韩剧网",
+            "name": "🎬新韩剧网",
+            "type": 4
+            "api": "https://omnibox.qzz.io/api/tvbox/source/2061281497515560960?token=cai",
+            "searchable": 1,
+            "filterable": 0,
         },
         {
             "key": "hipy_py_新韩剧网",
