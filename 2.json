@@ -17,13 +17,20 @@
             "ext": ""
         },
         {
-            "key": "爱奇艺",
-            "name": "🦋爱奇艺",
+            "key": "爱奇藝",
+            "name": "🦋爱奇藝",
             "type": 3,
             "api": "https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
             "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"
         },
-       {
+        {
+            "key": "爱奇艺",
+            "name": "奇异｜视频",
+            "type": 3,
+            "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
+            "ext": "http://47.96.82.41:5188/svip/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
+        },
+        {
             "key": "金牌影视",
             "name": "金牌|影视",
             "type": 3,
@@ -64,13 +71,6 @@
             "type": 3,
             "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
             "ext": "http://47.96.82.41:5188/svip/js/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js"
-        },
-        {
-            "key": "爱奇艺",
-            "name": "奇异｜视频",
-            "type": 3,
-            "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
-            "ext": "http://47.96.82.41:5188/svip/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
         },
         {
             "key": "藤藤",
