@@ -29,18 +29,6 @@
             "ext": ""
         },
         {
-            "key": "hipy_py_独播库",
-            "name": "独播库(hipy)",
-            "type": 4,
-            "api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "title": "独播库",
-            "lang": "hipy",
-            "ext": ""
-        },
-        {
             "key": "hipy_py_一起看[Ayq]",
             "name": "一起看[Ayq](hipy)",
             "type": 4,
@@ -62,16 +50,11 @@
             }
         },
         {
-            "key": "hipy_py_新韩剧网",
-            "name": "新韩剧网(hipy)",
-            "type": 4,
-            "api": "http://www.小不点.com/api/2026/fishhxq.php",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "title": "新韩剧网",
-            "lang": "hipy",
-            "ext": ""
+            "key": "韩圈",
+            "name": "韩圈 • APP",
+            "type": 3,
+            "api": "csp_Hxq",
+            "ext": "http://www.小不点.com/api/2026/fishhxq.php"
         },
         {
             "key": "腾讯视频",
