@@ -62,14 +62,6 @@
             }
         },
         {
-            "key": "韩剧看看",
-            "name": "🌻韩剧┃看看🌻",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "http://wp.kayyw.com/f/OLb3cd/json/韩剧看看.json",
-            "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/xbpq.jar"
-        },
-        {
             "key": "hipy_py_新韩剧网",
             "name": "🎬新韩剧网",
             "type": 4
