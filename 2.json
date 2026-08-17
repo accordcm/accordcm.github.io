@@ -17,18 +17,6 @@
             "ext": ""
         },
         {
-            "key": "hipy_py_新浪资源",
-            "name": "新浪资源(hipy)",
-            "type": 4,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "title": "新浪资源",
-            "lang": "hipy",
-            "ext": ""
-        },
-        {
             "key": "hipy_py_一起看[Ayq]",
             "name": "一起看[Ayq](hipy)",
             "type": 4,
@@ -48,13 +36,6 @@
                 "version": "1.3.10",
                 "versionCode": 1104
             }
-        },
-        {
-            "key": "韩圈",
-            "name": "韩圈 • APP",
-            "type": 3,
-            "api": "csp_Hxq",
-            "ext": "http://www.小不点.com/api/2026/fishhxq.php"
         },
         {
             "key": "腾讯视频",
