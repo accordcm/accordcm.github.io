@@ -210,14 +210,17 @@ https://test.946985.filegear-sg.me/proxy/536c358ed43fefd6
 http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="台湾",民視旅遊
 https://ha.msbot.dpdns.org/4gtv_api.php?id=61
+http://4gtv.tvbjack.ggff.net/?id=61
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台"  group-title="台湾",亚洲旅游台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=250
 https://ha.msbot.dpdns.org/4gtv_api.php?id=261
+http://4gtv.tvbjack.ggff.net/?id=261
 http://106.107.242.201:50007/4gtv-live417/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 http://106.107.242.201:50007/4gtv-4gtv076/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" group-title="台湾",愛爾達娛樂
 http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" group-title="台湾",愛爾達生活旅遊台
+http://4gtv.tvbjack.ggff.net/?id=237
 https://ha.msbot.dpdns.org/4gtv_api.php?id=237
 http://106.107.242.201:50007/4gtv-live120/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
@@ -266,6 +269,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=277
 http://106.107.242.201:50007/4gtv-live411/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV"  group-title="台湾",車迷 TV
 https://ha.msbot.dpdns.org/4gtv_api.php?id=160
+http://4gtv.tvbjack.ggff.net/?id=160
 http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
 https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982c23983686ac.m3u8
@@ -281,14 +285,16 @@ http://211.23.95.147:18881/live/74_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=113
 http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=173
 http://4gtv.tvbjack.ggff.net/?id=173
+https://ha.msbot.dpdns.org/4gtv_api.php?id=173
 http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
+http://4gtv.tvbjack.ggff.net/?id=499
 https://ha.msbot.dpdns.org/4gtv_api.php?id=174
 http://106.107.242.201:50007/4gtv-live046/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物3台"  group-title="台湾",東森購物三台
+http://4gtv.tvbjack.ggff.net/?id=287
 https://ha.msbot.dpdns.org/4gtv_api.php?id=287
 http://106.107.242.201:50007/4gtv-live048/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物5台" group-title="台湾",東森購物五台
@@ -302,6 +308,7 @@ https://stream1.freetv.fun/fca0bd28ae8000f3bef263858ee50350cdcee11c4819c3ced4e0b
 https://stream1.freetv.fun/52501a20f13443ddf70fb69ab554399f0e46d34dbaa4303848b59f74b7152c20.m3u8
 #EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK搖滾極限頻道" group-title="台湾",ROCK搖滾極限頻道
 https://ha.msbot.dpdns.org/4gtv_api.php?id=485
+http://4gtv.tvbjack.ggff.net/?id=485
 http://106.107.242.201:50007/4gtv-live124/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 http://49.213.188.67:50002/index.m3u8?pid=4gtv-live124@485&fun=TV4GTV&proxy=true&token=8852
 
