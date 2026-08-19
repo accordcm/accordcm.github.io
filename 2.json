@@ -31,6 +31,20 @@
             "ext": ""
         },
         {
+            "key": "新韩剧网",
+            "name": "🎬新韩|剧网",
+            "type": 3,
+            "api": "https://omnibox.qzz.io/api/tvbox/source/2061281497515560960?token=cai",
+             "ext": ""  
+        },
+         {
+            "key": "电影天堂",
+            "name": "🎬电影|天堂",
+            "type": 3,
+            "api": "https://omnibox.qzz.io/api/tvbox/source/2061281519829258240?token=cai",
+             "ext": ""  
+        },
+        {
             "key": "骚火影视",
             "name": "骚火|影视",
             "type": 3,
