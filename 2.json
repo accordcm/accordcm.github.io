@@ -4,8 +4,8 @@
     "logo": "https://img.cdn1.vip/i/69f63df12c7b3_1777745393.gif",
     "sites": [
         {
-            "key": "drpyS_55影视",
-            "name": "55影视(DS)",
+            "key": "55影视",
+            "name": "55影视|DS",
             "type": 4,
             "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
             "searchable": 2,
@@ -32,13 +32,13 @@
         },
         {
             "key": "泥视频",
-            "name": "🐬泥视频|py",
+            "name": "泥视频|py",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/泥视频.py"
         },
         {
             "key": "奇優影院",
-            "name": "🐬奇優影院|py",
+            "name": "奇優影院|py",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/奇优影院.py"
         },
@@ -132,7 +132,7 @@
             "genre": "shortdrama"
         },
         {
-            "key": "drpyS_七猫短剧",
+            "key": "七猫短剧",
             "name": "七猫短剧(DS)",
             "type": 4,
             "api": "http://192.129.140.23:5757/api/七猫短剧?pwd=dzyyds",
