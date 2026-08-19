@@ -13,17 +13,16 @@ http://106.107.242.201:50007/media-live072/index.m3u8?token=JPdpH9y4aUTxYDMPFUxN
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://211.23.95.147:18881/live/58_h265.ts
 rtmp://f13h.mine.nu/sat/tv581
-http://192.129.226.68:19890/trams/575/playlist.m3u8?token=885252
 http://125.227.210.55:1086/VideoInput/play.ts
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 https://ha.msbot.dpdns.org/4gtv_api.php?id=211
 http://211.23.95.147:18881/live/57_h265.ts
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=257
-http://211.23.95.147:18881/live/dtv9_h265.ts
-http://74.91.26.218:82/live/ftvnews.m3u8
 https://ha.msbot.dpdns.org/4gtv_api.php?id=31
+http://211.23.95.147:18881/live/dtv9_h265.ts
+https://ha.msbot.dpdns.org/4gtv_api.php?id=257
+http://74.91.26.218:82/live/ftvnews.m3u8
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
 http://211.23.95.147:18881/live/dtv15_h265.ts
@@ -69,13 +68,10 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
-http://192.129.226.68:19890/trams/2878/playlist.m3u8?token=885252
 https://test.946985.filegear-sg.me/proxy/dfc2aa263d2e5fcc
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://125.227.210.55:3054/VideoInput/play.ts
 http://211.23.95.147:18881/live/22_h265.ts
-http://192.129.226.68:19890/trams/2937/playlist.m3u8?token=885252
-http://61.61.67.208:19890/trams/474/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
 http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 https://ha.msbot.dpdns.org/4gtv_api.php?id=139
@@ -286,6 +282,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=113
 http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=173
+http://4gtv.tvbjack.ggff.net/?id=173
 http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
