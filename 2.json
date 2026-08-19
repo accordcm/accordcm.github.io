@@ -17,6 +17,17 @@
             "ext": ""
         },
         {
+            "key": "熊猫直播[播].py",
+            "name": "熊猫丨直播",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/熊猫直播.py",
+            "changeable": 1,
+            "playerType": 2
+        },
+        {
             "key": "爱奇艺",
             "name": "奇异｜视频",
             "type": 3,
@@ -31,17 +42,33 @@
             "ext": ""
         },
         {
+            "key": "秒看",
+            "name": "秒看｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://mk1080.top/get.txt",
+                "dataKey": "c60d88b2eep53za8",
+                "dataIv": "c60d88b2eep53za8",
+                "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
+            }
+        },
+         {
+            "key": "nangua",
+            "name": "南瓜┃秒播",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "jar": "./jar/DDYY.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+            "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+        },
+        {
             "key": "骚火影视",
             "name": "骚火|影视",
             "type": 3,
             "api": "https://lytvs.top/py/saohuoyingshi.py",
-            "ext": ""
-        },
-        {
-            "key": "韩剧巴士",
-            "name": "韩剧|巴士",
-            "type": 3,
-            "api": "https://lytvs.top/py/hanjubashi🔞.py",
             "ext": ""
         },
         {
@@ -101,6 +128,60 @@
                 "ratio": 1.33
             },
             "changeable": 1
+        },
+         {
+            "key": "天堂",
+            "name": "天堂｜APP",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "电影天堂",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.dytiantang.one",
+                "host": "",
+                "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+                "version": "3.0.0.7",
+                "decrypt": "0"
+            }
+        },
+        {
+            "key": "橘汁",
+            "name": "橘汁｜4K",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "橘汁",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.lxf.snzlcgtzxyx",
+                "host": "",
+                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+                "version": "3.0.2.1",
+                "decrypt": "1"
+            }
+        },
+        {
+            "key": "采集之王",
+            "name": "采集｜合集",
+            "type": 3,
+            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/CJZW.js?type=url&params=https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/CJJT.json$1$1"
+        },
+        {
+            "key": "韩剧巴士",
+            "name": "韩剧|巴士",
+            "type": 3,
+            "api": "https://lytvs.top/py/hanjubashi🔞.py",
+            "ext": ""
         },
         {
             "key": "Acfun",
