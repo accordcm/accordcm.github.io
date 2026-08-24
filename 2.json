@@ -32,7 +32,7 @@
         },
         {
             "key": "泥视频",
-            "name": "泥视频|py",
+            "name": "泥|视频",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/泥视频.py"
         },
@@ -114,8 +114,8 @@
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/Acfun.py"
         },
         {
-            "key": "韩剧巴士",
-            "name": "韩剧|巴士",
+            "key": "韓劇巴士",
+            "name": "韓劇|巴士",
             "type": 3,
             "api": "https://lytvs.top/py/hanjubashi🔞.py",
             "ext": ""
@@ -182,7 +182,7 @@
         },
          {
             "key": "贝乐虎",
-            "name": "乐虎｜少儿",
+            "name": "乐虎｜少年",
             "type": 3,
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/贝乐虎.py",
             "searchable": 1,
