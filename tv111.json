@@ -46,6 +46,7 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=268
 http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
+http://iptv.852851.xyz/l/KOWPL65-AUmO_Utxa5VTIEzQ93AHLqLAq5DRT7vkOokIhq1VOPv6WE4VNyyi_hTo/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 https://stream1.freetv.fun/15573ff43772cdbb44535d8129707a4a005c703eaa02a624b34b00b3b1e5bb97.m3u8
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
