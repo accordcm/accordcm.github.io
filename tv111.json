@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+http://45.192.97.170:8880/play/1667.m3u8
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=473
@@ -49,6 +50,7 @@ http://211.23.95.147:18881/live/50_h265.ts
 http://iptv.852851.xyz/l/KOWPL65-AUmO_Utxa5VTIEzQ93AHLqLAq5DRT7vkOokIhq1VOPv6WE4VNyyi_hTo/index.m3u8
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 https://stream1.freetv.fun/15573ff43772cdbb44535d8129707a4a005c703eaa02a624b34b00b3b1e5bb97.m3u8
+https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
@@ -60,6 +62,7 @@ https://test.946985.filegear-sg.me/proxy/6b09e91c6926a857
 http://125.227.210.55:3022/VideoInput/play.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=36
+https://ha.msbot.dpdns.org/4gtv_api.php?id=262
 https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
@@ -79,6 +82,9 @@ http://211.23.95.147:18881/live/21_h265.ts
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 http://211.72.174.95:8115/0.ts
 http://74.91.26.218:82/live/ftv.m3u8
+https://ha.msbot.dpdns.org/4gtv_api.php?id=469
+https://ha.msbot.dpdns.org/4gtv_api.php?id=31
+https://ha.msbot.dpdns.org/4gtv_api.php?id=61
 http://211.23.95.147:18881/live/dtv7_h265.ts
 rtmp://f13h.mine.nu/sat/tv051
 http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
@@ -96,6 +102,7 @@ http://211.23.95.147:18881/live/dtv1_h265.ts
 http://211.23.95.147:18881/live/dtv18_h265.ts
 http://220.135.241.47:8318/0.ts
 http://74.91.26.218:82/live/cts.m3u8
+https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
 http://211.23.95.147:18881/live/dtv10_h265.ts
