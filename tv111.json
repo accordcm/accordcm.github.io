@@ -6,8 +6,8 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 http://45.192.97.170:8880/play/1667.m3u8
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 http://211.23.95.147:18881/live/55_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 http://106.107.242.201:50007/media-live072/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
@@ -16,9 +16,9 @@ http://211.23.95.147:18881/live/58_h265.ts
 rtmp://f13h.mine.nu/sat/tv581
 http://125.227.210.55:1086/VideoInput/play.ts
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
-https://ha.msbot.dpdns.org/4gtv_api.php?id=211
 https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 http://211.23.95.147:18881/live/57_h265.ts
+https://ha.msbot.dpdns.org/4gtv_api.php?id=211
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=31
 http://211.23.95.147:18881/live/dtv9_h265.ts
@@ -528,11 +528,11 @@ http://106.107.242.201:50007/iNEWS/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9
 http://211.23.95.147:18881/live/dtv16_h265.ts
 http://74.91.26.218:82/live/ttvcj.m3u8
 https://stream1.freetv.fun/3b883105f8b4ece50bf1e92684e237b4931311dcfdd18212106afaed5290c813.ctv
-#EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="新闻频道",東森財經新聞
+#EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經" group-title="新闻频道",東森財經
 https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 http://211.23.95.147:18881/live/57_h265.ts
 http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
-#EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="新闻频道",民視新聞台
+#EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞" group-title="新闻频道",民視新聞
 http://211.23.95.147:18881/live/dtv9_h265.ts
 https://ha.msbot.dpdns.org/4gtv_api.php?id=31
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
