@@ -20,32 +20,7 @@
             "key": "厂长资源",
             "name": "🙀厂长┃资源",
             "type": 3,
-            "api": "csp_XBPQ",
             "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/xb/厂长资源.json",
-            "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/xbpq.jar"
-        },
-        {
-            "key": "秀儿影视",
-            "name": "🦈秀儿┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/xb/秀儿影视.json",
-            "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/xbpq.jar"
-        },
-        {
-            "key": "韩剧看看",
-            "name": "🇰🇷韩剧┃看看",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/xb/韩剧看看.json",
-            "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/xbpq.jar"
-        },
-        {
-            "key": "韩剧TV",
-            "name": "🇰🇷韩剧┃TV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/xb/韩剧TV.json",
             "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/xbpq.jar"
         },
         {
