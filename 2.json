@@ -1,7 +1,7 @@
 {
-   // "spider": "https://ym.wya6.cn/tz/wyxs.php;md5;6f55a9e833f339d896c7b6b6925e4e99",
-  //  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  //  "logo": "https://img.cdn1.vip/i/69f63df12c7b3_1777745393.gif",
+    "spider": "https://ym.wya6.cn/tz/wyxs.php;md5;6f55a9e833f339d896c7b6b6925e4e99",
+    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+    "logo": "https://img.cdn1.vip/i/69f63df12c7b3_1777745393.gif",
     "sites": [
         {
             "key": "55影视",
