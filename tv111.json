@@ -158,6 +158,7 @@ http://211.23.95.147:18881/live/40_h265.ts
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
 rtmp://f13h.mine.nu/sat/tv771
 http://211.23.95.147:18881/live/77_h265.ts
+http://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
 http://211.23.95.147:18881/live/26_h265.ts
 #EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公视 CTV" group-title="台湾",公视 CTV
@@ -238,12 +239,12 @@ rtmp://f13h.mine.nu/sat/tv721
 http://211.23.95.147:18881/live/70_h265.ts
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
-http://192.129.226.68:19890/trams/2871/playlist.m3u8?token=885252
+http://iptv.852851.xyz/l/rhRtmrLcYUEdX9ShuLW9sVxDvbFkSG7ouIMGxKdjdnab0qFWA6LkGrvkYNfQAAxS/index.m3u8
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
-http://192.129.226.68:19890/trams/1541/playlist.m3u8?token=885252
+http://iptv.852851.xyz/l/E1QgWQLwZCgM606cW284Iw_b5zvRHdFTtnMJbABM1pETz4WCcGiZhhkeqPLuVm9H/index.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
-http://192.129.226.68:19890/trams/2578/playlist.m3u8?token=885252
+http://iptv.852851.xyz/l/ub5934TRfX6wRDExPZqB7-1V8WWIUy_sLVUYI-EOu-rpsrpLPi2TbpWsBI7-CSsu/index.m3u8
 rtmp://f13h.mine.nu/sat/md041
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯運動 1" group-title="台湾",博斯運動 1
 https://ha.msbot.dpdns.org/4gtv_api.php?id=487
