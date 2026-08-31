@@ -191,11 +191,15 @@ http://125.227.210.55:3013/VideoInput/play.ts
 http://211.23.95.147:18881/live/68_h265.ts
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="台湾",东森电影
 http://125.227.210.55:3052/VideoInput/play.ts
+http://45.192.97.170:8880/play/1529.m3u8
+http://45.192.97.170:8880/play/1642.m3u8
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" group-title="台湾",纬来电影台
 http://211.23.95.147:18881/live/63_h265.ts
+http://45.192.97.170:8880/play/1638.m3u8
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="台湾",东森洋片
 http://125.227.210.55:3055/VideoInput/play.ts
 http://125.227.210.55:3078/VideoInput/play.ts
+http://45.192.97.170:8880/play/1644.m3u8
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
 http://211.23.95.147:18881/live/67_h265.ts
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="台湾",CINEMAX
@@ -427,6 +431,7 @@ http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
 https://4gtv.158.qzz.io/163189/4e7af03f-ef5e-4a0b-a2ef-0cb6a51351a9/
 https://ha.msbot.dpdns.org/4gtv_api.php?id=231
+http://45.192.97.170:8880/play/1665.m3u8
 http://45.192.97.170:8880/play/1537.m3u8
 https://test.946985.filegear-sg.me/proxy/e4ae17002aebad89
 http://iptv.4666888.xyz/iptv2A.php?id=49
@@ -434,6 +439,7 @@ https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7a
 http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="東森幼幼 Yoyo TV" group-title="兒童卡通",東森幼幼 Yoyo TV
 http://211.23.95.147:18881/live/25_h265.ts
+http://125.227.210.55:4052/VideoInput/play.ts
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=490
 http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=JPdpH9y4aUTxYDMPFUxNhtKYzfx9ycjQDq9xhREVUw2qQpu9tPkaRRDH31IKzdPq
@@ -468,8 +474,7 @@ https://test.946985.filegear-sg.me/proxy/70bbcb802727867a
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 http://125.227.210.55:8167/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="電影频道",美亚电影
-https://iptv.852851.xyz/l/gQMAof7MUFr6unwg5jnfj3bukJsPQoltj4maehtjADgEYEjodqta0UiP1ogV0WQj/index.m3u8
+
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=40
 http://iptv.4666888.xyz/iptv2A.php?id=54
@@ -806,6 +811,7 @@ http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc123/index.m3u8
 #EXTINF:-1 tvg-name="奧視2" tvg-logo="https://logo.catvod.com/奧視2.png" group-title="私人频道_543",奧視2
 http://125.227.210.55:3031/VideoInput/play.ts
 http://125.227.210.55:1022/VideoInput/play.ts
+http://lhzb.lmllml.top:8000/play/Njk4NDo3.flv?token=JqdHv4bKJjaV7WIcEVUiag&exp=4102444800&sign=6b8b4639f35d4f24f450b9698ecc86ee
 https://z3.ubtvfans.com/live/rx5/2916/e6fef1f52b41a9f7c8661ce1a3ac95b8/index.m3u8
 #EXTINF:-1 tvg-name="奧視3" tvg-logo="https://logo.catvod.com/奧視3.png" group-title="私人频道_543",奧視3
 http://125.227.210.55:3033/VideoInput/play.ts
@@ -826,4 +832,5 @@ https://akariko-bck1.sankuria.sbs/stream/jp/nouvelle_paradise_nsfw/stream-output
 #EXTINF:-1 tvg-name="HAPPY" tvg-logo="https://logo.catvod.com/HAPPY.png" group-title="私人频道_543",HAPPY
 http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
 http://z88.ubtvfans.com/live/rx3/2908/bc0aa6ce3602ddcd50c5e522a53cb857/index.m3u8
+http://lhzb.lmllml.top:8000/play/Njk3Nzo3.flv?token=bJFUk-aaf93UBhYi9BCoBw&exp=4102444800&sign=0355848c815ba0c3dcf635959df167f7
 http://lhzb.lmllml.top:8000/play/Njk3Njo3.flv?token=AtZ1wcOmF_x0s1CD6wttzQ&exp=4102444800&sign=1ef2abf194ede1da5a232a04c963b38c
