@@ -19,6 +19,8 @@ http://125.227.210.55:1086/VideoInput/play.ts
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 http://211.23.95.147:18881/live/57_h265.ts
 http://125.227.210.55:4051/VideoInput/play.ts
+http://4gtv.tvbjack.ggff.net/?id=211
+http://4gtv.tvbjack.ggff.net/?id=293
 https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 https://ha.msbot.dpdns.org/4gtv_api.php?id=211
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
@@ -108,6 +110,7 @@ http://211.23.95.147:18881/live/dtv1_h265.ts
 http://211.23.95.147:18881/live/dtv18_h265.ts
 http://220.135.241.47:8318/0.ts
 http://74.91.26.218:82/live/cts.m3u8
+http://4gtv.tvbjack.ggff.net/?id=6
 https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
@@ -143,6 +146,7 @@ http://211.23.95.147:18881/live/42_h265.ts
 http://125.227.210.55:3047/VideoInput/play.ts
 http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=so2YKnQO4OAUOuD7regkY60uACanvf8rmPaNYlIpPxoyBOKqSZmVdTfkEEZR8FLl
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台"  group-title="台湾",TVBS精采台
+http://4gtv.tvbjack.ggff.net/?id=276
 https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=so2YKnQO4OAUOuD7regkY60uACanvf8rmPaNYlIpPxoyBOKqSZmVdTfkEEZR8FLl
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
