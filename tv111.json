@@ -3,11 +3,14 @@
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
 http://125.227.210.55:4046/VideoInput/play.ts
+https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.m3u8
 https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=so2YKnQO4OAUOuD7regkY60uACanvf8rmPaNYlIpPxoyBOKqSZmVdTfkEEZR8FLl
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
 http://125.227.210.55:3046/VideoInput/play.ts
+https://stream1.freetv.fun/5bad1e2d485e59cb1ef7353889b99add71e736816a9b993d98ba670303c51367.m3u8
+https://stream1.freetv.fun/fe6a507303ec6ae76614a96ee48f5844ea4e7636314c1011a22aa4af8269a7a1.m3u8
 https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=so2YKnQO4OAUOuD7regkY60uACanvf8rmPaNYlIpPxoyBOKqSZmVdTfkEEZR8FLl
@@ -66,6 +69,8 @@ http://125.227.210.55:3022/VideoInput/play.ts
 http://211.23.95.147:18881/live/54_h265.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
 http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
+https://stream1.freetv.fun/cc3ac399d86099e5a3206d38ac3738ad97285b606895947d3786fbcd544081fd.m3u8
+https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
 https://ha.msbot.dpdns.org/4gtv_api.php?id=36
 https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=so2YKnQO4OAUOuD7regkY60uACanvf8rmPaNYlIpPxoyBOKqSZmVdTfkEEZR8FLl
