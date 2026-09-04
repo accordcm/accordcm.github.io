@@ -19,6 +19,7 @@ http://125.227.210.55:1086/VideoInput/play.ts
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 http://211.23.95.147:18881/live/57_h265.ts
 http://125.227.210.55:4051/VideoInput/play.ts
+https://4g.158.qzz.io/163189/dscjxwt
 https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 https://ha.msbot.dpdns.org/4gtv_api.php?id=211
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
@@ -65,12 +66,14 @@ http://125.227.210.55:3022/VideoInput/play.ts
 http://211.23.95.147:18881/live/54_h265.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
 http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
+https://4g.158.qzz.io/163189/hyxwt
 https://ha.msbot.dpdns.org/4gtv_api.php?id=36
 https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=so2YKnQO4OAUOuD7regkY60uACanvf8rmPaNYlIpPxoyBOKqSZmVdTfkEEZR8FLl
 http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=so2YKnQO4OAUOuD7regkY60uACanvf8rmPaNYlIpPxoyBOKqSZmVdTfkEEZR8FLl
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
 http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
+https://4g.158.qzz.io/163189/hyxwtwt
 https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=so2YKnQO4OAUOuD7regkY60uACanvf8rmPaNYlIpPxoyBOKqSZmVdTfkEEZR8FLl
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
