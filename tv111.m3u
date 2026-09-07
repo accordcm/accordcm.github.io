@@ -5,32 +5,25 @@ http://211.23.95.147:18881/live/51_h265.ts
 http://125.227.210.55:4046/VideoInput/play.ts
 http://106.107.242.250:5050/4gtv-live114/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/4gtv-4gtv152/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
-https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
-http://125.227.210.55:3046/VideoInput/play.ts
+http://iptv.4666888.xyz/iptv2A.php?id=43
 http://106.107.242.250:5050/4gtv-4gtv072/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/media-live072/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
-https://ha.msbot.dpdns.org/4gtv_api.php?id=473
-https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://211.23.95.147:18881/live/58_h265.ts
 rtmp://f13h.mine.nu/sat/tv581
 http://125.227.210.55:1086/VideoInput/play.ts
+http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 http://211.23.95.147:18881/live/57_h265.ts
 http://125.227.210.55:4051/VideoInput/play.ts
-https://4g.158.qzz.io/163189/dscjxwt
 http://106.107.242.250:5050/4gtv-4gtv153/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/4gtv-live019/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
-https://ha.msbot.dpdns.org/4gtv_api.php?id=293
-https://ha.msbot.dpdns.org/4gtv_api.php?id=211
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 http://211.23.95.147:18881/live/dtv9_h265.ts
 http://74.91.26.218:82/live/ftvnews.m3u8
 http://125.227.210.55:3017/VideoInput/play.ts
-https://ha.msbot.dpdns.org/4gtv_api.php?id=31
-https://ha.msbot.dpdns.org/4gtv_api.php?id=257
 http://106.107.242.250:5050/4gtv-live413/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
 http://211.23.95.147:18881/live/dtv15_h265.ts
@@ -45,18 +38,18 @@ http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://211.23.95.147:18881/live/dtv20_h265.ts
 http://74.91.26.218:82/live/ctsnews.m3u8
-https://ha.msbot.dpdns.org/4gtv_api.php?id=34
-https://ha.msbot.dpdns.org/4gtv_api.php?id=256
+https://iptv.yang-1989.xyz/4gtv/tm32ew?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://106.107.242.250:5050/4gtv-4gtv052/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/4gtv-live452/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
 http://211.23.95.147:18881/live/86_h265.ts
-https://ha.msbot.dpdns.org/4gtv_api.php?id=268
 http://106.107.242.250:5050/4gtv-4gtv075/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
+https://iptv.yang-1989.xyz/tw/8tmmkz?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+http://222.128.55.152:9080/live/fc.m3u8
 http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 http://45.192.97.170:8880/play/1674.m3u8
 https://ha.msbot.dpdns.org/4gtv_api.php?id=260
@@ -68,6 +61,8 @@ http://211.23.95.147:18881/live/104_h265.ts
 http://125.227.210.55:3022/VideoInput/play.ts
 http://211.23.95.147:18881/live/54_h265.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
+http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+http://222.128.55.152:9080/live/hy.m3u8
 http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
 http://106.107.242.250:5050/litv-longturn14/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/4gtv-live408/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
@@ -90,9 +85,7 @@ http://211.72.174.95:8115/0.ts
 http://74.91.26.218:82/live/ftv.m3u8
 http://211.23.95.147:18881/live/dtv7_h265.ts
 rtmp://f13h.mine.nu/sat/tv051
-https://ha.msbot.dpdns.org/4gtv_api.php?id=469
-https://ha.msbot.dpdns.org/4gtv_api.php?id=31
-https://ha.msbot.dpdns.org/4gtv_api.php?id=61
+https://iptv.yang-1989.xyz/4gtv/98hy7z?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://106.107.242.250:5050/4gtv-live215/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="台視" tvg-name="台視"  group-title="台湾",台視
 http://211.23.95.147:18881/live/dtv14_h265.ts
@@ -106,21 +99,16 @@ http://74.91.26.218:82/live/ctv.m3u8
 http://211.23.95.147:18881/live/dtv1_h265.ts
 #EXTINF:-1 tvg-id="華視" tvg-name="華視"  group-title="台湾",華視
 http://211.23.95.147:18881/live/dtv18_h265.ts
+https://iptv.yang-1989.xyz/4gtv/n44zkj?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://220.135.241.47:8318/0.ts
 http://74.91.26.218:82/live/cts.m3u8
-http://4gtv.tvbjack.ggff.net/?id=6
-https://ha.msbot.dpdns.org/4gtv_api.php?id=256
-https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
+https://iptv.yang-1989.xyz/4gtv/kacmnr?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://211.23.95.147:18881/live/dtv10_h265.ts
 http://74.91.26.218:82/live/ftvtw.m3u8
-https://ha.msbot.dpdns.org/4gtv_api.php?id=255
-https://ha.msbot.dpdns.org/4gtv_api.php?id=2
 http://106.107.242.250:5050/4gtv-live401/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" group-title="台湾",民視第一台
 http://211.23.95.147:18881/live/dtv8_h265.ts
-https://ha.msbot.dpdns.org/4gtv_api.php?id=1
-https://ha.msbot.dpdns.org/4gtv_api.php?id=254
 http://74.91.26.218:82/live/ftvdy.m3u8
 http://106.107.242.250:5050/4gtv-live403/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" group-title="台湾",民視綜藝
@@ -131,12 +119,9 @@ http://125.227.210.55:3020/VideoInput/play.ts
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立都會HD" group-title="台湾",三立都會HD
 http://211.23.95.147:18881/live/30_h265.ts
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=169
 http://106.107.242.250:5050/4gtv-live207/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
-https://ha.msbot.dpdns.org/4gtv_api.php?id=183
-https://ha.msbot.dpdns.org/4gtv_api.php?id=472
-https://ha.msbot.dpdns.org/4gtv_api.php?id=227
+http://jnzq.ohoyee.com:9080/live/332123-tvbsxw.m3u8
 http://106.107.242.250:5050/4gtv-4gtv073/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -145,7 +130,6 @@ http://125.227.210.55:3047/VideoInput/play.ts
 http://106.107.242.250:5050/4gtv-4gtv068/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台"  group-title="台湾",TVBS精采台
 http://4gtv.tvbjack.ggff.net/?id=276
-https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 http://106.107.242.250:5050/4gtv-4gtv067/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
 http://211.23.95.147:18881/live/39_h265.ts
@@ -173,11 +157,11 @@ http://211.23.95.147:18881/live/26_h265.ts
 http://211.23.95.147:18881/live/dtv5_h265.ts
 http://74.91.26.218:82/live/pts.m3u8
 #EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=209
+https://iptv.yang-1989.xyz/4gtv/c82gmv?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://211.23.95.147:18881/live/dtv23_h265.ts
 http://106.107.242.250:5050/4gtv-live007/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=230
+https://iptv.yang-1989.xyz/4gtv/594vzg?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://106.107.242.250:5050/4gtv-live106/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
 http://211.23.95.147:18881/live/27_h265.ts
@@ -225,20 +209,15 @@ https://cdn.qd.je/163189/lhrh
 https://test.946985.filegear-sg.me/proxy/536c358ed43fefd6
 http://106.107.242.250:5050/litv-xinchuang11/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="台湾",民視旅遊
-https://ha.msbot.dpdns.org/4gtv_api.php?id=61
 http://4gtv.tvbjack.ggff.net/?id=61
 http://106.107.242.250:5050/litv-ftv07/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台"  group-title="台湾",亚洲旅游台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=250
-https://ha.msbot.dpdns.org/4gtv_api.php?id=261
 http://4gtv.tvbjack.ggff.net/?id=261
 http://106.107.242.250:5050/4gtv-live417/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/4gtv-4gtv076/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" group-title="台湾",愛爾達娛樂
 http://106.107.242.250:5050/4gtv-4gtv070/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" group-title="台湾",愛爾達生活旅遊台
-http://4gtv.tvbjack.ggff.net/?id=237
-https://ha.msbot.dpdns.org/4gtv_api.php?id=237
 http://106.107.242.250:5050/4gtv-live120/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
 http://211.23.95.147:18881/live/72_h265.ts
@@ -248,84 +227,64 @@ rtmp://f13h.mine.nu/sat/tv721
 http://211.23.95.147:18881/live/70_h265.ts
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
+https://iptv.yang-1989.xyz/tw/2rxmr4?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://iptv.852851.xyz/l/rhRtmrLcYUEdX9ShuLW9sVxDvbFkSG7ouIMGxKdjdnab0qFWA6LkGrvkYNfQAAxS/index.m3u8
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
-http://iptv.852851.xyz/l/E1QgWQLwZCgM606cW284Iw_b5zvRHdFTtnMJbABM1pETz4WCcGiZhhkeqPLuVm9H/index.m3u8
+https://iptv.yang-1989.xyz/tw/ycpv2n?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
-http://iptv.852851.xyz/l/ub5934TRfX6wRDExPZqB7-1V8WWIUy_sLVUYI-EOu-rpsrpLPi2TbpWsBI7-CSsu/index.m3u8
+https://iptv.yang-1989.xyz/tw/krvav6?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 rtmp://f13h.mine.nu/sat/md041
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯運動 1" group-title="台湾",博斯運動 1
-https://ha.msbot.dpdns.org/4gtv_api.php?id=487
-https://ha.msbot.dpdns.org/4gtv_api.php?id=265
-https://test.946985.filegear-sg.me/proxy/36948ccccb119b46
-https://iptv.852851.xyz/l/oexCPt4hU8m3k66mJd19AtVYHx5yqCGv7789DNZWJMb7R-jZP-VwvhkZGYvhxjor/index.m3u8
+https://iptv.yang-1989.xyz/4gtv/kgz4w9?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://106.107.242.250:5050/litv-xinchuang07/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="bosisport2_twn" tvg-name="博斯運動 2" group-title="台湾",博斯運動 2
-https://ha.msbot.dpdns.org/4gtv_api.php?id=495
+https://iptv.yang-1989.xyz/4gtv/23thek?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://106.107.242.250:5050/litv-xinchuang08/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="博斯高球2 HD" group-title="台湾",博斯高球2 HD
+https://iptv.yang-1989.xyz/4gtv/agxdhb?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 https://ha.msbot.dpdns.org/4gtv_api.php?id=494
 http://106.107.242.250:5050/litv-xinchuang06/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="bositennis_twn" tvg-name="博斯網球 HD" group-title="台湾",博斯網球 HD
-https://iptv.yang-1989.xyz/4gtv/92y5cp?token=5b184287f9fecb9fac3078f6bb1afdbc6f73b653129ba4ef
 http://106.107.242.250:5050/litv-xinchuang09/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="博斯無限1" group-title="台湾",博斯無限1
-https://ha.msbot.dpdns.org/4gtv_api.php?id=266
-https://ha.msbot.dpdns.org/4gtv_api.php?id=489
 http://106.107.242.250:5050/litv-xinchuang10/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="博斯無限2" group-title="台湾",博斯無限2
-https://ha.msbot.dpdns.org/4gtv_api.php?id=496
 http://106.107.242.250:5050/litv-xinchuang13/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="台湾",時尚運動X
-https://ha.msbot.dpdns.org/4gtv_api.php?id=69
-https://ha.msbot.dpdns.org/4gtv_api.php?id=277
 http://106.107.242.250:5050/4gtv-live411/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV"  group-title="台湾",車迷 TV
-https://ha.msbot.dpdns.org/4gtv_api.php?id=160
 http://4gtv.tvbjack.ggff.net/?id=160
 http://106.107.242.250:5050/4gtv-live201/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
-https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982c23983686ac.m3u8
-https://ha.msbot.dpdns.org/4gtv_api.php?id=236
 http://iptv.4666888.xyz/iptv2A.php?id=49
+https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982c23983686ac.m3u8
 http://106.107.242.250:5050/4gtv-live144/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
 rtmp://f13h.mine.nu/sat/tv731
 http://211.23.95.147:18881/live/73_h265.ts
+https://iptv.yang-1989.xyz/tw/2gtcyv?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 #EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" group-title="台湾",DAZN 2
 rtmp://f13h.mine.nu/sat/tv741
 http://211.23.95.147:18881/live/74_h265.ts
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
-https://ha.msbot.dpdns.org/4gtv_api.php?id=113
+https://iptv.yang-1989.xyz/4gtv/67ftk3?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://106.107.242.250:5050/4gtv-4gtv006/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
-http://4gtv.tvbjack.ggff.net/?id=173
-https://ha.msbot.dpdns.org/4gtv_api.php?id=173
 http://106.107.242.250:5050/4gtv-live047/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/of-4gtv-4gtv102/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
-http://4gtv.tvbjack.ggff.net/?id=499
-https://ha.msbot.dpdns.org/4gtv_api.php?id=174
 http://106.107.242.250:5050/4gtv-live046/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物3台"  group-title="台湾",東森購物三台
-http://4gtv.tvbjack.ggff.net/?id=287
-https://ha.msbot.dpdns.org/4gtv_api.php?id=287
 http://106.107.242.250:5050/4gtv-live048/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物5台" group-title="台湾",東森購物五台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=286
 http://106.107.242.250:5050/4gtv-live049/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV"  group-title="台湾",韓國娛樂台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=446
 http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="CHANNEL [V]" tvg-name="CHANNEL [V]"  group-title="台湾",CHANNEL [V]
 https://stream1.freetv.fun/fca0bd28ae8000f3bef263858ee50350cdcee11c4819c3ced4e0b2869ec9c770.m3u8
 https://stream1.freetv.fun/52501a20f13443ddf70fb69ab554399f0e46d34dbaa4303848b59f74b7152c20.m3u8
-#EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK搖滾極限頻道" group-title="台湾",ROCK搖滾極限頻道
-https://ha.msbot.dpdns.org/4gtv_api.php?id=485
-http://4gtv.tvbjack.ggff.net/?id=485
-http://106.107.242.250:5050/4gtv-live124/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
-http://49.213.188.67:50002/index.m3u8?pid=4gtv-live124@485&fun=TV4GTV&proxy=true&token=8852
 
 
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
