@@ -31,6 +31,36 @@
             "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
             "ext": "http://47.96.82.41:5188/svip/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
         },
+         {
+            "key": "GZ",
+            "name": "🦋瓜子|py",
+            "type": 3,
+            "api": "https://lytvs.top/py/guaziAPP.py",
+            "ext": "",
+        },
+         {
+            "key": "qdvm",
+            "name": "奇點|影视",
+            "type": 3,
+            "api": "https://lytvs.top/py/qidianyingshi.py",
+            "ext": "",
+        },
+         {
+            "key": "bbzj",
+            "name": "布布追劇|py",
+            "type": 3,
+            "api": "https://lytvs.top/py/bubuzhuiju.py",
+            "ext": "",
+        },
+        {
+            "key": "布布追劇",
+            "name": "布布|追劇",
+            "type": 3,
+            "api": "https://lytvs.top/py/bubuzhuiju.js",
+            "changeable": 0,
+            "ext": "",
+            "category": "综合"
+        },
         {
             "key": "金牌影视",
             "name": "金牌|影视",
@@ -39,16 +69,25 @@
             "ext": ""
         },
         {
+            "key": "奈非工廠",
+            "name": "奈非工廠|py",
+            "type": 3,
+            "api": "https://lytvs.top/py/naifeigongchang.py",
+            "ext": "",
+        },
+        {
+            "key": "西瓜影视",
+            "name": "西瓜|影视",
+            "type": 3,
+            "api": "https://lytvs.top/py/xiguayingshi.js",
+            "changeable": 0,
+            "ext": "",
+        },
+        {
             "key": "泥视频",
             "name": "泥|视频",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/泥视频.py"
-        },
-        {
-            "key": "奇優影院",
-            "name": "奇優影院|py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/奇优影院.py"
         },
         {
             "key": "骚火影视",
@@ -86,7 +125,7 @@
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
         },
         {
-            "key": "爱看剧",
+            "key": "爱看劇",
             "name": "爱看丨影视",
             "type": 3,
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱看剧.py",
