@@ -3,18 +3,7 @@
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "logo": "https://img.cdn1.vip/i/69f63df12c7b3_1777745393.gif",
     "sites": [
-        {
-           "key": "永乐视频",
-           "name": "永乐视频[优]",
-           "type": 4,
-           "api": "http://192.129.140.23:5757/api/永乐视频[优]?pwd=dzyyds",
-           "searchable": 1,
-           "filterable": 1,
-           "quickSearch": 1,
-           "title": "永乐视频",
-           "lang": "ds",
-           "ext": ""
-    },
+     
         {
             "key": "55影视",
             "name": "55影视|DS",
@@ -26,6 +15,12 @@
             "title": "55影视",
             "lang": "ds",
             "ext": ""
+        },
+         {
+            "key": "永乐",
+            "name": "永乐丨视频",
+            "type": 3,
+            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/永乐视频.js"
         },
         {
             "key": "厂长资源",
@@ -88,12 +83,6 @@
             "name": "综合丨采集",
             "type": 3,
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/爱看机器人.js"
-        },
-        {
-            "key": "永乐",
-            "name": "永乐丨视频",
-            "type": 3,
-            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/永乐视频.js"
         },
         {
             "key": "界影视",
