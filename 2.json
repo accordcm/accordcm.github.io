@@ -67,14 +67,6 @@
             "ext": "",
         },
         {
-            "key": "西瓜影视",
-            "name": "西瓜|影视",
-            "type": 3,
-            "api": "https://lytvs.top/py/xiguayingshi.js",
-            "changeable": 0,
-            "ext": "",
-        },
-        {
             "key": "泥视频",
             "name": "泥|视频",
             "type": 3,
