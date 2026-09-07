@@ -16,25 +16,7 @@
             "lang": "ds",
             "ext": ""
         },
-         {
-           "key": "荐片",
-           "name": "荐片|DS",
-           "type": 4,
-           "api": "http://192.129.140.23:5757/api/荐片[优]?pwd=dzyyds",
-           "searchable": 1,
-           "filterable": 1,
-           "quickSearch": 0,
-           "title": "荐片",
-           "lang": "ds",
-           "ext": ""
-         },
-         {
-            "key": "量子資源",
-            "name": "量子|資源",
-            "type": 3,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
-        },
-         {
+       {
             "key": "永乐",
             "name": "永乐丨视频",
             "type": 3,
@@ -48,6 +30,18 @@
             "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/xb/厂长资源.json",
             "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/xbpq.jar"
         },
+         {
+           "key": "荐片",
+           "name": "荐片|DS",
+           "type": 4,
+           "api": "http://192.129.140.23:5757/api/荐片[优]?pwd=dzyyds",
+           "searchable": 1,
+           "filterable": 1,
+           "quickSearch": 0,
+           "title": "荐片",
+           "lang": "ds",
+           "ext": ""
+         },
         {
             "key": "爱奇艺",
             "name": "奇异｜视频",
