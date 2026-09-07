@@ -17,6 +17,18 @@
             "ext": ""
         },
          {
+           "key": "荐片",
+           "name": "荐片|DS",
+           "type": 4,
+           "api": "http://192.129.140.23:5757/api/荐片[优]?pwd=dzyyds",
+           "searchable": 1,
+           "filterable": 1,
+           "quickSearch": 0,
+           "title": "荐片",
+           "lang": "ds",
+           "ext": ""
+         },
+         {
             "key": "永乐",
             "name": "永乐丨视频",
             "type": 3,
@@ -100,13 +112,6 @@
             "name": "A站┃平台",
             "type": 3,
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/Acfun.py"
-        },
-        {
-            "key": "韓劇巴士",
-            "name": "韓劇|巴士",
-            "type": 3,
-            "api": "http://192.129.140.23:5757/api/新韩剧网?do=py&pwd=dzyyds",
-            "ext": ""
         },
         {
             "key": "星芽短剧",
