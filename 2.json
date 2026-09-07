@@ -29,6 +29,12 @@
            "ext": ""
          },
          {
+            "key": "量子資源",
+            "name": "量子|資源",
+            "type": 3,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
+        },
+         {
             "key": "永乐",
             "name": "永乐丨视频",
             "type": 3,
