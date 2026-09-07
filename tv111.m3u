@@ -38,7 +38,6 @@ http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://211.23.95.147:18881/live/dtv20_h265.ts
 http://74.91.26.218:82/live/ctsnews.m3u8
-https://iptv.yang-1989.xyz/4gtv/tm32ew?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://106.107.242.250:5050/4gtv-4gtv052/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/4gtv-live452/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
@@ -52,7 +51,6 @@ http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 http://222.128.55.152:9080/live/fc.m3u8
 http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 http://45.192.97.170:8880/play/1674.m3u8
-https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 http://106.107.242.250:5050/4gtv-live409/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
@@ -85,7 +83,6 @@ http://211.72.174.95:8115/0.ts
 http://74.91.26.218:82/live/ftv.m3u8
 http://211.23.95.147:18881/live/dtv7_h265.ts
 rtmp://f13h.mine.nu/sat/tv051
-https://iptv.yang-1989.xyz/4gtv/98hy7z?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://106.107.242.250:5050/4gtv-live215/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="台視" tvg-name="台視"  group-title="台湾",台視
 http://211.23.95.147:18881/live/dtv14_h265.ts
@@ -99,11 +96,9 @@ http://74.91.26.218:82/live/ctv.m3u8
 http://211.23.95.147:18881/live/dtv1_h265.ts
 #EXTINF:-1 tvg-id="華視" tvg-name="華視"  group-title="台湾",華視
 http://211.23.95.147:18881/live/dtv18_h265.ts
-https://iptv.yang-1989.xyz/4gtv/n44zkj?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://220.135.241.47:8318/0.ts
 http://74.91.26.218:82/live/cts.m3u8
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
-https://iptv.yang-1989.xyz/4gtv/kacmnr?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://211.23.95.147:18881/live/dtv10_h265.ts
 http://74.91.26.218:82/live/ftvtw.m3u8
 http://106.107.242.250:5050/4gtv-live401/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
