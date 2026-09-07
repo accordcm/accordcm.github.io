@@ -4,6 +4,18 @@
     "logo": "https://img.cdn1.vip/i/69f63df12c7b3_1777745393.gif",
     "sites": [
         {
+           "key": "永乐视频",
+           "name": "永乐视频[优]",
+           "type": 4,
+           "api": "http://192.129.140.23:5757/api/永乐视频[优]?pwd=dzyyds",
+           "searchable": 1,
+           "filterable": 1,
+           "quickSearch": 1,
+           "title": "永乐视频",
+           "lang": "ds",
+           "ext": ""
+    },
+        {
             "key": "55影视",
             "name": "55影视|DS",
             "type": 4,
@@ -12,7 +24,6 @@
             "filterable": 0,
             "quickSearch": 1,
             "title": "55影视",
-            "类型": "影视",
             "lang": "ds",
             "ext": ""
         },
@@ -36,13 +47,6 @@
             "name": "泥|视频",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/泥视频.py"
-        },
-        {
-            "key": "布布影视",
-            "name": "布布|影视",
-            "type": 3,
-            "api": "https://lytvs.top/py/bubuzhuiju.py",
-            "ext": ""
         },
         {
             "key": "腾讯视频",
