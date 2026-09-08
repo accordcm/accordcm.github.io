@@ -241,11 +241,14 @@ rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
 https://iptv.yang-1989.xyz/tw/2rxmr4?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 http://iptv.852851.xyz/l/rhRtmrLcYUEdX9ShuLW9sVxDvbFkSG7ouIMGxKdjdnab0qFWA6LkGrvkYNfQAAxS/index.m3u8
+http://192.129.226.68:5678/l/Fk8BeC8Vs-prQ7Fhs6yDB70Q9aXze3OfKlA8vOu2P_PPFUGgo4jBHq8ySlJI9wQs/index.m3u8
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-d="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
 https://iptv.yang-1989.xyz/tw/ycpv2n?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
+http://192.129.226.68:5678/l/waV7Dpnd83pgYoJdgsylZeNAYivP7qRMWxqvccRSDA1D7DLL4sfIywyDAgJ026hH/index.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
 https://iptv.yang-1989.xyz/tw/krvav6?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
+http://192.129.226.68:5678/l/FLNKFmsOHX_5K6eJ7cS_EdP0n9OHMaFAP4O-M6kL0O7znjnh0BvDihQ7okPsQJVL/index.m3u8
 rtmp://f13h.mine.nu/sat/md041
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯運動 1" group-title="台湾",博斯運動 1
 https://iptv.yang-1989.xyz/4gtv/kgz4w9?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
