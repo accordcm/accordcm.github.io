@@ -49,7 +49,6 @@ http://211.23.95.147:18881/live/86_h265.ts
 http://106.107.242.250:5050/4gtv-4gtv075/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
-https://iptv.yang-1989.xyz/tw/8tmmkz?token=50ccd07738a827a670d1ad86df47e04a7b87356b431c424f
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 http://222.128.55.152:9080/live/fc.m3u8
 http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
@@ -77,9 +76,9 @@ http://125.227.210.55:3054/VideoInput/play.ts
 http://211.23.95.147:18881/live/22_h265.ts
 #EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
 http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
-https://ha.msbot.dpdns.org/4gtv_api.php?id=139
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://211.23.95.147:18881/live/21_h265.ts
+http://125.227.210.55:4047/VideoInput/play.ts
 http://nn.7x9d.cn/xz/xz_3d9d99b07f/mk14.php?ip=123.51.149.68:1888&id=live1005
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 http://211.72.174.95:8115/0.ts
