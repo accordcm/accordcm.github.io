@@ -1,13 +1,14 @@
-#EXTM3U x-tvg-url="https://material.1989.click/epg.xml.gz"
-#EXTINF
+#EXTM3U
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
 http://125.227.210.55:4046/VideoInput/play.ts
+http://106.107.242.201:19950/caonima?id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
 http://106.107.242.250:5050/4gtv-live114/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/4gtv-4gtv152/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
 http://iptv.4666888.xyz/iptv2A.php?id=43
+http://106.107.242.201:19950/caonima?id=TVBS%E6%96%B0%E8%81%9E
 http://106.107.242.250:5050/4gtv-4gtv072/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/media-live072/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
@@ -287,6 +288,7 @@ https://stream1.freetv.fun/52501a20f13443ddf70fb69ab554399f0e46d34dbaa4303848b59
 https://yg.ygbox.de5.net/huya.php?id=29465892
 https://huyazhibo.de5.net/?id=29465892
 https://huyazhibo.de5.net/?id=26355857
+https://isus.cc/php/huya.php?id=11352907
 #EXTINF:-1 tvg-id="喜劇片系列" tvg-name="喜劇片系列" group-title="輪播專區",喜劇片系列
 https://huyazhibo.de5.net/?id=11602044
 https://yg.ygbox.de5.net/huya.php?id=11352897
@@ -304,9 +306,12 @@ http://74.91.26.218:82/live/vlldh.m3u8
 #EXTINF:-1 tvg-id="古天樂系列" tvg-name="古天樂系列" group-title="輪播專區",古天樂系列
 https://yg.ygbox.de5.net/huya.php?id=29982675
 https://huyazhibo.de5.net/?id=29982675
+https://isus.cc/php/huya.php?id=29982675
 #EXTINF:-1 tvg-id="周星馳專場" tvg-name="周星馳專場" group-title="輪播專區",周星馳專場
 http://74.91.26.218:82/live/vlzxc.m3u8
 https://yg.ygbox.de5.net/huya.php?id=11336587
+https://isus.cc/php/huya.php?id=11336587
+http://198.204.228.26/live/lbzxc.m3u8
 #EXTINF:-1 tvg-id="競速專場" tvg-name="競速專場" group-title="輪播專區",競速專場
 https://yg.ygbox.de5.net/huya.php?id=11602051
 https://huyazhibo.de5.net/?id=30145009
@@ -318,9 +323,11 @@ https://yg.ygbox.de5.net/huya.php?id=20969127
 https://huyazhibo.de5.net/?id=21059618
 #EXTINF:-1 tvg-id="强森系列" tvg-name="强森系列" group-title="輪播專區",强森系列
 https://yg.ygbox.de5.net/huya.php?id=21059581
+http://cfss.cc/cdn/huya/21059581.flv
 #EXTINF:-1 tvg-id="硬漢系列" tvg-name="硬漢系列" group-title="輪播專區",硬漢系列
 https://yg.ygbox.de5.net/huya.php?id=29465873
 https://huyazhibo.de5.net/?id=23864973
+https://isus.cc/php/huya.php?id=21059588
 #EXTINF:-1 tvg-id="變形記專場" tvg-name="變形記專場" group-title="輪播專區",變形記專場
 https://huyazhibo.de5.net/?id=23903164
 
@@ -372,6 +379,8 @@ http://153.0.171.163:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" group-title="中国",湖北卫视
 http://107.150.60.122/live/hbwshd.m3u8
 http://go.bkpcp.top/mg/hubws
+http://221.7.175.154:8445/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+http://112.27.235.94:8000/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="guangxi" tvg-name="广西卫视" group-title="中国",广西卫视
 http://107.150.60.122/live/gxwshd.m3u8
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
@@ -402,16 +411,13 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=15
 https://ha.msbot.dpdns.org/4gtv_api.php?id=59
 http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
-https://ha.msbot.dpdns.org/4gtv_api.php?id=282
 https://test.946985.filegear-sg.me/proxy/bdb9c02367c595b9
 http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1782727174761
 http://106.107.242.250:5050/4gtv-live017/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="尼克兒童頻道"  group-title="兒童卡通",尼克兒童頻道
-https://ha.msbot.dpdns.org/4gtv_api.php?id=185
 http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1782727174761
 http://106.107.242.250:5050/4gtv-live105/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="NICKJR."  group-title="兒童卡通",Nick Jr.
-https://ha.msbot.dpdns.org/4gtv_api.php?id=219
 http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782727174761
 http://49.213.188.67:50002/index.m3u8?pid=4gtv-live105@185&fun=TV4GTV&proxy=true&token=8852
 http://106.107.242.250:5050/4gtv-live032/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
@@ -428,12 +434,11 @@ http://125.227.210.55:8167/VideoInput/play.ts
 
 
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=40
+http://tv123.cc.cd/live.php?ch=444&sid=454026c6e4b53541030379a8ed324806&exp=1788787997&sig=7ea149cf93e455869f6ba7debb50333945df024163e9c922ec17fb0f4e3299e3
 http://iptv.4666888.xyz/iptv2A.php?id=54
-http://tv123.cc.cd/live.php?ch=264&sid=8bf1c8cfd17b10cf5011293dd935a24a&exp=1785339625&sig=2eb961a979c49ae30023f95298e54166aadd45e37d0a30aea67d5c8b68d61f87
 http://106.107.242.250:5050/4gtv-4gtv011/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
+https://ha.msbot.dpdns.org/4gtv_api.php?id=40
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" group-title="電影频道",amc 電影台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=39
 https://test.946985.filegear-sg.me/proxy/0586c8f5ac8ac9f3
 https://test.946985.filegear-sg.me/proxy/6f25bfa07d989b51
 http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782727174761
