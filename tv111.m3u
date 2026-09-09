@@ -496,12 +496,6 @@ http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
 mitv://64.32.9.99:7999/a750f670c08fc80f09e23b652052fd90.ts
 
 
-#EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS"  group-title="新闻频道",三立iNEWS
-http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782727174761
-https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
-https://stream1.freetv.fun/badd2c471b785d2032379719c9b0e85c841d1fbff319e8d6cd17683cd807314e.m3u8
-http://106.107.242.250:5050/4gtv-live089/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
-http://106.107.242.250:5050/iNEWS/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="台視財經" group-title="新闻频道",台視財經
 http://211.23.95.147:18881/live/dtv16_h265.ts
 http://74.91.26.218:82/live/ttvcj.m3u8
@@ -725,8 +719,3 @@ https://haru.charandom.blog/stream/jp/home_drama_channel/stream-output.m3u8?mode
 https://akariko-bck1.sankuria.sbs/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Tabi Channel" tvg-logo="https://logo.catvod.com/Tabi Channel.png" group-title="日本",Tabi Channel
 https://haru.charandom.blog/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
-https://akariko-bck1.sankuria.sbs/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-name="discovery" tvg-logo="https://logo.catvod.com/Pigoo (NSFW).png" group-title="日本",discovery
-https://akariko-bck1.sankuria.sbs/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-name="V Paradise (NSFW)" tvg-logo="https://logo.catvod.com/V Paradise (NSFW).png" group-title="日本",V Paradise (NSFW)
-https://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
