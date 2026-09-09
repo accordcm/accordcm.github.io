@@ -77,8 +77,6 @@ http://58.99.33.2:1935/liveedge2/tnpqFuSQ_19_1/chunklist_w.m3u8?checkCode=370506
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://125.227.210.55:3054/VideoInput/play.ts
 http://211.23.95.147:18881/live/22_h265.ts
-#EXTINF:-1 tvg-id="nation_twn" tvg-name="國家地理" group-title="台湾",國家地理
-http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://211.23.95.147:18881/live/21_h265.ts
 http://nn.7x9d.cn/xz/xz_3d9d99b07f/mk14.php?ip=123.51.149.68:1888&id=live1005
@@ -603,19 +601,16 @@ https://cdn6.cc.cd/163189/fhhk
 #EXTM3U url-tvg="https://akariko-bck1.sankuria.sbs/epg/kai-epg.xml" tvg-shift="0" m3uautoload="1"
 #EXTM3U
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd01
+https://akariko-bck2.sankuria.sbs/stream/jp/nhk_g/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.iibaM-9LCBp0vB2SInGSCzd0_qbcFtQTuPSkWOtXsFy8FsgHTIt0eg.cut_ENZjIyB2-NlW.no8oTsnS8KO8XswwpnARQcvelatZJBhDw4I0XbjjcvDkQvzBmD-LAPc2-8WjBbYXgcXnhchz2DD8O_AOkg_wInRN3sIPhWY1qXarScbrG4BSLgj-.h_s7fS0j54x4FFBf6dGStg&mode=hls
 http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd02
+https://akariko-bck2.sankuria.sbs/stream/jp/nhk_e/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.iibaM-9LCBp0vB2SInGSCzd0_qbcFtQTuPSkWOtXsFy8FsgHTIt0eg.cut_ENZjIyB2-NlW.no8oTsnS8KO8XswwpnARQcvelatZJBhDw4I0XbjjcvDkQvzBmD-LAPc2-8WjBbYXgcXnhchz2DD8O_AOkg_wInRN3sIPhWY1qXarScbrG4BSLgj-.h_s7fS0j54x4FFBf6dGStg&mode=hls
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
 #EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://logo.catvod.com/Fuji TV.png" group-title="日本",Fuji TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
+https://akariko-bck2.sankuria.sbs/stream/jp/fuji_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.iibaM-9LCBp0vB2SInGSCzd0_qbcFtQTuPSkWOtXsFy8FsgHTIt0eg.cut_ENZjIyB2-NlW.no8oTsnS8KO8XswwpnARQcvelatZJBhDw4I0XbjjcvDkQvzBmD-LAPc2-8WjBbYXgcXnhchz2DD8O_AOkg_wInRN3sIPhWY1qXarScbrG4BSLgj-.h_s7fS0j54x4FFBf6dGStg&mode=hls
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05&isp=5-15
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd06
