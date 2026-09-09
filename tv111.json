@@ -501,8 +501,8 @@ mitv://64.32.9.99:7999/a750f670c08fc80f09e23b652052fd90.ts
 
 
 #EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS"  group-title="新闻频道",三立iNEWS
-http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782727174761
-https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
+http://tv123.cc.cd/live.php?ch=1586&sid=e6eea7335b938aa77ea9a267eb67335c&exp=1788962865&sig=6da2eeb11dab2530b544ee33828f8d12ff9e452453159dacab350480d560f652
+http://106.107.242.201:19950/caonima?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
 https://stream1.freetv.fun/badd2c471b785d2032379719c9b0e85c841d1fbff319e8d6cd17683cd807314e.m3u8
 http://106.107.242.250:5050/4gtv-live089/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/iNEWS/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
@@ -525,9 +525,11 @@ http://74.91.26.218:82/live/ctsnews.m3u8
 http://211.23.95.147:18881/live/dtv18_h265.ts
 http://106.107.242.250:5050/4gtv-4gtv052/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="新闻频道",寰宇新聞台
+http://tv123.cc.cd/live.php?ch=1591&sid=e6eea7335b938aa77ea9a267eb67335c&exp=1788962865&sig=5eb94ee17f276302a05dcbe2445bd6cd9b65b70d5e5192c27d424c701b0c0fe1
 http://106.107.242.250:5050/4gtv-live408/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://106.107.242.250:5050/litv-longturn14/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
+http://tv123.cc.cd/live.php?ch=1592&sid=e6eea7335b938aa77ea9a267eb67335c&exp=1788962865&sig=27595a1df79b52390dd12e57839c9415a5533bdfd13bf340d39b8ec93f6cffb9
 http://106.107.242.250:5050/4gtv-4gtv156/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="CGTN" tvg-name="NHK新聞資訊台" group-title="新闻频道",NHK新聞資訊台
 http://106.107.242.250:5050/4gtv-live168/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
@@ -536,6 +538,7 @@ https://live.catvod.com/?id=L2xyL2RMUU9BRVRsald6dXhDSWU2Tm5iNjU2NGpOdDhRWmU4dlpu
 mitv://64.32.9.99:7999/8518826cc4034b8bc8e3e86961e3f192.ts
 mitv://64.32.9.99:7999/0a4346f1f63028c5998e9f48445d235f.ts
 #EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" group-title="新闻频道",CNN
+http://125.227.210.55:3026/VideoInput/play.ts
 mitv://64.32.9.99:7999/93b49b4d0e61b567ca2f200a3e7720f7.ts
 #EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
 http://125.227.210.55:8165/VideoInput/play.ts
@@ -545,6 +548,7 @@ http://106.107.242.201:19950/caonima?id=DW%E5%BE%B7%E5%9C%8B%E4%B9%8B%E8%81%B2
 http://106.107.242.250:5050/4gtv-live071/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" group-title="新闻频道",France 24
 https://tv123.cc.cd/live.php/?ch=7be984c1503
+http://tv123.cc.cd/live.php?ch=2382&sid=e6eea7335b938aa77ea9a267eb67335c&exp=1788962865&sig=a58af44932b42b3fea6289a4877a4d2850c1c03d52c8f65feeeb83fb005262ba
 http://106.107.242.250:5050/4gtv-live146/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 
 #EXTM3U
