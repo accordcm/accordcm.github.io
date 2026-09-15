@@ -1,5 +1,8 @@
 #EXTM3U 
+parse=1
+ua=com.fongmi.android.tv/0803 (Linux;Android 14) AndroidXMedia3/1.4.0
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
+https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 http://211.23.95.147:18881/live/51_h265.ts
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 http://125.227.210.55:4046/VideoInput/play.ts
@@ -7,6 +10,7 @@ http://173.208.234.146/live/ebcnews.m3u8
 http://106.107.179.119:50007/4gtv-live114/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 http://106.107.179.119:50007/4gtv-4gtv152/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
+https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 http://211.23.95.147:18881/live/55_h265.ts
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=43
