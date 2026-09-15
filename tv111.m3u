@@ -62,6 +62,7 @@ http://106.107.179.119:50007/4gtv-live408/index.m3u8?token=Ym1z114SDRZbTmM03ukHb
 http://106.107.179.119:50007/4gtv-4gtv156/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
+https://hls.iill.top/api/Discovery/index.m3u8
 http://58.99.33.2:1935/liveedge2/tnpqFuSQ_19_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://125.227.210.55:3054/VideoInput/play.ts
