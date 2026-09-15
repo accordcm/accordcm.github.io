@@ -1,7 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
-https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 http://125.227.210.55:4046/VideoInput/play.ts
 http://173.208.234.146/live/ebcnews.m3u8
@@ -9,7 +8,6 @@ http://106.107.179.119:50007/4gtv-live114/index.m3u8?token=Ym1z114SDRZbTmM03ukHb
 http://106.107.179.119:50007/4gtv-4gtv152/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
-https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=43
 http://173.208.234.146/live/tvbsnews.m3u8
@@ -62,9 +60,14 @@ http://125.227.210.55:3022/VideoInput/play.ts
 http://211.23.95.147:18881/live/54_h265.ts
 http://173.208.234.146/live/setnews.m3u8
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
+https://stream1.freetv.fun/805d203dcc75da9808a4ac2e8211ab37c0e46c37354bf8b86d78222bc6593ff3.m3u8
+https://stream1.freetv.fun/cc3ac399d86099e5a3206d38ac3738ad97285b606895947d3786fbcd544081fd.m3u8
+https://stream1.freetv.fun/13300dfea952c75aa1e5224308a7721600e4dd582257c548582e82172e76c293.ctv
 http://106.107.179.119:50007/litv-longturn14/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 http://106.107.179.119:50007/4gtv-live408/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
+https://stream1.freetv.fun/862e02dae6e4bb17109495d5f1b48f9004bcbbc893524b63fc6c2c52ca15353f.m3u8
+https://stream1.freetv.fun/def5a6f37b1ac6bb85367130b5f3cf8e7cb0605a6af23489f6d60902f9e4f1d2.m3u8
 http://106.107.179.119:50007/4gtv-4gtv156/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
