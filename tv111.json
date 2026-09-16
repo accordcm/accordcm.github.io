@@ -54,18 +54,22 @@ http://173.208.234.146/live/ctinews.m3u8
 http://106.107.179.119:50007/4gtv-live409/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
 http://211.23.95.147:18881/live/104_h265.ts
 #EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
 http://125.227.210.55:3022/VideoInput/play.ts
 http://211.23.95.147:18881/live/54_h265.ts
 http://173.208.234.146/live/setnews.m3u8
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
+https://4gtvfreemobile-mozai.4gtv.tv/jZKso4uZADQPr1PglTIy-PL9HaRHo40IIpzC1S980hM%3d/index.m3u8?token=d6c0ci6SE94WDjKcLqZ7Jg&expires=1788963709&token1=3H0W6BY1gft9Rq3XsIw8xg&expires1=1788963709&refer=ZTBiYzNjMWMtYjFlMy00ZmE1LTlmZWItMzJmYjU3OTZkYjBk&y=0
 http://106.107.179.119:50007/litv-longturn14/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 http://106.107.179.119:50007/4gtv-live408/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
+https://4gtvfreemobile-mozai.4gtv.tv/4t1ZT478AfSclEayaExISbhjKV_r0bvH9jHgSdEwj-M%3d/index.m3u8?token=02ySa31epI2A65hvdrKWXQ&expires=1788963707&token1=PcWGo45qUM0XWEqXBEH1Qw&expires1=1788963707&refer=YzRhMDk3ODEtODQ1Mi00NTEyLTkwMDYtNTE5MDBjMTdiMzkz&y=0
 http://106.107.179.119:50007/4gtv-4gtv156/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mEVHMuNt4FXbPf9SvxlxLQpyK4ElzHmpjpUh5gdP6VClo3RI0bQAB253Ba77OdXDa7sX1wnbgu6ape6GTBp9-UPRmm1uOg7BsiX0NfTgkdAJYFygF-tkq3hTreLzus73dNNJOwR3O6zhVcqSiibzpAW919OyzRANkaZj_qbR-RvtqB2TxZuFQTR7Gd3qXolCZw.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://125.227.210.55:3054/VideoInput/play.ts
 http://211.23.95.147:18881/live/22_h265.ts
@@ -474,6 +478,7 @@ http://106.107.179.119:50007/iNEWS/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwk
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="台視財經" group-title="新闻频道",台視財經
 http://211.23.95.147:18881/live/dtv16_h265.ts
 http://74.91.26.218:82/live/ttvcj.m3u8
+http://173.208.234.146/live/ttvcj.m3u8
 https://stream1.freetv.fun/3b883105f8b4ece50bf1e92684e237b4931311dcfdd18212106afaed5290c813.ctv
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經" group-title="新闻频道",東森財經
 http://211.23.95.147:18881/live/57_h265.ts
