@@ -3,14 +3,12 @@
 http://211.23.95.147:18881/live/51_h265.ts
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 http://125.227.210.55:4046/VideoInput/play.ts
-http://173.208.234.146/live/ebcnews.m3u8
 http://106.107.179.119:50007/4gtv-live114/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 http://106.107.179.119:50007/4gtv-4gtv152/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://211.23.95.147:18881/live/55_h265.ts
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=43
-http://173.208.234.146/live/tvbsnews.m3u8
 http://106.107.179.119:50007/4gtv-4gtv072/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 http://106.107.179.119:50007/media-live072/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
@@ -59,13 +57,10 @@ http://211.23.95.147:18881/live/104_h265.ts
 #EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
 http://125.227.210.55:3022/VideoInput/play.ts
 http://211.23.95.147:18881/live/54_h265.ts
-http://173.208.234.146/live/setnews.m3u8
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
-https://4gtvfreemobile-mozai.4gtv.tv/jZKso4uZADQPr1PglTIy-PL9HaRHo40IIpzC1S980hM%3d/index.m3u8?token=d6c0ci6SE94WDjKcLqZ7Jg&expires=1788963709&token1=3H0W6BY1gft9Rq3XsIw8xg&expires1=1788963709&refer=ZTBiYzNjMWMtYjFlMy00ZmE1LTlmZWItMzJmYjU3OTZkYjBk&y=0
 http://106.107.179.119:50007/litv-longturn14/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 http://106.107.179.119:50007/4gtv-live408/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
-https://4gtvfreemobile-mozai.4gtv.tv/4t1ZT478AfSclEayaExISbhjKV_r0bvH9jHgSdEwj-M%3d/index.m3u8?token=02ySa31epI2A65hvdrKWXQ&expires=1788963707&token1=PcWGo45qUM0XWEqXBEH1Qw&expires1=1788963707&refer=YzRhMDk3ODEtODQ1Mi00NTEyLTkwMDYtNTE5MDBjMTdiMzkz&y=0
 http://106.107.179.119:50007/4gtv-4gtv156/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
@@ -120,7 +115,6 @@ http://106.107.179.119:50007/4gtv-4gtv073/index.m3u8?token=Ym1z114SDRZbTmM03ukHb
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 http://211.23.95.147:18881/live/42_h265.ts
-https://4gtv.judy.xx.kg/?id=184
 http://125.227.210.55:3047/VideoInput/play.ts
 http://58.99.33.2:1935/liveedge2/tnpqFuSQ_42_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 http://106.107.179.119:50007/4gtv-4gtv068/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
@@ -155,7 +149,6 @@ http://74.91.26.218:82/live/pts.m3u8
 http://211.23.95.147:18881/live/dtv23_h265.ts
 http://106.107.179.119:50007/4gtv-live007/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
-https://4gtv.judy.xx.kg/?id=230
 http://106.107.179.119:50007/4gtv-live106/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
 http://211.23.95.147:18881/live/27_h265.ts
@@ -251,7 +244,6 @@ https://4gtv.judy.xx.kg/?id=160
 http://106.107.179.119:50007/4gtv-live201/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
 http://iptv.4666888.xyz/iptv2A.php?id=49
-https://4gtv.judy.xx.kg/?id=236
 https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982c23983686ac.m3u8
 http://106.107.179.119:50007/4gtv-live144/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
@@ -261,7 +253,6 @@ http://211.23.95.147:18881/live/73_h265.ts
 rtmp://f13h.mine.nu/sat/tv741
 http://211.23.95.147:18881/live/74_h265.ts
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
-https://4gtv.judy.xx.kg/?id=113
 http://106.107.179.119:50007/4gtv-4gtv006/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
 http://106.107.179.119:50007/4gtv-live047/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
