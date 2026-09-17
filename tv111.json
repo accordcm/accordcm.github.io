@@ -463,7 +463,6 @@ http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS"  group-title="新闻频道",三立iNEWS
 https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
-https://4gtv.judy.xx.kg/?id=229
 http://106.107.179.119:50007/4gtv-live089/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 http://106.107.179.119:50007/iNEWS/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="台視財經" group-title="新闻频道",台視財經
