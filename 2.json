@@ -49,12 +49,6 @@
             "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
             "ext": "http://47.96.82.41:5188/svip/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
         },
-         {
-            "key": "月光影视",
-            "name": "月光|影视",
-            "type": 3,
-            "api": "http://192.129.140.23:5757/cat/月光影视.js?pwd=dzyyds"
-        },
         {
             "key": "泥视频",
             "name": "泥|视频",
