@@ -158,6 +158,7 @@ http://211.23.95.147:18881/live/dtv23_h265.ts
 http://iptv.852851.xyz/l/p-6JCOF7fql93Zxa-nEmXrqHEwV8bJMCRoJr0iMIn10PnO-q8zvVAAmI5v0Peyfx/index.m3u8
 http://106.107.179.119:50007/4gtv-live007/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
+http://iptv.852851.xyz/l/jNBEkGjuShSeBgi3fpYoJWxuf94bsmM9z9VzsD7CCK5xlS5oGNMqEMG8vdV19h0J/index.m3u8
 http://106.107.179.119:50007/4gtv-live106/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
 http://211.23.95.147:18881/live/27_h265.ts
