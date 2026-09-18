@@ -23,12 +23,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/GimyTV剧迷.py"
 		},
 		{
-			"key": "西瓜影视",
-			"name": "西瓜影视",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/西瓜影视.js"
-		},
-		{
         	"key": "白洋影院",
             "name": "白洋影院",
             "type": 3,
@@ -80,11 +74,11 @@
             "ext": "http://47.96.82.41:5188/svip/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
         },
         {
-            "key": "泥视频",
-            "name": "泥|视频",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/泥视频.py"
-        },
+			"key": "西瓜影视",
+			"name": "西瓜影视",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/西瓜影视.js"
+		},
         {
             "key": "腾讯视频",
             "name": "腾讯｜视频",
