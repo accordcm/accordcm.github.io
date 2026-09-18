@@ -143,11 +143,10 @@ http://211.23.95.147:18881/live/32_h265.ts
 #EXTINF:-1 tvg-id="ettvdrama" tvg-name="東森戲劇" group-title="台湾",東森戲劇
 http://211.23.95.147:18881/live/40_h265.ts
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
-rtmp://f13h.mine.nu/sat/tv771
 http://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
 http://211.23.95.147:18881/live/77_h265.ts
 http://125.227.210.55:1083/VideoInput/play.ts
-http://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
+rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
 http://211.23.95.147:18881/live/26_h265.ts
 http://iptv.852851.xyz/l/TnrgXh6F_7ppVLW8Xir_z3FcBC-5vo7UIX8Iuk1258ZKk66-Ni6omngB6m_8b01e/index.m3u8
@@ -156,10 +155,8 @@ http://211.23.95.147:18881/live/dtv5_h265.ts
 http://74.91.26.218:82/live/pts.m3u8
 #EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
 http://211.23.95.147:18881/live/dtv23_h265.ts
-http://iptv.852851.xyz/l/p-6JCOF7fql93Zxa-nEmXrqHEwV8bJMCRoJr0iMIn10PnO-q8zvVAAmI5v0Peyfx/index.m3u8
 http://106.107.179.119:50007/4gtv-live007/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
-http://iptv.852851.xyz/l/jNBEkGjuShSeBgi3fpYoJWxuf94bsmM9z9VzsD7CCK5xlS5oGNMqEMG8vdV19h0J/index.m3u8
 http://106.107.179.119:50007/4gtv-live106/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
 http://211.23.95.147:18881/live/27_h265.ts
@@ -283,15 +280,12 @@ http://211.23.95.147:18881/live/74_h265.ts
 http://iptv.852851.xyz/l/HznTMsZCGZ5YjqWLfTT3kHk-hWqxBxMs-lenQxCw-rJcUyq4yxTANgw5PXXtiVzO/index.m3u8
 http://106.107.179.119:50007/4gtv-4gtv006/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
-http://iptv.852851.xyz/l/LHlvAIzNEHIbGDS9Eh3HAT_KmGcpIEEN1o1IEarloDtdIGF26gAxhxylsuLUYwU_/index.m3u8
 http://106.107.179.119:50007/4gtv-live047/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 http://106.107.179.119:50007/of-4gtv-4gtv102/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
-http://iptv.852851.xyz/l/wDPSN4L5JRC6p55KpRL9j5C-307umE-LzCd9i02JsXOkrKJWFuyUkwIgE_2iWVVN/index.m3u8
 http://58.99.33.2:1935/liveedge2/tnpqFuSQ_34_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 http://106.107.179.119:50007/4gtv-live046/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物3台"  group-title="台湾",東森購物三台
-http://iptv.852851.xyz/l/acVQFDBtdIG04MClVhopyZnxZ2E9N_GhptFOqv8wBpnUVs2uqmcohU75Cym0mcp-/index.m3u8
 http://106.107.242.201:19950/caonima?id=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%B8%89%E5%8F%B0
 http://106.107.179.119:50007/4gtv-live048/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物5台" group-title="台湾",東森購物五台
