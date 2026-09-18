@@ -112,7 +112,7 @@ http://125.227.210.55:3020/VideoInput/play.ts
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立都會HD" group-title="台湾",三立都會HD
 http://211.23.95.147:18881/live/30_h265.ts
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
-https://4gtv.judy.xx.kg/?id=169
+http://iptv.852851.xyz/l/EaCFjUH1Xga64b_jjPqE9RiDPIYVSWNGqy7DLmyywylcs__64EkNjDNKWi9-xvdn/index.m3u8
 http://106.107.179.119:50007/4gtv-live207/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
 http://106.107.242.201:19950/caonima?id=TVBS
@@ -123,7 +123,7 @@ http://211.23.95.147:18881/live/42_h265.ts
 http://125.227.210.55:3047/VideoInput/play.ts
 http://58.99.33.2:1935/liveedge2/tnpqFuSQ_42_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 http://106.107.179.119:50007/4gtv-4gtv068/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台"  group-title="台湾",TVBS精采台
+#EXTINF:-1 tvg-id="TVBS精彩台" tvg-name="TVBS精彩台"  group-title="台湾",TVBS精彩台
 http://iptv.852851.xyz/l/eRh9yunu97oH6MMSCfS9ROB8Mp4aUVfUHJ_RQdsV_xDTPSn8JB6wdaLJ68Tw80Wm/index.m3u8
 http://106.107.179.119:50007/4gtv-4gtv067/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
