@@ -16,6 +16,30 @@
             "lang": "ds",
             "ext": ""
         },
+        {
+        	"key": "GimyTV剧迷",
+            "name": "GimyTV剧迷[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/GimyTV剧迷.py"
+		},
+		{
+        	"key": "白洋影院",
+            "name": "白洋影院[追剧](关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/白洋影院.py"
+		},
+		{
+        	"key": "第七影院",
+            "name": "第七影院[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第七影院.py"
+		},
+		{
+        	"key": "云朵影视",
+            "name": "云朵影视[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/云朵影视.py"
+		},
        {
             "key": "永乐",
             "name": "永乐丨视频",
