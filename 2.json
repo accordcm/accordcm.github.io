@@ -23,11 +23,12 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/GimyTV剧迷.py"
 		},
 		{
-        	"key": "白洋影院",
-            "name": "白洋影院",
+            "key": "优酷视频",
+            "name": "优酷｜视频",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/白洋影院.py"
-		},
+            "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
+            "ext": "http://47.96.82.41:5188/svip/js/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
+        },
 		{
         	"key": "云朵影视",
             "name": "云朵影视",
@@ -40,6 +41,12 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第七影院.py"
 		},
+		{
+            "key": "多多影视",
+            "name": "多多影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/多多影视.py"
+        },
        {
             "key": "永乐",
             "name": "永乐丨视频",
@@ -73,19 +80,18 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/橘汁视频.py"
 		},
-        {
-            "key": "腾讯视频",
-            "name": "腾讯｜视频",
+		{
+        	"key": "白洋影院",
+            "name": "白洋影院",
             "type": 3,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾讯视频.py"
-        },
-        {
-            "key": "优酷视频",
-            "name": "优酷｜视频",
-            "type": 3,
-            "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
-            "ext": "http://47.96.82.41:5188/svip/js/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
-        },
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/白洋影院.py"
+		},
+		{
+			"key": "奈非工廠",
+			"name": "奈非工廠",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/奈非工厂.py"
+		},
         {
             "key": "芒果视频",
             "name": "芒果｜视频",
