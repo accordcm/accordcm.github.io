@@ -29,16 +29,16 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/白洋影院.py"
 		},
 		{
-        	"key": "第七影院",
-            "name": "第七影院",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第七影院.py"
-		},
-		{
         	"key": "云朵影视",
             "name": "云朵影视",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/云朵影视.py"
+		},
+		{
+        	"key": "第七影院",
+            "name": "第七影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第七影院.py"
 		},
        {
             "key": "永乐",
@@ -220,15 +220,6 @@
     ],
     "lives": [
         {
-            "name": "🌿四季弯弯直播",
-            "type": 0,
-            "url": "http://4gtv.158.qzz.io/4gtv.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
             "name": "🐉易发TV直播",
             "type": 1,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
@@ -239,19 +230,9 @@
             "url": "http://iptv.4666888.xyz/FYTV.txt"
         },
         {
-            "name": "🐉王子TV直播",
-            "type": 1,
-            "url": "http://wangziduoqing.com/yuan/zb.txt"
-        },
-        {
             "name": "🐉涛涛TV直播",
             "type": 1,
             "url": "http://38.75.136.137:88/api/tvlist.php"
-        },
-        {
-            "name": "🐉天下TV直播",
-            "type": 1,
-            "url": "https://ilook.epg.one/5CM5SY98BF24PL/2"
         }
        
     ],
