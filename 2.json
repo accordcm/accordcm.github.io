@@ -54,18 +54,6 @@
             "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/xb/厂长资源.json",
             "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/xbpq.jar"
         },
-         {
-           "key": "荐片",
-           "name": "荐片|DS",
-           "type": 4,
-           "api": "http://192.129.140.23:5757/api/荐片[优]?pwd=dzyyds",
-           "searchable": 1,
-           "filterable": 1,
-           "quickSearch": 0,
-           "title": "荐片",
-           "lang": "ds",
-           "ext": ""
-         },
         {
             "key": "爱奇艺",
             "name": "奇异｜视频",
@@ -79,12 +67,17 @@
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/西瓜影视.js"
 		},
+		{
+        	"key": "橘汁视频",
+            "name": "橘汁|视频",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/橘汁视频.py"
+		},
         {
             "key": "腾讯视频",
             "name": "腾讯｜视频",
             "type": 3,
-            "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
-            "ext": "http://47.96.82.41:5188/svip/js/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾讯视频.py"
         },
         {
             "key": "优酷视频",
@@ -114,6 +107,18 @@
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱看剧.py",
             "ext": "http://43.248.117.123:4680"
         },
+		{
+           "key": "荐片",
+           "name": "荐片|DS",
+           "type": 4,
+           "api": "http://192.129.140.23:5757/api/荐片[优]?pwd=dzyyds",
+           "searchable": 1,
+           "filterable": 1,
+           "quickSearch": 0,
+           "title": "荐片",
+           "lang": "ds",
+           "ext": ""
+         },
         {
             "key": "爱看机器人",
             "name": "综合丨采集",
