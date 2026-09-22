@@ -51,6 +51,10 @@ http://211.23.95.147:18881/live/50_h265.ts
 http://iptv.852851.xyz/l/9bz5xzBj4G7z-ceB4nZLaj2C5vtUJXuilblpQHN0JCC-OFYfmqlc0f6Pn6J7lTiz/play
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 http://iptv.852851.xyz/l/wzGFHFLRljHDiQGT3-GZ9DLOCrW4b5sYHJWy2nWLXDAJgAPxEqiY38-wysTTSetg/index.m3u8
+rtmp://ai.unispc.com/live/nb-py-ztxw
+rtmp://media.atmsiot.com/live/ztxw
+rtmp://221.4.216.91/live/332123-ztxw
+https://stream1.freetv.fun/86c4bbf39b7ba14b8f7929428df4d9a5e150a79aeb6556a6f758524334e04a66.ctv
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
@@ -59,12 +63,16 @@ http://211.23.95.147:18881/live/104_h265.ts
 http://125.227.210.55:3022/VideoInput/play.ts
 http://211.23.95.147:18881/live/54_h265.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
+https://test.946985.filegear-sg.me/proxy/c057c148d107d274
+https://stream1.freetv.fun/13300dfea952c75aa1e5224308a7721600e4dd582257c548582e82172e76c293.ctv
+https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
 http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
+https://stream1.freetv.fun/744c90f385805050518e8973175650b4b7c14ea339bd54833726a105d9b79056.ctv
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://125.227.210.55:3054/VideoInput/play.ts
 http://211.23.95.147:18881/live/22_h265.ts
@@ -266,6 +274,8 @@ http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
 http://iptv.4666888.xyz/iptv2A.php?id=49
 http://iptv.852851.xyz/l/eK9d3ziYVaJkQ8zuA-u_Wu4-bCZZ7VrBUZIaazQ8OC-j2OeltQ4DEKTu7ey3ZU74/index.m3u8
+https://stream1.freetv.fun/9b57b5f02b4907f916fbfb0b910ceb0ffd7155aef9be4406e0a57174d1b683a0.ctv
+https://stream1.freetv.fun/1913777e3a756ffb17fee082336eade487a3ee4fcfc9e5491856328d59a7b3b3.ctv
 https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982c23983686ac.m3u8
 http://106.107.242.201:50007/4gtv-live144/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
@@ -291,7 +301,7 @@ http://106.107.242.201:50007/4gtv-live049/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 #EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV"  group-title="台湾",韓國娛樂台
 http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="CHANNEL [V]" tvg-name="CHANNEL [V]"  group-title="台湾",CHANNEL [V]
-https://stream1.freetv.fun/fca0bd28ae8000f3bef263858ee50350cdcee11c4819c3ced4e0b2869ec9c770.m3u8
+https://stream1.freetv.fun/8dbc34f95b9f378603cb881e64de466a5e0c8286c9ef3b5c642728f0447ebc3f.m3u8
 https://stream1.freetv.fun/52501a20f13443ddf70fb69ab554399f0e46d34dbaa4303848b59f74b7152c20.m3u8
 
 
