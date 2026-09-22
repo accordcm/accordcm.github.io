@@ -59,11 +59,13 @@ http://211.23.95.147:18881/live/104_h265.ts
 http://125.227.210.55:3022/VideoInput/play.ts
 http://211.23.95.147:18881/live/54_h265.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
+http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
 http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
 https://stream1.freetv.fun/e7076724f6f4ec080e7f1a9c5cac04dd03cdf2a7684892d4415c329245441c95.m3u8
 http://106.107.179.119:50007/litv-longturn14/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 http://106.107.179.119:50007/4gtv-live408/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
+http://220.135.64.124:5050/li-4gtv-4gtv156/index.m3u8?proxy=true
 https://stream1.freetv.fun/6f86b785e4d3724074dfdd10aa123fa6d5e9fcff5baf7c90567bc77446f85c6f.m3u8
 http://106.107.179.119:50007/4gtv-4gtv156/index.m3u8?token=Ym1z114SDRZbTmM03ukHbD4WQdwkDsxttW6BgJX2y3cfpEhhY8pDHcCE6H9tVMoy
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
