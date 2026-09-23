@@ -7,6 +7,7 @@ http://125.227.210.55:4046/VideoInput/play.ts
 http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
+p2p://142.54.189.229:2666/64df0c5d000a530d048e75f37b155008.ts
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 http://211.23.95.147:18881/live/55_h265.ts
 http://iptv.4666888.xyz/iptv2A.php?id=43
@@ -48,6 +49,7 @@ http://iptv.852851.xyz/l/VKpNosIx2swgStZPRYGosOf8cue6BsqXwsnRYXRlylSokbEr_XvFkep
 http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
+p2p://142.54.189.229:2666/64df11830008ea4904a2921502394fe8.ts
 http://iptv.852851.xyz/l/9bz5xzBj4G7z-ceB4nZLaj2C5vtUJXuilblpQHN0JCC-OFYfmqlc0f6Pn6J7lTiz/play
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 http://iptv.852851.xyz/l/wzGFHFLRljHDiQGT3-GZ9DLOCrW4b5sYHJWy2nWLXDAJgAPxEqiY38-wysTTSetg/index.m3u8
