@@ -5,7 +5,6 @@ http://125.227.210.55:4046/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1257.m3u8
 http://211.23.95.147:18881/live/51_h265.ts
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-http://125.227.210.55:4046/VideoInput/play.ts
 http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
@@ -30,9 +29,9 @@ http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 http://106.107.242.201:50007/4gtv-live019/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 http://211.23.95.147:18881/live/dtv9_h265.ts
+http://125.227.210.55:3017/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1204.m3u8
 http://74.91.26.218:82/live/ftvnews.m3u8
-http://125.227.210.55:3017/VideoInput/play.ts
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
 http://125.227.210.55:3089/VideoInput/play.ts
@@ -88,13 +87,12 @@ http://125.227.210.55:3054/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1004.m3u8
 http://211.23.95.147:18881/live/22_h265.ts
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
-http://211.23.95.147:18881/live/21_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1005.m3u8
-http://nn.7x9d.cn/xz/xz_3d9d99b07f/mk14.php?ip=123.51.149.68:1888&id=live1005
+http://211.23.95.147:18881/live/21_h265.ts
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
-http://211.72.174.95:8115/0.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1050.m3u8
 http://125.227.210.55:8093/VideoInput/play.ts
+http://211.72.174.95:8115/0.ts
 http://74.91.26.218:82/live/ftv.m3u8
 http://211.23.95.147:18881/live/dtv7_h265.ts
 rtmp://f13h.mine.nu/sat/tv051
