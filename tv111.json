@@ -598,14 +598,16 @@ https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
 https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://logo.catvod.com/Fuji TV.png" group-title="日本",Fuji TV
+https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=5-15
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
 https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://logo.catvod.com/TV Tokyo.png" group-title="日本",TV Tokyo
 https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TV Osaka" tvg-logo="https://logo.catvod.com/TV Osaka.png" group-title="日本",TV Osaka
-https://akariko-bck2.sankuria.sbs/stream/jp/tv_osaka/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.iibaM-9LCBp0vB2SInGSCzd0_qbcFtQTuPSkWOtXsFy8FsgHTIt0eg.cut_ENZjIyB2-NlW.no8oTsnS8KO8XswwpnARQcvelatZJBhDw4I0XbjjcvDkQvzBmD-LAPc2-8WjBbYXgcXnhchz2DD8O_AOkg_wInRN3sIPhWY1qXarScbrG4BSLgj-.h_s7fS0j54x4FFBf6dGStg&mode=hls
+https://haru.charandom.blog/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
+https://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://logo.catvod.com/NHK BS.png" group-title="日本",NHK BS
 https://haru.charandom.blog/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
@@ -698,9 +700,9 @@ https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Fuji TV NEXT" tvg-logo="https://logo.catvod.com/Fuji TV NEXT.png" group-title="日本",Fuji TV NEXT
 https://haru.charandom.blog/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Neco Channel" tvg-logo="https://logo.catvod.com/Neco Channel.png" group-title="日本",Neco Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Dlife" tvg-logo="https://logo.catvod.com/Dlife.png" group-title="日本",Dlife
-https://akariko-bck1.sankuria.sbs/stream/jp/dlife/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Toei Channel" tvg-logo="https://logo.catvod.com/Toei Channel.png" group-title="日本",Toei Channel
 https://haru.charandom.blog/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Fighting TV Samurai" tvg-logo="https://logo.catvod.com/Fighting TV Samurai.png" group-title="日本",Fighting TV Samurai
