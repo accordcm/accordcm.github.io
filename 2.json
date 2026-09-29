@@ -23,32 +23,12 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/GimyTV剧迷.py"
 		},
 		{
-         "key": "爱看剧",
-         "name": "[愛看劇｜2K",
-         "type": 3,
-         "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
-         "ext": "http://43.248.117.123:4680"
-        },
-		{
         	"key": "第七影院",
             "name": "第七影院",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第七影院.py"
 		},
-        {
-         "key": "楓葉",
-         "name": "楓葉｜4K",
-         "type": 3,
-         "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
-        },
-		{
-          "key": "金牌影视",
-          "name": "金牌｜影视",
-          "type": 3,
-          "api": "csp_Jpys",
-          "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-          "jar": "https://ym.wya6.cn/tz/wyxs.php"
-        },
+
         {
             "key": "厂长资源",
             "name": "厂长┃资源",
@@ -97,13 +77,6 @@
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
-        },
-        {
-            "key": "爱看劇",
-            "name": "爱看丨影視",
-            "type": 3,
-            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱看剧.py",
-            "ext": "http://43.248.117.123:4680"
         },
 		{
            "key": "荐片",
