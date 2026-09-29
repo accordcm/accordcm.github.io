@@ -1,26 +1,25 @@
 #EXTM3U x-tvg-url="https://material.1989.click/epg.xml.gz"
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
-http://211.23.95.147:18881/live/51_h265.ts
-http://125.227.210.55:4046/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1257.m3u8
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+http://125.227.210.55:4046/VideoInput/play.ts
+http://211.23.95.147:18881/live/51_h265.ts
 http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
-http://211.23.95.147:18881/live/55_h265.ts
-http://125.227.210.55:1036/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1051.m3u8
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+http://125.227.210.55:1036/VideoInput/play.ts
+http://211.23.95.147:18881/live/55_h265.ts
 http://iptv.4666888.xyz/iptv2A.php?id=43
 http://106.107.242.201:50007/4gtv-4gtv072/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 http://106.107.242.201:50007/media-live072/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
-http://125.227.210.55:1086/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1013.m3u8
+http://125.227.210.55:1086/VideoInput/play.ts
 http://211.23.95.147:18881/live/58_h265.ts
 rtmp://f13h.mine.nu/sat/tv581
-http://125.227.210.55:1086/VideoInput/play.ts
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 http://211.23.95.147:18881/live/57_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1017.m3u8
@@ -28,27 +27,22 @@ http://125.227.210.55:4051/VideoInput/play.ts
 http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 http://106.107.242.201:50007/4gtv-live019/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
-http://211.23.95.147:18881/live/dtv9_h265.ts
-http://125.227.210.55:3017/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1204.m3u8
-http://74.91.26.218:82/live/ftvnews.m3u8
+http://125.227.210.55:3017/VideoInput/play.ts
+http://211.23.95.147:18881/live/dtv9_h265.ts
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
+http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1107.m3u8
 http://125.227.210.55:3089/VideoInput/play.ts
 http://211.23.95.147:18881/live/dtv15_h265.ts
-https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
-https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8
-http://74.91.26.218:82/live/ttvnews.m3u8
 http://125.227.210.55:3089/VideoInput/play.ts
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
-http://211.23.95.147:18881/live/dtv2_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1115.m3u8
+http://211.23.95.147:18881/live/dtv2_h265.ts
 http://125.227.210.55:3079/VideoInput/play.ts
-http://74.91.26.218:82/live/ctvnews.m3u8
-http://173.208.234.146/live/ctv.m3u8
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://211.23.95.147:18881/live/dtv20_h265.ts
-http://74.91.26.218:82/live/ctsnews.m3u8
+http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1120.m3u8
 http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
@@ -62,8 +56,6 @@ http://211.23.95.147:18881/live/50_h265.ts
 http://iptv.852851.xyz/l/9bz5xzBj4G7z-ceB4nZLaj2C5vtUJXuilblpQHN0JCC-OFYfmqlc0f6Pn6J7lTiz/play
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1015.m3u8
-http://iptv.852851.xyz/l/wzGFHFLRljHDiQGT3-GZ9DLOCrW4b5sYHJWy2nWLXDAJgAPxEqiY38-wysTTSetg/index.m3u8
-https://3ea9e6-31f5e6.kylintv.tv/live/cti_iphone.m3u8
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1242.m3u8
@@ -104,13 +96,13 @@ http://211.23.95.147:18881/live/dtv14_h265.ts
 http://211.72.174.95:8112/0.ts
 http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="中視" tvg-name="中視"  group-title="台湾",中視
-http://125.227.210.55:3049/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1048.m3u8
-rtmp://f13h.mine.nu:1935/sat/tv091
+http://125.227.210.55:3049/VideoInput/play.ts
+http://211.23.95.147:18881/live/dtv1_h265.ts
 rtmp://f13h.mine.nu/sat/tv091
+rtmp://f13h.mine.nu:1935/sat/tv091
 http://220.135.241.47:8301/0.ts
 http://74.91.26.218:82/live/ctv.m3u8
-http://211.23.95.147:18881/live/dtv1_h265.ts
 #EXTINF:-1 tvg-id="華視" tvg-name="華視"  group-title="台湾",華視
 http://211.23.95.147:18881/live/dtv18_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1049.m3u8
