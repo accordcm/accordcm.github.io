@@ -40,6 +40,12 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/永乐视频.py"
         },
+		{
+        	"key": "紅果",
+            "name": "紅果短劇",
+            "type": 3,
+            "api": "https://files.catbox.moe/3cm8kb.py"
+		},
         {
             "key": "厂长资源",
             "name": "厂长┃资源",
