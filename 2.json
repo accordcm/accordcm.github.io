@@ -23,35 +23,53 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/GimyTV剧迷.py"
 		},
 		{
-        	"key": "華誼影視",
-            "name": "華誼|影視",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/华谊影视.py"
-		},
-		{
-            "key": "影視大全",
-            "name": "影視|大全",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影视大全.py"
-        },
-		{
             "key": "一起影視",
-            "name": "🐬一起|影視",
+            "name": "🐬一起影視",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/一起影视.py"
         },
 		{
             "key": "八戒影視",
-            "name": "🐬二師兄影視",
+            "name": "二師兄影視",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/八戒影视.py"
         },
+		{
+			"key": "kkvm",
+			"name": "可可影視",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/可可影视.py"
+		},
+		{
+			"key": "豆花影視",
+			"name": "豆花影視",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/豆花影视.py"
+		},
+		{
+			"key": "开心影院",
+			"name": "🐬开心影院",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/开心影院.py",
+			"changeable": 0
+		},
 		{
         	"key": "第七影院",
             "name": "第七影院",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第七影院.py"
 		},
+		 {
+            "key": "紅果短劇",
+            "name": "紅果｜短劇",
+            "type": 3,
+            "api": "https://files.catbox.moe/3cm8kb.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "genre": "shortdrama"
+        },
 
         {
             "key": "厂长资源",
