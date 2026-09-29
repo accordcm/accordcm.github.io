@@ -59,7 +59,11 @@
 			"key": "红果短剧",
 			"name": "🐬红果短剧",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py",
+			"searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
 		},
         {
             "key": "爱奇艺",
