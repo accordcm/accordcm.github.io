@@ -55,6 +55,12 @@
             "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/xb/厂长资源.json",
             "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/xbpq.jar"
         },
+		{
+			"key": "红果短剧",
+			"name": "🐬红果短剧",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
+		},
         {
             "key": "爱奇艺",
             "name": "奇异|視頻",
