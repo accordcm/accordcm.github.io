@@ -2,9 +2,9 @@
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1257.m3u8
-https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 http://125.227.210.55:4046/VideoInput/play.ts
 http://211.23.95.147:18881/live/51_h265.ts
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
