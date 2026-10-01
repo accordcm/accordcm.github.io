@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://material.1989.click/epg.xml.gz"
 #EXTINF
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
+http://211.23.95.147:18881/live/51_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1257.m3u8
 http://125.227.210.55:4046/VideoInput/play.ts
-http://211.23.95.147:18881/live/51_h265.ts
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
@@ -58,8 +58,9 @@ http://iptv.852851.xyz/l/9bz5xzBj4G7z-ceB4nZLaj2C5vtUJXuilblpQHN0JCC-OFYfmqlc0f6
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1015.m3u8
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
-http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1242.m3u8
 http://211.23.95.147:18881/live/49_h265.ts
+http://iptvpro.pw:35451//live/7272767419/2683863119/407.ts
+http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1242.m3u8
 http://211.23.95.147:18881/live/104_h265.ts
 #EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
 http://125.227.210.55:3022/VideoInput/play.ts
@@ -72,8 +73,9 @@ http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
 http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
-http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1002.m3u8
+http://iptvpro.pw:35451//live/7272767419/2683863119/287.ts
 http://211.23.95.147:18881/live/19_h265.ts
+http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1002.m3u8
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://125.227.210.55:3054/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1004.m3u8
@@ -186,10 +188,11 @@ http://125.227.210.55:3024/VideoInput/play.ts
 http://211.23.95.147:18881/live/dtv5_h265.ts
 http://74.91.26.218:82/live/pts.m3u8
 #EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
-http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1216.m3u8
 http://211.23.95.147:18881/live/dtv23_h265.ts
+http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1216.m3u8
 http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
+http://iptvpro.pw:35451//live/7272767419/2683863119/397.ts
 http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
 http://211.23.95.147:18881/live/27_h265.ts
