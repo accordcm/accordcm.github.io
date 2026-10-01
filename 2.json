@@ -22,24 +22,6 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/GimyTV剧迷.py"
 		},
-		
-		{
-			"key": "旺旺",
-			"name": "旺旺 | 采集",
-			"type": 1,
-			"api": "https://api.wwzy.tv/api.php/provide/vod/",
-			"playerType": 1,
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "暴風",
-			"name": "暴風|采集",
-			"type": 1,
-			"api": "https://bfzyapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
-		},
 		{
             "key": "一起影視",
             "name": "🐬一起影視",
@@ -86,7 +68,6 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/橘汁视频.py"
 		},
-		
 		{
         	"key": "白洋影院",
             "name": "白洋影院",
@@ -114,6 +95,14 @@
             "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
         },
+		{
+			"key": "暴風",
+			"name": "暴風|采集",
+			"type": 1,
+			"api": "https://bfzyapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"changeable": 1
+		},
 		{
            "key": "荐片",
            "name": "荐片|DS",
