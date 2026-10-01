@@ -16,6 +16,21 @@
             "lang": "ds",
             "ext": ""
         },
+		{
+			"key": "豆瓣资源",
+			"name": "豆瓣 | 采集",
+			"type": 1,
+			"quickSearch": 1,
+			"api": "https://caiji.dbzy.tv/api.php/provide/vod/"
+		},
+		{
+			"key": "暴風",
+			"name": "暴風 | 采集",
+			"type": 1,
+			"api": "https://bfzyapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"changeable": 1
+		},
         {
         	"key": "GimyTV剧迷",
             "name": "GimyTV剧迷",
@@ -241,6 +256,26 @@
             "type": 3,
             "url": "Web"
         },
+		{
+			"name": "观山",
+			"type": 0,
+			"url": "https://p10.zijincao.cc/?url="
+		},
+		{
+			"name": "抚琴",
+			"type": 0,
+			"url": "https://jx.xmflv.com/?url="
+		},
+		{
+			"name": "七哥",
+			"url": "https://jx.nnxv.cn/tv.php?url=",
+			"type": 0
+		},
+		{
+			"name": "777",
+			"type": 0,
+			"url": "https://www.huaqi.live/?url="
+		},
         {
             "name": "虾米",
             "type": 0,
@@ -469,6 +504,8 @@
         "搜狐视频",
         "tudou",
         "pptv",
+		"PPTV",
+		"migu",
         "mgtv",
         "芒果",
         "imgo",
