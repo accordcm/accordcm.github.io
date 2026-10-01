@@ -16,26 +16,29 @@
             "lang": "ds",
             "ext": ""
         },
-		{
-			"key": "豆瓣资源",
-			"name": "豆瓣 | 采集",
-			"type": 1,
-			"quickSearch": 1,
-			"api": "https://caiji.dbzy.tv/api.php/provide/vod/"
-		},
-		{
-			"key": "暴風",
-			"name": "暴風 | 采集",
-			"type": 1,
-			"api": "https://bfzyapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"changeable": 1
-		},
-        {
+		 {
         	"key": "GimyTV剧迷",
             "name": "GimyTV剧迷",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/GimyTV剧迷.py"
+		},
+		
+		{
+			"key": "旺旺",
+			"name": "旺旺 | 采集",
+			"type": 1,
+			"api": "https://api.wwzy.tv/api.php/provide/vod/",
+			"playerType": 1,
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "暴風",
+			"name": "暴風|采集",
+			"type": 1,
+			"api": "https://bfzyapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"changeable": 1
 		},
 		{
             "key": "一起影視",
