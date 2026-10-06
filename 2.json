@@ -34,23 +34,11 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咸鱼影视.py"
 		},
-		 {
-        	"key": "獨播库",
-            "name": "獨播库",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/独播库.py"
-		},
-		{
-            "key": "永乐视频",
-            "name": "永乐视频",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/永乐视频.py"
-        },
-		{
-			"key": "瓜子",
-			"name": "瓜子影視",
+	    {
+			"key": "红果短剧",
+			"name": "红果短剧",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/瓜子APP.py"
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
 		},
 		{
             "key": "八戒影視",
@@ -97,6 +85,12 @@
             "name": "白洋影院",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/白洋影院.py"
+		},
+		{
+        	"key": "獨播库",
+            "name": "獨播库",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/独播库.py"
 		},
 		{
             "key": "优酷視頻",
