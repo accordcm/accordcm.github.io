@@ -65,6 +65,15 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第七影院.py"
 		},
+	   {
+           "key": "wkvm",
+           "name": "🦋 悟空影视.py(关梯)",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/悟空影视.py",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1
+    },
         {
             "key": "爱奇艺",
             "name": "爱奇艺",
@@ -192,11 +201,13 @@
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/DDjhdj.js"
         },
         {
-            "key": "Anime1",
-            "name": "A1｜动漫",
-            "type": 3,
-            "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/drpy2.min.js",
-            "ext": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/Anime1.js"
+           "key": "Anime1",
+           "name": "A1｜动漫",
+           "type": 3,
+           "api": "https://clun.top/py/CliCli动漫.py",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1
         },
         {
             "key": "哔哩直播",
