@@ -47,11 +47,17 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/八戒影视.py"
         },
 		{
-            "key": "厂长资源",
-            "name": "厂长资源",
+            "key": "腾爱优芒",
+            "name": "腾爱优芒",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/厂长资源.py"
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾爱优芒B.py"
         },
+		{
+        	"key": "极速追剧",
+            "name": "极速追剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/极速追剧.py"
+		},
 		{
 			"key": "开心影院",
 			"name": "🐬开心影院",
@@ -90,6 +96,14 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/独播库.py"
 		},
 		{
+            "key": "廠長资源",
+            "name": "廠長┃资源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/xb/厂长资源.json",
+            "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/xbpq.jar"
+        },
+		{
             "key": "优酷視頻",
             "name": "优酷｜視頻",
             "type": 3,
@@ -109,14 +123,6 @@
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
-        },
-		{
-            "key": "廠長资源",
-            "name": "廠長┃资源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/xb/厂长资源.json",
-            "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/xbpq.jar"
         },
 		{
 			"key": "暴風",
