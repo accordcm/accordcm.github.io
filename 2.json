@@ -65,15 +65,6 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第七影院.py"
 		},
-	   {
-           "key": "wkvm",
-           "name": "🦋 悟空影视.py(关梯)",
-           "type": 3,
-           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/悟空影视.py",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1
-    },
         {
             "key": "爱奇艺",
             "name": "爱奇艺",
@@ -170,6 +161,18 @@
             "type": 3,
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/Acfun.py"
         },
+		{
+           "key": "Anime1",
+           "name": "A1｜动漫",
+           "type": 3,
+		   "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/animexin.py"
+        },
+		{
+			"key": "MiFun",
+			"name": "MiFun动漫",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/MiFun动漫.py"
+		},
         {
             "key": "星芽短剧",
             "name": "星芽｜短剧",
@@ -199,15 +202,6 @@
             "name": "聚合┃短剧",
             "type": 3,
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/DDjhdj.js"
-        },
-        {
-           "key": "Anime1",
-           "name": "A1｜动漫",
-           "type": 3,
-           "api": "https://clun.top/py/CliCli动漫.py",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1
         },
         {
             "key": "哔哩直播",
