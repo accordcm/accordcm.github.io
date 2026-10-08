@@ -236,13 +236,13 @@ https://cdn.qd.je/163189/lhyp
 http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
 https://tv123.cc.cd/live.php?ch=96512964159
+https://cdn.qd.je/163189/lhxj
 http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龍華经典台" group-title="台湾",龍華经典台
 https://cdn.qd.je/163189/lhjd
 http://106.107.242.201:50007/litv-xinchuang21/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="lunghuaidol_twn" tvg-name="龍華偶像" group-title="台湾",龍華偶像
 https://cdn.qd.je/163189/lhox
-http://iptv.852851.xyz/l/f3xZXFoiKhren-ELehXJoELnZzPo9_qbX2H-1iej9g1-7nFzIf4scHLd-a0Y-fH6/index.m3u8
 http://106.107.242.201:50007/litv-xinchuang12/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="lhrh01" tvg-name="龍華日韓台" group-title="台湾",龍華日韓台
 https://cdn.qd.je/163189/lhrh
@@ -316,6 +316,8 @@ http://good.852851.xyz/l/FB5btTRVCzbseiC5o7pMPeOqTaH_TiMXQIxnaLxrl2mIrqzNmrPGdtE
 http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
 http://iptv.4666888.xyz/iptv2A.php?id=49
+https://cdn.qd.je/163189/jgbdx
+https://cdn.qd.je/163189/jgbdx2
 https://stream1.freetv.fun/9b57b5f02b4907f916fbfb0b910ceb0ffd7155aef9be4406e0a57174d1b683a0.ctv
 https://stream1.freetv.fun/1913777e3a756ffb17fee082336eade487a3ee4fcfc9e5491856328d59a7b3b3.ctv
 https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982c23983686ac.m3u8
@@ -505,10 +507,12 @@ http://125.227.210.55:8167/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
 http://tv123.cc.cd/live.php?ch=444&sid=454026c6e4b53541030379a8ed324806&exp=1788787997&sig=7ea149cf93e455869f6ba7debb50333945df024163e9c922ec17fb0f4e3299e3
+https://cdn.qd.je/163189/ymswdyt
 http://iptv.4666888.xyz/iptv2A.php?id=54
 http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" group-title="電影频道",amc 電影台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1032.m3u8
+https://cdn.qd.je/163189/amc
 https://test.946985.filegear-sg.me/proxy/0586c8f5ac8ac9f3
 https://test.946985.filegear-sg.me/proxy/6f25bfa07d989b51
 https://cdn12.178.indevs.in/163189/amc
