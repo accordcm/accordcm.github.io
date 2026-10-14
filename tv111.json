@@ -649,12 +649,14 @@ https://cdn6.cc.cd/163189/fhhk
 #EXTM3U url-tvg="https://akariko-bck1.sankuria.sbs/epg/kai-epg.xml" tvg-shift="0" m3uautoload="1"
 #EXTM3U
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
 https://haru.charandom.blog/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
 https://haru.charandom.blog/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
 https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
 https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
@@ -662,6 +664,7 @@ https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=5-15
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06
 https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://logo.catvod.com/TV Tokyo.png" group-title="日本",TV Tokyo
 https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
@@ -692,7 +695,7 @@ https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS11" tvg-logo="https://logo.catvod.com/BS11.png" group-title="日本",BS11
 https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS12" tvg-logo="https://logo.catvod.com/BS12.png" group-title="日本",BS12
-https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/bs12/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="NHK BS4K" tvg-logo="https://logo.catvod.com/NHK BS4K.png" group-title="日本",NHK BS4K
 https://haru.charandom.blog/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="WOWOW Prime" tvg-logo="https://logo.catvod.com/WOWOW Prime.png" group-title="日本",WOWOW Prime
