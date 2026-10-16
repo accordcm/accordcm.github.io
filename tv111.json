@@ -153,6 +153,7 @@ http://125.227.210.55:3047/VideoInput/play.ts
 http://58.99.33.2:1935/liveedge2/tnpqFuSQ_42_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="TVBS精彩台" tvg-name="TVBS精彩台"  group-title="台湾",TVBS精彩台
+http://good.852851.xyz/l/t9OI3b4uAmUdTs1jALflTQGVdTBcGOv8-51GB9iw49c5TW81POdYj_L7Eipsk449/index.m3u8
 http://iptv.852851.xyz/l/eRh9yunu97oH6MMSCfS9ROB8Mp4aUVfUHJ_RQdsV_xDTPSn8JB6wdaLJ68Tw80Wm/index.m3u8
 http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
@@ -264,7 +265,6 @@ https://test.946985.filegear-sg.me/proxy/536c358ed43fefd6
 http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="台湾",民視旅遊
 http://good.852851.xyz/l/ZbVlv4m87URUrDJbs1SO65CVrs-lrf94URCFrDiI1uMPGdd4W0HIzlRYpmWijyfA/index.m3u8
-http://106.107.242.201:19950/caonima?id=%E6%B0%91%E8%A6%96%E6%97%85%E9%81%8A%E5%8F%B0
 http://106.107.242.201:50007/litv-ftv07/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台"  group-title="台湾",亚洲旅游台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1219.m3u8
