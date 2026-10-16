@@ -490,12 +490,11 @@ http://cdn6.163189.xyz/163189/fhzx
 
 #EXTM3U
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
-https://4gtv.158.qzz.io/163189/4e7af03f-ef5e-4a0b-a2ef-0cb6a51351a9/
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1007.m3u8
+http://good.852851.xyz/l/2JYS6JLgvm0PLubU-E5AErrh5NUrpWQ-1KH3bTcu6bP8cVmvKajVCGCu2_ddxyTq/index.m3u8
+https://4gtv.158.qzz.io/163189/4e7af03f-ef5e-4a0b-a2ef-0cb6a51351a9/
 https://4g.158.qzz.io/163189/momo
 https://4gtv.judy.xx.kg/?id=231
-http://106.107.242.201:19950/caonima?id=MOMO%E8%A6%AA%E5%AD%90%E5%8F%B0
-http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="東森幼幼 Yoyo TV" group-title="兒童卡通",東森幼幼 Yoyo TV
 http://211.23.95.147:18881/live/25_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1008.m3u8
@@ -504,23 +503,27 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=969
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
 http://good.852851.xyz/l/m5CE_d1sujJCXL-9YFinRnPL8tbklykMoBl-eVisfO-eEByuFy-Frq2I54nbfFbM/index.m3u8
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
-http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
+http://good.852851.xyz/l/uymtqcK-vpFD-2EB9J33G1nStN36feKu5rg-KnUf_-bLovN5CGOLErGwvlCyCooj/index.m3u8
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1271.m3u8
 https://test.946985.filegear-sg.me/proxy/bdb9c02367c595b9
 http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="尼克兒童頻道"  group-title="兒童卡通",尼克兒童頻道
+http://good.852851.xyz/l/hYR6LktOvRcSd4Sj9QVqZ-b_hejK7youYEB1J4aAlrVeb_LX5ahXQ0BoubW_gAkw/index.m3u8
 http://106.107.242.201:50007/4gtv-live105/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="NICKJR."  group-title="兒童卡通",Nick Jr.
+http://good.852851.xyz/l/nOSKWAZMfXIczuRsG1an9OGYgTQxKDaGXC8E_T867At7eP0hkMe3eO8BUavPUsnL/index.m3u8
 http://49.213.188.67:50002/index.m3u8?pid=4gtv-live105@185&fun=TV4GTV&proxy=true&token=8852
 http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="lhkt01" tvg-name="龍華卡通" group-title="兒童卡通",龍華卡通
+http://good.852851.xyz/l/0WKdGF4KFgwyZx8PpMRiM5fdoeln4PDJlwWGVXpRplvqUNU8lik0zuWVXqg4Ncle/index.m3u8
 http://cdn8.163189.xyz/163189/lhkt
 https://test.946985.filegear-sg.me/proxy/548f69d5af8e1550
 https://cdn.qd.je/163189/lhkt
 http://106.107.242.201:50007/litv-xinchuang01/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" group-title="兒童卡通",Cartoon Network
 http://125.227.210.55:3027/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=959
 https://test.946985.filegear-sg.me/proxy/70bbcb802727867a
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 http://125.227.210.55:8167/VideoInput/play.ts
