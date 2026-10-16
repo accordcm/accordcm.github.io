@@ -719,9 +719,9 @@ https://haru.charandom.blog/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
 https://akariko-bck1.sankuria.sbs/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="AT-X" tvg-logo="https://logo.catvod.com/AT-X.png" group-title="日本",AT-X
 http://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
-
 https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Space Shower TV" tvg-logo="https://logo.catvod.com/Space Shower TV.png" group-title="日本",Space Shower TV
+http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying
 https://haru.charandom.blog/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://logo.catvod.com/MTV.png" group-title="日本",MTV
 https://haru.charandom.blog/stream/jp/mtv/stream-output.m3u8?mode=hls
@@ -757,10 +757,12 @@ http://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Fuji TV NEXT" tvg-logo="https://logo.catvod.com/Fuji TV NEXT.png" group-title="日本",Fuji TV NEXT
 http://haru.charandom.blog/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Neco Channel" tvg-logo="https://logo.catvod.com/Neco Channel.png" group-title="日本",Neco Channel
+http://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Dlife" tvg-logo="https://logo.catvod.com/Dlife.png" group-title="日本",Dlife
 https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Toei Channel" tvg-logo="https://logo.catvod.com/Toei Channel.png" group-title="日本",Toei Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
 https://haru.charandom.blog/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Fighting TV Samurai" tvg-logo="https://logo.catvod.com/Fighting TV Samurai.png" group-title="日本",Fighting TV Samurai
 https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
@@ -769,12 +771,14 @@ https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Sport Live Plus" tvg-logo="https://logo.catvod.com/Sport Live Plus.png" group-title="日本",Sport Live Plus
 https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Home Drama Channel" tvg-logo="https://logo.catvod.com/Home Drama Channel.png" group-title="日本",Home Drama Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs05
 https://haru.charandom.blog/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Channel Ginga" tvg-logo="https://logo.catvod.com/Channel Ginga.png" group-title="日本",Channel Ginga
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29
 #EXTINF:-1 tvg-name="Tabi Channel" tvg-logo="https://logo.catvod.com/Tabi Channel.png" group-title="日本",Tabi Channel
-https://haru.charandom.blog/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs12
+https://haru.charandom.blog/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+
 
 
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
