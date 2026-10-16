@@ -3,11 +3,13 @@
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞" group-title="台湾",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1257.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=544
 http://125.227.210.55:4046/VideoInput/play.ts
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://125.227.210.55:1036/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1051.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=738
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 http://211.23.95.147:18881/live/55_h265.ts
 http://iptv.4666888.xyz/iptv2A.php?id=43
@@ -15,16 +17,18 @@ http://iptv.4666888.xyz/iptv2A.php?id=43
 http://125.227.210.55:1086/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1013.m3u8
 http://211.23.95.147:18881/live/58_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=575
 rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 http://211.23.95.147:18881/live/57_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=761
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1017.m3u8
 http://125.227.210.55:4051/VideoInput/play.ts
 http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
-http://106.107.242.201:50007/4gtv-live019/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台" group-title="台湾",民視新聞台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1204.m3u8
 http://125.227.210.55:3017/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=746
 http://211.23.95.147:18881/live/dtv9_h265.ts
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台" group-title="台湾",台視新聞台
@@ -35,6 +39,7 @@ http://125.227.210.55:3089/VideoInput/play.ts
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1115.m3u8
 http://211.23.95.147:18881/live/dtv2_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1989
 http://125.227.210.55:3079/VideoInput/play.ts
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://211.23.95.147:18881/live/dtv20_h265.ts
@@ -47,13 +52,16 @@ http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1192.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=825
 http://iptv.852851.xyz/l/9bz5xzBj4G7z-ceB4nZLaj2C5vtUJXuilblpQHN0JCC-OFYfmqlc0f6Pn6J7lTiz/play
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞" group-title="台湾",中天新聞
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1015.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1923
 http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="one_taiwan" tvg-name="壹电视新闻" group-title="台湾",壹电视新闻
 http://211.23.95.147:18881/live/49_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1242.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2944
 http://211.23.95.147:18881/live/104_h265.ts
 #EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
 http://125.227.210.55:3022/VideoInput/play.ts
@@ -62,16 +70,16 @@ http://211.23.95.147:18881/live/54_h265.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1222.m3u8
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2501
-https://tv123.cc.cd/live.php?ch=f63e79f9170
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
 http://good.852851.xyz/l/qxKYIQib6Ll0EI7IeAu7Vgc7V75p8Z8Ogx8J7mEFLjg42GT1CP8C1vT2W7EaiT0p/index.m3u8
-https://tv123.cc.cd/live.php?ch=8c5f16fb171
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1002.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2878
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://125.227.210.55:3054/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1004.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2937
 http://211.23.95.147:18881/live/22_h265.ts
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1005.m3u8
@@ -93,18 +101,21 @@ http://211.72.174.95:8112/0.ts
 http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="中視" tvg-name="中視"  group-title="台湾",中視
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1048.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1988
 http://125.227.210.55:3049/VideoInput/play.ts
 http://211.23.95.147:18881/live/dtv1_h265.ts
 rtmp://f13h.mine.nu/sat/tv091
 rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 tvg-id="華視" tvg-name="華視"  group-title="台湾",華視
 http://211.23.95.147:18881/live/dtv18_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2032
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1049.m3u8
 http://125.227.210.55:8163/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1120.m3u8
 http://74.91.26.218:82/live/cts.m3u8
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
 http://211.23.95.147:18881/live/dtv10_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2033
 http://125.227.210.55:3085/VideoInput/play.ts
 http://74.91.26.218:82/live/ftvtw.m3u8
 http://iptv.852851.xyz/l/rmpc-LjsZD61lKJj0Wb1BEjwpQnPYQ1iXNvE-7Ufv5YDEk-bAZDrejBWiUsFdb8j/index.m3u8
@@ -131,6 +142,7 @@ http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1254.m3u8
 http://211.23.95.147:18881/live/56_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=735
 http://125.227.210.55:3048/VideoInput/play.ts
 http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS歡樂台" group-title="台湾",TVBS歡樂台
@@ -162,34 +174,43 @@ http://211.23.95.147:18881/live/33_h265.ts
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="东森综合" group-title="台湾",东森综合
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1041.m3u8
 http://211.23.95.147:18881/live/32_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=118
 #EXTINF:-1 tvg-id="ettvdrama" tvg-name="東森戲劇" group-title="台湾",東森戲劇
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1042.m3u8
 http://211.23.95.147:18881/live/40_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=546
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1026.m3u8
 http://211.23.95.147:18881/live/77_h265.ts
 http://125.227.210.55:1083/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2048
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合HD" group-title="台湾",緯來綜合HD
 http://211.23.95.147:18881/live/26_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2053
 #EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公视 CTV" group-title="台湾",公视 CTV
 http://125.227.210.55:3024/VideoInput/play.ts
 http://211.23.95.147:18881/live/dtv5_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=530
 http://74.91.26.218:82/live/pts.m3u8
 #EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
 http://211.23.95.147:18881/live/dtv23_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=550
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1216.m3u8
 http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
 http://good.852851.xyz/l/tteKwMFVUL2SgVG_pWymlpxqKOpBEkmIjIzuGWcejAxprGaDRhaUx5XikiTkHoo0/index.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=508
 http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
 http://211.23.95.147:18881/live/27_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=752
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1043.m3u8
 http://125.227.210.55:1085/VideoInput/play.ts
 http://192.129.226.68:5678/live/stream-ac3627ac-e76c-4c9b-93e2-b119b6e1b545/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大综合 " group-title="台湾",八大综合
 http://211.23.95.147:18881/live/28_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=754
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1019.m3u8
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大綜藝台 " group-title="台湾",八大綜藝
 http://good.852851.xyz/l/mik-tKgjmmO60BWUuOamU9Uuuf0J1TSCtunpDG1sH9wUPvXA-TMeFiszfsQm9_jL/index.m3u8
@@ -200,15 +221,18 @@ http://106.107.242.201:19950/caonima?id=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%
 http://106.107.242.201:50007/4gtv-4gtv034/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
 http://211.23.95.147:18881/live/65_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=898
 http://61.61.67.208:19890/trams/898/playlist.m3u8?token=885252
 http://125.227.210.55:3013/VideoInput/play.ts
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood" group-title="台湾",Hollywood
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1025.m3u8
 http://211.23.95.147:18881/live/68_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=278
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="台湾",东森电影
 http://125.227.210.55:3052/VideoInput/play.ts
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" group-title="台湾",纬来电影台
 http://125.227.210.55:1082/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2049
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1183.m3u8
 http://211.23.95.147:18881/live/63_h265.ts
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="台湾",东森洋片
@@ -244,9 +268,7 @@ http://106.107.242.201:19950/caonima?id=%E6%B0%91%E8%A6%96%E6%97%85%E9%81%8A%E5%
 http://106.107.242.201:50007/litv-ftv07/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台"  group-title="台湾",亚洲旅游台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1219.m3u8
-https://tv123.cc.cd/live.php?ch=c0da2a8d200
-http://106.107.242.201:50007/4gtv-live417/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
-http://106.107.242.201:50007/4gtv-4gtv076/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2055
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" group-title="台湾",愛爾達娛樂
 http://106.107.242.201:19950/caonima?id=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0
 http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
@@ -256,6 +278,7 @@ http://106.107.242.201:50007/4gtv-live120/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
 http://125.227.210.55:1005/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1011.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2051
 http://211.23.95.147:18881/live/72_h265.ts
 rtmp://f13h.mine.nu:1935/sat/tv721
 rtmp://f13h.mine.nu/sat/tv721
@@ -266,32 +289,40 @@ http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
 http://good.852851.xyz/l/ggDVPqbJZh7HOWIe6dZHRxA8GkJV_JuSniyLg7_DteCzPuCmIR38dXe_8OJahZmP/index.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2871
 http://104.253.175.55:5678/live/stream-2823c1da-08b4-447f-b448-ec499a16ecda/index.m3u8?u=admin&p=395ef3304177969fe0b9e5d41502ad6f9e51141260c53b96746c2c30aa282c28
 http://192.129.226.68:5678/l/Fk8BeC8Vs-prQ7Fhs6yDB70Q9aXze3OfKlA8vOu2P_PPFUGgo4jBHq8ySlJI9wQs/index.m3u8
 rtmp://f13h.mine.nu/sat/md051
 #EXTINF:-1 tvg-d="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
 http://good.852851.xyz/l/qi2FLM1ZLut3tyN95qrqx2ge_amC11dywCNBtelxuWviJRbhd1YCK6Grwp19x5Wx/index.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1541
 http://192.129.226.68:5678/l/waV7Dpnd83pgYoJdgsylZeNAYivP7qRMWxqvccRSDA1D7DLL4sfIywyDAgJ026hH/index.m3u8
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
 http://good.852851.xyz/l/vWc3EX_PC8KXibiBYYYp4hzgM3UNNacs4gbhUjvw53_mG-TLkcN-FaFjMsbvcL83/index.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2578
 http://192.129.226.68:5678/l/FLNKFmsOHX_5K6eJ7cS_EdP0n9OHMaFAP4O-M6kL0O7znjnh0BvDihQ7okPsQJVL/index.m3u8
 rtmp://f13h.mine.nu/sat/md041
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯運動 1" group-title="台湾",博斯運動 1
 http://125.227.210.55:8173/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2083
 http://iptv.852851.xyz/l/25GTgMCrZ4tRtSZ7ixd0bdbUwcb2rghOguOw-j163qJLkTCI7HGjhk8s6iOV3p26/index.m3u8
 http://106.107.242.201:50007/litv-xinchuang07/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="bosisport2_twn" tvg-name="博斯運動 2" group-title="台湾",博斯運動 2
 http://125.227.210.55:3061/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2084
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1225.m3u8
 http://106.107.242.201:50007/litv-xinchuang08/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="博斯高球2 HD" group-title="台湾",博斯高球2 HD
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2085
 http://iptv.852851.xyz/l/N4QJYIYwoq0qVfRYXc7MxAuob7NUFeAd8mFr1QCbsprquWcl_znxOis26hZOw0Vg/index.m3u8
 http://106.107.242.201:50007/litv-xinchuang06/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="bositennis_twn" tvg-name="博斯網球 HD" group-title="台湾",博斯網球 HD
 http://125.227.210.55:3060/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2086
 http://iptv.852851.xyz/l/mg1EcW_ZNN1X0GY5UQcHx-Onzk-WiRzXcB5ITqQNLt8WACaWAYZkeDk8nyoE-Nx-/index.m3u8
 http://106.107.242.201:50007/litv-xinchuang09/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="博斯無限1" group-title="台湾",博斯無限1
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2087
 http://iptv.852851.xyz/l/JjmTvuxfcit69QPtUGI_lrl8G8M8TBiynGoXOfMnH8DZBhf-vgPa-iORMbutVF5h/index.m3u8
 http://106.107.242.201:50007/litv-xinchuang10/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="博斯無限2" group-title="台湾",博斯無限2
@@ -469,6 +500,7 @@ http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=GCN6uxp7d6CExh5CAlXQW
 http://211.23.95.147:18881/live/25_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1008.m3u8
 http://125.227.210.55:4052/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=969
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
 http://good.852851.xyz/l/m5CE_d1sujJCXL-9YFinRnPL8tbklykMoBl-eVisfO-eEByuFy-Frq2I54nbfFbM/index.m3u8
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
@@ -508,19 +540,23 @@ http://125.227.210.55:3052/VideoInput/play.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=924
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="電影频道",东森洋片
 http://125.227.210.55:3055/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=763
 #EXTINF:-1 tvg-id="lhdy01" tvg-name="龍華电影" group-title="電影频道",龍華电影
 http://good.852851.xyz/l/ssWPFmvi5zLNiip8RO6WiMhUZfWJB3_rm-r0rBXn_Ndqg_YYZ_5l4PuvkM4_RhOv/index.m3u8
 http://106.107.242.201:50007/litv-xinchuang03/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="電影频道",龍華洋片
 http://good.852851.xyz/l/RwUNFz1OBKeai4JSJlvGQNR3LF5XB5D3nhl4GzBgCmwqSprSmH0LZNfE52GBGOHg/index.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=810
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" group-title="電影频道",Hollywood Movies
 http://211.23.95.147:18881/live/68_h265.ts
 https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
 #EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" group-title="電影频道",HBO HD
+http://xsmt.ccwu.cc/xsmt/smt.php?id=898
 http://125.227.210.55:1003/VideoInput/play.ts
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD"  group-title="電影频道",HBO Family
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2711
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD"  group-title="電影频道",HBO Signature
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2868
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2722
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="電影频道",Dreamworks
 http://good.852851.xyz/l/zqK9QOMk7nG2Qdp7qtOhEAvPa1gd24SHdvJ7kC3qK6FqA2ljO6iFENidl6hH9O4N/index.m3u8
@@ -533,13 +569,13 @@ http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS"  group-title="新闻频道",三立iNEWS
 https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1619
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="台視財經" group-title="新闻频道",台視財經
 http://125.227.210.55:3090/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1108.m3u8
 http://211.23.95.147:18881/live/dtv16_h265.ts
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經" group-title="新闻频道",東森財經
 http://211.23.95.147:18881/live/57_h265.ts
-http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞" group-title="新闻频道",民視新聞
 http://211.23.95.147:18881/live/dtv9_h265.ts
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
@@ -554,15 +590,18 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=2501
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="新闻频道",寰宇新聞台灣台
 http://good.852851.xyz/l/qxKYIQib6Ll0EI7IeAu7Vgc7V75p8Z8Ogx8J7mEFLjg42GT1CP8C1vT2W7EaiT0p/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="NHK新聞資訊台" group-title="新闻频道",NHK新聞資訊台
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2392
 http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" group-title="新闻频道",CNN
 http://125.227.210.55:3026/VideoInput/play.ts
 #EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
 http://125.227.210.55:8165/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2717
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2886
 http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
 #EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" group-title="新闻频道",France 24
-http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=GCN6uxp7d6CExh5CAlXQWxJ2hBwR7xdP5LdBxmKzkvnJahTI3WBgGlcdAYmpLRiE
+http://xsmt.ccwu.cc/xsmt/smt.php?id=439
 
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
