@@ -5,16 +5,14 @@ http://211.23.95.147:18881/live/51_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1257.m3u8
 http://xsmt.ccwu.cc/xsmt/smt.php?id=544
 http://125.227.210.55:4046/VideoInput/play.ts
-http://106.107.242.250:5050/4gtv-live114/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
-http://106.107.242.250:5050/4gtv-4gtv152/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+https://4gtvfree-mozai.4gtv.tv/m6FGBX0LPs8Q_bN2MrHIXyYJvmfdxXUvRYAxchzPrLk%3d/1080.m3u8?token=AFYcQuYKIaPSH2_TyULUsg&expires=1788963710&token1=EO9hdY8_TcKxXb1wJDAwoA&expires1=1788963710&refer=M2Y3ODNmODEtZTIxYS00NDAwLWI4MGUtYzcyY2Q5YjJlOTQ1&y=0
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS新聞台" group-title="台湾",TVBS新聞台
 http://125.227.210.55:1036/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1051.m3u8
 http://xsmt.ccwu.cc/xsmt/smt.php?id=738
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 http://211.23.95.147:18881/live/55_h265.ts
-http://106.107.242.250:5050/media-live072/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://125.227.210.55:1086/VideoInput/play.ts
@@ -73,10 +71,8 @@ http://211.23.95.147:18881/live/54_h265.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1222.m3u8
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2501
-http://106.107.242.250:5050/litv-longturn14/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
 http://good.852851.xyz/l/qxKYIQib6Ll0EI7IeAu7Vgc7V75p8Z8Ogx8J7mEFLjg42GT1CP8C1vT2W7EaiT0p/index.m3u8
-http://106.107.242.250:5050/4gtv-4gtv156/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1002.m3u8
