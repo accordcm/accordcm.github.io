@@ -35,6 +35,7 @@ http://106.107.242.250:5050/4gtv-live413/index.m3u8?token=WvSW48IkY5WNaBmB0SdC65
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1107.m3u8
 http://125.227.210.55:3089/VideoInput/play.ts
 http://211.23.95.147:18881/live/dtv15_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2502
 http://125.227.210.55:3089/VideoInput/play.ts
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1115.m3u8
@@ -83,6 +84,7 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=2937
 http://211.23.95.147:18881/live/22_h265.ts
 #EXTINF:-1 tvg-id="TLC_twn" tvg-name="TLC" group-title="台湾",TLC
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1005.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2055
 http://211.23.95.147:18881/live/21_h265.ts
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 http://125.227.210.55:8093/VideoInput/play.ts
@@ -159,10 +161,12 @@ http://106.107.242.250:5050/4gtv-4gtv067/index.m3u8?token=WvSW48IkY5WNaBmB0SdC65
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
 http://211.23.95.147:18881/live/39_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1023.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=529
 http://125.227.210.55:3044/VideoInput/play.ts
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 " group-title="台湾",中天综合
 http://125.227.210.55:4048/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1022.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=741
 http://211.23.95.147:18881/live/36_h265.ts
 http://192.129.226.68:19890/trams/741/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森超視" group-title="台湾",東森超視
@@ -231,6 +235,7 @@ http://211.23.95.147:18881/live/68_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=278
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影" group-title="台湾",东森电影
 http://125.227.210.55:3052/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=924
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" group-title="台湾",纬来电影台
 http://125.227.210.55:1082/VideoInput/play.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2049
@@ -239,24 +244,30 @@ http://211.23.95.147:18881/live/63_h265.ts
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片" group-title="台湾",东森洋片
 http://125.227.210.55:3055/VideoInput/play.ts
 http://125.227.210.55:3078/VideoInput/play.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=763
 http://45.192.97.170:8880/play/1644.m3u8
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
 http://211.23.95.147:18881/live/67_h265.ts
+http://xsmt.ccwu.cc/xsmt/smt.php?id=906
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1054.m3u8
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="台湾",CINEMAX
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1030.m3u8
 http://211.23.95.147:18881/live/71_h265.ts
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="台湾",龍華洋片
+http://xsmt.ccwu.cc/xsmt/smt.php?id=810
 https://cdn.qd.je/163189/lhyp
 http://106.107.242.250:5050/litv-xinchuang02/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
 https://tv123.cc.cd/live.php?ch=96512964159
+http://xsmt.ccwu.cc/xsmt/smt.php?id=811
 https://cdn.qd.je/163189/lhxj
 http://106.107.242.250:5050/litv-xinchuang18/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龍華经典台" group-title="台湾",龍華经典台
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2079
 https://cdn.qd.je/163189/lhjd
 http://106.107.242.250:5050/litv-xinchuang21/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="lunghuaidol_twn" tvg-name="龍華偶像" group-title="台湾",龍華偶像
+http://xsmt.ccwu.cc/xsmt/smt.php?id=812
 https://cdn.qd.je/163189/lhox
 http://106.107.242.250:5050/litv-xinchuang12/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="lhrh01" tvg-name="龍華日韓台" group-title="台湾",龍華日韓台
@@ -345,9 +356,11 @@ https://stream1.freetv.fun/e47bdab2d74162f1d408da823bffd62ef1cac43e295575c9ce982
 http://106.107.242.250:5050/4gtv-live144/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
 rtmp://f13h.mine.nu/sat/tv731
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2869
 http://211.23.95.147:18881/live/73_h265.ts
 #EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" group-title="台湾",DAZN 2
 rtmp://f13h.mine.nu/sat/tv741
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2870
 http://211.23.95.147:18881/live/74_h265.ts
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
 http://good.852851.xyz/l/aWD6xl5puFQ6kJLP86R0xl4oA9hSipUCCmS89O_7FgObkZAvKlrMHSrbVh3tmc75/index.m3u8
@@ -426,12 +439,14 @@ https://huyazhibo.de5.net/?id=23903164
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1038.m3u8
 http://107.150.60.122/live/hnwshd.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=690
 http://74.91.26.218:82/live/hnwshd.m3u8
 http://211.23.95.147:18881/live/dtv45_h265.ts
 #EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" group-title="中国",浙江卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
 http://61.63.19.241:8573/http/192.168.1.51:5999/TAS/E4101/zhejiang.m3u8
 http://107.150.60.122/live/zjwshd.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=693
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
@@ -439,10 +454,12 @@ http://211.23.95.147:18881/live/dtv44_h265.ts
 http://74.91.26.218:82/live/zjwshd.m3u8
 #EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="中国",江苏卫视
 http://107.150.60.122/live/jswshd.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=691
 http://74.91.26.218:82/live/jswshd.m3u8
 #EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="东方卫视" group-title="中国",东方卫视
 http://74.91.26.218:82/live/dfwshd.m3u8
 http://61.63.19.241:8615/http/192.168.1.51:5999/TAS/E4102/east.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2229
 http://107.150.60.122/live/dfwshd.m3u8
 http://211.23.95.147:18881/live/dtv38_h265.ts
 #EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="中国",北京卫视
@@ -462,6 +479,7 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws
 http://211.23.95.147:18881/live/dtv43_h265.ts
 #EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="中国",福建东南卫视
 http://107.150.60.122/live/dnwshd.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=697
 http://61.61.67.208:19890/trams/697/playlist.m3u8?token=885252
 #EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="广东卫视" group-title="中国",广东卫视
 http://74.91.26.218:82/live/gdwshd.m3u8
@@ -476,15 +494,19 @@ http://221.7.175.154:8445/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.27.235.94:8000/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="guangxi" tvg-name="广西卫视" group-title="中国",广西卫视
 http://107.150.60.122/live/gxwshd.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=606
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
 #EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ 體育" group-title="中国",CCTV-5+ 體育
 http://74.91.26.218:82/live/cctv5p.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=890
 http://207.56.13.146:81/cdnlive/cctv5.m3u8
 #EXTINF:-1 tvg-id="phoenixtv_hd" tvg-name="鳯凰衛視中文" group-title="中国",鳯凰衛視中文
 http://cdn6.163189.xyz/163189/fhzw
+http://xsmt.ccwu.cc/xsmt/smt.php?id=60
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1213.m3u8
 #EXTINF:-1 tvg-id="phoenixinfo_hd" tvg-name="鳯凰衛視資訊" group-title="中国",鳯凰衛視資訊
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1210.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=61
 http://cdn6.163189.xyz/163189/fhzx
 
 
@@ -623,6 +645,7 @@ https://cdn.qd.je/163189/wxxwt
 https://cdn.qd.je/163189/tvbp
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="香港",ViuTV
 http://154.222.29.54/jr.php?id=ViuTvChannel
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1825
 https://cdn.qd.je/163189/viu
 #EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="香港",ViuTV 6
 http://154.222.29.54/jr.php?id=ViuTv6Channel
@@ -630,6 +653,7 @@ https://10.fast.hidns.vip/163189/viu6/
 https://cdn.qd.je/163189/viu6
 #EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="香港",RTHK 31
 https://cdn.qd.je/163189/rthk31
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1823
 https://fast.hidns.vip/163189/rthk31
 http://154.222.29.54/jr.php?id=rthk31hd
 #EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="" group-title="香港",RTHK 32
