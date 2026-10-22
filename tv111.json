@@ -86,6 +86,10 @@ http://211.23.95.147:18881/live/22_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1005.m3u8
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2055
 http://211.23.95.147:18881/live/21_h265.ts
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-name="NatGeo HD" group-title="台湾",NatGeo HD
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2235
+#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" group-title="台湾",Dmax
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2889
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
 http://125.227.210.55:8093/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1050.m3u8
@@ -513,6 +517,7 @@ http://cdn6.163189.xyz/163189/fhzx
 #EXTM3U
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1007.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=241
 http://good.852851.xyz/l/2JYS6JLgvm0PLubU-E5AErrh5NUrpWQ-1KH3bTcu6bP8cVmvKajVCGCu2_ddxyTq/index.m3u8
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="東森幼幼 Yoyo TV" group-title="兒童卡通",東森幼幼 Yoyo TV
 http://211.23.95.147:18881/live/25_h265.ts
@@ -532,8 +537,8 @@ http://good.852851.xyz/l/hYR6LktOvRcSd4Sj9QVqZ-b_hejK7youYEB1J4aAlrVeb_LX5ahXQ0B
 http://106.107.242.250:5050/4gtv-live105/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="NICKJR."  group-title="兒童卡通",Nick Jr.
 http://good.852851.xyz/l/nOSKWAZMfXIczuRsG1an9OGYgTQxKDaGXC8E_T867At7eP0hkMe3eO8BUavPUsnL/index.m3u8
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1986
 http://49.213.188.67:50002/index.m3u8?pid=4gtv-live105@185&fun=TV4GTV&proxy=true&token=8852
-http://106.107.242.250:5050/4gtv-live032/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="lhkt01" tvg-name="龍華卡通" group-title="兒童卡通",龍華卡通
 https://cdn.qd.je/163189/lhkt
 http://106.107.242.250:5050/litv-xinchuang01/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
