@@ -72,8 +72,10 @@ http://211.23.95.147:18881/live/54_h265.ts
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1222.m3u8
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2501
+https://www.caonizuzong.cc.cd/4gtv?id=litv-longturn14
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台灣台" group-title="台湾",寰宇新聞台灣台
 http://good.852851.xyz/l/qxKYIQib6Ll0EI7IeAu7Vgc7V75p8Z8Ogx8J7mEFLjg42GT1CP8C1vT2W7EaiT0p/index.m3u8
+https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv156
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 mitv://135.148.104.228:19806/0f335713906e4ad08676f4c2dbd8b9d5
@@ -144,6 +146,7 @@ http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003
 http://211.23.95.147:18881/live/30_h265.ts
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
 http://good.852851.xyz/l/6boACLm2cI4JtJ2GNWLHmO5dOVCH1XQcPE4e2fBmspc_kvSg_SZom5rNnx7kL_pE/index.m3u8
+https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live207
 http://106.107.242.250:5050/4gtv-live207/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1254.m3u8
@@ -211,6 +214,7 @@ http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003
 http://106.107.242.250:5050/4gtv-live007/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
 http://good.852851.xyz/l/tteKwMFVUL2SgVG_pWymlpxqKOpBEkmIjIzuGWcejAxprGaDRhaUx5XikiTkHoo0/index.m3u8
+https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live106
 http://xsmt.ccwu.cc/xsmt/smt.php?id=508
 http://106.107.242.250:5050/4gtv-live106/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
@@ -380,7 +384,8 @@ http://106.107.242.250:5050/4gtv-live046/index.m3u8?token=WvSW48IkY5WNaBmB0SdC65
 http://good.852851.xyz/l/N_xDrbMWR9DxNpFwWeYHe_EycbyUbByqDzOZql6xBmExS5bBjHFkPmWwgH3A1LhD/index.m3u8
 https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live048
 http://106.107.242.250:5050/4gtv-live048/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
-#EXTINF:-1 tvg-id="dongs" tvg-name="東森購物5台" group-title="台湾",東森購物五台
+#EXTINF:-1 tvg-id="dongs" tvg-name="東森購物4台" group-title="台湾",東森購物四台
+https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live049
 http://106.107.242.250:5050/4gtv-live049/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV"  group-title="台湾",韓國娛樂台
 http://good.852851.xyz/l/oIBNsxkgZzhwzasQ3un3ZgEP28d0YkZLpHx4Q4nTS2o_k5tVtGj2mulUVr2K3Zix/index.m3u8
