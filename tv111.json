@@ -519,16 +519,14 @@ http://cdn6.163189.xyz/163189/fhzx
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1007.m3u8
 http://xsmt.ccwu.cc/xsmt/smt.php?id=241
 https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live107
-http://good.852851.xyz/l/2JYS6JLgvm0PLubU-E5AErrh5NUrpWQ-1KH3bTcu6bP8cVmvKajVCGCu2_ddxyTq/index.m3u8
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="東森幼幼 Yoyo TV" group-title="兒童卡通",東森幼幼 Yoyo TV
 http://211.23.95.147:18881/live/25_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1008.m3u8
 http://125.227.210.55:4052/VideoInput/play.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=969
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
-https://www.caonizuzong.cc.cd/4gtv?id=litv-longturn20
-mitv://135.148.104.228:19806/cb4f9002309045db94ca3e5bba421b3b
 http://live.yiwo.uk:50002/index.m3u8?pid=litv-xinchuang20&sd=1080&proxy=false&token=yiwo
+mitv://135.148.104.228:19806/4026baf5af15480590da0c33751acc78
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
 https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv044
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
