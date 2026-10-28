@@ -18,8 +18,8 @@ http://125.227.210.55:1086/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1013.m3u8
 http://211.23.95.147:18881/live/58_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=575
-mitv://135.148.104.228:19806/667352040c85499299b4989d490f4199
 rtmp://f13h.mine.nu/sat/tv581
+mitv://135.148.104.228:19806/667352040c85499299b4989d490f4199
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞" group-title="台湾",東森財經新聞
 http://211.23.95.147:18881/live/57_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=761
