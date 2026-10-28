@@ -527,22 +527,19 @@ http://125.227.210.55:4052/VideoInput/play.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=969
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
 https://www.caonizuzong.cc.cd/4gtv?id=litv-longturn20
-http://good.852851.xyz/l/m5CE_d1sujJCXL-9YFinRnPL8tbklykMoBl-eVisfO-eEByuFy-Frq2I54nbfFbM/index.m3u8
+mitv://135.148.104.228:19806/cb4f9002309045db94ca3e5bba421b3b
+http://live.yiwo.uk:50002/index.m3u8?pid=litv-xinchuang20&sd=1080&proxy=false&token=yiwo
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
 https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv044
-http://good.852851.xyz/l/uymtqcK-vpFD-2EB9J33G1nStN36feKu5rg-KnUf_-bLovN5CGOLErGwvlCyCooj/index.m3u8
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1271.m3u8
-https://test.946985.filegear-sg.me/proxy/bdb9c02367c595b9
 https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live017
 #EXTINF:-1 tvg-id="尼克兒童頻道"  group-title="兒童卡通",尼克兒童頻道
 https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live105
-http://good.852851.xyz/l/hYR6LktOvRcSd4Sj9QVqZ-b_hejK7youYEB1J4aAlrVeb_LX5ahXQ0BoubW_gAkw/index.m3u8
 http://106.107.242.250:5050/4gtv-live105/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="NICKJR."  group-title="兒童卡通",Nick Jr.
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live032
 http://xsmt.ccwu.cc/xsmt/smt.php?id=1986
-http://49.213.188.67:50002/index.m3u8?pid=4gtv-live105@185&fun=TV4GTV&proxy=true&token=8852
+mitv://135.148.104.228:19806/1d0be3213ddc485eabab8e20eb937031
 #EXTINF:-1 tvg-id="lhkt01" tvg-name="龍華卡通" group-title="兒童卡通",龍華卡通
 https://cdn.qd.je/163189/lhkt
 http://106.107.242.250:5050/litv-xinchuang01/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
@@ -552,8 +549,8 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=959
 http://125.227.210.55:8167/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台"  group-title="電影频道",影迷數位電影台
-http://good.852851.xyz/l/-E94exPBIeJ2Caw4VgKol_KqZMYVl77voKtK32oqZS14hdHFjBtAJClughpSGYvV/index.m3u8
 https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv011
+mitv://135.148.104.228:19806/ebaa3177d9ef430dbb0a4f4008d71942
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" group-title="電影频道",amc 電影台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1032.m3u8
 http://211.23.95.147:18881/live/69_h265.ts
