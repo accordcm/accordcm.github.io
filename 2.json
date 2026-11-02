@@ -16,151 +16,6 @@
             "lang": "ds",
             "ext": ""
         },
-		   {
-      "key": "kkvm",
-      "name": "🦋 可可影视.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/可可影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "808yr",
-      "name": "🦋 808影院.py(关梯)",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/808影院.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "gqc",
-      "name": "🦋 共青春影院.py(关梯)",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/共青春影院.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "qlys",
-      "name": "🦋 麒麟影视.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/麒麟影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "wkvm",
-      "name": "🦋 悟空影视.py(关梯)",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/悟空影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "xmvm",
-      "name": "🦋 熊猫视频.py｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/熊猫视频.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "bbzj",
-      "name": "🦋 布布追剧.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/布布追剧.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "fY",
-      "name": "🦋 枫叶影院.py(关梯子使用)",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/枫叶影院.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-		 {
-        	"key": "GimyTV剧迷",
-            "name": "GimyTV剧迷",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/GimyTV剧迷.py"
-		},
-		{
-            "key": "一起影視",
-            "name": "🐬一起影視",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/一起影视.py"
-        },
-		{
-        	"key": "咸鱼影視",
-            "name": "咸鱼影視",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咸鱼影视.py"
-		},
-	    {
-			"key": "红果短剧",
-			"name": "红果短剧",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
-		},
-		{
-            "key": "八戒影視",
-            "name": "二師兄影視",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/八戒影视.py"
-        },
-		{
-        	"key": "极速追剧",
-            "name": "极速追剧",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/极速追剧.py"
-		},
-		{
-			"key": "开心影院",
-			"name": "🐬开心影院",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/开心影院.py",
-			"changeable": 0
-		},
-		{
-        	"key": "第七影院",
-            "name": "第七影院",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第七影院.py"
-		},
-        {
-            "key": "爱奇艺",
-            "name": "爱奇艺",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/爱奇艺.py"
-        },
-		{
-        	"key": "橘汁視頻",
-            "name": "橘汁|視頻",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/橘汁视频.py"
-		},
-		{
-        	"key": "白洋影院",
-            "name": "白洋影院",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/白洋影院.py"
-		},
-		{
-        	"key": "獨播库",
-            "name": "獨播库",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/独播库.py"
-		},
 		{
             "key": "廠長资源",
             "name": "廠長┃资源",
@@ -309,6 +164,79 @@
             "filterable": 1,
             "playerType": 2
         },
+		 {
+        	"key": "GimyTV剧迷",
+            "name": "GimyTV剧迷",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/GimyTV剧迷.py"
+		},
+		{
+            "key": "一起影視",
+            "name": "🐬一起影視",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/一起影视.py"
+        },
+		{
+        	"key": "咸鱼影視",
+            "name": "咸鱼影視",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咸鱼影视.py"
+		},
+	    {
+			"key": "红果短剧",
+			"name": "红果短剧",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
+		},
+		{
+            "key": "八戒影視",
+            "name": "二師兄影視",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/八戒影视.py"
+        },
+		{
+        	"key": "极速追剧",
+            "name": "极速追剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/极速追剧.py"
+		},
+		{
+			"key": "开心影院",
+			"name": "🐬开心影院",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/开心影院.py",
+			"changeable": 0
+		},
+		{
+        	"key": "第七影院",
+            "name": "第七影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第七影院.py"
+		},
+        {
+            "key": "爱奇艺",
+            "name": "爱奇艺",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/爱奇艺.py"
+        },
+		{
+        	"key": "橘汁視頻",
+            "name": "橘汁|視頻",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/橘汁视频.py"
+		},
+		{
+        	"key": "白洋影院",
+            "name": "白洋影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/白洋影院.py"
+		},
+		{
+        	"key": "獨播库",
+            "name": "獨播库",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/独播库.py"
+		},
         {
             "key": "push_agent",
             "name": "手机｜推送",
