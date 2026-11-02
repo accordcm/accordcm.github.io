@@ -16,24 +16,7 @@
           "lang": "ds",
           "ext": ""
         },
-		{
-      "key": "yhys",
-      "name": "🍀樱花影视",
-      "type": 1,
-      "api": "https://yhzy.cc/api.php/provide/vod?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "feifan",
-      "name": "🍀非凡资源",
-      "type": 1,
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+		
         {
         "key": "独播库",
         "name": "獨播庫_1",
@@ -64,6 +47,33 @@
            "quickSearch": 1,
            "ext": ""
        },
+		{
+          "key": "feifan",
+          "name": "非凡资源",
+          "type": 1,
+          "api": "http://ffzy5.tv/api.php/provide/vod",
+          "searchable": 1,
+          "quickSearch": 1,
+         "filterable": 1
+        },
+		{
+         "key": "baofeng",
+         "name": "暴风资源",
+         "type": 1,
+        "api": "https://bfzyapi.com/api.php/provide/vod",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+        },
+		{
+        "key": "dytt",
+        "name": "🍀电影天堂",
+        "type": 1,
+        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+        },
 		{
             "key": "廠長资源",
             "name": "廠長┃资源",
