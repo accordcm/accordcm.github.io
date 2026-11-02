@@ -16,24 +16,78 @@
             "lang": "ds",
             "ext": ""
         },
-		{
-          "key": "py_apple",
-          "name": "🍎┃苹果┃影视",
-          "type": 3,
-          "api": "http://fmys.top/py/apple.py",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1
-      },
-      {
-        "key": "瓜子影视",
-        "name": "🥇瓜子｜影视",
-        "type": 3,
-        "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-        },
+		   {
+      "key": "kkvm",
+      "name": "🦋 可可影视.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/可可影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "808yr",
+      "name": "🦋 808影院.py(关梯)",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/808影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gqc",
+      "name": "🦋 共青春影院.py(关梯)",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/共青春影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "qlys",
+      "name": "🦋 麒麟影视.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/麒麟影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wkvm",
+      "name": "🦋 悟空影视.py(关梯)",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/悟空影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xmvm",
+      "name": "🦋 熊猫视频.py｜🔞",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/熊猫视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "bbzj",
+      "name": "🦋 布布追剧.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/布布追剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fY",
+      "name": "🦋 枫叶影院.py(关梯子使用)",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/枫叶影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 		 {
         	"key": "GimyTV剧迷",
             "name": "GimyTV剧迷",
