@@ -5,57 +5,57 @@
     "sites": [
      
         {
-            "key": "55影視",
-            "name": "55|影視",
-            "type": 4,
-            "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
-            "searchable": 2,
-            "filterable": 0,
-            "quickSearch": 1,
-            "title": "55影视",
-            "lang": "ds",
-            "ext": ""
+         "key": "55影視",
+         "name": "55|影視",
+         "type": 4,
+         "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
+         "searchable": 2,
+          "filterable": 0,
+          "quickSearch": 1,
+          "title": "55影视",
+          "lang": "ds",
+          "ext": ""
         },
-          {
-      "key": "hipy_py_爱瓜APP",
-      "name": "爱瓜APP(hipy)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-     },
-     {
-      "key": "hipy_py_独播库",
-      "name": "独播库(hipy)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-     },
-     {
-      "key": "hipy_py_猎手APP",
-      "name": "猎手APP(hipy)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/猎手APP?do=py&pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
+        {
+        "key": "独播库",
+        "name": "獨播庫_1",
+        "type": 4,
+        "api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
+        "searchable": 1,
+        "filterable": 1,
+        "quickSearch": 1,
+        "ext": ""
+       },
+       {
+        "key": "猎手APP",
+        "name": "猎手|APP",
+        "type": 4,
+        "api": "http://192.129.140.23:5757/api/猎手APP?do=py&pwd=dzyyds",
+        "searchable": 1,
+        "filterable": 1,
+        "quickSearch": 1,
+        "ext": ""
       },
       {
-      "key": "hipy_py_瓜子",
-      "name": "瓜子(hipy)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/瓜子?do=py&pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-      },
+           "key": "瓜子1",
+           "name": "瓜子_1",
+           "type": 4,
+           "api": "http://192.129.140.23:5757/api/瓜子?do=py&pwd=dzyyds",
+           "searchable": 1,
+           "filterable": 1,
+           "quickSearch": 1,
+           "ext": ""
+       },
+		{
+         "key": "月光影视",
+         "name": "月光影视(cat)",
+         "type": 3,
+         "api": "http://192.129.140.23:5757/cat/月光影视.js?pwd=dzyyds",
+         "searchable": 1,
+         "filterable": 1,
+         "quickSearch": 1,
+         "ext": ""
+        },
 		{
             "key": "廠長资源",
             "name": "廠長┃资源",
