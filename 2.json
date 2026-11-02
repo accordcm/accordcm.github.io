@@ -16,47 +16,40 @@
             "lang": "ds",
             "ext": ""
         },
-		  {
-            "key": "骚火影视",
-            "name": "🦋 骚火 • 影视",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "ext": "https://shdy5.us",
-        },
         {
             "key": "ddyy",
             "name": "🦋 低端影视.py",
             "type": 3,
             "api": "https://lytvs.top/py/diduanyingshi.py",
-            "ext": "",
+            "ext": ""
         },
         {
             "key": "kkvm",
             "name": "🦋 可可影视.py",
             "type": 3,
             "api": "https://lytvs.top/py/kekeyingshi.py",
-            "ext": "",
+            "ext": ""
         },
         {
             "key": "JP",
             "name": "🦋 金牌APP.py",
             "type": 3,
             "api": "https://lytvs.top/py/jinpaiAPP.py",
-            "ext": "",
+            "ext": ""
         },
         {
             "key": "GZ",
             "name": "🦋 瓜子APP.py",
             "type": 3,
             "api": "https://lytvs.top/py/guaziAPP.py",
-            "ext": "",
+            "ext": ""
         },
         {
             "key": "xhvm",
             "name": "🦋 骚火影视.py",
             "type": 3,
             "api": "https://lytvs.top/py/saohuoyingshi.py",
-            "ext": "",
+            "ext": ""
         },
 		{
             "key": "廠長资源",
