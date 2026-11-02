@@ -23,34 +23,6 @@
             "api": "https://lytvs.top/py/diduanyingshi.py",
             "ext": ""
         },
-        {
-            "key": "kkvm",
-            "name": "🦋 可可影视.py",
-            "type": 3,
-            "api": "https://lytvs.top/py/kekeyingshi.py",
-            "ext": ""
-        },
-        {
-            "key": "JP",
-            "name": "🦋 金牌APP.py",
-            "type": 3,
-            "api": "https://lytvs.top/py/jinpaiAPP.py",
-            "ext": ""
-        },
-        {
-            "key": "GZ",
-            "name": "🦋 瓜子APP.py",
-            "type": 3,
-            "api": "https://lytvs.top/py/guaziAPP.py",
-            "ext": ""
-        },
-        {
-            "key": "xhvm",
-            "name": "🦋 骚火影视.py",
-            "type": 3,
-            "api": "https://lytvs.top/py/saohuoyingshi.py",
-            "ext": ""
-        },
 		{
             "key": "廠長资源",
             "name": "廠長┃资源",
