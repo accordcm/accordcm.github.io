@@ -16,6 +16,24 @@
             "lang": "ds",
             "ext": ""
         },
+		{
+          "key": "py_apple",
+          "name": "🍎┃苹果┃影视",
+          "type": 3,
+          "api": "http://fmys.top/py/apple.py",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+      },
+      {
+        "key": "瓜子影视",
+        "name": "🥇瓜子｜影视",
+        "type": 3,
+        "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+        },
 		 {
         	"key": "GimyTV剧迷",
             "name": "GimyTV剧迷",
