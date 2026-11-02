@@ -57,24 +57,6 @@
          "filterable": 1
         },
 		{
-         "key": "baofeng",
-         "name": "暴风资源",
-         "type": 1,
-        "api": "https://bfzyapi.com/api.php/provide/vod",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-        },
-		{
-        "key": "dytt",
-        "name": "🍀电影天堂",
-        "type": 1,
-        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-        },
-		{
             "key": "廠長资源",
             "name": "廠長┃资源",
             "type": 3,
