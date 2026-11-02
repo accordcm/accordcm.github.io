@@ -16,13 +16,46 @@
             "lang": "ds",
             "ext": ""
         },
-        {
-            "key": "ddyy",
-            "name": "🦋 低端影视.py",
-            "type": 3,
-            "api": "https://lytvs.top/py/diduanyingshi.py",
-            "ext": ""
-        },
+          {
+      "key": "hipy_py_爱瓜APP",
+      "name": "爱瓜APP(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+     },
+     {
+      "key": "hipy_py_独播库",
+      "name": "独播库(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+     },
+     {
+      "key": "hipy_py_猎手APP",
+      "name": "猎手APP(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/猎手APP?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+      },
+      {
+      "key": "hipy_py_瓜子",
+      "name": "瓜子(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/瓜子?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+      },
 		{
             "key": "廠長资源",
             "name": "廠長┃资源",
