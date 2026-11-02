@@ -47,16 +47,6 @@
            "ext": ""
        },
 		{
-         "key": "月光影视",
-         "name": "月光影视(cat)",
-         "type": 3,
-         "api": "http://192.129.140.23:5757/cat/月光影视.js?pwd=dzyyds",
-         "searchable": 1,
-         "filterable": 1,
-         "quickSearch": 1,
-         "ext": ""
-        },
-		{
             "key": "廠長资源",
             "name": "廠長┃资源",
             "type": 3,
