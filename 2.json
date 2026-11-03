@@ -52,6 +52,42 @@
          "quickSearch": 1,
           "filterable": 1
        },
+		{
+      "key": "MT影剧",
+      "name": "MT影剧",
+      "type": 1,
+      "api": "https://yjzy.me/api.php/provide/vod/from/mtm3u8/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "西瓜影视",
+      "name": "西瓜影视",
+      "type": 1,
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod/from/xiguam3u8/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "快车影视",
+      "name": "快车影视",
+      "type": 1,
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/from/kcm3u8/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "OK影视",
+      "name": "OK影视",
+      "type": 1,
+      "api": "https://api.okzyw.net/api.php/provide/vod/from/okm3u8/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 	   {
           "key": "feifan",
           "name": "非凡资源",
@@ -482,6 +518,14 @@
             ]
         }
     ],
+	  "hosts": [
+       "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+       "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+       "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+       "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+       "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+      "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+             ],
     "flags": [
         "youku",
         "优酷",
