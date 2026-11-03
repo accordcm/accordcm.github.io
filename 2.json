@@ -37,89 +37,23 @@
         "quickSearch": 1,
         "ext": ""
       },
-      {
-           "key": "瓜子1",
-           "name": "瓜子_1",
-           "type": 4,
-           "api": "http://192.129.140.23:5757/api/瓜子?do=py&pwd=dzyyds",
-           "searchable": 1,
-           "filterable": 1,
-           "quickSearch": 1,
-           "ext": ""
-       },
-		 {
-          "key": "sanliuling",
-          "name": "360资源",
+	   {
+        "key": "优酷視頻",
+        "name": "优酷｜視頻",
+         "type": 3,
+         "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
+         "ext": "http://47.96.82.41:5188/svip/js/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
+        },
+		{
+         "key": "baofeng2",
+         "name": "🍀 暴风",
          "type": 1,
-         "api": "https://360zy.com/api.php/provide/vod",
-        "searchable": 1,
+         "api": "https://app.bfzyapi.com/api.php/provide/vod",
+         "searchable": 1,
          "quickSearch": 1,
-        "filterable": 1
+          "filterable": 1
        },
-	 {
-      "key": "youku",
-      "name": "优酷资源",
-      "type": 1,
-      "api": "https://api.ukuapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      },
-		{
-      "key": "haihua",
-      "name": "🍀海豚资源",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "jiangyu",
-      "name": "🍀鲸鱼资源",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-		{
-      "key": "baofeng2",
-      "name": "🍀暴风APP",
-      "type": 1,
-      "api": "https://app.bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-		  {
-      "key": "niuniu",
-      "name": "🍀牛牛点播",
-      "type": 1,
-      "api": "https://api.niuniuzy.me/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "suoni",
-      "name": "🍀索尼资源",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "maotai",
-      "name": "茅台资源",
-      "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	 {
+	   {
           "key": "feifan",
           "name": "非凡资源",
           "type": 1,
@@ -136,13 +70,6 @@
             "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/xb/厂长资源.json",
             "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/xbpq.jar"
         },
-		{
-            "key": "优酷視頻",
-            "name": "优酷｜視頻",
-            "type": 3,
-            "api": "http://47.96.82.41:5188/svip/js/drpy2.min.js",
-            "ext": "http://47.96.82.41:5188/svip/js/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
-        },
         {
             "key": "芒果視頻",
             "name": "芒果｜視頻",
@@ -156,6 +83,15 @@
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+        },
+		 {
+          "key": "maotai",
+          "name": "茅台资源",
+          "type": 1,
+          "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
         },
 		{
 			"key": "暴風",
@@ -177,13 +113,13 @@
            "lang": "ds",
            "ext": ""
          },
-        {
+         {
             "key": "爱看机器人",
             "name": "综合丨采集",
             "type": 3,
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/js/爱看机器人.js"
-        },
-        {
+         },
+         {
             "key": "界影视",
             "name": "界丨影视",
             "type": 3,
@@ -192,8 +128,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "changeable": 1
-        },
+           
         {
             "key": "Acfun",
             "name": "A站┃平台",
@@ -276,79 +211,15 @@
             "filterable": 1,
             "playerType": 2
         },
-		 {
-        	"key": "GimyTV剧迷",
-            "name": "GimyTV剧迷",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/GimyTV剧迷.py"
-		},
-		{
-            "key": "一起影視",
-            "name": "🐬一起影視",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/一起影视.py"
-        },
-		{
-        	"key": "咸鱼影視",
-            "name": "咸鱼影視",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咸鱼影视.py"
-		},
 	    {
-			"key": "红果短剧",
-			"name": "红果短剧",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
-		},
-		{
-            "key": "八戒影視",
-            "name": "二師兄影視",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/八戒影视.py"
-        },
-		{
-        	"key": "极速追剧",
-            "name": "极速追剧",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/极速追剧.py"
-		},
-		{
-			"key": "开心影院",
-			"name": "🐬开心影院",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/开心影院.py",
-			"changeable": 0
-		},
-		{
-        	"key": "第七影院",
-            "name": "第七影院",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/第七影院.py"
-		},
-        {
-            "key": "爱奇艺",
-            "name": "爱奇艺",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/爱奇艺.py"
-        },
-		{
-        	"key": "橘汁視頻",
-            "name": "橘汁|視頻",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/橘汁视频.py"
-		},
-		{
-        	"key": "白洋影院",
-            "name": "白洋影院",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/白洋影院.py"
-		},
-		{
-        	"key": "獨播库",
-            "name": "獨播库",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/独播库.py"
-		},
+           "key": "haihua",
+           "name": "海豚资源",
+           "type": 1,
+           "api": "https://hhzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+           "quickSearch": 1,
+            "filterable": 1
+         },
         {
             "key": "push_agent",
             "name": "手机｜推送",
