@@ -47,7 +47,79 @@
            "quickSearch": 1,
            "ext": ""
        },
+		 {
+          "key": "sanliuling",
+          "name": "360资源",
+         "type": 1,
+         "api": "https://360zy.com/api.php/provide/vod",
+        "searchable": 1,
+         "quickSearch": 1,
+        "filterable": 1
+       },
+	 {
+      "key": "youku",
+      "name": "优酷资源",
+      "type": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      },
 		{
+      "key": "haihua",
+      "name": "🍀海豚资源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jiangyu",
+      "name": "🍀鲸鱼资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+		{
+      "key": "baofeng2",
+      "name": "🍀暴风APP",
+      "type": 1,
+      "api": "https://app.bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+		  {
+      "key": "niuniu",
+      "name": "🍀牛牛点播",
+      "type": 1,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suoni",
+      "name": "🍀索尼资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "maotai",
+      "name": "茅台资源",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	 {
           "key": "feifan",
           "name": "非凡资源",
           "type": 1,
