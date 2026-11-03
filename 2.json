@@ -198,9 +198,11 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.33
-            },
-           
-        {
+            },  
+			   "changeable": 1
+           },
+		
+          {
             "key": "Acfun",
             "name": "A站┃平台",
             "type": 3,
