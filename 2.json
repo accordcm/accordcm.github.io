@@ -16,6 +16,42 @@
           "lang": "ds",
           "ext": ""
         },	
+          {
+      "key": "如意资源",
+      "name": "如意资源┃刺桐",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "天堂资源",
+      "name": "天堂资源┃刺桐",
+      "type": 1,
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "快车资源",
+      "name": "快车资源┃刺桐",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "飘花影院",
+      "name": "飘花影院┃刺桐",
+      "type": 1,
+      "api": "http://www.ahjiuman.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	
         {
         "key": "独播库",
         "name": "獨播庫_1",
@@ -26,51 +62,7 @@
         "quickSearch": 1,
         "ext": ""
        },
-		{
-      "key": "php_影剧资源",
-      "name": "影剧资源(CMS)",
-      "type": 1,
-      "api": "https://yjzy.me/api.php/provide/vod/from/mtm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "php_天涯影视",
-      "name": "天涯影视(CMS)",
-      "type": 1,
-      "api": "https://tyyszy.com/api.php/provide/vod/from/tym3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "php_猫眼资源",
-      "name": "猫眼资源(CMS)",
-      "type": 1,
-      "api": "https://www.maoyanzy.com/api.php/provide/vod/from/mym3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "php_OK资源",
-      "name": "OK资源(CMS)",
-      "type": 1,
-      "api": "https://okzyw.cc/api.php/provide/vod/from/okm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "php_鸭鸭资源",
-      "name": "鸭鸭资源(CMS)",
-      "type": 1,
-      "api": "https://yayazy2.com/api.php/provide/vod/from/yym3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
        {
         "key": "猎手APP",
         "name": "猎手|APP",
@@ -263,6 +255,15 @@
             "filterable": 1,
             "playerType": 2
         },
+		{
+         "key": "php_天涯影视",
+         "name": "天涯影视(CMS)",
+         "type": 1,
+         "api": "https://tyyszy.com/api.php/provide/vod/from/tym3u8/",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1
+       },
 		
         {
             "key": "push_agent",
