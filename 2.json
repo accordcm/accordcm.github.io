@@ -26,29 +26,47 @@
         "quickSearch": 1,
         "ext": ""
        },
-		 {
-      "key": "多多",
-      "name": "🐶多多影视(优)",
+		{
+      "key": "php_影剧资源",
+      "name": "影剧资源(CMS)",
       "type": 1,
-      "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+      "api": "https://yjzy.me/api.php/provide/vod/from/mtm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "波比影视",
-      "name": "🍠波比影视(优)",
+      "key": "php_天涯影视",
+      "name": "天涯影视(CMS)",
       "type": 1,
-      "api": "http://xxhhsc.top/api.php/provide/vod/",
+      "api": "https://tyyszy.com/api.php/provide/vod/from/tym3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "西柚影视",
-      "name": "🥭西柚影视(优)",
+      "key": "php_猫眼资源",
+      "name": "猫眼资源(CMS)",
       "type": 1,
-      "api": "http://43.135.75.180:9999/api.php/provide/vod/",
+      "api": "https://www.maoyanzy.com/api.php/provide/vod/from/mym3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "php_OK资源",
+      "name": "OK资源(CMS)",
+      "type": 1,
+      "api": "https://okzyw.cc/api.php/provide/vod/from/okm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "php_鸭鸭资源",
+      "name": "鸭鸭资源(CMS)",
+      "type": 1,
+      "api": "https://yayazy2.com/api.php/provide/vod/from/yym3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
