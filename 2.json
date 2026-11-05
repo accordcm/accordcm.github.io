@@ -135,19 +135,25 @@
             "name": "A站┃平台",
             "type": 3,
             "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/Acfun.py"
+         },
+	 	{
+           "key": "modudongman",
+           "name": "魔都动漫",
+           "type": 1,
+           "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1
         },
 		{
-           "key": "Anime1",
-           "name": "A1｜动漫",
-           "type": 3,
-		   "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/animexin.py"
+          "key": "量子动漫",
+          "name": "量子动漫(CMS)",
+          "type": 1,
+          "api": "https://cj.lziapi.com/api.php/provide/vod/?t=4from/lzm3u8/",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
         },
-		{
-			"key": "MiFun",
-			"name": "MiFun动漫",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/MiFun动漫.py"
-		},
         {
             "key": "星芽短剧",
             "name": "星芽｜短剧",
@@ -212,15 +218,15 @@
             "filterable": 1,
             "playerType": 2
         },
-	    {
-           "key": "haihua",
-           "name": "海豚资源",
-           "type": 1,
-           "api": "https://hhzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-           "quickSearch": 1,
-            "filterable": 1
-         },
+		{
+         "key": "辣椒資源",
+         "name": "🦋辣椒資源",
+         "type": 1,
+         "api": "http://apilj.com/api.php/provide/vod/at/json/",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1
+        },
         {
             "key": "push_agent",
             "name": "手机｜推送",
