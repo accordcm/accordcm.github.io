@@ -16,42 +16,6 @@
           "lang": "ds",
           "ext": ""
         },	
-         {
-      "key": "ruyi",
-      "name": "🍀如意资源",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "wangwang",
-      "name": "旺旺资源",
-      "type": 1,
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hongniu",
-      "name": "🍀红牛资源",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "guangsu",
-      "name": "光速资源",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
         {
         "key": "独播库",
         "name": "獨播庫_1",
@@ -255,6 +219,15 @@
             "filterable": 1,
             "playerType": 2
         },
+	    {
+         "key": "ruyi",
+         "name": "如意资源",
+          "type": 1,
+         "api": "https://cj.rycjapi.com/api.php/provide/vod",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1
+       },
 		{
          "key": "php_天涯影视",
          "name": "天涯影视(CMS)",
