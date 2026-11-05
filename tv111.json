@@ -53,6 +53,7 @@ http://106.107.242.250:5050/4gtv-live409/index.m3u8?token=WvSW48IkY5WNaBmB0SdC65
 http://211.23.95.147:18881/live/49_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2944
 http://211.23.95.147:18881/live/104_h265.ts
+mitv://135.148.104.228:19806/c5f9486b55ee46ab82ba503f7f2976f9
 mitv://135.148.104.228:19806/7867b48f092a41f295ac510c38d5213d
 #EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
 http://125.227.210.55:3022/VideoInput/play.ts
@@ -66,6 +67,7 @@ https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv156
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="discovery" group-title="台湾",discovery
 http://211.23.95.147:18881/live/19_h265.ts
 mitv://135.148.104.228:19806/0f335713906e4ad08676f4c2dbd8b9d5
+mitv://135.148.104.228:19806/06a65f0fe22243cc9ab0751f8219908a
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2878
 #EXTINF:-1 tvg-id="animal_twn" tvg-name="動物星球" group-title="台湾",動物星球
 http://125.227.210.55:3054/VideoInput/play.ts
