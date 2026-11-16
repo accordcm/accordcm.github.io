@@ -41,10 +41,11 @@ http://125.227.210.55:3079/VideoInput/play.ts
 http://211.23.95.147:18881/live/dtv2_h265.ts
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="華視新聞" group-title="台湾",華視新聞
 http://211.23.95.147:18881/live/dtv20_h265.ts
+http://caonima.898757.xyz/l/T0IKtlL3XfKfY_KhsjMMS6OWCIjdjCphOvBADVOx9_PZXszdVbXrCKmQIw27T6Ur/index.m3u8
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1120.m3u8
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
 http://211.23.95.147:18881/live/86_h265.ts
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv075
+http://caonima.898757.xyz/l/ag3lMl9bkdz0M5KjCMEabcyNsB13MCWKt4Foere9LZHuYHJsYV2Xi_WY1k671SBs/index.m3u8
 http://106.107.242.250:5050/4gtv-4gtv075/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
@@ -57,6 +58,7 @@ http://106.107.242.250:5050/4gtv-live409/index.m3u8?token=WvSW48IkY5WNaBmB0SdC65
 http://211.23.95.147:18881/live/49_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2944
 http://211.23.95.147:18881/live/104_h265.ts
+http://caonima.898757.xyz/l/Eu5WGFTvnBk22U3LJvrtmp_i3AYnhMNM0azjijp_GhuefOhoSydVjyEs9ZlzjPAn/index.m3u8
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1242.m3u8
 mitv://135.148.104.228:19806/c5f9486b55ee46ab82ba503f7f2976f9
 mitv://135.148.104.228:19806/7867b48f092a41f295ac510c38d5213d
@@ -125,9 +127,7 @@ https://www.caonizuzong.cc.cd/4gtv/?id=4gtv-4gtv003
 http://iptv.852851.xyz/l/kgBA89YBMn_3OReh4clY8A6QmfN1nu1T_4X-T2qC-vKFzvA2tWEVVNbsKvdT3Vv-/index.m3u8
 http://106.107.242.250:5050/4gtv-live403/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" group-title="台湾",民視綜藝
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv004
-http://iptv.852851.xyz/l/sOMuuGYqN7AAlYRUGTCy2MhhaYDpfIw17ynSrxv4MEFSGoCJ3J3PZJYau05s0Rgh/index.m3u8
-http://106.107.242.250:5050/4gtv-4gtv004/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
+http://caonima.898757.xyz/l/M-iDadYfXq8aUkA4RT8D2-vAAKwSEe-BbmzELBcTsiSOuQB_T2NE0TuaQ7zhdxc-/index.m3u8
 #EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="三立台湾台" group-title="台湾",三立台湾台
 http://211.23.95.147:18881/live/29_h265.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1021.m3u8
@@ -136,7 +136,7 @@ http://125.227.210.55:3020/VideoInput/play.ts
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1020.m3u8
 http://211.23.95.147:18881/live/30_h265.ts
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合台" group-title="台湾",三立綜合台
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live207
+http://caonima.898757.xyz/l/NJMyGS1MgpmDcy2Suz5jvgu0bEpqeAXFFxt2mJpgKQhPEtNQZwSR1krhw3EUedN3/index.m3u8
 mitv://147.135.39.171:9906/6964f44100098c00508364ba0bb3606c
 http://106.107.242.250:5050/4gtv-live207/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
@@ -155,7 +155,7 @@ http://125.227.210.55:3047/VideoInput/play.ts
 http://58.99.33.2:1935/liveedge2/tnpqFuSQ_42_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 http://106.107.242.250:5050/4gtv-4gtv068/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="TVBS精彩台" tvg-name="TVBS精彩台"  group-title="台湾",TVBS精彩台
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv067
+http://caonima.898757.xyz/l/3jQsYZus3avM-3Fof0U0P7eIgzvm9ZgBVq9NdiB1IqWFZ3dCsdTvxifMcV2mtfEE/index.m3u8
 http://106.107.242.250:5050/4gtv-4gtv067/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂" group-title="台湾",中天娛樂
 http://211.23.95.147:18881/live/39_h265.ts
@@ -195,10 +195,11 @@ http://74.91.26.218:82/live/pts.m3u8
 #EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
 http://211.23.95.147:18881/live/dtv23_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=550
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv007
+http://caonima.898757.xyz/l/5a-A8KRrPA0cV5ibObhiP5C_L8Ergm4XF5D-I1KfS-miABWhT2c3GM5jlSk_hMKm/index.m3u8
 http://106.107.242.250:5050/4gtv-live007/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
 http://xsmt.ccwu.cc/xsmt/smt.php?id=508
+http://caonima.898757.xyz/l/xNg-nI1rjN-5pOuI5dqrIT2X-awWvAdc_y_kDCPw8--2zTyTjTykuFPk9dnHTNcf/index.m3u8
 http://106.107.242.250:5050/4gtv-live106/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
 http://211.23.95.147:18881/live/27_h265.ts
@@ -210,7 +211,7 @@ http://211.23.95.147:18881/live/28_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=754
 mitv://135.148.104.228:19806/d38a413855f3449b8891e4f8e259ebe2
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大綜藝台 " group-title="台湾",八大綜藝
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv039
+http://caonima.898757.xyz/l/0WSlxM9zuxmo7jQ-t4Y7Nz0p1Uhv2OwTVSQDYpy2vaL9Hf88brfJvZYJSrNFUU6I/index.m3u8
 http://106.107.242.250:5050/4gtv-4gtv039/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="八大娛樂台" tvg-name="八大娛樂台"  group-title="台湾",八大娛樂
 mitv://147.135.39.171:9906/69761bda00023c029386316315e17e92
@@ -252,7 +253,7 @@ mitv://135.148.104.228:19806/9544f7f6ec82408aad24d292ac1a537a
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片" group-title="台湾",龍華洋片
 http://xsmt.ccwu.cc/xsmt/smt.php?id=810
 https://cdn.qd.je/163189/lhyp
-http://106.107.242.250:5050/litv-xinchuang02/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
+http://caonima.898757.xyz/l/lYBYt3p2l7YqVibI-kJDR031NRRS1hmZ6VrVqyYdPcGF-dTA6P2iqoVZ65F6uAvu/index.m3u8
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇台" group-title="台湾",龍華戲劇台
 http://xsmt.ccwu.cc/xsmt/smt.php?id=811
 http://live.yiwo.uk:50002/index.m3u8?pid=litv-xinchuang18&sd=1080&proxy=false&token=yiwo
@@ -272,17 +273,15 @@ https://test.946985.filegear-sg.me/proxy/536c358ed43fefd6
 http://live.yiwo.uk:50002/index.m3u8?pid=litv-xinchuang11&sd=1080&proxy=false&token=yiwo
 http://106.107.242.250:5050/litv-xinchuang11/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台"  group-title="台湾",民視旅遊
-https://www.caonizuzong.cc.cd/4gtv?id=litv-ftv07
-http://106.107.242.250:5050/litv-ftv07/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
+http://caonima.898757.xyz/l/7jYJxzSQRIJlI16zm3gUBOb0tyAfy3I1WK7Oi6vZeFfRuP6qLlhEGoadGFut5ezy/index.m3u8
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台"  group-title="台湾",亚洲旅游台
 mitv://147.135.39.171:9906/69aee849000862638929820b793d53ba
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv076
+http://caonima.898757.xyz/l/kKSuqapIqPesvI4MBQg8y1MFfeDAJpeiTv2NZ4ca4FgJPR5DY7uwpGCRjb4DkXNG/index.m3u8
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" group-title="台湾",愛爾達娛樂
 https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live120
 http://106.107.242.250:5050/4gtv-4gtv070/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" group-title="台湾",愛爾達生活旅遊台
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live120
-http://106.107.242.250:5050/4gtv-live120/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
+http://caonima.898757.xyz/l/x8bVv1k4q9WhtpTKr_M-ENHOK3PhNrJSLNAIlJXSyAZRiThGJk2-x3oOu4h_GhWU/index.m3u8
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
 http://125.227.210.55:1005/VideoInput/play.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2051
@@ -331,15 +330,13 @@ http://106.107.242.250:5050/litv-xinchuang10/index.m3u8?token=WvSW48IkY5WNaBmB0S
 mitv://135.148.104.228:19806/0e471c69cc3945539c3a973eb7886dde
 http://106.107.242.250:5050/litv-xinchuang13/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X"  group-title="台湾",時尚運動X
+http://caonima.898757.xyz/l/oQxAOOos3J-lyOaCb54fNPsSB4pfOVTaD5zoOPFqZFNOPL_lyWCcf-hXLlfX_H9i/index.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=49
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv014
-http://106.107.242.250:5050/4gtv-live411/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV"  group-title="台湾",車迷 TV
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live201
+http://caonima.898757.xyz/l/-NWQW7ayMk348tOiw18G2u-sJ2F24WGGA4Z4OHu3_832sblLnm74Pi8em2shburZ/index.m3u8
 http://106.107.242.250:5050/4gtv-live201/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲"  group-title="台湾",金光布袋戲
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live144
-http://106.107.242.250:5050/4gtv-live144/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
+http://caonima.898757.xyz/l/LUZfpD5XkbREN620cwPu9yYLQXTq0iJy6PDy7RV3d_uUbK1UkS_ajJsLNJEEhAhq/index.m3u8
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
 rtmp://f13h.mine.nu/sat/tv731
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2869
@@ -349,25 +346,24 @@ rtmp://f13h.mine.nu/sat/tv741
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2870
 http://211.23.95.147:18881/live/74_h265.ts
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="台湾",豬哥亮歌廳秀
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv006
+http://caonima.898757.xyz/l/fKium5i380uGYHBaTCh_d1ql7pjAFQGjI1p2yQIYM2gbnv-bzV6dsSr_sOX_-2-W/index.m3u8
 http://106.107.242.250:5050/4gtv-4gtv006/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物1台" group-title="台湾",東森購物一台
 mitv://147.135.39.171:9906/69ea1d7400049ba77071893b70c416ec
-http://106.107.242.250:5050/4gtv-live047/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
-http://106.107.242.250:5050/of-4gtv-4gtv102/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
+http://caonima.898757.xyz/l/S0HnorM0mavkH6i1Keryh04dl8rtI7GR1evggohykysD92Rd1h_YSitaST0VkXdM/index.m3u8
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台"  group-title="台湾",東森購物二台
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live049
+http://caonima.898757.xyz/l/XBzae-96FpnfActqx8mOSfmIPk_e7SjHmqNytw1oU9BTIaD5vUPEI_S7ZSQchmCr/index.m3u8
 http://58.99.33.2:1935/liveedge2/tnpqFuSQ_34_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 http://106.107.242.250:5050/4gtv-live046/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物3台"  group-title="台湾",東森購物三台
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live048
+http://caonima.898757.xyz/l/x9eAdoj_yfXj3dd7OhW7q4vNqdezkQDIDr0-5Iz7OapN0CQkOan-sGBE8cS2znrg/index.m3u8
 http://106.107.242.250:5050/4gtv-live048/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="dongs" tvg-name="東森購物4台" group-title="台湾",東森購物四台
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live046
+http://caonima.898757.xyz/l/hLDFrUYQT4u0jiHjbDzU4H42WUE29r9PW6haN2Py_rHAF9xhEJXMUQ2bT78hbMtb/index.m3u8
 http://106.107.242.250:5050/4gtv-live049/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV" group-title="台湾",韓國娛樂台
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1024.m3u8
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv016
+http://caonima.898757.xyz/l/Nndhskl7GnMSX-9sxyoMDWsdjR4xCLQleEV3xQ0VcVf8r185CwaGBOVe82jmZCKg/index.m3u8
 #EXTINF:-1 tvg-id="CHANNEL [V]" tvg-name="CHANNEL [V]" group-title="台湾",CHANNEL [V]
 mitv://147.135.39.171:9906/6a9992bf0006ad401dd4bcd545347043
 
@@ -497,7 +493,7 @@ http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" group-title="兒童卡通",MOMO親子
 http://xsmt.ccwu.cc/xsmt/smt.php?id=241
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1007.m3u8
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live107
+http://caonima.898757.xyz/l/npe4q7YFE_2oDf6OzzqkONLW2oyhqEMgJXNcIRsUEAaqpzt9oTZPquVKangkN8Kx/index.m3u8
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="東森幼幼 Yoyo TV" group-title="兒童卡通",東森幼幼 Yoyo TV
 http://211.23.95.147:18881/live/25_h265.ts
 http://125.227.210.55:4052/VideoInput/play.ts
@@ -506,13 +502,13 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=969
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="兒童卡通",ELTV生活英語台
 http://live.yiwo.uk:50002/index.m3u8?pid=litv-xinchuang20&sd=1080&proxy=false&token=yiwo
 mitv://135.148.104.228:19806/4026baf5af15480590da0c33751acc78
+http://caonima.898757.xyz/l/GAIzk2W7uD0vY4r2a0nC-BMiFBWPCr7OeL2O05FGZoURs9rokONDLqfxCnN0e_gp/index.m3u8
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="兒童卡通",靖天卡通台
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv044
+http://caonima.898757.xyz/l/sO8E8Szn8z1gkJf27FkBCTyEgCIQ55ERC1JiE1CjEHB34rdnKI6-5EYm02rmWxd6/index.m3u8
 #EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道"  group-title="兒童卡通",DreamWorks
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live017
+http://caonima.898757.xyz/l/mzj_g7rnC1GgCQRSRm4CsWCrocHR5-Sbt8G7sRLxlwDQqIN3j9ocPhd1_n1gA10R/index.m3u8
 #EXTINF:-1 tvg-id="尼克兒童頻道"  group-title="兒童卡通",尼克兒童頻道
-https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live105
-http://106.107.242.250:5050/4gtv-live105/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
+http://caonima.898757.xyz/l/Rl-yXsWbnreoxA03oYFGFwIkksx_McqYvw92DtSvnhPymQzczBA0SILQaPcDWjif/index.m3u8
 #EXTINF:-1 tvg-id="NICKJR."  group-title="兒童卡通",Nick Jr.
 http://xsmt.ccwu.cc/xsmt/smt.php?id=1986
 mitv://135.148.104.228:19806/1d0be3213ddc485eabab8e20eb937031
@@ -605,8 +601,9 @@ http://125.227.210.55:8165/VideoInput/play.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2717
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW德國之聲" group-title="新闻频道",DW德國之聲
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2886
-http://106.107.242.250:5050/4gtv-live071/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
+http://caonima.898757.xyz/l/FBAPs0LZ8aBGRPQAEbrifcP_h9UqElORkoEkceZio5w7sdbH9WY-eJVBaqluCjIb/index.m3u8
 #EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" group-title="新闻频道",France 24
+http://caonima.898757.xyz/l/S6ez_xejMQfS9j--SQsElWLnBimyVS_AvVGpnI3p6_GTEyxzRfbUDfgNI6py6M78/index.m3u8
 http://xsmt.ccwu.cc/xsmt/smt.php?id=439
 
 #EXTM3U
@@ -672,35 +669,30 @@ https://cdn6.cc.cd/163189/fhhk
 #EXTM3U url-tvg="https://akariko-bck1.sankuria.sbs/epg/kai-epg.xml" tvg-shift="0" m3uautoload="1"
 #EXTM3U
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://logo.catvod.com/NHK G.png" group-title="日本",NHK G
-mitv://135.148.104.228:19806/3e21c3d1a21443418758501971cc4ae0
-http://xsmt.ccwu.cc/xsmt/smt.php?id=1397
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd01
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://logo.catvod.com/NHK E.png" group-title="日本",NHK E
-mitv://135.148.104.228:19806/d7d62d548c114acb8fc768b38d0a008c
-http://xsmt.ccwu.cc/xsmt/smt.php?id=1398
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd02
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://logo.catvod.com/NTV.png" group-title="日本",NTV
-mitv://135.148.104.228:19806/199cf05f6d6b48f89729f93ca41645d7
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd03
 https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logo.catvod.com/TBS.png" group-title="日本",TBS
-mitv://135.148.104.228:19806/bf6d27c4b4f345339b238471d7c75194
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd04
 https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://logo.catvod.com/Fuji TV.png" group-title="日本",Fuji TV
-mitv://135.148.104.228:19806/ccf9771f0e7f4f3f835bd93869512271
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd05
+https://ri.shinori.my.id/pxx.php?shk_cid=gd05
 https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
-mitv://135.148.104.228:19806/060a76d402114a2eb63fa746190b2e39
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd06
 https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://logo.catvod.com/TV Tokyo.png" group-title="日本",TV Tokyo
-mitv://135.148.104.228:19806/37bf188c41644e4bb0f631f06e763ef9
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd07
 #EXTINF:-1 tvg-name="TV Osaka" tvg-logo="https://logo.catvod.com/TV Osaka.png" group-title="日本",TV Osaka
 mitv://135.148.104.228:19806/0084c26f24f24a5e80f5c95f954a9efb
 https://naori-test.netgenx.site/pxx.php?shk_cid=gx05
 https://haru.charandom.blog/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://logo.catvod.com/TOKYO MX1.png" group-title="日本",TOKYO MX1
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd08
 http://xsmt.ccwu.cc/xsmt/smt.php?id=1404
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://logo.catvod.com/NHK BS.png" group-title="日本",NHK BS
 http://xsmt.ccwu.cc/xsmt/smt.php?id=1413
