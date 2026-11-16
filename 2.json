@@ -62,14 +62,6 @@
           "quickSearch": 1,
          "filterable": 1
         },
-		{
-            "key": "廠長资源",
-            "name": "廠長┃资源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/xb/厂长资源.json",
-            "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/xbpq.jar"
-        },
         {
             "key": "芒果視頻",
             "name": "芒果｜視頻",
