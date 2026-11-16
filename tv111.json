@@ -684,7 +684,7 @@ https://ri.shinori.my.id/pxx.php?shk_cid=gd05
 https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://logo.catvod.com/TV Asahi.png" group-title="日本",TV Asahi
 https://ri.shinori.my.id/pxx.php?shk_cid=hdgd06
-https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+https://ri.shinori.my.id/pxx.php?shk_cid=gd06
 #EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://logo.catvod.com/TV Tokyo.png" group-title="日本",TV Tokyo
 https://ri.shinori.my.id/pxx.php?shk_cid=hdgd07
 #EXTINF:-1 tvg-name="TV Osaka" tvg-logo="https://logo.catvod.com/TV Osaka.png" group-title="日本",TV Osaka
@@ -695,26 +695,20 @@ https://haru.charandom.blog/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
 https://ri.shinori.my.id/pxx.php?shk_cid=hdgd08
 http://xsmt.ccwu.cc/xsmt/smt.php?id=1404
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://logo.catvod.com/NHK BS.png" group-title="日本",NHK BS
-http://xsmt.ccwu.cc/xsmt/smt.php?id=1413
+https://ri.shinori.my.id/pxx.php?shk_cid=bs11
 http://211.23.95.147:18881/live/dtv39_h265.ts
 #EXTINF:-1 tvg-name="BS NTV" tvg-logo="https://logo.catvod.com/BS NTV.png" group-title="日本",BS NTV
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
 https://haru.charandom.blog/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS Asahi" tvg-logo="https://logo.catvod.com/BS Asahi.png" group-title="日本",BS Asahi
-mitv://135.148.104.228:19806/45d2c268b3fe4b0296b83bb71cb31e14
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
-https://haru.charandom.blog/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+https://ri.shinori.my.id/pxx.php?shk_cid=bs03
 #EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://logo.catvod.com/BS TBS.png" group-title="日本",BS TBS
-mitv://135.148.104.228:19806/de44cf9f9b574155a8b9f82ceafe870a
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
-https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+https://ri.shinori.my.id/pxx.php?shk_cid=bs04
 #EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://logo.catvod.com/BS TV Tokyo.png" group-title="日本",BS TV Tokyo
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs05
-https://haru.charandom.blog/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+https://ri.shinori.my.id/pxx.php?shk_cid=bs05
 http://211.23.95.147:18881/live/dtv40_h265.ts
 #EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://logo.catvod.com/BS Fuji.png" group-title="日本",BS Fuji
-http://xsmt.ccwu.cc/xsmt/smt.php?id=1418
-https://haru.charandom.blog/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+https://ri.shinori.my.id/pxx.php?shk_cid=bs06
 #EXTINF:-1 tvg-name="BS10" tvg-logo="https://logo.catvod.com/BS10.png" group-title="日本",BS10
 https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS11" tvg-logo="https://logo.catvod.com/BS11.png" group-title="日本",BS11
@@ -723,45 +717,31 @@ https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS12" tvg-logo="https://logo.catvod.com/BS12.png" group-title="日本",BS12
 https://haru.charandom.blog/stream/jp/bs12/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="NHK BS4K" tvg-logo="https://logo.catvod.com/NHK BS4K.png" group-title="日本",NHK BS4K
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
-https://haru.charandom.blog/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+https://ri.shinori.my.id/pxx.php?shk_cid=bs01
 #EXTINF:-1 tvg-name="WOWOW Prime" tvg-logo="https://logo.catvod.com/WOWOW Prime.png" group-title="日本",WOWOW Prime
-mitv://135.148.104.228:19806/c71469bf105940ada0c26361ba41dc10
-mitv://135.148.104.228:19806/50e8fddfbf1a46b6b1b6f210fe445daf
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs12
-https://haru.charandom.blog/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+https://ri.shinori.my.id/pxx.php?shk_cid=bs12
 #EXTINF:-1 tvg-name="WOWOW Cinema" tvg-logo="https://logo.catvod.com/WOWOW Cinema.png" group-title="日本",WOWOW Cinema
-mitv://135.148.104.228:19806/af48c403b22f4e59968f1649ef6b5592
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs07
+https://ri.shinori.my.id/pxx.php?shk_cid=bs07
 https://haru.charandom.blog/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="WOWOW Live" tvg-logo="https://logo.catvod.com/WOWOW Live.png" group-title="日本",WOWOW Live
-mitv://135.148.104.228:19806/81b783acec1544f1b33cd37eb4691aaa
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
+https://ri.shinori.my.id/pxx.php?shk_cid=bs20
 https://haru.charandom.blog/stream/jp/wowow_live/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="BS 10 Star Channel" tvg-logo="https://logo.catvod.com/BS 10 Star Channel.png" group-title="日本",BS 10 Star Channel
-https://haru.charandom.blog/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+https://ri.shinori.my.id/pxx.php?shk_cid=bs08
 #EXTINF:-1 tvg-name="JSport 1" tvg-logo="https://logo.catvod.com/JSport 1.png" group-title="日本",JSport 1
-mitv://135.148.104.228:19806/6a39c4b847e64281bf50b577bb5c9147
-mitv://135.148.104.228:19806/ed17b4714d2a4faabe40bcc9be3c4c8f
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs18
+https://ri.shinori.my.id/pxx.php?shk_cid=bs18
 https://haru.charandom.blog/stream/jp/jsport_1/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 2" tvg-logo="https://logo.catvod.com/JSport 2.png" group-title="日本",JSport 2
-mitv://135.148.104.228:19806/74bdaf19334a48b1b0f420c9864a9626
-mitv://135.148.104.228:19806/c8eb4fec852e48b089de0f3edc8749ff
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs19
+https://ri.shinori.my.id/pxx.php?shk_cid=bs19
 https://haru.charandom.blog/stream/jp/jsport_2/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 3" tvg-logo="https://logo.catvod.com/JSport 3.png" group-title="日本",JSport 3
-mitv://135.148.104.228:19806/3d0358bb1a40430191c22f49709427bf
-mitv://135.148.104.228:19806/b0ab84d1e0fc48189250632c2d148f92
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs21
+https://ri.shinori.my.id/pxx.php?shk_cid=bs21
 https://haru.charandom.blog/stream/jp/jsport_3/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="JSport 4" tvg-logo="https://logo.catvod.com/JSport 4.png" group-title="日本",JSport 4
-mitv://135.148.104.228:19806/110be3a8b24048a3a73eca152e4eebcd
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
+https://ri.shinori.my.id/pxx.php?shk_cid=bs22
 https://haru.charandom.blog/stream/jp/jsport_4/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://logo.catvod.com/Green Channel.png" group-title="日本",Green Channel
-mitv://135.148.104.228:19806/4794ee3b1a73404c96a0c28a7f7076b0
-https://haru.charandom.blog/stream/jp/green_channel/stream-output.m3u8?mode=hls
+https://ri.shinori.my.id/pxx.php?shk_cid=bs14
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="日本",Animax
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
 #EXTINF:-1 tvg-name="Nihon Eiga Senmon" tvg-logo="https://logo.catvod.com/Nihon Eiga Senmon.png" group-title="日本",Nihon Eiga Senmon
