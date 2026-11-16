@@ -193,14 +193,10 @@ http://211.23.95.147:18881/live/dtv5_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=530
 http://74.91.26.218:82/live/pts.m3u8
 #EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
-http://211.23.95.147:18881/live/dtv23_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=550
-tvbus://48sMqednccJStNRU5w6rRAJorozm2w3XuHYV9NQ6MXn9cSD1QK
-http://106.107.242.250:5050/4gtv-live007/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
+http://211.23.95.147:18881/live/dtv23_h265.ts
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
 http://xsmt.ccwu.cc/xsmt/smt.php?id=508
-tvbus://4WJWXLZ1dSdzJ2s6kWf5swcu6KPPTPERSem6Q31LsWDRT1P5KM
-http://106.107.242.250:5050/4gtv-live106/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
 http://211.23.95.147:18881/live/27_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=752
