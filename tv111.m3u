@@ -12,7 +12,7 @@ http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003
 http://xsmt.ccwu.cc/xsmt/smt.php?id=738
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 http://211.23.95.147:18881/live/55_h265.ts
-http://iptv.4666888.xyz/iptv2A.php?id=43
+http://iptv.4666888.xyz/iptv2A.php?id=42
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞" group-title="台湾",非凡新聞
 http://211.23.95.147:18881/live/58_h265.ts
 http://125.227.210.55:1086/VideoInput/play.ts
@@ -46,7 +46,6 @@ http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="鏡電視新聞台" group-title="台湾",鏡電視新聞台
 http://211.23.95.147:18881/live/86_h265.ts
 http://caonima.898757.xyz/l/ag3lMl9bkdz0M5KjCMEabcyNsB13MCWKt4Foere9LZHuYHJsYV2Xi_WY1k671SBs/index.m3u8
-http://106.107.242.250:5050/4gtv-4gtv075/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
 http://211.23.95.147:18881/live/50_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=825
@@ -60,8 +59,6 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=2944
 http://211.23.95.147:18881/live/104_h265.ts
 http://caonima.898757.xyz/l/Eu5WGFTvnBk22U3LJvrtmp_i3AYnhMNM0azjijp_GhuefOhoSydVjyEs9ZlzjPAn/index.m3u8
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1242.m3u8
-mitv://135.148.104.228:19806/c5f9486b55ee46ab82ba503f7f2976f9
-mitv://135.148.104.228:19806/7867b48f092a41f295ac510c38d5213d
 #EXTINF:-1 tvg-id="san-li_taiwan" tvg-name="三立新聞台" group-title="台湾",三立新聞台
 http://125.227.210.55:3022/VideoInput/play.ts
 http://211.23.95.147:18881/live/54_h265.ts
@@ -193,14 +190,10 @@ http://211.23.95.147:18881/live/dtv5_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=530
 http://74.91.26.218:82/live/pts.m3u8
 #EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
-http://211.23.95.147:18881/live/dtv23_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=550
-http://caonima.898757.xyz/l/5a-A8KRrPA0cV5ibObhiP5C_L8Ergm4XF5D-I1KfS-miABWhT2c3GM5jlSk_hMKm/index.m3u8
-http://106.107.242.250:5050/4gtv-live007/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
+http://211.23.95.147:18881/live/dtv23_h265.ts
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
 http://xsmt.ccwu.cc/xsmt/smt.php?id=508
-http://caonima.898757.xyz/l/xNg-nI1rjN-5pOuI5dqrIT2X-awWvAdc_y_kDCPw8--2zTyTjTykuFPk9dnHTNcf/index.m3u8
-http://106.107.242.250:5050/4gtv-live106/index.m3u8?token=WvSW48IkY5WNaBmB0SdC653THFMZi2rHGKG1Vz7YTkvvQ9oPk9MRMkz6H53VcXe3
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 " group-title="台湾",八大第一
 http://211.23.95.147:18881/live/27_h265.ts
 http://xsmt.ccwu.cc/xsmt/smt.php?id=752
